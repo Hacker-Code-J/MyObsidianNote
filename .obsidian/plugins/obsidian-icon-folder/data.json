@@ -30,7 +30,7 @@
   "Implementation for AES": "FasCode",
   "Implementation for AES/I. Understanding": "FasBook",
   "Implementation for AES/II. Design and Architecture": "LiSquareDashedBottomCode",
-  "My C Note": "FasNoteSticky",
   "Mind Map": "FasMap",
-  "Implementation for AES/III. Implementing AES in C": "FasC"
+  "Implementation for AES/III. Implementing AES in C": "FasC",
+  "My C Language Note": "FasNoteSticky"
 }
