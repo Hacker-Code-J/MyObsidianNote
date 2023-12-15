@@ -1,5 +1,8 @@
 [
   "obsidian-git",
   "obsidian-tasks-plugin",
-  "calendar"
+  "calendar",
+  "better-word-count",
+  "file-explorer-note-count",
+  "discordian-plugin"
 ]

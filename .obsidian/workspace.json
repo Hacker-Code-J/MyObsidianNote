@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,11 +157,13 @@
   },
   "active": "375f6072e991655d",
   "lastOpenFiles": [
-    "2023-W50.md",
-    "Daily Tasks/2023-12-15.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
     "README.md",
+    "Daily Tasks/2023-12-15.md",
     "Test.md",
+    "2023-W50.md",
     "Untitled.md",
     "Daily Tasks"
   ]
