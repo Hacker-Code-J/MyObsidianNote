@@ -11,15 +11,25 @@
             "id": "375f6072e991655d",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "851d5a8a76e03bc6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Daily Tasks/2023-12-15.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,16 +162,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "375f6072e991655d",
+  "active": "851d5a8a76e03bc6",
   "lastOpenFiles": [
+    "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
+    "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
+    "Excalidraw",
+    "Daily Tasks/2023-12-15.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
     "README.md",
-    "Daily Tasks/2023-12-15.md",
     "Test.md",
     "2023-W50.md",
     "Untitled.md",
