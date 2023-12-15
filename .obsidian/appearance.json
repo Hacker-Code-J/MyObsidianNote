@@ -1,7 +1,5 @@
 {
   "accentColor": "",
-  "cssTheme": "Atom",
-  "enabledCssSnippets": [
-    "myTheme1"
-  ]
+  "cssTheme": "",
+  "enabledCssSnippets": []
 }

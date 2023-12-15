@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85c3df3aa91e0a50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Implementation for AES/III. Implementing AES in C/sample.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "160f8dcd1991a639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Implementation for AES/III. Implementing AES in C/sample.md",
+                "file": "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implementation for AES/III. Implementing AES in C/sample.md",
+                "file": "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implementation for AES/III. Implementing AES in C/sample.md",
+                "file": "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Implementation for AES/III. Implementing AES in C/sample.md"
+                "file": "Implementation for AES/III. Implementing AES in C/Key Expansion.md"
               }
             }
           },
@@ -201,22 +174,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "160f8dcd1991a639",
+  "active": "7e2504d7b02c0e27",
   "lastOpenFiles": [
-    "My CSS snippet",
+    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
+    "Implementation for AES/III. Implementing AES in C/sample.md",
     "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
-    "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
-    "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md",
-    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
     "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
+    "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
+    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
+    "Github SSH Setup.md",
+    "My CSS snippet",
+    "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md",
     "CSS snippet/myTheme1.css",
     "CSS snippet/Untitled Document",
     "CSS snippet",
     "Untitled Folder",
-    "Implementation for AES/III. Implementing AES in C/sample.md",
-    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Implementation for AES/III. Implementing AES in C",
-    "Github SSH Setup.md",
     "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
     "Daily Tasks/2023-12-15.md",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
@@ -227,7 +200,6 @@
     "Implementation for AES",
     "Mind Map",
     "Test.md",
-    "Excalidraw",
     "Untitled 1.canvas",
     "README.md",
     "2023-W50.md"
