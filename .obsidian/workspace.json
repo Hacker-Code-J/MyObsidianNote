@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85c3df3aa91e0a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Implementation for AES/III. Implementing AES in C/sample.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
+                "file": "Implementation for AES/III. Implementing AES in C/sample.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
+                "file": "Implementation for AES/III. Implementing AES in C/sample.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
+                "file": "Implementation for AES/III. Implementing AES in C/sample.md"
               }
             }
           },
@@ -174,13 +188,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e2504d7b02c0e27",
+  "active": "d22981e05f73d4fd",
   "lastOpenFiles": [
+    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
+    "Implementation for AES/III. Implementing AES in C/sample.md",
     "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
     "Implementation for AES/III. Implementing AES in C",
     "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
     "Github SSH Setup.md",
-    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
     "Daily Tasks/2023-12-15.md",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
