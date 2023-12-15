@@ -6,6 +6,8 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCalendarCheck",
+      "BoBxCalendarCheck",
       "FasCalendarDays"
     ],
     "recentlyUsedIconsSize": 5,
@@ -22,5 +24,5 @@
     "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true
   },
-  "Daily Tasks": "FasCalendarDays"
+  "Daily Tasks": "FasCalendarCheck"
 }
