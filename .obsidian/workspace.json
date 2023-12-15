@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b8da0e73cb80ad2",
+            "id": "375f6072e991655d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "375f6072e991655d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
-                "collapseAll": false,
+                "file": "Daily Tasks/2023-12-15.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
+                "file": "Daily Tasks/2023-12-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md"
+                "file": "Daily Tasks/2023-12-15.md"
               }
             }
+          },
+          {
+            "id": "a7ecb0f6e17fcef3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,11 +156,12 @@
   },
   "active": "375f6072e991655d",
   "lastOpenFiles": [
+    "2023-W50.md",
     "Daily Tasks/2023-12-15.md",
-    "Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
-    "Untitled.md",
+    "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
+    "README.md",
     "Test.md",
-    "Daily Tasks",
-    "README.md"
+    "Untitled.md",
+    "Daily Tasks"
   ]
 }
