@@ -1,0 +1,39 @@
+{
+  "recentFiles": [
+    {
+      "basename": "II.1. Structuring AES in C",
+      "path": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
+    },
+    {
+      "basename": "2023-12-15",
+      "path": "Daily Tasks/2023-12-15.md"
+    },
+    {
+      "basename": "Key Expansion",
+      "path": "Implementation for AES/III. Implementing AES in C/Key Expansion.md"
+    },
+    {
+      "basename": "sample",
+      "path": "Implementation for AES/III. Implementing AES in C/sample.md"
+    },
+    {
+      "basename": "I.3. AES Encryption Process",
+      "path": "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md"
+    },
+    {
+      "basename": "I.2. AES Requirements",
+      "path": "Implementation for AES/I. Understanding/I.2. AES Requirements.md"
+    },
+    {
+      "basename": "static vs const vs static const",
+      "path": "My C Note/static vs const vs static const.md"
+    },
+    {
+      "basename": "C - CraftCodeLab",
+      "path": "Mind Map/C - CraftCodeLab.canvas"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

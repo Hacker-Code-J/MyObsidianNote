@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasC",
+      "FasMap",
+      "FasNoteSticky",
       "LiSquareDashedBottomCode",
-      "FasBook",
-      "FasCode",
-      "FasCalendarCheck",
-      "BoBxCalendarCheck"
+      "FasBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -29,5 +29,8 @@
   "Daily Tasks": "FasCalendarCheck",
   "Implementation for AES": "FasCode",
   "Implementation for AES/I. Understanding": "FasBook",
-  "Implementation for AES/II. Design and Architecture": "LiSquareDashedBottomCode"
+  "Implementation for AES/II. Design and Architecture": "LiSquareDashedBottomCode",
+  "My C Note": "FasNoteSticky",
+  "Mind Map": "FasMap",
+  "Implementation for AES/III. Implementing AES in C": "FasC"
 }

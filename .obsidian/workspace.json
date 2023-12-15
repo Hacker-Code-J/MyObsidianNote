@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e2504d7b02c0e27",
+            "id": "c512406995728ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github SSH Setup.md",
+                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,6 +73,22 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "bfa1bbaf7de2c1cb",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "447001377e061d87",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github SSH Setup.md",
+                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github SSH Setup.md",
+                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github SSH Setup.md"
+                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
               }
             }
           },
@@ -171,15 +187,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "7e2504d7b02c0e27",
+  "active": "c512406995728ab7",
   "lastOpenFiles": [
+    "Daily Tasks/2023-12-15.md",
     "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
-    "Mind Map/C - CraftCodeLab.canvas",
-    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Implementation for AES/III. Implementing AES in C/sample.md",
+    "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md",
+    "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
+    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
+    "My C Note/static vs const vs static const.md",
+    "Mind Map/C - CraftCodeLab.canvas",
+    "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
+    "Spaces/Home",
+    "Spaces",
+    "My C Note",
+    "Github SSH Setup.md",
     "fonts/ComicMono.ttf",
     "fonts/ComicMono-Bold.ttf",
     "fonts",
@@ -187,17 +215,9 @@
     "font/Unconfirmed 94546.crdownload",
     "font/ComicMono.ttf",
     "font/Unconfirmed 895999.crdownload",
-    "font",
-    "Github SSH Setup.md",
     "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
-    "Daily Tasks/2023-12-15.md",
-    "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md",
     "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
-    "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
-    "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
-    "My CSS snippet",
-    "CSS snippet/myTheme1.css",
     "Untitled.canvas",
     "Test.md",
     "Untitled 1.canvas",
