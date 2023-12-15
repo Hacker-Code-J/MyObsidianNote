@@ -193,8 +193,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c512406995728ab7",
+  "active": "d22981e05f73d4fd",
   "lastOpenFiles": [
+    "Implementation for AES/IV. Optimization for AES in C",
     "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md",
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCpu",
       "FasC",
       "FasMap",
       "FasNoteSticky",
-      "LiSquareDashedBottomCode",
-      "FasBook"
+      "LiSquareDashedBottomCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,5 +32,6 @@
   "Implementation for AES/II. Design and Architecture": "LiSquareDashedBottomCode",
   "Mind Map": "FasMap",
   "Implementation for AES/III. Implementing AES in C": "FasC",
-  "My C Language Note": "FasNoteSticky"
+  "My C Language Note": "FasNoteSticky",
+  "Implementation for AES/IV. Optimization for AES in C": "LiCpu"
 }
