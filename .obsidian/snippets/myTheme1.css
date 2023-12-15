@@ -1,0 +1,56 @@
+/* Typography and Layout */
+body {
+    font-family: 'URW Gothic Book', sans-serif;
+    line-height: 1.6;
+}
+h1, h2, h3 {
+    font-family: 'URW Gothic Book', sans-serif;
+    margin-bottom: 0.5em;
+}
+
+/* Color Scheme and Background */
+.theme-light {
+    --background-primary: #f0f0f0;
+    --text-normal: #333333;
+    background-image: url('path-to-your-background-image.jpg');
+}
+
+/* Link Styles */
+a {
+    color: #1a0dab;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* Customized Scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Responsive Design Elements */
+@media screen and (max-width: 600px) {
+    .sidebar {
+        display: none;
+    }
+}
+
+/* Custom Table Styles */
+table {
+    border-collapse: collapse;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+th {
+    background-color: #4a86e8;
+    color: white;
+}
+
+/* Print Styles */
+@media print {
+    body {
+        color: black;
+    }
+}

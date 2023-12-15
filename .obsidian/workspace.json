@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "160f8dcd1991a639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Implementation for AES/III. Implementing AES in C/sample.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,19 +201,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d22981e05f73d4fd",
+  "active": "160f8dcd1991a639",
   "lastOpenFiles": [
-    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
-    "Implementation for AES/III. Implementing AES in C/sample.md",
-    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
-    "Implementation for AES/III. Implementing AES in C",
+    "My CSS snippet",
+    "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
     "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
+    "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md",
+    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
+    "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
+    "CSS snippet/myTheme1.css",
+    "CSS snippet/Untitled Document",
+    "CSS snippet",
+    "Untitled Folder",
+    "Implementation for AES/III. Implementing AES in C/sample.md",
+    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
+    "Implementation for AES/III. Implementing AES in C",
     "Github SSH Setup.md",
     "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
     "Daily Tasks/2023-12-15.md",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
-    "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
-    "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md",
     "Implementation for AES/II. Design and Architecture",
     "Mind Map/C - CraftCodeLab.canvas",
     "Untitled.canvas",
@@ -211,7 +230,6 @@
     "Excalidraw",
     "Untitled 1.canvas",
     "README.md",
-    "2023-W50.md",
-    "Daily Tasks"
+    "2023-W50.md"
   ]
 }
