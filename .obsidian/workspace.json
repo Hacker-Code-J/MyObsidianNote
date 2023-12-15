@@ -11,17 +11,30 @@
             "id": "375f6072e991655d",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44732389f2ba38d1",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           },
           {
-            "id": "851d5a8a76e03bc6",
+            "id": "c361a910de1ebed9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Tasks/2023-12-15.md",
+                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -50,6 +63,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "c8a72cf71f426fe9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           },
           {
@@ -75,11 +96,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -95,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Tasks/2023-12-15.md",
+                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Tasks/2023-12-15.md",
+                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Tasks/2023-12-15.md"
+                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
               }
             }
           },
@@ -175,19 +197,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "851d5a8a76e03bc6",
+  "active": "ba7972693178c86d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
-    "Mind Map/C - CraftCodeLab.canvas",
-    "Daily Tasks/2023-12-15.md",
     "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
+    "Daily Tasks/2023-12-15.md",
+    "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
+    "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
+    "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md",
+    "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
+    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
+    "Implementation for AES/II. Design and Architecture",
+    "Mind Map/C - CraftCodeLab.canvas",
+    "Untitled.canvas",
+    "Implementation for AES/I. Understanding",
+    "Implementation for AES",
     "Mind Map",
     "Test.md",
     "Excalidraw",
     "Untitled 1.canvas",
     "README.md",
     "2023-W50.md",
-    "Untitled.md",
     "Daily Tasks"
   ]
 }

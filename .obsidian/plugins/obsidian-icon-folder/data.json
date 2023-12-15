@@ -6,9 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSquareDashedBottomCode",
+      "FasBook",
+      "FasCode",
       "FasCalendarCheck",
-      "BoBxCalendarCheck",
-      "FasCalendarDays"
+      "BoBxCalendarCheck"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -24,5 +26,8 @@
     "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true
   },
-  "Daily Tasks": "FasCalendarCheck"
+  "Daily Tasks": "FasCalendarCheck",
+  "Implementation for AES": "FasCode",
+  "Implementation for AES/I. Understanding": "FasBook",
+  "Implementation for AES/II. Design and Architecture": "LiSquareDashedBottomCode"
 }
