@@ -1,0 +1,2 @@
+# MyObsidianMemo
+The Second Brain
