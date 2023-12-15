@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Tasks/2023-12-15.md",
+                "file": "Github SSH Setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Tasks/2023-12-15.md",
+                "file": "Github SSH Setup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Tasks/2023-12-15.md",
+                "file": "Github SSH Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Tasks/2023-12-15.md"
+                "file": "Github SSH Setup.md"
               }
             }
           },
@@ -176,29 +176,29 @@
   },
   "active": "7e2504d7b02c0e27",
   "lastOpenFiles": [
-    "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
-    "Daily Tasks/2023-12-15.md",
     "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
     "Mind Map/C - CraftCodeLab.canvas",
-    "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
-    "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
-    "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md",
-    "Github SSH Setup.md",
-    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Implementation for AES/III. Implementing AES in C/sample.md",
+    "fonts/ComicMono.ttf",
+    "fonts/ComicMono-Bold.ttf",
+    "fonts",
+    "font/ComicMono-Bold.ttf",
+    "font/Unconfirmed 94546.crdownload",
+    "font/ComicMono.ttf",
+    "font/Unconfirmed 895999.crdownload",
+    "font",
+    "Github SSH Setup.md",
+    "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
+    "Daily Tasks/2023-12-15.md",
+    "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md",
+    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
     "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
+    "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
+    "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
     "My CSS snippet",
     "CSS snippet/myTheme1.css",
-    "CSS snippet/Untitled Document",
-    "CSS snippet",
-    "Untitled Folder",
-    "Implementation for AES/III. Implementing AES in C",
-    "Implementation for AES/II. Design and Architecture",
     "Untitled.canvas",
-    "Implementation for AES/I. Understanding",
-    "Implementation for AES",
-    "Mind Map",
     "Test.md",
     "Untitled 1.canvas",
     "README.md",
