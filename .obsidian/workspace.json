@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
+                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
+                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
+                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md"
+                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   "active": "7e2504d7b02c0e27",
   "lastOpenFiles": [
     "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
+    "Implementation for AES/III. Implementing AES in C",
     "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
     "Github SSH Setup.md",
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
