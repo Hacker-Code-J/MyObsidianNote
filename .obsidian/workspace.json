@@ -4,45 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3da5f079f06fce15",
+        "id": "b01da4b33a721ef5",
         "type": "tabs",
         "children": [
           {
-            "id": "375f6072e991655d",
+            "id": "7e2504d7b02c0e27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44732389f2ba38d1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c361a910de1ebed9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
+                "file": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
+                "file": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
+                "file": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
+                "file": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md"
               }
             }
           },
@@ -197,15 +174,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba7972693178c86d",
+  "active": "7e2504d7b02c0e27",
   "lastOpenFiles": [
+    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
+    "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
+    "Github SSH Setup.md",
+    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
     "Daily Tasks/2023-12-15.md",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
     "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
     "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md",
-    "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
-    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Implementation for AES/II. Design and Architecture",
     "Mind Map/C - CraftCodeLab.canvas",
     "Untitled.canvas",
