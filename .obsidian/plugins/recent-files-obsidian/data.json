@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-12-16",
+      "path": "Daily Tasks/2023-12-16.md"
+    },
+    {
+      "basename": "C - CraftCodeLab",
+      "path": "Mind Map/C - CraftCodeLab.canvas"
+    },
+    {
+      "basename": "Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50",
+      "path": "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md"
+    },
+    {
+      "basename": "I.1. AES Fundamentals",
+      "path": "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md"
+    },
+    {
+      "basename": "Key Expansion",
+      "path": "Implementation for AES/III. Implementing AES in C/Key Expansion.md"
+    },
+    {
+      "basename": "sample",
+      "path": "Implementation for AES/III. Implementing AES in C/sample.md"
+    },
+    {
+      "basename": "2023-12-15",
+      "path": "Daily Tasks/2023-12-15.md"
+    },
+    {
+      "basename": "II.2. Side-Channel Attacks",
+      "path": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md"
+    },
+    {
+      "basename": "Github SSH Setup",
+      "path": "Github SSH Setup.md"
+    },
+    {
       "basename": "I.2. AES Requirements",
       "path": "Implementation for AES/I. Understanding/I.2. AES Requirements.md"
     },
@@ -13,28 +49,8 @@
       "path": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
     },
     {
-      "basename": "II.2. Side-Channel Attacks",
-      "path": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md"
-    },
-    {
-      "basename": "Key Expansion",
-      "path": "Implementation for AES/III. Implementing AES in C/Key Expansion.md"
-    },
-    {
-      "basename": "sample",
-      "path": "Implementation for AES/III. Implementing AES in C/sample.md"
-    },
-    {
-      "basename": "C - CraftCodeLab",
-      "path": "Mind Map/C - CraftCodeLab.canvas"
-    },
-    {
       "basename": "static vs const vs static const",
       "path": "My C Language Note/static vs const vs static const.md"
-    },
-    {
-      "basename": "2023-12-15",
-      "path": "Daily Tasks/2023-12-15.md"
     }
   ],
   "omittedPaths": [],

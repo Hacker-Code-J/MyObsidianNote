@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
+                "file": "Daily Tasks/2023-12-16.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
+                "file": "Daily Tasks/2023-12-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
+                "file": "Daily Tasks/2023-12-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Implementation for AES/I. Understanding/I.2. AES Requirements.md"
+                "file": "Daily Tasks/2023-12-16.md"
               }
             }
           },
@@ -194,32 +193,33 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d22981e05f73d4fd",
+  "active": "c512406995728ab7",
   "lastOpenFiles": [
+    "Mind Map/C - CraftCodeLab.canvas",
+    "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
+    "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
+    "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
+    "Implementation for AES/III. Implementing AES in C/sample.md",
+    "Daily Tasks/2023-12-16.md",
+    "Daily Tasks/2023-12-15.md",
+    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
+    "Github SSH Setup.md",
+    "Spaces/Home/Untitled.md",
+    "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
     "Implementation for AES/IV. Optimization for AES in C",
     "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md",
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
-    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
-    "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
-    "Implementation for AES/III. Implementing AES in C/sample.md",
-    "Mind Map/C - CraftCodeLab.canvas",
     "My C Language Note/static vs const vs static const.md",
     "My C Language Note/Structuring C Language Header Files.md",
-    "Daily Tasks/2023-12-15.md",
-    "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
-    "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
     "Spaces/Home",
     "Spaces",
     "My C Language Note",
-    "Github SSH Setup.md",
     "fonts/ComicMono.ttf",
     "fonts/ComicMono-Bold.ttf",
     "fonts",
     "font/ComicMono-Bold.ttf",
     "font/Unconfirmed 94546.crdownload",
     "font/ComicMono.ttf",
-    "font/Unconfirmed 895999.crdownload",
-    "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
     "Untitled.canvas",
     "Test.md",
