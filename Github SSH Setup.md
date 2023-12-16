@@ -1,3 +1,4 @@
+
 ### [Switching remote URLs from SSH to HTTPS](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-ssh-to-https)
 
 1. Open Terminal.

@@ -1,3 +1,4 @@
+
 ### 1. Initialize Matrix
 
 This function sets up the initial state matrix from the plaintext. In AES, the plaintext is converted into a 4x4 matrix of bytes.
