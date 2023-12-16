@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implementation for AES/III. Implementing AES in C/MixColums.md",
+                "file": "Daily Tasks/2023-12-15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implementation for AES/III. Implementing AES in C/MixColums.md",
+                "file": "Daily Tasks/2023-12-15.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implementation for AES/III. Implementing AES in C/MixColums.md",
+                "file": "Daily Tasks/2023-12-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Implementation for AES/III. Implementing AES in C/MixColums.md"
+                "file": "Daily Tasks/2023-12-15.md"
               }
             }
           },
@@ -195,10 +195,10 @@
   },
   "active": "c512406995728ab7",
   "lastOpenFiles": [
+    "Implementation for AES/III. Implementing AES in C/MixColums.md",
     "Implementation for AES/III. Implementing AES in C/sample.md",
     "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
-    "Implementation for AES/III. Implementing AES in C/MixColums.md",
     "Daily Tasks/2023-12-15.md",
     "README.md",
     "Daily Tasks/2023-12-16.md",

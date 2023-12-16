@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-12-15",
+      "path": "Daily Tasks/2023-12-15.md"
+    },
+    {
       "basename": "MixColums",
       "path": "Implementation for AES/III. Implementing AES in C/MixColums.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "II.1. Structuring AES in C",
       "path": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
-    },
-    {
-      "basename": "2023-12-15",
-      "path": "Daily Tasks/2023-12-15.md"
     },
     {
       "basename": "README",
