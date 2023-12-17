@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Tasks/2023-12-15.md",
+                "file": "Daily Tasks/2023-12-17.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Tasks/2023-12-15.md",
+                "file": "Daily Tasks/2023-12-17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Tasks/2023-12-15.md",
+                "file": "Daily Tasks/2023-12-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Tasks/2023-12-15.md"
+                "file": "Daily Tasks/2023-12-17.md"
               }
             }
           },
@@ -194,15 +193,16 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c512406995728ab7",
+  "active": "d22981e05f73d4fd",
   "lastOpenFiles": [
+    "Daily Tasks/2023-12-15.md",
+    "Daily Tasks/2023-12-17.md",
     "Spaces/Home",
     "Spaces",
     "Implementation for AES/III. Implementing AES in C/MixColums.md",
     "Implementation for AES/III. Implementing AES in C/sample.md",
     "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
-    "Daily Tasks/2023-12-15.md",
     "README.md",
     "Daily Tasks/2023-12-16.md",
     "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
