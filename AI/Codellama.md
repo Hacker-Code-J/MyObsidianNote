@@ -6,8 +6,27 @@ ollama run codellama:34b ' '
 
 ```
 ollama run codellama:34b '
-The following code implements the key expansion code of AES-128. Modify the code to apply this to AES-192/256 as well. Use #if and #define
-
+1. Start by creating a Manim scene with two rectangles representing the 
+plaintext and ciphertext blocks. The plaintext block should be labeled 
+"Plaintext" and the ciphertext block should be labeled "Ciphertext".
+2. Next, add a key rectangle to represent the encryption key. This can be 
+a simple black box with the word "Key" written on it.
+3. Use Manim animation features to show how the plaintext block is 
+transformed into the ciphertext block through a series of substitution and
+permutation operations. For example, you could use arrows to indicate 
+which letters are being replaced by others, or you could use a simple 
+animation to show the blocks being mixed up and reshuffled.
+4. To add an extra layer of complexity, you could also include a "round 
+key" rectangle that is used to mix up the plaintext block even further. 
+This can be represented as a separate black box with the word "Round Key" 
+written on it.
+5. Finally, use Manim text-to-speech features to explain the process in 
+more detail. You could have the animation pause at certain points and 
+provide explanations of what is happening at each step. For example, you 
+could say something like "In this step, we are substituting the letter "e"
+with the letter "a". This is done using a simple substitution cipher, 
+where each letter is replaced by a letter that is a fixed number of 
+positions down the alphabet.
 '
 ```
 ## Overview
