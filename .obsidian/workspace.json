@@ -11,18 +11,38 @@
             "id": "c512406995728ab7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e60ab42782a6334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "Mind Map/The 2nd Brain.canvas",
-                "viewState": {
-                  "x": 207.5,
-                  "y": 35,
-                  "zoom": 0
-                }
+                "file": "AI/ChatGPT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d421c7f9ac7a4d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Ollama.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -43,6 +63,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "bfa1bbaf7de2c1cb",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
             }
           },
           {
@@ -77,14 +105,6 @@
             }
           },
           {
-            "id": "bfa1bbaf7de2c1cb",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
             "id": "447001377e061d87",
             "type": "leaf",
             "state": {
@@ -112,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mind Map/The 2nd Brain.canvas",
+                "file": "AI/Ollama.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mind Map/The 2nd Brain.canvas",
+                "file": "AI/Ollama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mind Map/The 2nd Brain.canvas"
+                "file": "AI/Ollama.md"
               }
             }
           },
@@ -195,16 +215,28 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c512406995728ab7",
+  "active": "d421c7f9ac7a4d34",
   "lastOpenFiles": [
+    "AI/ChatGPT.md",
+    "AI/Ollama.md",
+    "AI",
+    "Editor/Bash_and_PowerShell.md",
+    "Test.md",
+    "README.md",
+    "Github SSH Setup.md",
+    "My C Language Note/static vs const vs static const.md",
+    "Mind Map/C - CraftCodeLab.canvas",
+    "Mind Map/The 2nd Brain.canvas",
+    "Editor/Dev Tip.md",
+    "Editor/Vim.md",
+    "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
+    "Editor",
     "GCC/Pedantic Compilation in Linux.md",
     "Daily Tasks/2023-12-18.md",
     "Daily Tasks/2023-12-15.md",
     "Daily Tasks/2023-12-16.md",
     "Daily Tasks/2023-12-17.md",
-    "Mind Map/The 2nd Brain.canvas",
     "GCC",
-    "My C Language Note/static vs const vs static const.md",
     "Implementation for AES/III. Implementing AES in C/MixColums.md",
     "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
     "Spaces/Home",
@@ -212,10 +244,6 @@
     "Implementation for AES/III. Implementing AES in C/sample.md",
     "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
-    "README.md",
-    "Github SSH Setup.md",
-    "Mind Map/C - CraftCodeLab.canvas",
-    "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
     "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
     "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
     "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
@@ -227,10 +255,6 @@
     "fonts/ComicMono.ttf",
     "fonts/ComicMono-Bold.ttf",
     "fonts",
-    "font/ComicMono-Bold.ttf",
-    "font/Unconfirmed 94546.crdownload",
-    "Test.md",
-    "Untitled 1.canvas",
-    "2023-W50.md"
+    "Untitled 1.canvas"
   ]
 }

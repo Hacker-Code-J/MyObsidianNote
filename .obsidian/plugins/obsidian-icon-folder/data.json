@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiCompilerexplorer",
-      "LiCpu",
-      "FasC",
-      "FasMap",
-      "FasNoteSticky"
+      "SiProtondb",
+      "SiC",
+      "FasMapLocation",
+      "FasCalendarDay",
+      "BoBxCodeBlock"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,13 +26,16 @@
     "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true
   },
-  "Daily Tasks": "FasCalendarCheck",
-  "Implementation for AES": "FasCode",
+  "Daily Tasks": "FasCalendarDay",
+  "Implementation for AES": "BoBxCodeBlock",
   "Implementation for AES/I. Understanding": "FasBook",
   "Implementation for AES/II. Design and Architecture": "LiSquareDashedBottomCode",
-  "Mind Map": "FasMap",
+  "Mind Map": "FasMapLocation",
   "Implementation for AES/III. Implementing AES in C": "FasC",
-  "My C Language Note": "FasNoteSticky",
   "Implementation for AES/IV. Optimization for AES in C": "LiCpu",
-  "GCC": "SiCompilerexplorer"
+  "GCC": "SiCompilerexplorer",
+  "Editor": "SiVim",
+  "Excalidraw": "SiDiagramsdotnet",
+  "My C Language Note": "SiC",
+  "AI": "SiProtondb"
 }
