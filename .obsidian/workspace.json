@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manim/AES Visualization.md",
+                "file": "AI/Codellama.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manim/AES Visualization.md",
+                "file": "AI/Codellama.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manim/AES Visualization.md",
+                "file": "AI/Codellama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manim/AES Visualization.md"
+                "file": "AI/Codellama.md"
               }
             }
           },
@@ -241,10 +241,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d22981e05f73d4fd",
+  "active": "4973288ab200a658",
   "lastOpenFiles": [
-    "AI/Codellama.md",
     "Manim/AES Visualization.md",
+    "AI/Codellama.md",
     "Manim",
     "AI/Ollama.md",
     "Git/Learning Git.md",
