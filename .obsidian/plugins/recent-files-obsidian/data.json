@@ -5,6 +5,22 @@
       "path": "Mind Map/The 2nd Brain.canvas"
     },
     {
+      "basename": "Pedantic Compilation in Linux",
+      "path": "GCC/Pedantic Compilation in Linux.md"
+    },
+    {
+      "basename": "2023-12-18",
+      "path": "Daily Tasks/2023-12-18.md"
+    },
+    {
+      "basename": "2023-12-15",
+      "path": "Daily Tasks/2023-12-15.md"
+    },
+    {
+      "basename": "2023-12-16",
+      "path": "Daily Tasks/2023-12-16.md"
+    },
+    {
       "basename": "2023-12-17",
       "path": "Daily Tasks/2023-12-17.md"
     },
@@ -21,10 +37,6 @@
       "path": "Implementation for AES/III. Implementing AES in C/Key Expansion.md"
     },
     {
-      "basename": "2023-12-15",
-      "path": "Daily Tasks/2023-12-15.md"
-    },
-    {
       "basename": "sample",
       "path": "Implementation for AES/III. Implementing AES in C/sample.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "2023-12-16",
-      "path": "Daily Tasks/2023-12-16.md"
     },
     {
       "basename": "Github SSH Setup",

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiCompilerexplorer",
       "LiCpu",
       "FasC",
       "FasMap",
-      "FasNoteSticky",
-      "LiSquareDashedBottomCode"
+      "FasNoteSticky"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,5 +33,6 @@
   "Mind Map": "FasMap",
   "Implementation for AES/III. Implementing AES in C": "FasC",
   "My C Language Note": "FasNoteSticky",
-  "Implementation for AES/IV. Optimization for AES in C": "LiCpu"
+  "Implementation for AES/IV. Optimization for AES in C": "LiCpu",
+  "GCC": "SiCompilerexplorer"
 }

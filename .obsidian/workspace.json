@@ -92,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,19 +197,22 @@
   },
   "active": "c512406995728ab7",
   "lastOpenFiles": [
+    "GCC/Pedantic Compilation in Linux.md",
+    "Daily Tasks/2023-12-18.md",
+    "Daily Tasks/2023-12-15.md",
+    "Daily Tasks/2023-12-16.md",
     "Daily Tasks/2023-12-17.md",
     "Mind Map/The 2nd Brain.canvas",
+    "GCC",
     "My C Language Note/static vs const vs static const.md",
     "Implementation for AES/III. Implementing AES in C/MixColums.md",
     "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
-    "Daily Tasks/2023-12-15.md",
     "Spaces/Home",
     "Spaces",
     "Implementation for AES/III. Implementing AES in C/sample.md",
     "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "README.md",
-    "Daily Tasks/2023-12-16.md",
     "Github SSH Setup.md",
     "Mind Map/C - CraftCodeLab.canvas",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
@@ -227,7 +229,6 @@
     "fonts",
     "font/ComicMono-Bold.ttf",
     "font/Unconfirmed 94546.crdownload",
-    "font/ComicMono.ttf",
     "Test.md",
     "Untitled 1.canvas",
     "2023-W50.md"
