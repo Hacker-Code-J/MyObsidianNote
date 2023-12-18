@@ -42,6 +42,19 @@
             }
           },
           {
+            "id": "4973288ab200a658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manim/AES Visualization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bd2b41fe251b4daf",
             "type": "leaf",
             "state": {
@@ -55,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Codellama.md",
+                "file": "Manim/AES Visualization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Codellama.md",
+                "file": "Manim/AES Visualization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Codellama.md"
+                "file": "Manim/AES Visualization.md"
               }
             }
           },
@@ -228,11 +241,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d421c7f9ac7a4d34",
+  "active": "d22981e05f73d4fd",
   "lastOpenFiles": [
+    "AI/Codellama.md",
+    "Manim/AES Visualization.md",
+    "Manim",
     "AI/Ollama.md",
     "Git/Learning Git.md",
-    "AI/Codellama.md",
     "77.2K Pulls.md",
     "Git",
     "AI/ChatGPT.md",
@@ -263,11 +278,9 @@
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
     "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
-    "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
     "Implementation for AES/IV. Optimization for AES in C",
     "My C Language Note",
     "fonts/ComicMono.ttf",
-    "fonts/ComicMono-Bold.ttf",
     "Untitled 1.canvas"
   ]
 }
