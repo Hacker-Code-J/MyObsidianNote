@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Learning Git",
-      "path": "Learning Git.md"
+      "basename": "Codellama",
+      "path": "AI/Codellama.md"
     },
     {
       "basename": "Ollama",
       "path": "AI/Ollama.md"
+    },
+    {
+      "basename": "Learning Git",
+      "path": "Learning Git.md"
     },
     {
       "basename": "ChatGPT",
