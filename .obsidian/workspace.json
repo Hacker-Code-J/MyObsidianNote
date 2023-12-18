@@ -34,20 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Ollama.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a81a722414f0918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Ollama.md",
+                "file": "AI/Codellama.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Codellama.md",
+                "file": "Git/Learning Git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -68,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,12 +228,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "bd2b41fe251b4daf",
+  "active": "d421c7f9ac7a4d34",
   "lastOpenFiles": [
+    "AI/Ollama.md",
+    "Git/Learning Git.md",
     "AI/Codellama.md",
     "77.2K Pulls.md",
-    "AI/Ollama.md",
-    "Learning Git.md",
     "Git",
     "AI/ChatGPT.md",
     "AI",

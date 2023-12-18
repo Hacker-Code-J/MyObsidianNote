@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiGit",
       "SiProtondb",
       "SiC",
       "FasMapLocation",
-      "FasCalendarDay",
-      "BoBxCodeBlock"
+      "FasCalendarDay"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "Editor": "SiVim",
   "Excalidraw": "SiDiagramsdotnet",
   "My C Language Note": "SiC",
-  "AI": "SiProtondb"
+  "AI": "SiProtondb",
+  "Git": "SiGit"
 }

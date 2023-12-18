@@ -1,5 +1,8 @@
 A large language model that can use text prompts to generate and discuss code.
 
+```
+ollama run codellama:34b ' '
+```
 
 ## Overview
 
