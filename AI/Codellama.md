@@ -4,6 +4,12 @@ A large language model that can use text prompts to generate and discuss code.
 ollama run codellama:34b ' '
 ```
 
+```
+ollama run codellama:34b '
+The following code implements the key expansion code of AES-128. Modify the code to apply this to AES-192/256 as well. Use #if and #define
+
+'
+```
 ## Overview
 
 Code Llama is a model for generating and discussing code, built on top of [Llama 2](https://ollama.ai/library/llama2). It’s designed to make workflows faster and efficient for developers and make it easier for people to learn how to code. It can generate both code and natural language about code. Code Llama supports many of the most popular programming languages used today, including Python, C++, Java, PHP, Typescript (Javascript), C#, Bash and more.
