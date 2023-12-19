@@ -5,6 +5,14 @@
       "path": "Daily Tasks/2023-12-19.md"
     },
     {
+      "basename": "Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50",
+      "path": "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md"
+    },
+    {
+      "basename": "Vim",
+      "path": "Editor/Vim.md"
+    },
+    {
       "basename": "Questions",
       "path": "Implementation for AES/Questions.md"
     },
@@ -61,10 +69,6 @@
       "path": "Editor/Dev Tip.md"
     },
     {
-      "basename": "Vim",
-      "path": "Editor/Vim.md"
-    },
-    {
       "basename": "Drawing 2023-12-15 13.33.17.excalidraw",
       "path": "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "I.1. AES Fundamentals",
       "path": "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md"
-    },
-    {
-      "basename": "Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50",
-      "path": "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md"
     },
     {
       "basename": "I.2. AES Requirements",
