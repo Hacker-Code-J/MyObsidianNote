@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Tasks/2023-12-19.md",
+                "file": "MyThinkPad/Source Collector.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,6 +118,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "a7ecb0f6e17fcef3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -184,14 +192,6 @@
             }
           },
           {
-            "id": "a7ecb0f6e17fcef3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "ba7972693178c86d",
             "type": "leaf",
             "state": {
@@ -200,11 +200,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 290.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -222,39 +222,38 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "0deb236da39204cf",
+  "active": "d421c7f9ac7a4d34",
   "lastOpenFiles": [
+    "Daily Tasks/2023-12-15.md",
+    "MyThinkPad/Source Collector.md",
     "MyThinkPad/Obsidian Test.md",
     "MyThinkPad/Callout Styles.md",
-    "MyThinkPad/Source Collector.md",
+    "Daily Tasks/2023-12-19.md",
+    "MyThinkPad/Zero-Based Numbering.md",
+    "Daily Tasks/2023-12-16.md",
+    "My Rust Language Note/sources.md",
+    "My C Language Note/static vs const vs static const.md",
+    "Mind Map/The 2nd Brain.canvas",
+    "Mind Map/C - CraftCodeLab.canvas",
+    "Implementation for AES/III. Implementing AES in C/MixColums.md",
+    "Implementation for AES/III. Implementing AES in C/sample.md",
+    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
+    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
+    "Daily Tasks/2023-12-17.md",
     "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
     "AI/Ollama.md",
-    "Daily Tasks/2023-12-15.md",
-    "Daily Tasks/2023-12-19.md",
     "Daily Tasks/2023-12-18.md",
     "GCC/Pedantic Compilation in Linux.md",
-    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
-    "Implementation for AES/III. Implementing AES in C/MixColums.md",
     "Implementation for AES/Questions.md",
-    "Mind Map/C - CraftCodeLab.canvas",
-    "Daily Tasks/2023-12-17.md",
     "Editor/Dev Tip.md",
     "Editor/Vim.md",
     "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
-    "MyThinkPad/Zero-Based Numbering.md",
-    "My C Language Note/static vs const vs static const.md",
-    "Mind Map/The 2nd Brain.canvas",
-    "Daily Tasks/2023-12-16.md",
     "Editor/Bash_and_PowerShell.md",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
-    "Implementation for AES/III. Implementing AES in C/sample.md",
     "MyThinkPad",
-    "My Rust Language Note/sources.md",
     "My Rust Language Note",
     "AI/Codellama.md",
-    "Manim/AES Visualization.md",
     "Manim",
-    "Git/Learning Git.md",
     "Git",
     "AI",
     "Editor",

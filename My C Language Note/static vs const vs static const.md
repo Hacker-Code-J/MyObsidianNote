@@ -1,3 +1,4 @@
+
 ## **static**
 
 > Example 1. Inside a function 
