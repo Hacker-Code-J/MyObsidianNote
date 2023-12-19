@@ -39,7 +39,9 @@
     "//Implementation for AES",
     "//Implementation for AES",
     "//Excalidraw",
-    "//Excalidraw"
+    "//Excalidraw",
+    "//Editor",
+    "//Editor"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

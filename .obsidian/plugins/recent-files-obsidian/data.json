@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "sources",
+      "path": "My Rust Language Note/sources.md"
+    },
+    {
       "basename": "Source Collector",
       "path": "MyThinkPad/Source Collector.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "2023-12-16",
       "path": "Daily Tasks/2023-12-16.md"
-    },
-    {
-      "basename": "sources",
-      "path": "My Rust Language Note/sources.md"
     },
     {
       "basename": "static vs const vs static const",
