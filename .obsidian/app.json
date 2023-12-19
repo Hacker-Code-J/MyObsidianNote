@@ -1,3 +1,8 @@
 {
-  "attachmentFolderPath": "Mind Map"
+  "attachmentFolderPath": "Mind Map",
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "strictLineBreaks": false,
+  "showIndentGuide": true,
+  "rightToLeft": false
 }

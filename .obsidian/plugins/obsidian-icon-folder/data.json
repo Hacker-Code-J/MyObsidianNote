@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBrain",
+      "SiRust",
       "SiGit",
       "SiProtondb",
-      "SiC",
-      "FasMapLocation",
-      "FasCalendarDay"
+      "SiC"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,7 @@
   "Excalidraw": "SiDiagramsdotnet",
   "My C Language Note": "SiC",
   "AI": "SiProtondb",
-  "Git": "SiGit"
+  "Git": "SiGit",
+  "My Rust Language Note": "SiRust",
+  "MyThinkPad": "FasBrain"
 }

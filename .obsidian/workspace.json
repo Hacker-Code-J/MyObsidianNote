@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5defc0a13c66a6db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyThinkPad/Source Collector.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Tasks/2023-12-19.md",
+                "file": "MyThinkPad/Source Collector.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Tasks/2023-12-19.md",
+                "file": "MyThinkPad/Source Collector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Tasks/2023-12-19.md"
+                "file": "MyThinkPad/Source Collector.md"
               }
             }
           },
@@ -193,12 +207,31 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d421c7f9ac7a4d34",
+  "active": "5defc0a13c66a6db",
   "lastOpenFiles": [
-    "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
+    "MyThinkPad/Callout Styles.md",
+    "MyThinkPad/Source Collector.md",
+    "Daily Tasks/2023-12-15.md",
+    "Daily Tasks/2023-12-17.md",
+    "Editor/Dev Tip.md",
     "Editor/Vim.md",
-    "Daily Tasks/2023-12-19.md",
+    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
+    "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
+    "MyThinkPad/Zero-Based Numbering.md",
     "Implementation for AES/Questions.md",
+    "My C Language Note/static vs const vs static const.md",
+    "Mind Map/The 2nd Brain.canvas",
+    "Mind Map/C - CraftCodeLab.canvas",
+    "Daily Tasks/2023-12-16.md",
+    "Daily Tasks/2023-12-19.md",
+    "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
+    "Editor/Bash_and_PowerShell.md",
+    "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
+    "Implementation for AES/III. Implementing AES in C/MixColums.md",
+    "Implementation for AES/III. Implementing AES in C/sample.md",
+    "MyThinkPad",
+    "My Rust Language Note/sources.md",
+    "My Rust Language Note",
     "AI/Codellama.md",
     "Manim/AES Visualization.md",
     "Manim",
@@ -208,31 +241,12 @@
     "Git",
     "AI/ChatGPT.md",
     "AI",
-    "Editor/Bash_and_PowerShell.md",
     "Test.md",
-    "README.md",
-    "Github SSH Setup.md",
-    "My C Language Note/static vs const vs static const.md",
-    "Mind Map/C - CraftCodeLab.canvas",
-    "Mind Map/The 2nd Brain.canvas",
-    "Editor/Dev Tip.md",
-    "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
     "Editor",
-    "GCC/Pedantic Compilation in Linux.md",
-    "Daily Tasks/2023-12-18.md",
-    "Daily Tasks/2023-12-15.md",
-    "Daily Tasks/2023-12-16.md",
-    "Daily Tasks/2023-12-17.md",
     "GCC",
-    "Implementation for AES/III. Implementing AES in C/MixColums.md",
-    "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
     "Spaces/Home",
     "Spaces",
-    "Implementation for AES/III. Implementing AES in C/sample.md",
-    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
     "Implementation for AES/IV. Optimization for AES in C",
-    "My C Language Note",
-    "fonts/ComicMono.ttf",
     "Untitled 1.canvas"
   ]
 }
