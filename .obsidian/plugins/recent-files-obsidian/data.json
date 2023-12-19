@@ -5,12 +5,52 @@
       "path": "MyThinkPad/Source Collector.md"
     },
     {
+      "basename": "Obsidian Test",
+      "path": "MyThinkPad/Obsidian Test.md"
+    },
+    {
       "basename": "Callout Styles",
       "path": "MyThinkPad/Callout Styles.md"
     },
     {
+      "basename": "Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50",
+      "path": "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md"
+    },
+    {
+      "basename": "Ollama",
+      "path": "AI/Ollama.md"
+    },
+    {
       "basename": "2023-12-15",
       "path": "Daily Tasks/2023-12-15.md"
+    },
+    {
+      "basename": "2023-12-19",
+      "path": "Daily Tasks/2023-12-19.md"
+    },
+    {
+      "basename": "2023-12-18",
+      "path": "Daily Tasks/2023-12-18.md"
+    },
+    {
+      "basename": "Pedantic Compilation in Linux",
+      "path": "GCC/Pedantic Compilation in Linux.md"
+    },
+    {
+      "basename": "II.1. Structuring AES in C",
+      "path": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
+    },
+    {
+      "basename": "MixColums",
+      "path": "Implementation for AES/III. Implementing AES in C/MixColums.md"
+    },
+    {
+      "basename": "Questions",
+      "path": "Implementation for AES/Questions.md"
+    },
+    {
+      "basename": "C - CraftCodeLab",
+      "path": "Mind Map/C - CraftCodeLab.canvas"
     },
     {
       "basename": "2023-12-17",
@@ -25,20 +65,12 @@
       "path": "Editor/Vim.md"
     },
     {
-      "basename": "II.1. Structuring AES in C",
-      "path": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
-    },
-    {
       "basename": "Key Expansion",
       "path": "Implementation for AES/III. Implementing AES in C/Key Expansion.md"
     },
     {
       "basename": "Zero-Based Numbering",
       "path": "MyThinkPad/Zero-Based Numbering.md"
-    },
-    {
-      "basename": "Questions",
-      "path": "Implementation for AES/Questions.md"
     },
     {
       "basename": "static vs const vs static const",
@@ -49,20 +81,8 @@
       "path": "Mind Map/The 2nd Brain.canvas"
     },
     {
-      "basename": "C - CraftCodeLab",
-      "path": "Mind Map/C - CraftCodeLab.canvas"
-    },
-    {
       "basename": "2023-12-16",
       "path": "Daily Tasks/2023-12-16.md"
-    },
-    {
-      "basename": "2023-12-19",
-      "path": "Daily Tasks/2023-12-19.md"
-    },
-    {
-      "basename": "Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50",
-      "path": "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md"
     },
     {
       "basename": "Bash_and_PowerShell",
@@ -71,10 +91,6 @@
     {
       "basename": "Drawing 2023-12-15 13.33.17.excalidraw",
       "path": "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md"
-    },
-    {
-      "basename": "MixColums",
-      "path": "Implementation for AES/III. Implementing AES in C/MixColums.md"
     },
     {
       "basename": "sample",
@@ -91,10 +107,6 @@
     {
       "basename": "AES Visualization",
       "path": "Manim/AES Visualization.md"
-    },
-    {
-      "basename": "Ollama",
-      "path": "AI/Ollama.md"
     },
     {
       "basename": "Learning Git",
@@ -115,14 +127,6 @@
     {
       "basename": "Github SSH Setup",
       "path": "Github SSH Setup.md"
-    },
-    {
-      "basename": "Pedantic Compilation in Linux",
-      "path": "GCC/Pedantic Compilation in Linux.md"
-    },
-    {
-      "basename": "2023-12-18",
-      "path": "Daily Tasks/2023-12-18.md"
     },
     {
       "basename": "II.2. Side-Channel Attacks",

@@ -2,7 +2,8 @@
 https://help.obsidian.md/Editing+and+formatting/Callouts
 
 
-> [!abstract] Lorem ipsum dolor sit amet
+> [!abstract] 
+> Lorem ipsum dolor sit amet
 
 Aliases: `summary`, `tldr`
 
@@ -42,6 +43,7 @@ Alias: `error`
 > [!example] 
 > Lorem ipsum dolor sit amet
 
-> [!quote]  Lorem ipsum dolor sit amet
+> [!quote] 
+> Lorem ipsum dolor sit amet
 
 Alias: `cite`

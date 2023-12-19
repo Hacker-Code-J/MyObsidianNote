@@ -1,7 +1,9 @@
 {
   "accentColor": "",
   "cssTheme": "Things",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "myTheme1"
+  ],
   "theme": "moonstone",
   "nativeMenus": false
 }

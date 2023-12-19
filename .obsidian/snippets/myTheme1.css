@@ -1,0 +1,233 @@
+.markdown-source-view.mod-cm6 .is-unresolved .cm-underline,
+.markdown-source-view.mod-cm6 .cm-underline.is-unresolved,
+.markdown-source-view.mod-cm6 .cm-underline {
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  color: var(--text-normal);
+  text-decoration-color: var(--color-accent);
+  text-decoration-skip-ink: none;
+  font-weight: 600;
+}
+
+.markdown-rendered .internal-link {
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  color: var(--text-normal);
+  text-decoration-color: var(--color-accent);
+  text-decoration-skip-ink: none;
+  font-weight: 600;
+}
+.markdown-rendered .internal-link:hover {
+  text-decoration: none;
+  color: var(--text-accent);
+  font-weight: 600;
+}
+
+.external-link {
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  color: var(--text-normal);
+  text-decoration-color: var(--color-accent);
+  text-decoration-skip-ink: none;
+  font-weight: 600;
+}
+
+.external-link:hover {
+  text-decoration: none;
+  color: var(--text-accent);
+  font-weight: 600;
+}
+
+/*
+author: sailKite
+source: https://discord.com/channels/686053708261228577/702656734631821413/1144453260707647538
+*/
+
+.external-link:after {
+  content: "";
+  display: inline-block;
+  font-weight: 300;
+  font-size: 15px;
+  margin-left: 2px;
+  transition: 100ms;
+
+  /* these bits are for sizing the box */
+  width: 1em;
+  aspect-ratio: 1;
+
+  /* setting the "image" as a mask through which the background color can show */
+  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' stroke='currentColor' fill='currentColor' viewBox='0 0 24 24'%3E%3Cpath d='M18.3643 15.5353L16.95 14.1211L18.3643 12.7069C20.3169 10.7543 20.3169 7.58847 18.3643 5.63585C16.4116 3.68323 13.2458 3.68323 11.2932 5.63585L9.87898 7.05007L8.46477 5.63585L9.87898 4.22164C12.6127 1.48797 17.0448 1.48797 19.7785 4.22164C22.5121 6.95531 22.5121 11.3875 19.7785 14.1211L18.3643 15.5353ZM15.5358 18.3638L14.1216 19.778C11.388 22.5117 6.9558 22.5117 4.22213 19.778C1.48846 17.0443 1.48846 12.6122 4.22213 9.87849L5.63634 8.46428L7.05055 9.87849L5.63634 11.2927C3.68372 13.2453 3.68372 16.4112 5.63634 18.3638C7.58896 20.3164 10.7548 20.3164 12.7074 18.3638L14.1216 16.9496L15.5358 18.3638ZM14.8287 7.75717L16.2429 9.17139L9.17187 16.2425L7.75766 14.8282L14.8287 7.75717Z'%3E%3C/path%3E%3C/svg%3E");
+  background-color: #007bff;
+}
+
+/* remove external link icon */
+.external-link {
+  background-image: none;
+  padding-right: 0;
+}
+
+.nav-folder-children > .nav-folder {
+  background-color: var(--folder-color);
+  --nav-item-color: black;
+  --nav-item-color-hover: black;
+  --nav-collapse-icon-color: black;
+  border-radius: 10px;
+}
+.nav-folder-children > .nav-folder:hover {
+  filter: brightness(0.9);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 2) {
+  --folder-color: rgb(243, 139, 168);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 3) {
+  --folder-color: rgb(235, 160, 172);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 4) {
+  --folder-color: rgb(250, 179, 135);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 5) {
+  --folder-color: rgb(249, 226, 175);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 6) {
+  --folder-color: rgb(166, 227, 161);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 7) {
+  --folder-color: rgb(148, 226, 213);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 8) {
+  --folder-color: rgb(137, 220, 235);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 9) {
+  --folder-color: rgb(116, 199, 236);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 10) {
+  --folder-color: rgb(135, 176, 249);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 11) {
+  --folder-color: rgb(180, 190, 254);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 12) {
+  --folder-color: rgb(203, 166, 247);
+}
+
+/*
+author: Adonis, Anubis
+source: https://discord.com/channels/686053708261228577/702656734631821413/1040275500297375856
+support Anubis: https://www.buymeacoffee.com/anubisnekhet
+*/
+
+.callout:not(.is-collapsible) {
+  padding: 0px;
+}
+.callout:not(.is-collapsible) .callout-content {
+  padding: 0 var(--callout-title-padding) var(--callout-title-padding) var(--callout-title-padding);
+}
+.callout:not(.is-collapsible) .callout-title {
+  background-color: rgba(var(--callout-color), 0 0.5);
+  padding: var(--callout-title-padding);
+  cursor: pointer;
+}
+.callout:not(.is-collapsible) .callout-title .callout-title-inner {
+  font-weight: normal;
+}
+
+.callout:not(.is-collapsible) {
+  border-color: rgba(var(--callout-color), 0.4);
+  border-width: 1px;
+  border-radius: var(--callout-radius);
+  background-color: rgba(var(--ctp-mantle), 0.4);
+}
+
+.callout-content {
+  padding: var(--callout-title-padding) var(--callout-title-padding) var(
+      --callout-title-padding
+    ) calc(var(--callout-title-padding) * 1.5);
+  border-top: 1px dashed rgba(var(--callout-color), 0.4);
+}
+
+.callout-fold {
+  padding-right: 0px;
+}
+
+.callout-title-inner {
+  flex-grow: var(--anp-callout-fold-position, unset);
+}
+
+.callout {
+  --callout-title-padding: var(--size-4-2);
+}
+.callout.is-collapsible {
+  border-color: rgba(var(--callout-color), 0.4);
+  border-width: 1px;
+  border-radius: var(--callout-radius);
+  background-color: rgba(var(--ctp-mantle), 0.4);
+  --bold-weight: bolder;
+}
+.callout.is-collapsible .callout-fold {
+  padding-right: 0px;
+}
+.callout.is-collapsible .callout-title-inner {
+  flex-grow: var(--anp-callout-fold-position, unset);
+}
+.callout.is-collapsible.is-collapsed {
+  padding: 0;
+}
+.callout.is-collapsible.is-collapsed .callout-title {
+  background-color: rgba(var(--callout-color), 0.1);
+  padding: var(--callout-title-padding);
+  cursor: pointer;
+}
+.callout.is-collapsible.is-collapsed .callout-content {
+  display: none;
+}
+.callout.is-collapsible:not(.is-collapsed) {
+  padding: 0px 0px var(--callout-title-padding) 0px;
+}
+.callout.is-collapsible:not(.is-collapsed) .callout-title {
+  background-color: rgba(var(--callout-color), 0.1);
+  padding: var(--callout-title-padding);
+  border-color: rgba(var(--callout-color), 0.4);
+  cursor: pointer;
+}
+.callout.is-collapsible:not(.is-collapsed) .callout-content {
+  padding: var(--callout-title-padding) var(--callout-title-padding) 0 calc(var(
+          --callout-title-padding
+        ) * 1.5);
+  border-top: 1px dashed rgba(var(--callout-color), 0.4);
+}
+.callout:not(.is-collapsible) {
+  padding: 0px;
+}
+.callout:not(.is-collapsible) .callout-title {
+  background-color: rgba(var(--callout-color), 0.1);
+  padding: var(--callout-title-padding);
+  border-color: rgba(var(--callout-color), 0.4);
+}
+.callout .list-collapse-indicator {
+  margin-left: -35px;
+  padding-right: 3px;
+}
+
+/*# sourceMappingURL=anuppuccin-sleek-callout.css.map */
+
+/*
+author: sailKite, elevict
+source: https://discord.com/channels/686053708261228577/702656734631821413/1164269429543149598
+*/
+
+.callout[data-callout="theorem"] {
+  --callout-color: var(--text-normal);
+  font-family: Times;
+  background-color: rgb(0, 0, 0, 0);
+  border: solid;
+  border-radius: 6px;
+}
+.callout[data-callout="theorem"] .callout-icon {
+  display: none;
+}
+.callout[data-callout="theorem"] .callout-title-inner {
+  font-weight: revert;
+}
+.callout[data-callout="theorem"] .callout-content {
+  font-style: italic;
+}

@@ -1,7 +1,8 @@
 
 > [!tip] Obisidian
 **How to use the ExcaliBrain Obsidian plugin**
-> > - [ ]  https://www.youtube.com/watch?v=gqEtn3gCZF0&list=PL-1Nqb2waX4VRnRspwwfm_iGTAZ2bHrjQ&index=2
+> > - [x]  https://www.youtube.com/watch?v=gqEtn3gCZF0&list=PL-1Nqb2waX4VRnRspwwfm_iGTAZ2bHrjQ&index=2
+> > - [ ] https://www.youtube.com/watch?v=CDQqewnBxrI
 > > 
 
 
