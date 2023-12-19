@@ -6,8 +6,7 @@ ollama run codellama:34b ' '
 
 ```
 ollama run codellama:34b '
-When the following function is well implemented, as a top C language expert and cryptography expert, implement white box AES encryption.
-
+As developed by openssl, implement AES encryption, which processes the following code in 32-byte units using Te0, Te1, Te2, and Te3, as a top C language expert. The functions in the code given below work well, so feel free to use them.
 // AES Encrypt function
 
 void AES_Encrypt(const u8* plaintext, const u8* key, u8* ciphertext) {

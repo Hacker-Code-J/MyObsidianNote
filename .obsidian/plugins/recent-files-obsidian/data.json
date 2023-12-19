@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Codellama",
+      "path": "AI/Codellama.md"
+    },
+    {
+      "basename": "Ollama",
+      "path": "AI/Ollama.md"
+    },
+    {
       "basename": "sources",
       "path": "My Rust Language Note/sources.md"
     },
@@ -69,10 +77,6 @@
       "path": "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md"
     },
     {
-      "basename": "Ollama",
-      "path": "AI/Ollama.md"
-    },
-    {
       "basename": "2023-12-18",
       "path": "Daily Tasks/2023-12-18.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "Drawing 2023-12-15 13.33.17.excalidraw",
       "path": "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md"
-    },
-    {
-      "basename": "Codellama",
-      "path": "AI/Codellama.md"
     },
     {
       "basename": "AES Visualization",

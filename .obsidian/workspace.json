@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Rust Language Note/sources.md",
+                "file": "AI/Codellama.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Rust Language Note/sources.md",
+                "file": "AI/Codellama.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Rust Language Note/sources.md",
+                "file": "AI/Codellama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Rust Language Note/sources.md"
+                "file": "AI/Codellama.md"
               }
             }
           },
@@ -222,8 +222,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d22981e05f73d4fd",
+  "active": "d421c7f9ac7a4d34",
   "lastOpenFiles": [
+    "AI/Ollama.md",
+    "AI/Codellama.md",
+    "My Rust Language Note/sources.md",
     "MyThinkPad/Source Collector.md",
     "Spaces/Home",
     "Spaces",
@@ -233,7 +236,6 @@
     "Daily Tasks/2023-12-19.md",
     "MyThinkPad/Zero-Based Numbering.md",
     "Daily Tasks/2023-12-16.md",
-    "My Rust Language Note/sources.md",
     "My C Language Note/static vs const vs static const.md",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
@@ -243,7 +245,6 @@
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Daily Tasks/2023-12-17.md",
     "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
-    "AI/Ollama.md",
     "Daily Tasks/2023-12-18.md",
     "GCC/Pedantic Compilation in Linux.md",
     "Implementation for AES/Questions.md",
@@ -254,7 +255,6 @@
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
     "MyThinkPad",
     "My Rust Language Note",
-    "AI/Codellama.md",
     "Manim",
     "Git",
     "AI",
