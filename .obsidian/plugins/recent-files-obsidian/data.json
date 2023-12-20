@@ -1,28 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Orientation",
-      "path": "Fas & Cas/Orientation.md"
-    },
-    {
-      "basename": "Codellama",
-      "path": "AI/Codellama.md"
+      "basename": "Source Collector",
+      "path": "MyThinkPad/Source Collector.md"
     },
     {
       "basename": "Ollama",
       "path": "AI/Ollama.md"
     },
     {
-      "basename": "sources",
-      "path": "My Rust Language Note/sources.md"
+      "basename": "Codellama",
+      "path": "AI/Codellama.md"
     },
     {
-      "basename": "Source Collector",
-      "path": "MyThinkPad/Source Collector.md"
+      "basename": "I.1. AES Fundamentals",
+      "path": "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md"
     },
     {
-      "basename": "2023-12-15",
-      "path": "Daily Tasks/2023-12-15.md"
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Github SSH Setup",
+      "path": "Github SSH Setup.md"
+    },
+    {
+      "basename": "ChatGPT",
+      "path": "AI/ChatGPT.md"
+    },
+    {
+      "basename": "Pedantic Compilation in Linux",
+      "path": "GCC/Pedantic Compilation in Linux.md"
+    },
+    {
+      "basename": "II.2. Side-Channel Attacks",
+      "path": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md"
+    },
+    {
+      "basename": "II.1. Structuring AES in C",
+      "path": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
+    },
+    {
+      "basename": "Key Expansion",
+      "path": "Implementation for AES/III. Implementing AES in C/Key Expansion.md"
+    },
+    {
+      "basename": "MixColums",
+      "path": "Implementation for AES/III. Implementing AES in C/MixColums.md"
     },
     {
       "basename": "Obsidian Test",
@@ -31,6 +55,22 @@
     {
       "basename": "Callout Styles",
       "path": "MyThinkPad/Callout Styles.md"
+    },
+    {
+      "basename": "Drawing 2023-12-15 13.33.17.excalidraw",
+      "path": "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md"
+    },
+    {
+      "basename": "Orientation",
+      "path": "Fas & Cas/Orientation.md"
+    },
+    {
+      "basename": "sources",
+      "path": "My Rust Language Note/sources.md"
+    },
+    {
+      "basename": "2023-12-15",
+      "path": "Daily Tasks/2023-12-15.md"
     },
     {
       "basename": "2023-12-19",
@@ -57,20 +97,8 @@
       "path": "Mind Map/C - CraftCodeLab.canvas"
     },
     {
-      "basename": "MixColums",
-      "path": "Implementation for AES/III. Implementing AES in C/MixColums.md"
-    },
-    {
       "basename": "sample",
       "path": "Implementation for AES/III. Implementing AES in C/sample.md"
-    },
-    {
-      "basename": "II.2. Side-Channel Attacks",
-      "path": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md"
-    },
-    {
-      "basename": "II.1. Structuring AES in C",
-      "path": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
     },
     {
       "basename": "2023-12-17",
@@ -85,10 +113,6 @@
       "path": "Daily Tasks/2023-12-18.md"
     },
     {
-      "basename": "Pedantic Compilation in Linux",
-      "path": "GCC/Pedantic Compilation in Linux.md"
-    },
-    {
       "basename": "Questions",
       "path": "Implementation for AES/Questions.md"
     },
@@ -101,16 +125,8 @@
       "path": "Editor/Vim.md"
     },
     {
-      "basename": "Key Expansion",
-      "path": "Implementation for AES/III. Implementing AES in C/Key Expansion.md"
-    },
-    {
       "basename": "Bash_and_PowerShell",
       "path": "Editor/Bash_and_PowerShell.md"
-    },
-    {
-      "basename": "Drawing 2023-12-15 13.33.17.excalidraw",
-      "path": "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md"
     },
     {
       "basename": "AES Visualization",
@@ -121,24 +137,8 @@
       "path": "Git/Learning Git.md"
     },
     {
-      "basename": "ChatGPT",
-      "path": "AI/ChatGPT.md"
-    },
-    {
       "basename": "Test",
       "path": "Test.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Github SSH Setup",
-      "path": "Github SSH Setup.md"
-    },
-    {
-      "basename": "I.1. AES Fundamentals",
-      "path": "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md"
     },
     {
       "basename": "I.2. AES Requirements",

@@ -41,7 +41,9 @@
     "//Excalidraw",
     "//Excalidraw",
     "//Editor",
-    "//Editor"
+    "//Editor",
+    "//Daily Tasks",
+    "//Daily Tasks"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "d421c7f9ac7a4d34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Codellama.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "78452c9a19b63709",
             "type": "leaf",
             "state": {
@@ -60,9 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7890241b6153f403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyThinkPad/Source Collector.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fas & Cas/Orientation.md",
+                "file": "MyThinkPad/Source Collector.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fas & Cas/Orientation.md",
+                "file": "MyThinkPad/Source Collector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fas & Cas/Orientation.md"
+                "file": "MyThinkPad/Source Collector.md"
               }
             }
           },
@@ -235,39 +236,39 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "78452c9a19b63709",
+  "active": "7890241b6153f403",
   "lastOpenFiles": [
+    "AI/Ollama.md",
     "AI/Codellama.md",
+    "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
+    "README.md",
+    "Github SSH Setup.md",
+    "AI/ChatGPT.md",
+    "GCC/Pedantic Compilation in Linux.md",
+    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
+    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
+    "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
+    "Implementation for AES/III. Implementing AES in C/MixColums.md",
+    "MyThinkPad/Obsidian Test.md",
+    "MyThinkPad/Source Collector.md",
+    "MyThinkPad/Callout Styles.md",
+    "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
     "Fas & Cas/Orientation.md",
     "Fas & Cas",
-    "AI/Ollama.md",
     "My Rust Language Note/sources.md",
-    "MyThinkPad/Source Collector.md",
     "Spaces/Home",
     "Spaces",
     "Daily Tasks/2023-12-15.md",
-    "MyThinkPad/Obsidian Test.md",
-    "MyThinkPad/Callout Styles.md",
     "Daily Tasks/2023-12-19.md",
     "MyThinkPad/Zero-Based Numbering.md",
     "Daily Tasks/2023-12-16.md",
     "My C Language Note/static vs const vs static const.md",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
-    "Implementation for AES/III. Implementing AES in C/MixColums.md",
     "Implementation for AES/III. Implementing AES in C/sample.md",
-    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
-    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Daily Tasks/2023-12-17.md",
     "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
     "Daily Tasks/2023-12-18.md",
-    "GCC/Pedantic Compilation in Linux.md",
-    "Implementation for AES/Questions.md",
-    "Editor/Dev Tip.md",
-    "Editor/Vim.md",
-    "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
-    "Editor/Bash_and_PowerShell.md",
-    "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
     "MyThinkPad",
     "My Rust Language Note",
     "Manim",

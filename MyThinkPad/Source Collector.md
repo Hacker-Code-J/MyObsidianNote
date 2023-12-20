@@ -11,7 +11,8 @@
 > > - [ ] https://www.youtube.com/watch?v=aKJdI2i3aYU (Table)
 > > - [ ] https://www.youtube.com/watch?v=4JaRoKofYwo (Youtube Orgranization)
 > > - [ ] https://www.youtube.com/watch?v=V33SPYCx4Bs (Topic Link)
-> > - [ ] 
+> > - [ ] https://www.youtube.com/watch?v=Te58b8URb9Y (Third Party)
+> > - [ ] https://www.youtube.com/watch?v=r1_3kEWUnzw&list=PLy4SLsxzyLUXWGeigCsuP_xOUQ5sODiVC
 > > 
 
 
