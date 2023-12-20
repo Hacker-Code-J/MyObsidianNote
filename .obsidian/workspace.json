@@ -28,33 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fas & Cas/Orientation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0deb236da39204cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyThinkPad/Source Collector.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7890241b6153f403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyThinkPad/Source Collector.md",
+                "file": "AI/Codellama.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyThinkPad/Source Collector.md",
+                "file": "AI/Codellama.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyThinkPad/Source Collector.md",
+                "file": "AI/Codellama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyThinkPad/Source Collector.md"
+                "file": "AI/Codellama.md"
               }
             }
           },
@@ -236,8 +209,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "7890241b6153f403",
+  "active": "78452c9a19b63709",
   "lastOpenFiles": [
+    "Fas & Cas/Orientation.md",
+    "MyThinkPad/Source Collector.md",
     "AI/Ollama.md",
     "AI/Codellama.md",
     "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
@@ -250,10 +225,8 @@
     "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
     "Implementation for AES/III. Implementing AES in C/MixColums.md",
     "MyThinkPad/Obsidian Test.md",
-    "MyThinkPad/Source Collector.md",
     "MyThinkPad/Callout Styles.md",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
-    "Fas & Cas/Orientation.md",
     "Fas & Cas",
     "My Rust Language Note/sources.md",
     "Spaces/Home",

@@ -6,34 +6,7 @@ ollama run codellama:34b ' '
 
 ```
 ollama run codellama:34b '
-As developed by openssl, implement AES encryption, which processes the following code in 32-byte units using Te0, Te1, Te2, and Te3, as a top C language expert. The functions in the code given below work well, so feel free to use them.
-// AES Encrypt function
-
-void AES_Encrypt(const u8* plaintext, const u8* key, u8* ciphertext) {
-	u32 roundKey[ROUND_KEYS_SIZE / sizeof(u32)];
-	u8 state[AES_BLOCK_SIZE];
-	
-	// Copy plaintext to state
-	for (int i = 0; i < AES_BLOCK_SIZE; ++i)
-		state[i] = plaintext[i];
-	
-	// Key expansion
-	KeyExpansion(key, roundKey);
-	// Initial round
-	AddRoundKey(state, roundKey);
-	// Main rounds
-	for (int round = 1; round <= Nr; round++) {
-		SubBytes(state);
-		ShiftRows(state);
-		if (round != Nr)
-			MixColumns(state);
-		AddRoundKey(state, roundKey + round * AES_BLOCK_SIZE / sizeof(u32));
-	}
-
-	// Copy state to ciphertext
-	for (int i = 0; i < AES_BLOCK_SIZE; ++i)
-		ciphertext[i] = state[i];
-}
+Implement AES encryption that processes in 32-bit units. However, it is assumed that several functions are implemented by default and that a pre-calculation table called sbox or Te0 is also provided. Implement it like a top C language expert.
 '
 ```
 ## Overview
