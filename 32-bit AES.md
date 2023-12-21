@@ -122,3 +122,67 @@ pointer to a uint8_t array. The encryption process consists of loading the
 plaintext and key into 32-bit units, XORing them together, applying the 
 SBox and Te0 transformations, and storing the resulting ciphertext in the 
 output buffer
+
+
+  Sure, here is an example implementation of the base64 encoding function 
+for "Hello World" in C:
+```c
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+
+void encode_base64(const char *str) {
+    size_t len = strlen(str);
+    int pad = (3 - (len % 3)) % 3;
+    char *encoded = malloc(((len + pad) / 3) * 4 + 1);
+    memset(encoded, 0, ((len + pad) / 3) * 4 + 1);
+
+    int i, j;
+    for (i = 0, j = 0; i < len; i += 3, j += 4) {
+        encoded[j] = str[i] >> 2;
+        encoded[j + 1] = ((str[i] & 0x3) << 4) | (str[i + 1] >> 4);
+        encoded[j + 2] = ((str[i + 1] & 0xf) << 2) | (str[i + 2] >> 6);
+        encoded[j + 3] = str[i + 2] & 0x3f;
+    }
+
+    for (i = 0; i < pad; ++i) {
+        encoded[j - 1 - i] = '=';
+    }
+}
+```
+And here is an example implementation of the function that converts the 
+encoded value into a hexadecimal value:
+```c
+void to_hex(const char *encoded) {
+    size_t len = strlen(encoded);
+    char *hex = malloc((len / 4) * 2 + 1);
+    memset(hex, 0, (len / 4) * 2 + 1);
+
+    int i;
+    for (i = 0; i < len; i += 4) {
+        snprintf(hex + 2 * (i / 4), 3, "%02x", encoded[i]);
+    }
+}
+```
+And here is an example implementation of the base64 decode function that 
+converts hexadecimal values ​​into decodable values:
+```c
+void decode_base64(const char *hex) {
+    size_t len = strlen(hex);
+    int pad = (3 - (len % 3)) % 3;
+    char *decoded = malloc(((len + pad) / 3) * 4 + 1);
+    memset(decoded, 0, ((len + pad) / 3) * 4 + 1);
+
+    int i, j;
+    for (i = 0, j = 0; i < len; i += 2, j += 4) {
+        decoded[j] = hex[i] >> 2;
+        decoded[j + 1] = ((hex[i] & 0x3) << 4) | (hex[i + 1] >> 4);
+        decoded[j + 2] = ((hex[i + 1] & 0xf) << 2) | (hex[i + 2] >> 6);
+        decoded[j + 3] = hex[i + 2] & 0x3f;
+    }
+
+    for (i = 0; i < pad; ++i) {
+        decoded[j - 1 - i] = '=';
+    }
+}
+```

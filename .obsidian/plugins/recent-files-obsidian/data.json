@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Codellama",
-      "path": "AI/Codellama.md"
-    },
-    {
       "basename": "32-bit AES",
       "path": "32-bit AES.md"
     },
     {
-      "basename": "Orientation",
-      "path": "Fas & Cas/Orientation.md"
+      "basename": "Zero-Based Numbering",
+      "path": "MyThinkPad/Zero-Based Numbering.md"
     },
     {
       "basename": "Source Collector",
       "path": "MyThinkPad/Source Collector.md"
+    },
+    {
+      "basename": "Obsidian Test",
+      "path": "MyThinkPad/Obsidian Test.md"
+    },
+    {
+      "basename": "Callout Styles",
+      "path": "MyThinkPad/Callout Styles.md"
+    },
+    {
+      "basename": "Codellama",
+      "path": "AI/Codellama.md"
+    },
+    {
+      "basename": "Orientation",
+      "path": "Fas & Cas/Orientation.md"
     },
     {
       "basename": "Ollama",
@@ -57,14 +69,6 @@
       "path": "Implementation for AES/III. Implementing AES in C/MixColums.md"
     },
     {
-      "basename": "Obsidian Test",
-      "path": "MyThinkPad/Obsidian Test.md"
-    },
-    {
-      "basename": "Callout Styles",
-      "path": "MyThinkPad/Callout Styles.md"
-    },
-    {
       "basename": "Drawing 2023-12-15 13.33.17.excalidraw",
       "path": "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "2023-12-19",
       "path": "Daily Tasks/2023-12-19.md"
-    },
-    {
-      "basename": "Zero-Based Numbering",
-      "path": "MyThinkPad/Zero-Based Numbering.md"
     },
     {
       "basename": "2023-12-16",

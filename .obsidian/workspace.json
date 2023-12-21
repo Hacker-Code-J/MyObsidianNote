@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Codellama.md",
+                "file": "32-bit AES.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Codellama.md",
+                "file": "32-bit AES.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Codellama.md",
+                "file": "32-bit AES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Codellama.md"
+                "file": "32-bit AES.md"
               }
             }
           },
@@ -224,10 +224,13 @@
   },
   "active": "78452c9a19b63709",
   "lastOpenFiles": [
-    "32-bit AES.md",
-    "AI/Codellama.md",
-    "Fas & Cas/Orientation.md",
+    "MyThinkPad/Zero-Based Numbering.md",
     "MyThinkPad/Source Collector.md",
+    "MyThinkPad/Obsidian Test.md",
+    "MyThinkPad/Callout Styles.md",
+    "AI/Codellama.md",
+    "32-bit AES.md",
+    "Fas & Cas/Orientation.md",
     "AI/Ollama.md",
     "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
     "README.md",
@@ -238,8 +241,6 @@
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
     "Implementation for AES/III. Implementing AES in C/MixColums.md",
-    "MyThinkPad/Obsidian Test.md",
-    "MyThinkPad/Callout Styles.md",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
     "Fas & Cas",
     "My Rust Language Note/sources.md",
@@ -247,7 +248,6 @@
     "Spaces",
     "Daily Tasks/2023-12-15.md",
     "Daily Tasks/2023-12-19.md",
-    "MyThinkPad/Zero-Based Numbering.md",
     "Daily Tasks/2023-12-16.md",
     "My C Language Note/static vs const vs static const.md",
     "Mind Map/The 2nd Brain.canvas",
