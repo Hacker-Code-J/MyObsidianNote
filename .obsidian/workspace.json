@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Debian vs Red Hat.md",
+                "file": "My Rust Language Note/0. Installation and Setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Debian vs Red Hat.md",
+                "file": "My Rust Language Note/0. Installation and Setup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Debian vs Red Hat.md",
+                "file": "My Rust Language Note/0. Installation and Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Debian vs Red Hat.md"
+                "file": "My Rust Language Note/0. Installation and Setup.md"
               }
             }
           },
@@ -224,6 +224,8 @@
   },
   "active": "78452c9a19b63709",
   "lastOpenFiles": [
+    "My Rust Language Note/sources.md",
+    "My Rust Language Note/0. Installation and Setup.md",
     "Linux/Debian vs Red Hat.md",
     "Linux",
     "Fas & Cas/Orientation.md",
@@ -245,7 +247,6 @@
     "Implementation for AES/III. Implementing AES in C/MixColums.md",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
     "Fas & Cas",
-    "My Rust Language Note/sources.md",
     "Spaces/Home",
     "Spaces",
     "Daily Tasks/2023-12-15.md",
@@ -255,7 +256,6 @@
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
     "Implementation for AES/III. Implementing AES in C/sample.md",
-    "Daily Tasks/2023-12-17.md",
     "MyThinkPad",
     "My Rust Language Note",
     "Manim",

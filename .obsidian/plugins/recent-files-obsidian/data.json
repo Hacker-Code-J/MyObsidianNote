@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "0. Installation and Setup",
+      "path": "My Rust Language Note/0. Installation and Setup.md"
+    },
+    {
+      "basename": "sources",
+      "path": "My Rust Language Note/sources.md"
+    },
+    {
       "basename": "Debian vs Red Hat",
       "path": "Linux/Debian vs Red Hat.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "Drawing 2023-12-15 13.33.17.excalidraw",
       "path": "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md"
-    },
-    {
-      "basename": "sources",
-      "path": "My Rust Language Note/sources.md"
     },
     {
       "basename": "2023-12-15",
