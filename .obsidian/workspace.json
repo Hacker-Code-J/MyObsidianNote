@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "32-bit AES.md",
+                "file": "AI/Codellama.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "32-bit AES.md",
+                "file": "AI/Codellama.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "32-bit AES.md",
+                "file": "AI/Codellama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "32-bit AES.md"
+                "file": "AI/Codellama.md"
               }
             }
           },
@@ -224,12 +224,12 @@
   },
   "active": "78452c9a19b63709",
   "lastOpenFiles": [
+    "32-bit AES.md",
+    "AI/Codellama.md",
     "MyThinkPad/Zero-Based Numbering.md",
     "MyThinkPad/Source Collector.md",
     "MyThinkPad/Obsidian Test.md",
     "MyThinkPad/Callout Styles.md",
-    "AI/Codellama.md",
-    "32-bit AES.md",
     "Fas & Cas/Orientation.md",
     "AI/Ollama.md",
     "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",

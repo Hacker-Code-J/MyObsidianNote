@@ -6,7 +6,40 @@ ollama run codellama:34b ' '
 
 ```
 ollama run codellama:34b '
-Implement the base64 encoding function for Hello World and implement a function that converts the encoded value into a hexadecimal value. Also, implement a base64 decode function that converts hexadecimal values ​​into decodable values. As a top expert in the C language and an outstanding developer in the field of optimization, you can implement it well in C.
+Next, proceed with tremendous optimization using simd. Annotations: Extremely detailed annotations are also essential. I need c code for that.
+
+// Inlined RotWord
+#define RotWord(word) (((word) << 0x08) | ((word) >> 0x18))
+
+// Inlined SubWord (assuming s_box is a constant array)
+#define SubWord(word) ( \
+    ((u32)s_box[(word) >> 0x18] << 0x18) | \
+    ((u32)s_box[((word) >> 0x10) & 0xFF] << 0x10) | \
+    ((u32)s_box[((word) >> 0x08) & 0xFF] << 0x08) | \
+    ((u32)s_box[(word) & 0xFF]) \
+)
+
+void KeyExpansion(const u8* uKey, u32* rKey) {
+	u32 temp;
+	
+	for (int i = 0; i < Nk; i++) {
+        rKey[i] = (u32)uKey[4*i] << 0x18 | 
+                  (u32)uKey[4*i+1] << 0x10 | 
+                  (u32)uKey[4*i+2] << 0x08 | 
+                  (u32)uKey[4*i+3];
+    }
+    
+    for (int i = Nk; i < (Nr + 1) * 4; i++) {
+        temp = rKey[i - 1];
+        if (i % Nk == 0) {
+            temp = SubWord(RotWord(temp)) ^ rCon[i / Nk - 1];
+        } else if (Nk > 6 && i % Nk == 4) {
+            // Additional S-box transformation for AES-256
+            temp = SubWord(temp);
+        }
+        rKey[i] = rKey[i - Nk] ^ temp;
+    }
+}
 '
 ```
 ## Overview
