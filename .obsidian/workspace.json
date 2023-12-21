@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "32-bit AES.md",
+                "file": "AI/Codellama.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "32-bit AES.md",
+                "file": "AI/Codellama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "32-bit AES.md"
+                "file": "AI/Codellama.md"
               }
             }
           },
@@ -222,10 +222,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "bc4c65e24dc4d713",
+  "active": "78452c9a19b63709",
   "lastOpenFiles": [
-    "AI/Codellama.md",
     "32-bit AES.md",
+    "AI/Codellama.md",
     "Fas & Cas/Orientation.md",
     "MyThinkPad/Source Collector.md",
     "AI/Ollama.md",

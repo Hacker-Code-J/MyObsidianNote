@@ -6,7 +6,7 @@ ollama run codellama:34b ' '
 
 ```
 ollama run codellama:34b '
-Implement AES encryption that processes in 32-bit units. However, it is assumed that several functions are implemented by default and that a pre-calculation table called sbox or Te0 is also provided. Implement it like a top C language expert.
+To encrypt Hello World, we are going to encode it into base64 and then convert it to hexadecimal. Implement the function for this as a top C language expert and optimization expert.
 '
 ```
 ## Overview
