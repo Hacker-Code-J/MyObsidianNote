@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Codellama.md",
+                "file": "Linux/Debian vs Red Hat.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Codellama.md",
+                "file": "Linux/Debian vs Red Hat.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Codellama.md",
+                "file": "Linux/Debian vs Red Hat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Codellama.md"
+                "file": "Linux/Debian vs Red Hat.md"
               }
             }
           },
@@ -225,13 +224,15 @@
   },
   "active": "78452c9a19b63709",
   "lastOpenFiles": [
-    "32-bit AES.md",
+    "Linux/Debian vs Red Hat.md",
+    "Linux",
+    "Fas & Cas/Orientation.md",
     "AI/Codellama.md",
+    "32-bit AES.md",
     "MyThinkPad/Zero-Based Numbering.md",
     "MyThinkPad/Source Collector.md",
     "MyThinkPad/Obsidian Test.md",
     "MyThinkPad/Callout Styles.md",
-    "Fas & Cas/Orientation.md",
     "AI/Ollama.md",
     "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
     "README.md",
@@ -255,14 +256,12 @@
     "Mind Map/C - CraftCodeLab.canvas",
     "Implementation for AES/III. Implementing AES in C/sample.md",
     "Daily Tasks/2023-12-17.md",
-    "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
     "MyThinkPad",
     "My Rust Language Note",
     "Manim",
     "Git",
     "AI",
     "Editor",
-    "GCC",
     "Untitled 1.canvas"
   ]
 }

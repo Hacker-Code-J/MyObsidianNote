@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Debian vs Red Hat",
+      "path": "Linux/Debian vs Red Hat.md"
+    },
+    {
+      "basename": "Orientation",
+      "path": "Fas & Cas/Orientation.md"
+    },
+    {
       "basename": "Codellama",
       "path": "AI/Codellama.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Callout Styles",
       "path": "MyThinkPad/Callout Styles.md"
-    },
-    {
-      "basename": "Orientation",
-      "path": "Fas & Cas/Orientation.md"
     },
     {
       "basename": "Ollama",
