@@ -6,7 +6,7 @@ ollama run codellama:34b ' '
 
 ```
 ollama run codellama:34b '
-To encrypt Hello World, we are going to encode it into base64 and then convert it to hexadecimal. Implement the function for this as a top C language expert and optimization expert.
+Implement the base64 encoding function for Hello World and implement a function that converts the encoded value into a hexadecimal value. Also, implement a base64 decode function that converts hexadecimal values ​​into decodable values. As a top expert in the C language and an outstanding developer in the field of optimization, you can implement it well in C.
 '
 ```
 ## Overview
