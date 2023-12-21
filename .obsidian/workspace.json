@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc4c65e24dc4d713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "32-bit AES.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Codellama.md",
+                "file": "32-bit AES.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Codellama.md",
+                "file": "32-bit AES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Codellama.md"
+                "file": "32-bit AES.md"
               }
             }
           },
@@ -209,12 +222,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "78452c9a19b63709",
+  "active": "bc4c65e24dc4d713",
   "lastOpenFiles": [
+    "AI/Codellama.md",
+    "32-bit AES.md",
     "Fas & Cas/Orientation.md",
     "MyThinkPad/Source Collector.md",
     "AI/Ollama.md",
-    "AI/Codellama.md",
     "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
     "README.md",
     "Github SSH Setup.md",
@@ -241,7 +255,6 @@
     "Implementation for AES/III. Implementing AES in C/sample.md",
     "Daily Tasks/2023-12-17.md",
     "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md",
-    "Daily Tasks/2023-12-18.md",
     "MyThinkPad",
     "My Rust Language Note",
     "Manim",
