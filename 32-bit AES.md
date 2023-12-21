@@ -70,6 +70,10 @@ int main() {
 
 ```
 
+here is an example of how you could implement AES encryption in C 
+using a 32-bit unit size and assuming that the sbox and Te0 tables are 
+precalculated:
+
 ```c
 #include <stdint.h>
 #include <string.h>
@@ -111,3 +115,10 @@ void aes_encrypt(const uint8_t *key, const uint8_t *plaintext, uint8_t
 }
 
 ```
+
+This implementation assumes that the plaintext and key are passed in as 
+pointers to uint8_t arrays, and that the ciphertext is returned as a 
+pointer to a uint8_t array. The encryption process consists of loading the
+plaintext and key into 32-bit units, XORing them together, applying the 
+SBox and Te0 transformations, and storing the resulting ciphertext in the 
+output buffer
