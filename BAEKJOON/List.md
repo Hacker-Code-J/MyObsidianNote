@@ -1,4 +1,8 @@
 
+prompt
+You are the algorithm's top expert and optimization expert. Write a code with detailed annotations and optimize the following questions as the best expert in the c language.
+
+
 - 1. PS Number Theory Guide - Further Insights into Multiplicative Functions"
 2. "PS Number Theory Guide - Efficiently Counting Prime Numbers"
 3. "PS Number Theory Guide - Applications of the Euclidean Algorithm"

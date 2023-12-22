@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BAEKJOON/List.md",
+                "file": "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BAEKJOON/List.md",
+                "file": "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BAEKJOON/List.md",
+                "file": "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BAEKJOON/List.md"
+                "file": "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md"
               }
             }
           },
@@ -224,8 +224,12 @@
   },
   "active": "78452c9a19b63709",
   "lastOpenFiles": [
-    "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
+    "BAEKJOON/0. Fundamentals/(11653) Factorization.md",
+    "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
+    "BAEKJOON/0. Fundamentals",
     "BAEKJOON/List.md",
+    "Untitled.md",
+    "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
     "BAEKJOON",
     "My Language Training/Rust Note/0. Installation and Setup.md",
     "My Language Training/Rust Note/sources.md",
@@ -252,16 +256,12 @@
     "README.md",
     "AI/ChatGPT.md",
     "GCC/Pedantic Compilation in Linux.md",
-    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
-    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
-    "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
     "Fas & Cas",
     "Spaces/Home",
     "Spaces",
     "MyThinkPad",
     "My Language Training/Rust Note",
     "Manim",
-    "Git",
     "Untitled 1.canvas"
   ]
 }
