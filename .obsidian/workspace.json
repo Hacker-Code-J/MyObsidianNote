@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Rust Language Note/0. Installation and Setup.md",
+                "file": "My Rust Language Note/sources.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Rust Language Note/0. Installation and Setup.md",
+                "file": "My Rust Language Note/sources.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Rust Language Note/0. Installation and Setup.md",
+                "file": "My Rust Language Note/sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Rust Language Note/0. Installation and Setup.md"
+                "file": "My Rust Language Note/sources.md"
               }
             }
           },
@@ -224,8 +224,8 @@
   },
   "active": "78452c9a19b63709",
   "lastOpenFiles": [
-    "My Rust Language Note/sources.md",
     "My Rust Language Note/0. Installation and Setup.md",
+    "My Rust Language Note/sources.md",
     "Linux/Debian vs Red Hat.md",
     "Linux",
     "Fas & Cas/Orientation.md",
