@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
+                "file": "BAEKJOON/List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
+                "file": "BAEKJOON/List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
+                "file": "BAEKJOON/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md"
+                "file": "BAEKJOON/List.md"
               }
             }
           },
@@ -224,8 +224,10 @@
   },
   "active": "78452c9a19b63709",
   "lastOpenFiles": [
-    "My Language Training/Rust Note/0. Installation and Setup.md",
     "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
+    "BAEKJOON/List.md",
+    "BAEKJOON",
+    "My Language Training/Rust Note/0. Installation and Setup.md",
     "My Language Training/Rust Note/sources.md",
     "Github SSH Setup.md",
     "My Language Training",
@@ -253,7 +255,6 @@
     "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
-    "Implementation for AES/III. Implementing AES in C/MixColums.md",
     "Fas & Cas",
     "Spaces/Home",
     "Spaces",
@@ -261,7 +262,6 @@
     "My Language Training/Rust Note",
     "Manim",
     "Git",
-    "AI",
     "Untitled 1.canvas"
   ]
 }

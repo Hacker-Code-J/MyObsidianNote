@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "List",
+      "path": "BAEKJOON/List.md"
+    },
+    {
       "basename": "1. Multiple '.rs' files in Rust",
       "path": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md"
     },
