@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BAEKJOON/0. Fundamentals/(8222).md",
+                "file": "AI/Codellama.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BAEKJOON/0. Fundamentals/(8222).md",
+                "file": "AI/Codellama.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BAEKJOON/0. Fundamentals/(8222).md",
+                "file": "AI/Codellama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BAEKJOON/0. Fundamentals/(8222).md"
+                "file": "AI/Codellama.md"
               }
             }
           },
@@ -224,8 +224,9 @@
   },
   "active": "78452c9a19b63709",
   "lastOpenFiles": [
-    "BAEKJOON/List.md",
+    "AI/Ollama.md",
     "BAEKJOON/0. Fundamentals/(8222).md",
+    "BAEKJOON/List.md",
     "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
     "BAEKJOON/0. Fundamentals/(11653) Factorization.md",
     "BAEKJOON/0. Fundamentals",
@@ -252,7 +253,6 @@
     "32-bit AES.md",
     "MyThinkPad/Obsidian Test.md",
     "MyThinkPad/Callout Styles.md",
-    "AI/Ollama.md",
     "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
     "README.md",
     "AI/ChatGPT.md",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Codellama",
+      "path": "AI/Codellama.md"
+    },
+    {
+      "basename": "Ollama",
+      "path": "AI/Ollama.md"
+    },
+    {
       "basename": "(8222)",
       "path": "BAEKJOON/0. Fundamentals/(8222).md"
     },
@@ -81,10 +89,6 @@
       "path": "Fas & Cas/Orientation.md"
     },
     {
-      "basename": "Codellama",
-      "path": "AI/Codellama.md"
-    },
-    {
       "basename": "32-bit AES",
       "path": "32-bit AES.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Callout Styles",
       "path": "MyThinkPad/Callout Styles.md"
-    },
-    {
-      "basename": "Ollama",
-      "path": "AI/Ollama.md"
     },
     {
       "basename": "I.1. AES Fundamentals",

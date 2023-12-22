@@ -6,40 +6,37 @@ ollama run codellama:34b ' '
 
 ```
 ollama run codellama:34b '
-Next, proceed with tremendous optimization using simd. Annotations: Extremely detailed annotations are also essential. I need c code for that.
+Please write a C program to efficiently determine the minimum j for each ai in a sequence of positive integers, where j≠i, and the minimum number of operations to transform ai into aj is minimal. Use BFS or Dijkstra's algorithm to find the closest node from startNode
 
-// Inlined RotWord
-#define RotWord(word) (((word) << 0x08) | ((word) >> 0x18))
+Problem Statement:
+We consider the distance between positive integers in this problem, defined as follows. A single operation consists of either multiplying a given number by a prime number or dividing it by a prime number (if it does divide without a remainder). The distance between two numbers a and b, denoted d(a, b), is the minimum number of operations it takes to transform number a into number b. For example, d(69, 42) = 3. Observe that the function d is indeed a distance function, satisfying the properties:
+1. d(a, a) = 0 for any positive integer a.
+2. d(a, b) = d(b, a) for any positive integers a and b.
+3. d(a, b) + d(b, c) ≥ d(a, c) for any positive integers a, b, and c.
 
-// Inlined SubWord (assuming s_box is a constant array)
-#define SubWord(word) ( \
-    ((u32)s_box[(word) >> 0x18] << 0x18) | \
-    ((u32)s_box[((word) >> 0x10) & 0xFF] << 0x10) | \
-    ((u32)s_box[((word) >> 0x08) & 0xFF] << 0x08) | \
-    ((u32)s_box[(word) & 0xFF]) \
-)
+Input:
+- The first line of standard input contains a single integer n (2 ≤ n ≤ 100,000).
+- The following n lines contain positive integers a1, a2, ..., an (1 ≤ ai ≤ 1,000,000), one per line.
 
-void KeyExpansion(const u8* uKey, u32* rKey) {
-	u32 temp;
-	
-	for (int i = 0; i < Nk; i++) {
-        rKey[i] = (u32)uKey[4*i] << 0x18 | 
-                  (u32)uKey[4*i+1] << 0x10 | 
-                  (u32)uKey[4*i+2] << 0x08 | 
-                  (u32)uKey[4*i+3];
-    }
-    
-    for (int i = Nk; i < (Nr + 1) * 4; i++) {
-        temp = rKey[i - 1];
-        if (i % Nk == 0) {
-            temp = SubWord(RotWord(temp)) ^ rCon[i / Nk - 1];
-        } else if (Nk > 6 && i % Nk == 4) {
-            // Additional S-box transformation for AES-256
-            temp = SubWord(temp);
-        }
-        rKey[i] = rKey[i - Nk] ^ temp;
-    }
-}
+Output:
+- Your program should print exactly n lines to the standard output, each line containing a single integer j.
+- The i-th line should give the minimum j such that: 1 ≤ j ≤ n, j ≠ i, and d(ai, aj) is minimal.
+
+Example Input:
+5
+6
+1
+2
+3
+4
+5
+
+Example Output:
+1
+2
+1
+1
+2
 '
 ```
 ## Overview
