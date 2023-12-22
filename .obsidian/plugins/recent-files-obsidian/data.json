@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Multiple '.rs' files in Rust",
+      "path": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md"
+    },
+    {
+      "basename": "0. Installation and Setup",
+      "path": "My Language Training/Rust Note/0. Installation and Setup.md"
+    },
+    {
+      "basename": "sources",
+      "path": "My Language Training/Rust Note/sources.md"
+    },
+    {
+      "basename": "Github SSH Setup",
+      "path": "Github SSH Setup.md"
+    },
+    {
+      "basename": "The 2nd Brain",
+      "path": "Mind Map/The 2nd Brain.canvas"
+    },
+    {
+      "basename": "C - CraftCodeLab",
+      "path": "Mind Map/C - CraftCodeLab.canvas"
+    },
+    {
       "basename": "Source Collector",
       "path": "MyThinkPad/Source Collector.md"
     },
@@ -33,14 +57,6 @@
       "path": "Editor/Dev Tip.md"
     },
     {
-      "basename": "sources",
-      "path": "My Rust Language Note/sources.md"
-    },
-    {
-      "basename": "0. Installation and Setup",
-      "path": "My Rust Language Note/0. Installation and Setup.md"
-    },
-    {
       "basename": "Orientation",
       "path": "Fas & Cas/Orientation.md"
     },
@@ -71,10 +87,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Github SSH Setup",
-      "path": "Github SSH Setup.md"
     },
     {
       "basename": "ChatGPT",
@@ -118,15 +130,7 @@
     },
     {
       "basename": "static vs const vs static const",
-      "path": "My C Language Note/static vs const vs static const.md"
-    },
-    {
-      "basename": "The 2nd Brain",
-      "path": "Mind Map/The 2nd Brain.canvas"
-    },
-    {
-      "basename": "C - CraftCodeLab",
-      "path": "Mind Map/C - CraftCodeLab.canvas"
+      "path": "My Language Training/C Note/static vs const vs static const.md"
     },
     {
       "basename": "sample",

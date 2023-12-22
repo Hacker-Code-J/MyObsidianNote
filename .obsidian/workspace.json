@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyThinkPad/Source Collector.md",
+                "file": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyThinkPad/Source Collector.md",
+                "file": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyThinkPad/Source Collector.md",
+                "file": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyThinkPad/Source Collector.md"
+                "file": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md"
               }
             }
           },
@@ -224,16 +224,21 @@
   },
   "active": "78452c9a19b63709",
   "lastOpenFiles": [
+    "My Language Training/Rust Note/0. Installation and Setup.md",
+    "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
+    "My Language Training/Rust Note/sources.md",
+    "Github SSH Setup.md",
+    "My Language Training",
+    "Mind Map/The 2nd Brain.canvas",
+    "Mind Map/C - CraftCodeLab.canvas",
+    "MyThinkPad/Source Collector.md",
     "Linux/Debian vs Red Hat.md",
     "Manim/AES Visualization.md",
-    "MyThinkPad/Source Collector.md",
     "MyThinkPad/Zero-Based Numbering.md",
     "Git/Learning Git.md",
     "Editor/NeoVim.md",
     "Editor/Bash_and_PowerShell.md",
     "Editor/Dev Tip.md",
-    "My Rust Language Note/sources.md",
-    "My Rust Language Note/0. Installation and Setup.md",
     "Linux",
     "Fas & Cas/Orientation.md",
     "AI/Codellama.md",
@@ -243,25 +248,20 @@
     "AI/Ollama.md",
     "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
     "README.md",
-    "Github SSH Setup.md",
     "AI/ChatGPT.md",
     "GCC/Pedantic Compilation in Linux.md",
     "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
     "Implementation for AES/III. Implementing AES in C/MixColums.md",
-    "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
     "Fas & Cas",
     "Spaces/Home",
     "Spaces",
-    "Mind Map/The 2nd Brain.canvas",
-    "Mind Map/C - CraftCodeLab.canvas",
     "MyThinkPad",
-    "My Rust Language Note",
+    "My Language Training/Rust Note",
     "Manim",
     "Git",
     "AI",
-    "Editor",
     "Untitled 1.canvas"
   ]
 }

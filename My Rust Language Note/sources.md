@@ -1,2 +1,0 @@
-- https://rinthel.github.io/rust-lang-book-ko/foreword.html
-- https://indosaram.github.io/rust-python-book/ch1-00.html

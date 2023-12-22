@@ -36,9 +36,9 @@
   "GCC": "SiCompilerexplorer",
   "Editor": "SiVim",
   "Excalidraw": "SiDiagramsdotnet",
-  "My C Language Note": "SiC",
   "AI": "SiProtondb",
   "Git": "SiGit",
-  "My Rust Language Note": "SiRust",
-  "MyThinkPad": "FasBrain"
+  "MyThinkPad": "FasBrain",
+  "My Language Training/C Note": "SiC",
+  "My Language Training/Rust Note": "SiRust"
 }
