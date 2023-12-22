@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Rust Language Note/sources.md",
+                "file": "Editor/NeoVim.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Rust Language Note/sources.md",
+                "file": "Editor/NeoVim.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Rust Language Note/sources.md",
+                "file": "Editor/NeoVim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Rust Language Note/sources.md"
+                "file": "Editor/NeoVim.md"
               }
             }
           },
@@ -224,15 +224,15 @@
   },
   "active": "78452c9a19b63709",
   "lastOpenFiles": [
-    "My Rust Language Note/0. Installation and Setup.md",
+    "MyThinkPad/Source Collector.md",
     "My Rust Language Note/sources.md",
+    "My Rust Language Note/0. Installation and Setup.md",
     "Linux/Debian vs Red Hat.md",
     "Linux",
     "Fas & Cas/Orientation.md",
     "AI/Codellama.md",
     "32-bit AES.md",
     "MyThinkPad/Zero-Based Numbering.md",
-    "MyThinkPad/Source Collector.md",
     "MyThinkPad/Obsidian Test.md",
     "MyThinkPad/Callout Styles.md",
     "AI/Ollama.md",

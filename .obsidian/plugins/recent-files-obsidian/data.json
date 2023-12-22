@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "NeoVim",
+      "path": "Editor/NeoVim.md"
+    },
+    {
+      "basename": "Source Collector",
+      "path": "MyThinkPad/Source Collector.md"
+    },
+    {
       "basename": "sources",
       "path": "My Rust Language Note/sources.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Zero-Based Numbering",
       "path": "MyThinkPad/Zero-Based Numbering.md"
-    },
-    {
-      "basename": "Source Collector",
-      "path": "MyThinkPad/Source Collector.md"
     },
     {
       "basename": "Obsidian Test",
@@ -131,10 +135,6 @@
     {
       "basename": "Dev Tip",
       "path": "Editor/Dev Tip.md"
-    },
-    {
-      "basename": "Vim",
-      "path": "Editor/Vim.md"
     },
     {
       "basename": "Bash_and_PowerShell",
