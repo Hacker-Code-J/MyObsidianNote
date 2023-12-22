@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Editor/NeoVim.md",
+                "file": "MyThinkPad/Source Collector.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editor/NeoVim.md",
+                "file": "MyThinkPad/Source Collector.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editor/NeoVim.md",
+                "file": "MyThinkPad/Source Collector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editor/NeoVim.md"
+                "file": "MyThinkPad/Source Collector.md"
               }
             }
           },
@@ -224,18 +224,20 @@
   },
   "active": "78452c9a19b63709",
   "lastOpenFiles": [
+    "Linux/Debian vs Red Hat.md",
+    "Manim/AES Visualization.md",
+    "MyThinkPad/Source Collector.md",
+    "MyThinkPad/Zero-Based Numbering.md",
+    "Git/Learning Git.md",
+    "Editor/NeoVim.md",
     "Editor/Bash_and_PowerShell.md",
     "Editor/Dev Tip.md",
-    "Editor/NeoVim.md",
-    "MyThinkPad/Source Collector.md",
     "My Rust Language Note/sources.md",
     "My Rust Language Note/0. Installation and Setup.md",
-    "Linux/Debian vs Red Hat.md",
     "Linux",
     "Fas & Cas/Orientation.md",
     "AI/Codellama.md",
     "32-bit AES.md",
-    "MyThinkPad/Zero-Based Numbering.md",
     "MyThinkPad/Obsidian Test.md",
     "MyThinkPad/Callout Styles.md",
     "AI/Ollama.md",
@@ -252,8 +254,6 @@
     "Fas & Cas",
     "Spaces/Home",
     "Spaces",
-    "Daily Tasks/2023-12-15.md",
-    "Daily Tasks/2023-12-19.md",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
     "MyThinkPad",

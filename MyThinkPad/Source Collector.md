@@ -16,10 +16,8 @@
 > > 
 
 
-
 > [!info] Brain Science
 > - [ ]  https://www.youtube.com/watch?v=_QIS9ChYZuY
-
 
 
 > [!tip] Vim

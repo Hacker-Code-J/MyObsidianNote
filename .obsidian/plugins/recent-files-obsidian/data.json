@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Source Collector",
+      "path": "MyThinkPad/Source Collector.md"
+    },
+    {
+      "basename": "Debian vs Red Hat",
+      "path": "Linux/Debian vs Red Hat.md"
+    },
+    {
+      "basename": "AES Visualization",
+      "path": "Manim/AES Visualization.md"
+    },
+    {
+      "basename": "Zero-Based Numbering",
+      "path": "MyThinkPad/Zero-Based Numbering.md"
+    },
+    {
+      "basename": "Learning Git",
+      "path": "Git/Learning Git.md"
+    },
+    {
       "basename": "NeoVim",
       "path": "Editor/NeoVim.md"
     },
@@ -13,20 +33,12 @@
       "path": "Editor/Dev Tip.md"
     },
     {
-      "basename": "Source Collector",
-      "path": "MyThinkPad/Source Collector.md"
-    },
-    {
       "basename": "sources",
       "path": "My Rust Language Note/sources.md"
     },
     {
       "basename": "0. Installation and Setup",
       "path": "My Rust Language Note/0. Installation and Setup.md"
-    },
-    {
-      "basename": "Debian vs Red Hat",
-      "path": "Linux/Debian vs Red Hat.md"
     },
     {
       "basename": "Orientation",
@@ -39,10 +51,6 @@
     {
       "basename": "32-bit AES",
       "path": "32-bit AES.md"
-    },
-    {
-      "basename": "Zero-Based Numbering",
-      "path": "MyThinkPad/Zero-Based Numbering.md"
     },
     {
       "basename": "Obsidian Test",
@@ -139,14 +147,6 @@
     {
       "basename": "Questions",
       "path": "Implementation for AES/Questions.md"
-    },
-    {
-      "basename": "AES Visualization",
-      "path": "Manim/AES Visualization.md"
-    },
-    {
-      "basename": "Learning Git",
-      "path": "Git/Learning Git.md"
     },
     {
       "basename": "Test",
