@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
+                "file": "BAEKJOON/0. Fundamentals/(8222).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
+                "file": "BAEKJOON/0. Fundamentals/(8222).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
+                "file": "BAEKJOON/0. Fundamentals/(8222).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md"
+                "file": "BAEKJOON/0. Fundamentals/(8222).md"
               }
             }
           },
@@ -224,10 +224,11 @@
   },
   "active": "78452c9a19b63709",
   "lastOpenFiles": [
-    "BAEKJOON/0. Fundamentals/(11653) Factorization.md",
-    "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
-    "BAEKJOON/0. Fundamentals",
     "BAEKJOON/List.md",
+    "BAEKJOON/0. Fundamentals/(8222).md",
+    "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
+    "BAEKJOON/0. Fundamentals/(11653) Factorization.md",
+    "BAEKJOON/0. Fundamentals",
     "Untitled.md",
     "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
     "BAEKJOON",
@@ -255,7 +256,6 @@
     "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
     "README.md",
     "AI/ChatGPT.md",
-    "GCC/Pedantic Compilation in Linux.md",
     "Fas & Cas",
     "Spaces/Home",
     "Spaces",
