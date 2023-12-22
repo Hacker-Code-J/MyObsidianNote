@@ -5,6 +5,14 @@
       "path": "Editor/NeoVim.md"
     },
     {
+      "basename": "Bash_and_PowerShell",
+      "path": "Editor/Bash_and_PowerShell.md"
+    },
+    {
+      "basename": "Dev Tip",
+      "path": "Editor/Dev Tip.md"
+    },
+    {
       "basename": "Source Collector",
       "path": "MyThinkPad/Source Collector.md"
     },
@@ -131,14 +139,6 @@
     {
       "basename": "Questions",
       "path": "Implementation for AES/Questions.md"
-    },
-    {
-      "basename": "Dev Tip",
-      "path": "Editor/Dev Tip.md"
-    },
-    {
-      "basename": "Bash_and_PowerShell",
-      "path": "Editor/Bash_and_PowerShell.md"
     },
     {
       "basename": "AES Visualization",

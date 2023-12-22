@@ -61,9 +61,45 @@ $ cd core
 $ touch colorscheme.lua
 $ touch keymaps.lua
 $ touch options.lua
-$
-$
-$
-$
+$ cd ../../..
 ```
 
+```zsh
+$ nvim init.lua
+require("hacker-code-j.core.options")
+require("hacker-code-j.core.keymaps") 
+require("hacker-code-j.core.colorscheme")
+
+:wq
+
+$ cd lua/hacker-code-j/core
+$ nvim options.lua
+local opt = vim.opt -- for conciseness
+
+-- line numbers
+opt.relativenumber = true
+opt.number = true
+
+-- tabs & indentation
+opt.tabstop = 2
+opt.shiftwidth = 2
+opt.expandtab = true
+opt.autoindent = true
+
+-- line wrapping
+opt.wrap = false
+
+-- search
+opt.ignorecase = true
+opt.smartcase = true
+
+-- cursor line
+opt.cursorline = true
+opt.background = "dark"
+opt.signcolumn = "yes"
+
+-- backspace
+
+
+
+```
