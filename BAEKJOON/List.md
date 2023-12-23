@@ -4,6 +4,10 @@ You are the algorithm's top expert and optimization expert. Write a code with de
 
 You are the algorithm's top expert and optimization expert. Optimize the following code to increase the speed to very extreme.
 
+You are the algorithm's top expert and optimization expert. Optimize the following code to speed up very extremely without breaking through logic by all means.
+
+Time is still running out. Use all kinds of advanced mathematics and algorithmic theories to optimize the speed to be very extreme without breaking through logic.
+
 - 1. PS Number Theory Guide - Further Insights into Multiplicative Functions"
 2. "PS Number Theory Guide - Efficiently Counting Prime Numbers"
 3. "PS Number Theory Guide - Applications of the Euclidean Algorithm"
