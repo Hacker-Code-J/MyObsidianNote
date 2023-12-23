@@ -2,6 +2,7 @@
 prompt
 You are the algorithm's top expert and optimization expert. Write a code with detailed annotations and optimize the following questions as the best expert in the c language.
 
+You are the algorithm's top expert and optimization expert. Optimize the following code to increase the speed to very extreme.
 
 - 1. PS Number Theory Guide - Further Insights into Multiplicative Functions"
 2. "PS Number Theory Guide - Efficiently Counting Prime Numbers"

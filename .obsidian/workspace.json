@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Codellama.md",
+                "file": "BAEKJOON/List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Codellama.md",
+                "file": "BAEKJOON/List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Codellama.md",
+                "file": "BAEKJOON/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Codellama.md"
+                "file": "BAEKJOON/List.md"
               }
             }
           },
@@ -224,6 +224,7 @@
   },
   "active": "78452c9a19b63709",
   "lastOpenFiles": [
+    "AI/Codellama.md",
     "AI/Ollama.md",
     "BAEKJOON/0. Fundamentals/(8222).md",
     "BAEKJOON/List.md",
@@ -249,7 +250,6 @@
     "Editor/Dev Tip.md",
     "Linux",
     "Fas & Cas/Orientation.md",
-    "AI/Codellama.md",
     "32-bit AES.md",
     "MyThinkPad/Obsidian Test.md",
     "MyThinkPad/Callout Styles.md",

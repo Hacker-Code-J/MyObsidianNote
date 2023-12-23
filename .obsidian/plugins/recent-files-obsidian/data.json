@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "List",
+      "path": "BAEKJOON/List.md"
+    },
+    {
       "basename": "Codellama",
       "path": "AI/Codellama.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "(8222)",
       "path": "BAEKJOON/0. Fundamentals/(8222).md"
-    },
-    {
-      "basename": "List",
-      "path": "BAEKJOON/List.md"
     },
     {
       "basename": "(16563) Advanced Factorization",
