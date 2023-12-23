@@ -28,20 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc4c65e24dc4d713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "32-bit AES.md",
+                "file": "My Language Training/Rust Note/0. Installation and Setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
+                "file": "My Language Training/Rust Note/0. Installation and Setup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
+                "file": "My Language Training/Rust Note/0. Installation and Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md"
+                "file": "My Language Training/Rust Note/0. Installation and Setup.md"
               }
             }
           },
@@ -224,6 +211,11 @@
   },
   "active": "d22981e05f73d4fd",
   "lastOpenFiles": [
+    "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
+    "My Language Training/Rust Note/0. Installation and Setup.md",
+    "My Language Training/Rust Note/Simple Multi-Chat.md",
+    "My Language Training/Rust Note/sources.md",
+    "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
     "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
     "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md",
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
@@ -245,17 +237,12 @@
     "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
     "BAEKJOON/0. Fundamentals/(11653) Factorization.md",
     "BAEKJOON/0. Fundamentals",
-    "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
     "BAEKJOON",
-    "My Language Training/Rust Note/0. Installation and Setup.md",
-    "My Language Training/Rust Note/sources.md",
     "My Language Training",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
     "MyThinkPad/Source Collector.md",
     "Linux/Debian vs Red Hat.md",
-    "Manim/AES Visualization.md",
-    "MyThinkPad/Zero-Based Numbering.md",
     "Linux",
     "Fas & Cas",
     "Spaces/Home",

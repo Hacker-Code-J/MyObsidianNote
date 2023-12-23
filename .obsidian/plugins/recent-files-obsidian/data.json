@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "0. Installation and Setup",
+      "path": "My Language Training/Rust Note/0. Installation and Setup.md"
+    },
+    {
+      "basename": "1. Multiple '.rs' files in Rust",
+      "path": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md"
+    },
+    {
+      "basename": "Simple Multi-Chat",
+      "path": "My Language Training/Rust Note/Simple Multi-Chat.md"
+    },
+    {
+      "basename": "sources",
+      "path": "My Language Training/Rust Note/sources.md"
+    },
+    {
       "basename": "I.1. AES Fundamentals",
       "path": "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md"
     },
@@ -71,18 +87,6 @@
     {
       "basename": "(11653) Factorization",
       "path": "BAEKJOON/0. Fundamentals/(11653) Factorization.md"
-    },
-    {
-      "basename": "1. Multiple '.rs' files in Rust",
-      "path": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md"
-    },
-    {
-      "basename": "0. Installation and Setup",
-      "path": "My Language Training/Rust Note/0. Installation and Setup.md"
-    },
-    {
-      "basename": "sources",
-      "path": "My Language Training/Rust Note/sources.md"
     },
     {
       "basename": "The 2nd Brain",
