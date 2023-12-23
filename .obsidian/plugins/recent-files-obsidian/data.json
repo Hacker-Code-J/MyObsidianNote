@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "sources",
+      "path": "My Language Training/Rust Note/sources.md"
+    },
+    {
       "basename": "0. Installation and Setup",
       "path": "My Language Training/Rust Note/0. Installation and Setup.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Simple Multi-Chat",
       "path": "My Language Training/Rust Note/Simple Multi-Chat.md"
-    },
-    {
-      "basename": "sources",
-      "path": "My Language Training/Rust Note/sources.md"
     },
     {
       "basename": "I.1. AES Fundamentals",

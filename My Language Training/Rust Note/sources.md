@@ -11,6 +11,7 @@
 > [!NOTE] ### Reference https://gist.github.com/junha1/d68da2537db7d31ef5e871c215dcd068#file-rust_study-md
 > **The Rust Programming Language**
 >  https://doc.rust-lang.org/book/
+>  https://indosaram.github.io/rust-python-book/ch2-02.html
 > > -  Rust를 공부하는 큰 플로우를 제시해주는 제일 중요한 자료
 > > -  TRPL을 정독하는 것이 Rust 공부의 메인 컨텐츠
 > > - 정말 필요한 내용을 서사적으로 잘 전개하면서 서술 해놨으니 그냥 고시공부 하듯이 딱 앉아서 읽으면 됨

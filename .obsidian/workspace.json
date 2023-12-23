@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Language Training/Rust Note/0. Installation and Setup.md",
+                "file": "My Language Training/Rust Note/sources.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Language Training/Rust Note/0. Installation and Setup.md",
+                "file": "My Language Training/Rust Note/sources.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Language Training/Rust Note/0. Installation and Setup.md",
+                "file": "My Language Training/Rust Note/sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Language Training/Rust Note/0. Installation and Setup.md"
+                "file": "My Language Training/Rust Note/sources.md"
               }
             }
           },
@@ -209,10 +209,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d22981e05f73d4fd",
+  "active": "78452c9a19b63709",
   "lastOpenFiles": [
-    "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
     "My Language Training/Rust Note/0. Installation and Setup.md",
+    "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
     "My Language Training/Rust Note/Simple Multi-Chat.md",
     "My Language Training/Rust Note/sources.md",
     "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
