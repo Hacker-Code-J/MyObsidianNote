@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "I.1. AES Fundamentals",
+      "path": "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md"
+    },
+    {
+      "basename": "I.2. AES Requirements",
+      "path": "Implementation for AES/I. Understanding/I.2. AES Requirements.md"
+    },
+    {
+      "basename": "I.3. AES Encryption Process",
+      "path": "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md"
+    },
+    {
+      "basename": "II.1. Structuring AES in C",
+      "path": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
+    },
+    {
+      "basename": "II.2. Side-Channel Attacks",
+      "path": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md"
+    },
+    {
+      "basename": "32-bit AES",
+      "path": "32-bit AES.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Github SSH Setup",
+      "path": "Github SSH Setup.md"
+    },
+    {
+      "basename": "Learning Git",
+      "path": "Git/Learning Git.md"
+    },
+    {
+      "basename": "OpenSSL",
+      "path": "OpenSSL/OpenSSL.md"
+    },
+    {
+      "basename": "Check OpenSSL Version",
+      "path": "OpenSSL/Check OpenSSL Version.md"
+    },
+    {
+      "basename": "Callout Styles",
+      "path": "MyThinkPad/Callout Styles.md"
+    },
+    {
       "basename": "List",
       "path": "BAEKJOON/List.md"
     },
@@ -25,10 +73,6 @@
       "path": "BAEKJOON/0. Fundamentals/(11653) Factorization.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
       "basename": "1. Multiple '.rs' files in Rust",
       "path": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md"
     },
@@ -39,10 +83,6 @@
     {
       "basename": "sources",
       "path": "My Language Training/Rust Note/sources.md"
-    },
-    {
-      "basename": "Github SSH Setup",
-      "path": "Github SSH Setup.md"
     },
     {
       "basename": "The 2nd Brain",
@@ -69,10 +109,6 @@
       "path": "MyThinkPad/Zero-Based Numbering.md"
     },
     {
-      "basename": "Learning Git",
-      "path": "Git/Learning Git.md"
-    },
-    {
       "basename": "NeoVim",
       "path": "Editor/NeoVim.md"
     },
@@ -89,24 +125,8 @@
       "path": "Fas & Cas/Orientation.md"
     },
     {
-      "basename": "32-bit AES",
-      "path": "32-bit AES.md"
-    },
-    {
       "basename": "Obsidian Test",
       "path": "MyThinkPad/Obsidian Test.md"
-    },
-    {
-      "basename": "Callout Styles",
-      "path": "MyThinkPad/Callout Styles.md"
-    },
-    {
-      "basename": "I.1. AES Fundamentals",
-      "path": "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "ChatGPT",
@@ -115,14 +135,6 @@
     {
       "basename": "Pedantic Compilation in Linux",
       "path": "GCC/Pedantic Compilation in Linux.md"
-    },
-    {
-      "basename": "II.2. Side-Channel Attacks",
-      "path": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md"
-    },
-    {
-      "basename": "II.1. Structuring AES in C",
-      "path": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
     },
     {
       "basename": "Key Expansion",
@@ -171,18 +183,6 @@
     {
       "basename": "Questions",
       "path": "Implementation for AES/Questions.md"
-    },
-    {
-      "basename": "Test",
-      "path": "Test.md"
-    },
-    {
-      "basename": "I.2. AES Requirements",
-      "path": "Implementation for AES/I. Understanding/I.2. AES Requirements.md"
-    },
-    {
-      "basename": "I.3. AES Encryption Process",
-      "path": "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md"
     }
   ],
   "omittedPaths": [],
