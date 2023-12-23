@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Language Training/Rust Note/sources.md",
+                "file": "My Language Training/size_t and usize.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Language Training/Rust Note/sources.md",
+                "file": "My Language Training/size_t and usize.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Language Training/Rust Note/sources.md",
+                "file": "My Language Training/size_t and usize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Language Training/Rust Note/sources.md"
+                "file": "My Language Training/size_t and usize.md"
               }
             }
           },
@@ -211,16 +211,17 @@
   },
   "active": "78452c9a19b63709",
   "lastOpenFiles": [
-    "My Language Training/Rust Note/0. Installation and Setup.md",
-    "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
+    "32-bit AES.md",
+    "My Language Training/size_t and usize.md",
     "My Language Training/Rust Note/Simple Multi-Chat.md",
     "My Language Training/Rust Note/sources.md",
+    "My Language Training/Rust Note/0. Installation and Setup.md",
+    "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
     "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
     "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
     "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md",
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
-    "32-bit AES.md",
     "README.md",
     "Untitled.md",
     "Test.md",
@@ -242,7 +243,6 @@
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
     "MyThinkPad/Source Collector.md",
-    "Linux/Debian vs Red Hat.md",
     "Linux",
     "Fas & Cas",
     "Spaces/Home",
