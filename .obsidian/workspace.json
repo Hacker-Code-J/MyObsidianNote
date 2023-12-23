@@ -26,9 +26,19 @@
             "id": "78452c9a19b63709",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "e1cb6ccbb952a708",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "My Language Training/size_t and usize.md",
+                "file": "Computer Science/Chapter 1. Computer Structure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Language Training/size_t and usize.md",
+                "file": "Computer Science/Chapter 1. Computer Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Language Training/size_t and usize.md",
+                "file": "Computer Science/Chapter 1. Computer Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Language Training/size_t and usize.md"
+                "file": "Computer Science/Chapter 1. Computer Structure.md"
               }
             }
           },
@@ -209,10 +219,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "78452c9a19b63709",
+  "active": "e1cb6ccbb952a708",
   "lastOpenFiles": [
-    "32-bit AES.md",
+    "Computer Science/Computer Structure.md",
+    "Computer Science/Chapter 1. Computer Structure.md",
+    "Excalidraw/Nested Loops.md",
+    "Computer Science",
+    "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
     "My Language Training/size_t and usize.md",
+    "32-bit AES.md",
     "My Language Training/Rust Note/Simple Multi-Chat.md",
     "My Language Training/Rust Note/sources.md",
     "My Language Training/Rust Note/0. Installation and Setup.md",
@@ -234,21 +249,16 @@
     "BAEKJOON/List.md",
     "AI/Codellama.md",
     "AI/Ollama.md",
-    "BAEKJOON/0. Fundamentals/(8222).md",
-    "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
-    "BAEKJOON/0. Fundamentals/(11653) Factorization.md",
     "BAEKJOON/0. Fundamentals",
     "BAEKJOON",
     "My Language Training",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
-    "MyThinkPad/Source Collector.md",
     "Linux",
     "Fas & Cas",
     "Spaces/Home",
     "Spaces",
     "MyThinkPad",
-    "My Language Training/Rust Note",
     "Untitled 1.canvas"
   ]
 }

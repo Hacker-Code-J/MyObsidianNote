@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Chapter 1. Computer Structure",
+      "path": "Computer Science/Chapter 1. Computer Structure.md"
+    },
+    {
+      "basename": "Computer Structure",
+      "path": "Computer Science/Computer Structure.md"
+    },
+    {
+      "basename": "Nested Loops",
+      "path": "Excalidraw/Nested Loops.md"
+    },
+    {
+      "basename": "Drawing 2023-12-15 13.33.17.excalidraw",
+      "path": "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md"
+    },
+    {
       "basename": "size_t and usize",
       "path": "My Language Training/size_t and usize.md"
     },
@@ -153,10 +169,6 @@
       "path": "Implementation for AES/III. Implementing AES in C/MixColums.md"
     },
     {
-      "basename": "Drawing 2023-12-15 13.33.17.excalidraw",
-      "path": "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md"
-    },
-    {
       "basename": "2023-12-15",
       "path": "Daily Tasks/2023-12-15.md"
     },
@@ -187,10 +199,6 @@
     {
       "basename": "2023-12-18",
       "path": "Daily Tasks/2023-12-18.md"
-    },
-    {
-      "basename": "Questions",
-      "path": "Implementation for AES/Questions.md"
     }
   ],
   "omittedPaths": [],
