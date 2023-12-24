@@ -36,17 +36,24 @@
             "id": "890543c45a7389b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MyThinkPad/Source Collector.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/AES.md"
+              }
+            }
+          },
+          {
+            "id": "09f68ef54df35825",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/CPU and GPU.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,8 +131,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyThinkPad/Source Collector.md",
+                "file": "Excalidraw/CPU and GPU.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyThinkPad/Source Collector.md",
+                "file": "Excalidraw/CPU and GPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyThinkPad/Source Collector.md"
+                "file": "Excalidraw/CPU and GPU.md"
               }
             }
           },
@@ -220,14 +226,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "890543c45a7389b3",
+  "active": "09f68ef54df35825",
   "lastOpenFiles": [
+    "Excalidraw/AES.md",
+    "Excalidraw/CPU and GPU.md",
     "Computer Science/NVIDIA CUDA Programming.md",
+    "MyThinkPad/Source Collector.md",
     "Computer Science/Chapter 1. Computer Structure.md",
     "Computer Science/Computer Structure.md",
     "Computer Science/.md",
-    "MyThinkPad/Source Collector.md",
-    "Excalidraw/AES.md",
     "Excalidraw/Nested Loops.md",
     "Excalidraw/OpenAPI Key.md",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
@@ -251,7 +258,6 @@
     "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md",
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
-    "README.md",
     "OpenSSL",
     "BAEKJOON/0. Fundamentals",
     "BAEKJOON",

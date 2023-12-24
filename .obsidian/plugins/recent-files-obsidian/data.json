@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Source Collector",
-      "path": "MyThinkPad/Source Collector.md"
+      "basename": "CPU and GPU",
+      "path": "Excalidraw/CPU and GPU.md"
+    },
+    {
+      "basename": "AES",
+      "path": "Excalidraw/AES.md"
     },
     {
       "basename": "NVIDIA CUDA Programming",
       "path": "Computer Science/NVIDIA CUDA Programming.md"
+    },
+    {
+      "basename": "Source Collector",
+      "path": "MyThinkPad/Source Collector.md"
     },
     {
       "basename": "Chapter 1. Computer Structure",
@@ -15,10 +23,6 @@
     {
       "basename": "Computer Structure",
       "path": "Computer Science/Computer Structure.md"
-    },
-    {
-      "basename": "AES",
-      "path": "Excalidraw/AES.md"
     },
     {
       "basename": "Nested Loops",
@@ -195,10 +199,6 @@
     {
       "basename": "sample",
       "path": "Implementation for AES/III. Implementing AES in C/sample.md"
-    },
-    {
-      "basename": "2023-12-17",
-      "path": "Daily Tasks/2023-12-17.md"
     }
   ],
   "omittedPaths": [],
