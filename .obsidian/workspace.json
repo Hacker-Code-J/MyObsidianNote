@@ -36,9 +36,12 @@
             "id": "890543c45a7389b3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/AES.md"
+                "file": "MyThinkPad/Source Collector.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -121,7 +124,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -141,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/AES.md",
+                "file": "MyThinkPad/Source Collector.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/AES.md",
+                "file": "MyThinkPad/Source Collector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/AES.md"
+                "file": "MyThinkPad/Source Collector.md"
               }
             }
           },
@@ -218,17 +222,20 @@
   },
   "active": "890543c45a7389b3",
   "lastOpenFiles": [
-    "Excalidraw/Nested Loops.md",
+    "Computer Science/NVIDIA CUDA Programming.md",
+    "Computer Science/Chapter 1. Computer Structure.md",
+    "Computer Science/Computer Structure.md",
+    "Computer Science/.md",
+    "MyThinkPad/Source Collector.md",
     "Excalidraw/AES.md",
+    "Excalidraw/Nested Loops.md",
     "Excalidraw/OpenAPI Key.md",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
     "BAEKJOON/Setup.md",
     "BAEKJOON/0. Fundamentals/(11653) Factorization.md",
     "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
     "BAEKJOON/0. Fundamentals/(8222).md",
-    "Computer Science/Chapter 1. Computer Structure.md",
     "Untitled.canvas",
-    "Computer Science/Computer Structure.md",
     "Daily Tasks/2023-12-23.md",
     "Spaces/Home",
     "Spaces",
@@ -245,9 +252,6 @@
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
     "README.md",
-    "Untitled.md",
-    "Test.md",
-    "Github SSH Setup.md",
     "OpenSSL",
     "BAEKJOON/0. Fundamentals",
     "BAEKJOON",

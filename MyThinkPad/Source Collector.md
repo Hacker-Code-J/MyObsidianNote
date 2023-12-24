@@ -24,3 +24,12 @@
 > - [ ] https://www.youtube.com/watch?v=vdn_pKJUda8
 > - [ ] https://www.youtube.com/watch?v=U-omALWIBos
 
+
+> [!tip] Language Lecture
+> - https://www.youtube.com/watch?v=BpPEoZW5IiY
+> - https://www.youtube.com/watch?v=RBSGKlAvoiM
+> - https://www.youtube.com/watch?v=8hly31xKli0
+> - https://www.youtube.com/watch?v=oBt53YbR9Kk
+> - https://www.youtube.com/watch?v=RGOj5yH7evk
+> - https://www.youtube.com/watch?v=zuegQmMdy8M
+

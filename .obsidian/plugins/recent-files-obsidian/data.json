@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Source Collector",
+      "path": "MyThinkPad/Source Collector.md"
+    },
+    {
+      "basename": "NVIDIA CUDA Programming",
+      "path": "Computer Science/NVIDIA CUDA Programming.md"
+    },
+    {
+      "basename": "Chapter 1. Computer Structure",
+      "path": "Computer Science/Chapter 1. Computer Structure.md"
+    },
+    {
+      "basename": "Computer Structure",
+      "path": "Computer Science/Computer Structure.md"
+    },
+    {
       "basename": "AES",
       "path": "Excalidraw/AES.md"
     },
@@ -23,14 +39,6 @@
     {
       "basename": "(8222)",
       "path": "BAEKJOON/0. Fundamentals/(8222).md"
-    },
-    {
-      "basename": "Chapter 1. Computer Structure",
-      "path": "Computer Science/Chapter 1. Computer Structure.md"
-    },
-    {
-      "basename": "Computer Structure",
-      "path": "Computer Science/Computer Structure.md"
     },
     {
       "basename": "2023-12-23",
@@ -119,10 +127,6 @@
     {
       "basename": "C - CraftCodeLab",
       "path": "Mind Map/C - CraftCodeLab.canvas"
-    },
-    {
-      "basename": "Source Collector",
-      "path": "MyThinkPad/Source Collector.md"
     },
     {
       "basename": "Debian vs Red Hat",
