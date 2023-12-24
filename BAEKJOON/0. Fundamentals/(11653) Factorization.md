@@ -41,7 +41,7 @@ fn prime_factorization(mut n: u32) {
         n /= 2;
     }
     let mut i = 3;
-    while i * i %3C= n {
+    while i * i <= n {
         while n % i == 0 {
             println!("{}", i);
             n /= i;

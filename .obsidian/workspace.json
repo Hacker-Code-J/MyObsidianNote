@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Tasks/2023-12-23.md",
+                "file": "BAEKJOON/Setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,8 +124,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Tasks/2023-12-23.md",
+                "file": "BAEKJOON/Setup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Tasks/2023-12-23.md",
+                "file": "BAEKJOON/Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Tasks/2023-12-23.md"
+                "file": "BAEKJOON/Setup.md"
               }
             }
           },
@@ -222,12 +221,17 @@
   },
   "active": "e1cb6ccbb952a708",
   "lastOpenFiles": [
+    "BAEKJOON/0. Fundamentals/(11653) Factorization.md",
+    "BAEKJOON/Setup.md",
+    "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
+    "BAEKJOON/0. Fundamentals/(8222).md",
+    "Computer Science/Chapter 1. Computer Structure.md",
+    "Excalidraw/Nested Loops.md",
+    "Untitled.canvas",
+    "Computer Science/Computer Structure.md",
+    "Daily Tasks/2023-12-23.md",
     "Spaces/Home",
     "Spaces",
-    "Computer Science/Chapter 1. Computer Structure.md",
-    "Daily Tasks/2023-12-23.md",
-    "Computer Science/Computer Structure.md",
-    "Excalidraw/Nested Loops.md",
     "Computer Science",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
     "My Language Training/size_t and usize.md",
@@ -247,10 +251,7 @@
     "Github SSH Setup.md",
     "Git/Learning Git.md",
     "OpenSSL/OpenSSL.md",
-    "OpenSSL/Check OpenSSL Version.md",
-    "MyThinkPad/Callout Styles.md",
     "OpenSSL",
-    "BAEKJOON/List.md",
     "BAEKJOON/0. Fundamentals",
     "BAEKJOON",
     "My Language Training",

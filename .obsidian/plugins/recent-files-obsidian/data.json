@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-12-23",
-      "path": "Daily Tasks/2023-12-23.md"
+      "basename": "Setup",
+      "path": "BAEKJOON/Setup.md"
+    },
+    {
+      "basename": "(11653) Factorization",
+      "path": "BAEKJOON/0. Fundamentals/(11653) Factorization.md"
+    },
+    {
+      "basename": "(16563) Advanced Factorization",
+      "path": "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md"
+    },
+    {
+      "basename": "(8222)",
+      "path": "BAEKJOON/0. Fundamentals/(8222).md"
     },
     {
       "basename": "Chapter 1. Computer Structure",
       "path": "Computer Science/Chapter 1. Computer Structure.md"
     },
     {
+      "basename": "Nested Loops",
+      "path": "Excalidraw/Nested Loops.md"
+    },
+    {
       "basename": "Computer Structure",
       "path": "Computer Science/Computer Structure.md"
     },
     {
-      "basename": "Nested Loops",
-      "path": "Excalidraw/Nested Loops.md"
+      "basename": "2023-12-23",
+      "path": "Daily Tasks/2023-12-23.md"
     },
     {
       "basename": "Drawing 2023-12-15 13.33.17.excalidraw",
@@ -89,28 +105,12 @@
       "path": "MyThinkPad/Callout Styles.md"
     },
     {
-      "basename": "List",
-      "path": "BAEKJOON/List.md"
-    },
-    {
       "basename": "Codellama",
       "path": "AI/Codellama.md"
     },
     {
       "basename": "Ollama",
       "path": "AI/Ollama.md"
-    },
-    {
-      "basename": "(8222)",
-      "path": "BAEKJOON/0. Fundamentals/(8222).md"
-    },
-    {
-      "basename": "(16563) Advanced Factorization",
-      "path": "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md"
-    },
-    {
-      "basename": "(11653) Factorization",
-      "path": "BAEKJOON/0. Fundamentals/(11653) Factorization.md"
     },
     {
       "basename": "The 2nd Brain",
@@ -195,10 +195,6 @@
     {
       "basename": "2023-12-17",
       "path": "Daily Tasks/2023-12-17.md"
-    },
-    {
-      "basename": "Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50",
-      "path": "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md"
     }
   ],
   "omittedPaths": [],
