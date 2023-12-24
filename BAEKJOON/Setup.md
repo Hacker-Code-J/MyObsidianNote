@@ -8,6 +8,8 @@ You are the algorithm's top expert and optimization expert. Optimize the followi
 
 Time is still running out. Use all kinds of advanced mathematics and algorithmic theories to optimize the speed to be very extreme without breaking through logic.
 
+You are the best rust professional developer. Write the following c-code very well with a very efficient and trust-appropriate code that doesn't wade through logic.
+
 - 1. PS Number Theory Guide - Further Insights into Multiplicative Functions"
 2. "PS Number Theory Guide - Efficiently Counting Prime Numbers"
 3. "PS Number Theory Guide - Applications of the Euclidean Algorithm"
