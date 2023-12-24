@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "AES",
+      "path": "Excalidraw/AES.md"
+    },
+    {
       "basename": "CPU and GPU",
       "path": "Excalidraw/CPU and GPU.md"
     },
     {
-      "basename": "AES",
-      "path": "Excalidraw/AES.md"
+      "basename": "Question Prompt",
+      "path": "Excalidraw/Question Prompt.md"
+    },
+    {
+      "basename": "Nested Loops",
+      "path": "Excalidraw/Nested Loops.md"
     },
     {
       "basename": "NVIDIA CUDA Programming",
@@ -23,10 +31,6 @@
     {
       "basename": "Computer Structure",
       "path": "Computer Science/Computer Structure.md"
-    },
-    {
-      "basename": "Nested Loops",
-      "path": "Excalidraw/Nested Loops.md"
     },
     {
       "basename": "Setup",
@@ -195,10 +199,6 @@
     {
       "basename": "static vs const vs static const",
       "path": "My Language Training/C Note/static vs const vs static const.md"
-    },
-    {
-      "basename": "sample",
-      "path": "Implementation for AES/III. Implementing AES in C/sample.md"
     }
   ],
   "omittedPaths": [],

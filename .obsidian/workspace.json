@@ -48,7 +48,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/CPU and GPU.md"
+                "file": "Excalidraw/AES.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/CPU and GPU.md",
+                "file": "Excalidraw/AES.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/CPU and GPU.md",
+                "file": "Excalidraw/AES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/CPU and GPU.md"
+                "file": "Excalidraw/AES.md"
               }
             }
           },
@@ -228,14 +228,15 @@
   },
   "active": "09f68ef54df35825",
   "lastOpenFiles": [
-    "Excalidraw/AES.md",
     "Excalidraw/CPU and GPU.md",
+    "Excalidraw/AES.md",
+    "Excalidraw/Question Prompt.md",
+    "Excalidraw/Nested Loops.md",
     "Computer Science/NVIDIA CUDA Programming.md",
     "MyThinkPad/Source Collector.md",
     "Computer Science/Chapter 1. Computer Structure.md",
     "Computer Science/Computer Structure.md",
     "Computer Science/.md",
-    "Excalidraw/Nested Loops.md",
     "Excalidraw/OpenAPI Key.md",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
     "BAEKJOON/Setup.md",
@@ -257,7 +258,6 @@
     "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
     "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md",
     "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
-    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
     "OpenSSL",
     "BAEKJOON/0. Fundamentals",
     "BAEKJOON",
