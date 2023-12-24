@@ -6,37 +6,18 @@ ollama run codellama:34b ' '
 
 ```
 ollama run codellama:34b '
-Please write a C program to efficiently determine the minimum j for each ai in a sequence of positive integers, where j≠i, and the minimum number of operations to transform ai into aj is minimal. Use BFS or Dijkstra's algorithm to find the closest node from startNode
+ * Te0[x] = s_box[x].[0x02, 0x01, 0x01, 0x03]^T;
+ * Te1[x] = s_box[x].[0x03, 0x02, 0x01, 0x01]^T;
+ * Te2[x] = s_box[x].[0x01, 0x03, 0x02, 0x01]^T;
+ * Te3[x] = s_box[x].[0x01, 0x01, 0x03, 0x02]^T;
+ *
+ * Td0[x] = inv_s_box[x].[0x0e, 0x09, 0x0d, 0x0b]^T;
+ * Td1[x] = inv_s_box[x].[0x0b, 0x0e, 0x09, 0x0d]^T;
+ * Td2[x] = inv_s_box[x].[0x0d, 0x0b, 0x0e, 0x09]^T;
+ * Td3[x] = inv_s_box[x].[0x09, 0x0d, 0x0b, 0x0e]^T;
+ * Td4[x] = inv_s_box[x].[0x01];
 
-Problem Statement:
-We consider the distance between positive integers in this problem, defined as follows. A single operation consists of either multiplying a given number by a prime number or dividing it by a prime number (if it does divide without a remainder). The distance between two numbers a and b, denoted d(a, b), is the minimum number of operations it takes to transform number a into number b. For example, d(69, 42) = 3. Observe that the function d is indeed a distance function, satisfying the properties:
-1. d(a, a) = 0 for any positive integer a.
-2. d(a, b) = d(b, a) for any positive integers a and b.
-3. d(a, b) + d(b, c) ≥ d(a, c) for any positive integers a, b, and c.
-
-Input:
-- The first line of standard input contains a single integer n (2 ≤ n ≤ 100,000).
-- The following n lines contain positive integers a1, a2, ..., an (1 ≤ ai ≤ 1,000,000), one per line.
-
-Output:
-- Your program should print exactly n lines to the standard output, each line containing a single integer j.
-- The i-th line should give the minimum j such that: 1 ≤ j ≤ n, j ≠ i, and d(ai, aj) is minimal.
-
-Example Input:
-5
-6
-1
-2
-3
-4
-5
-
-Example Output:
-1
-2
-1
-1
-2
+When a table of size 256 of the u32 type as above is predefined. Implement 32-bit T-table AES as the best expert in c language.
 '
 ```
 ## Overview

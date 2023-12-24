@@ -5,6 +5,10 @@
       "path": "Excalidraw/AES.md"
     },
     {
+      "basename": "Codellama",
+      "path": "AI/Codellama.md"
+    },
+    {
       "basename": "CPU and GPU",
       "path": "Excalidraw/CPU and GPU.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "Callout Styles",
       "path": "MyThinkPad/Callout Styles.md"
-    },
-    {
-      "basename": "Codellama",
-      "path": "AI/Codellama.md"
     },
     {
       "basename": "Ollama",
