@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-12-23",
+      "path": "Daily Tasks/2023-12-23.md"
+    },
+    {
       "basename": "Chapter 1. Computer Structure",
       "path": "Computer Science/Chapter 1. Computer Structure.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50",
       "path": "Daily Tasks/Tasks Plugin - Review and check your Statuses 2023-12-15 13-09-50.md"
-    },
-    {
-      "basename": "2023-12-18",
-      "path": "Daily Tasks/2023-12-18.md"
     }
   ],
   "omittedPaths": [],

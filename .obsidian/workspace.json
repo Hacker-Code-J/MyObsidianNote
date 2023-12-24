@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Chapter 1. Computer Structure.md",
+                "file": "Daily Tasks/2023-12-23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +124,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Chapter 1. Computer Structure.md",
+                "file": "Daily Tasks/2023-12-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Chapter 1. Computer Structure.md",
+                "file": "Daily Tasks/2023-12-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Chapter 1. Computer Structure.md"
+                "file": "Daily Tasks/2023-12-23.md"
               }
             }
           },
@@ -221,8 +222,11 @@
   },
   "active": "e1cb6ccbb952a708",
   "lastOpenFiles": [
-    "Computer Science/Computer Structure.md",
+    "Spaces/Home",
+    "Spaces",
     "Computer Science/Chapter 1. Computer Structure.md",
+    "Daily Tasks/2023-12-23.md",
+    "Computer Science/Computer Structure.md",
     "Excalidraw/Nested Loops.md",
     "Computer Science",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
@@ -247,8 +251,6 @@
     "MyThinkPad/Callout Styles.md",
     "OpenSSL",
     "BAEKJOON/List.md",
-    "AI/Codellama.md",
-    "AI/Ollama.md",
     "BAEKJOON/0. Fundamentals",
     "BAEKJOON",
     "My Language Training",
@@ -256,8 +258,6 @@
     "Mind Map/C - CraftCodeLab.canvas",
     "Linux",
     "Fas & Cas",
-    "Spaces/Home",
-    "Spaces",
     "MyThinkPad",
     "Untitled 1.canvas"
   ]
