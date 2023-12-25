@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AES/Overview of AES.md",
+                "file": "AES/AES Encryption and Decryption.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AES/Overview of AES.md",
+                "file": "AES/AES Encryption and Decryption.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AES/Overview of AES.md",
+                "file": "AES/AES Encryption and Decryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AES/Overview of AES.md"
+                "file": "AES/AES Encryption and Decryption.md"
               }
             }
           },
@@ -212,14 +211,16 @@
   },
   "active": "e577a632c5fbb840",
   "lastOpenFiles": [
+    "AES/AES Encryption and Decryption.md",
+    "MyThinkPad/Source Collector.md",
+    "AES/Overview of AES.md",
+    "AES/SubBytes and MixColumns.md",
+    "AES/ShiftRows.md",
     "AES/AddRoundKey.md",
     "BAEKJOON/Setup.md",
     "AES/SubMix.md",
     "AES/Key Expansion.md",
-    "AES/Overview of AES.md",
     "AES/Bit-slicing AES.md",
-    "AES/SubBytes and MixColumns.md",
-    "AES/ShiftRows.md",
     "Excalidraw/Question Prompt.md",
     "Excalidraw/(Drawing) Nested Loops.md",
     "Excalidraw/(Drawing) Hash.md",
@@ -239,8 +240,6 @@
     "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
     "Implementation for AES/III. Implementing AES in C/MixColums.md",
     "Computer Science/NVIDIA CUDA Programming.md",
-    "AI/Codellama.md",
-    "MyThinkPad/Source Collector.md",
     "Untitled.canvas",
     "Spaces/Home",
     "Spaces",

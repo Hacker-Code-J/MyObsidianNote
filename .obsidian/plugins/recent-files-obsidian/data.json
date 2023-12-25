@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "AES Encryption and Decryption",
+      "path": "AES/AES Encryption and Decryption.md"
+    },
+    {
+      "basename": "Source Collector",
+      "path": "MyThinkPad/Source Collector.md"
+    },
+    {
       "basename": "Overview of AES",
       "path": "AES/Overview of AES.md"
+    },
+    {
+      "basename": "SubBytes and MixColumns",
+      "path": "AES/SubBytes and MixColumns.md"
+    },
+    {
+      "basename": "ShiftRows",
+      "path": "AES/ShiftRows.md"
     },
     {
       "basename": "AddRoundKey",
@@ -23,14 +39,6 @@
     {
       "basename": "Bit-slicing AES",
       "path": "AES/Bit-slicing AES.md"
-    },
-    {
-      "basename": "SubBytes and MixColumns",
-      "path": "AES/SubBytes and MixColumns.md"
-    },
-    {
-      "basename": "ShiftRows",
-      "path": "AES/ShiftRows.md"
     },
     {
       "basename": "Question Prompt",
@@ -99,10 +107,6 @@
     {
       "basename": "Codellama",
       "path": "AI/Codellama.md"
-    },
-    {
-      "basename": "Source Collector",
-      "path": "MyThinkPad/Source Collector.md"
     },
     {
       "basename": "Chapter 1. Computer Structure",
@@ -195,10 +199,6 @@
     {
       "basename": "Debian vs Red Hat",
       "path": "Linux/Debian vs Red Hat.md"
-    },
-    {
-      "basename": "AES Visualization",
-      "path": "Manim/AES Visualization.md"
     }
   ],
   "omittedPaths": [],

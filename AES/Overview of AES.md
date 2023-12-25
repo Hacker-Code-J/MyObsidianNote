@@ -11,4 +11,6 @@ Let
 > 3. [[SubBytes and MixColumns]]
 > 4. [[SubMix]]
 > 5. [[ShiftRows]]
-> 6.
+> 6. [[AES Encryption and Decryption]]
+
+
