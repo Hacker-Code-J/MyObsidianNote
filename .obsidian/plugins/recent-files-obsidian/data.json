@@ -5,6 +5,10 @@
       "path": "Excalidraw/Hash.md"
     },
     {
+      "basename": "NVIDIA CUDA Programming",
+      "path": "Computer Science/NVIDIA CUDA Programming.md"
+    },
+    {
       "basename": "Codellama",
       "path": "AI/Codellama.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Nested Loops",
       "path": "Excalidraw/Nested Loops.md"
-    },
-    {
-      "basename": "NVIDIA CUDA Programming",
-      "path": "Computer Science/NVIDIA CUDA Programming.md"
     },
     {
       "basename": "Source Collector",
