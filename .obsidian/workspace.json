@@ -56,9 +56,12 @@
             "id": "e577a632c5fbb840",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Hash.md"
+                "file": "Hash/SHA-2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -161,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Hash.md",
+                "file": "Hash/SHA-2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Hash.md",
+                "file": "Hash/SHA-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Hash.md"
+                "file": "Hash/SHA-2.md"
               }
             }
           },
@@ -238,8 +241,14 @@
   },
   "active": "e577a632c5fbb840",
   "lastOpenFiles": [
-    "Computer Science/NVIDIA CUDA Programming.md",
+    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
+    "Hash/SHA-2.md",
+    "Hash",
+    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
+    "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
+    "Implementation for AES/III. Implementing AES in C/MixColums.md",
     "Excalidraw/Hash.md",
+    "Computer Science/NVIDIA CUDA Programming.md",
     "AI/Codellama.md",
     "Excalidraw/AES.md",
     "Excalidraw/CPU and GPU.md",
@@ -263,11 +272,6 @@
     "My Language Training/size_t and usize.md",
     "32-bit AES.md",
     "My Language Training/Rust Note/Simple Multi-Chat.md",
-    "My Language Training/Rust Note/sources.md",
-    "My Language Training/Rust Note/0. Installation and Setup.md",
-    "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
-    "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
-    "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
     "OpenSSL",
     "BAEKJOON/0. Fundamentals",
     "BAEKJOON",
@@ -276,7 +280,6 @@
     "Mind Map/C - CraftCodeLab.canvas",
     "Linux",
     "Fas & Cas",
-    "MyThinkPad",
     "Untitled 1.canvas"
   ]
 }

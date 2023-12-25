@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "SHA-2",
+      "path": "Hash/SHA-2.md"
+    },
+    {
+      "basename": "II.1. Structuring AES in C",
+      "path": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
+    },
+    {
+      "basename": "II.2. Side-Channel Attacks",
+      "path": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md"
+    },
+    {
+      "basename": "Key Expansion",
+      "path": "Implementation for AES/III. Implementing AES in C/Key Expansion.md"
+    },
+    {
+      "basename": "MixColums",
+      "path": "Implementation for AES/III. Implementing AES in C/MixColums.md"
+    },
+    {
       "basename": "Hash",
       "path": "Excalidraw/Hash.md"
     },
@@ -97,14 +117,6 @@
       "path": "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md"
     },
     {
-      "basename": "II.1. Structuring AES in C",
-      "path": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
-    },
-    {
-      "basename": "II.2. Side-Channel Attacks",
-      "path": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -181,24 +193,12 @@
       "path": "GCC/Pedantic Compilation in Linux.md"
     },
     {
-      "basename": "Key Expansion",
-      "path": "Implementation for AES/III. Implementing AES in C/Key Expansion.md"
-    },
-    {
-      "basename": "MixColums",
-      "path": "Implementation for AES/III. Implementing AES in C/MixColums.md"
-    },
-    {
       "basename": "2023-12-15",
       "path": "Daily Tasks/2023-12-15.md"
     },
     {
       "basename": "2023-12-19",
       "path": "Daily Tasks/2023-12-19.md"
-    },
-    {
-      "basename": "2023-12-16",
-      "path": "Daily Tasks/2023-12-16.md"
     }
   ],
   "omittedPaths": [],
