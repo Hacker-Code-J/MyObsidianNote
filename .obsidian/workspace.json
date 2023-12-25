@@ -56,12 +56,9 @@
             "id": "e577a632c5fbb840",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "AI/Codellama.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/Hash.md"
               }
             }
           }
@@ -164,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Codellama.md",
+                "file": "Excalidraw/Hash.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Codellama.md",
+                "file": "Excalidraw/Hash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Codellama.md"
+                "file": "Excalidraw/Hash.md"
               }
             }
           },
@@ -241,9 +238,9 @@
   },
   "active": "e577a632c5fbb840",
   "lastOpenFiles": [
+    "AI/Codellama.md",
     "Excalidraw/Hash.md",
     "Excalidraw/AES.md",
-    "AI/Codellama.md",
     "Excalidraw/CPU and GPU.md",
     "Excalidraw/Question Prompt.md",
     "Excalidraw/Nested Loops.md",
