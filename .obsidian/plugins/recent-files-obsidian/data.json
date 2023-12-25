@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "SubMix",
+      "path": "AES/SubMix.md"
+    },
+    {
+      "basename": "SubBytes and MixColumns",
+      "path": "AES/SubBytes and MixColumns.md"
+    },
+    {
+      "basename": "Overview of AES",
+      "path": "AES/Overview of AES.md"
+    },
+    {
       "basename": "AddRoundKey",
       "path": "AES/AddRoundKey.md"
+    },
+    {
+      "basename": "ShiftRows",
+      "path": "AES/ShiftRows.md"
     },
     {
       "basename": "Bit-slicing AES",
@@ -23,10 +39,6 @@
     {
       "basename": "(Drawing) CPU and GPU",
       "path": "Excalidraw/(Drawing) CPU and GPU.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "AES/Overview.md"
     },
     {
       "basename": "(Drawing) AES",
@@ -187,18 +199,6 @@
     {
       "basename": "Zero-Based Numbering",
       "path": "MyThinkPad/Zero-Based Numbering.md"
-    },
-    {
-      "basename": "Orientation",
-      "path": "Fas & Cas/Orientation.md"
-    },
-    {
-      "basename": "Obsidian Test",
-      "path": "MyThinkPad/Obsidian Test.md"
-    },
-    {
-      "basename": "ChatGPT",
-      "path": "AI/ChatGPT.md"
     }
   ],
   "omittedPaths": [],

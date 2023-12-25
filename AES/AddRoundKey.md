@@ -1,8 +1,8 @@
 
-[[Overview]]
+[[Overview of AES]]
 
 $$
-AddRoundKey:\set{0,1}^{128}\times\set{0,1}^{128}\to\set{0,1}^{128}
+\text{AddRoundKey}:\set{0,1}^{128}\times\set{0,1}^{128}\to\set{0,1}^{128}
 $$
 
 

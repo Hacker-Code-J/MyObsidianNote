@@ -8,7 +8,7 @@ Let
 > [!info] Contents
 > 1.
 > 2. [[AddRoundKey]]
-> 3.
-> 4.
-> 5.
+> 3. [[SubBytes and MixColumns]]
+> 4. [[SubMix]]
+> 5. [[ShiftRows]]
 > 6.
