@@ -6,7 +6,7 @@ $$
 \text{SubMix}:\set{0,1}^{128}\to\set{0,1}^{128}
 $$
 
-# SubMix: $\set{0,1}^{32\cdot 4}\to\set{0,1}^{32\cdot 4}$
+# 32-bit SubMix: $\set{0,1}^{32\cdot 4}\to\set{0,1}^{32\cdot 4}$
 
 ```c
 void SubMix(u32* state) {
