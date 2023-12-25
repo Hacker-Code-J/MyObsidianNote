@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hash/SHA-2.md",
+                "file": "OpenSSL/OpenSSL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hash/SHA-2.md",
+                "file": "OpenSSL/OpenSSL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hash/SHA-2.md",
+                "file": "OpenSSL/OpenSSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hash/SHA-2.md"
+                "file": "OpenSSL/OpenSSL.md"
               }
             }
           },
@@ -241,19 +241,25 @@
   },
   "active": "e577a632c5fbb840",
   "lastOpenFiles": [
-    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
+    "OpenSSL/Check OpenSSL Version.md",
+    "Excalidraw/Nested Loops.md",
+    "Untitled",
+    "Excalidraw/Question Prompt.md",
+    "Excalidraw/Hash.md",
+    "Excalidraw/AES.md",
+    "Excalidraw/CPU and GPU.md",
+    "Editor/NeoVim.md",
+    "Editor/Dev Tip.md",
+    "Editor/Bash_and_PowerShell.md",
     "Hash/SHA-2.md",
+    "AES",
+    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Hash",
     "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
     "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
     "Implementation for AES/III. Implementing AES in C/MixColums.md",
-    "Excalidraw/Hash.md",
     "Computer Science/NVIDIA CUDA Programming.md",
     "AI/Codellama.md",
-    "Excalidraw/AES.md",
-    "Excalidraw/CPU and GPU.md",
-    "Excalidraw/Question Prompt.md",
-    "Excalidraw/Nested Loops.md",
     "MyThinkPad/Source Collector.md",
     "Computer Science/Chapter 1. Computer Structure.md",
     "Computer Science/Computer Structure.md",
@@ -265,21 +271,15 @@
     "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
     "BAEKJOON/0. Fundamentals/(8222).md",
     "Untitled.canvas",
-    "Daily Tasks/2023-12-23.md",
     "Spaces/Home",
     "Spaces",
     "Computer Science",
-    "My Language Training/size_t and usize.md",
-    "32-bit AES.md",
-    "My Language Training/Rust Note/Simple Multi-Chat.md",
     "OpenSSL",
     "BAEKJOON/0. Fundamentals",
     "BAEKJOON",
     "My Language Training",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
-    "Linux",
-    "Fas & Cas",
     "Untitled 1.canvas"
   ]
 }

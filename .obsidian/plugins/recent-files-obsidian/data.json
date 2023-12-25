@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "OpenSSL",
+      "path": "OpenSSL/OpenSSL.md"
+    },
+    {
+      "basename": "Check OpenSSL Version",
+      "path": "OpenSSL/Check OpenSSL Version.md"
+    },
+    {
+      "basename": "Nested Loops",
+      "path": "Excalidraw/Nested Loops.md"
+    },
+    {
+      "basename": "Question Prompt",
+      "path": "Excalidraw/Question Prompt.md"
+    },
+    {
+      "basename": "Hash",
+      "path": "Excalidraw/Hash.md"
+    },
+    {
+      "basename": "AES",
+      "path": "Excalidraw/AES.md"
+    },
+    {
+      "basename": "CPU and GPU",
+      "path": "Excalidraw/CPU and GPU.md"
+    },
+    {
+      "basename": "NeoVim",
+      "path": "Editor/NeoVim.md"
+    },
+    {
+      "basename": "Dev Tip",
+      "path": "Editor/Dev Tip.md"
+    },
+    {
+      "basename": "Bash_and_PowerShell",
+      "path": "Editor/Bash_and_PowerShell.md"
+    },
+    {
       "basename": "SHA-2",
       "path": "Hash/SHA-2.md"
     },
@@ -21,32 +61,12 @@
       "path": "Implementation for AES/III. Implementing AES in C/MixColums.md"
     },
     {
-      "basename": "Hash",
-      "path": "Excalidraw/Hash.md"
-    },
-    {
       "basename": "NVIDIA CUDA Programming",
       "path": "Computer Science/NVIDIA CUDA Programming.md"
     },
     {
       "basename": "Codellama",
       "path": "AI/Codellama.md"
-    },
-    {
-      "basename": "AES",
-      "path": "Excalidraw/AES.md"
-    },
-    {
-      "basename": "CPU and GPU",
-      "path": "Excalidraw/CPU and GPU.md"
-    },
-    {
-      "basename": "Question Prompt",
-      "path": "Excalidraw/Question Prompt.md"
-    },
-    {
-      "basename": "Nested Loops",
-      "path": "Excalidraw/Nested Loops.md"
     },
     {
       "basename": "Source Collector",
@@ -129,14 +149,6 @@
       "path": "Git/Learning Git.md"
     },
     {
-      "basename": "OpenSSL",
-      "path": "OpenSSL/OpenSSL.md"
-    },
-    {
-      "basename": "Check OpenSSL Version",
-      "path": "OpenSSL/Check OpenSSL Version.md"
-    },
-    {
       "basename": "Callout Styles",
       "path": "MyThinkPad/Callout Styles.md"
     },
@@ -163,18 +175,6 @@
     {
       "basename": "Zero-Based Numbering",
       "path": "MyThinkPad/Zero-Based Numbering.md"
-    },
-    {
-      "basename": "NeoVim",
-      "path": "Editor/NeoVim.md"
-    },
-    {
-      "basename": "Bash_and_PowerShell",
-      "path": "Editor/Bash_and_PowerShell.md"
-    },
-    {
-      "basename": "Dev Tip",
-      "path": "Editor/Dev Tip.md"
     },
     {
       "basename": "Orientation",
