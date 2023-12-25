@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "AES",
-      "path": "Excalidraw/AES.md"
-    },
-    {
       "basename": "Codellama",
       "path": "AI/Codellama.md"
+    },
+    {
+      "basename": "Hash",
+      "path": "Excalidraw/Hash.md"
+    },
+    {
+      "basename": "AES",
+      "path": "Excalidraw/AES.md"
     },
     {
       "basename": "CPU and GPU",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-12-16",
       "path": "Daily Tasks/2023-12-16.md"
-    },
-    {
-      "basename": "static vs const vs static const",
-      "path": "My Language Training/C Note/static vs const vs static const.md"
     }
   ],
   "omittedPaths": [],

@@ -41,6 +41,13 @@ curl -X POST http://localhost:11434/api/generate -d '{
 }'
 ```
 
+```
+curl -X POST http://localhost:11434/api/generate -d '{
+  "model": "phind-codellama",
+  "prompt":"Implement a linked list in C"
+ }'
+```
+
 ## Parameter counts
 
 |Parameter Count|Recommended memory|||
