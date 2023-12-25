@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "OpenSSL",
-      "path": "OpenSSL/OpenSSL.md"
-    },
-    {
-      "basename": "Check OpenSSL Version",
-      "path": "OpenSSL/Check OpenSSL Version.md"
-    },
-    {
-      "basename": "Nested Loops",
-      "path": "Excalidraw/Nested Loops.md"
+      "basename": "AddRoundKey",
+      "path": "AES/AddRoundKey.md"
     },
     {
       "basename": "Question Prompt",
       "path": "Excalidraw/Question Prompt.md"
     },
     {
-      "basename": "Hash",
-      "path": "Excalidraw/Hash.md"
+      "basename": "(Drawing) Nested Loops",
+      "path": "Excalidraw/(Drawing) Nested Loops.md"
     },
     {
-      "basename": "AES",
-      "path": "Excalidraw/AES.md"
+      "basename": "(Drawing) Hash",
+      "path": "Excalidraw/(Drawing) Hash.md"
     },
     {
-      "basename": "CPU and GPU",
-      "path": "Excalidraw/CPU and GPU.md"
+      "basename": "(Drawing) CPU and GPU",
+      "path": "Excalidraw/(Drawing) CPU and GPU.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "AES/Overview.md"
+    },
+    {
+      "basename": "(Drawing) AES",
+      "path": "Excalidraw/(Drawing) AES.md"
+    },
+    {
+      "basename": "OpenSSL",
+      "path": "OpenSSL/OpenSSL.md"
+    },
+    {
+      "basename": "Check OpenSSL Version",
+      "path": "OpenSSL/Check OpenSSL Version.md"
     },
     {
       "basename": "NeoVim",
@@ -191,14 +199,6 @@
     {
       "basename": "Pedantic Compilation in Linux",
       "path": "GCC/Pedantic Compilation in Linux.md"
-    },
-    {
-      "basename": "2023-12-15",
-      "path": "Daily Tasks/2023-12-15.md"
-    },
-    {
-      "basename": "2023-12-19",
-      "path": "Daily Tasks/2023-12-19.md"
     }
   ],
   "omittedPaths": [],

@@ -4,5 +4,6 @@
   "showLineNumber": true,
   "strictLineBreaks": false,
   "showIndentGuide": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "alwaysUpdateLinks": true
 }

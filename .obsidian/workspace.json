@@ -28,7 +28,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Nested Loops.md"
+                "file": "Excalidraw/(Drawing) Nested Loops.md"
               }
             }
           },
@@ -38,7 +38,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/AES.md"
+                "file": "Excalidraw/(Drawing) AES.md"
               }
             }
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/AES.md"
+                "file": "Excalidraw/(Drawing) AES.md"
               }
             }
           },
@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenSSL/OpenSSL.md",
+                "file": "AES/AddRoundKey.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenSSL/OpenSSL.md",
+                "file": "AES/AddRoundKey.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenSSL/OpenSSL.md",
+                "file": "AES/AddRoundKey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenSSL/OpenSSL.md"
+                "file": "AES/AddRoundKey.md"
               }
             }
           },
@@ -241,13 +241,16 @@
   },
   "active": "e577a632c5fbb840",
   "lastOpenFiles": [
-    "OpenSSL/Check OpenSSL Version.md",
-    "Excalidraw/Nested Loops.md",
-    "Untitled",
     "Excalidraw/Question Prompt.md",
-    "Excalidraw/Hash.md",
-    "Excalidraw/AES.md",
-    "Excalidraw/CPU and GPU.md",
+    "Excalidraw/(Drawing) Nested Loops.md",
+    "Excalidraw/(Drawing) Hash.md",
+    "Excalidraw/(Drawing) CPU and GPU.md",
+    "AES/Overview.md",
+    "Excalidraw/(Drawing) AES.md",
+    "AES/AddRoundKey.md",
+    "OpenSSL/OpenSSL.md",
+    "OpenSSL/Check OpenSSL Version.md",
+    "Untitled",
     "Editor/NeoVim.md",
     "Editor/Dev Tip.md",
     "Editor/Bash_and_PowerShell.md",
@@ -267,9 +270,6 @@
     "Excalidraw/OpenAPI Key.md",
     "Excalidraw/Drawing 2023-12-15 13.33.17.excalidraw.md",
     "BAEKJOON/Setup.md",
-    "BAEKJOON/0. Fundamentals/(11653) Factorization.md",
-    "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
-    "BAEKJOON/0. Fundamentals/(8222).md",
     "Untitled.canvas",
     "Spaces/Home",
     "Spaces",
