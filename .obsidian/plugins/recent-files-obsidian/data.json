@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "SubMix",
-      "path": "AES/SubMix.md"
-    },
-    {
-      "basename": "Key Expansion",
-      "path": "AES/Key Expansion.md"
-    },
-    {
       "basename": "Overview of AES",
       "path": "AES/Overview of AES.md"
     },
     {
       "basename": "AddRoundKey",
       "path": "AES/AddRoundKey.md"
+    },
+    {
+      "basename": "Setup",
+      "path": "BAEKJOON/Setup.md"
+    },
+    {
+      "basename": "SubMix",
+      "path": "AES/SubMix.md"
+    },
+    {
+      "basename": "Key Expansion",
+      "path": "AES/Key Expansion.md"
     },
     {
       "basename": "Bit-slicing AES",
@@ -107,10 +111,6 @@
     {
       "basename": "Computer Structure",
       "path": "Computer Science/Computer Structure.md"
-    },
-    {
-      "basename": "Setup",
-      "path": "BAEKJOON/Setup.md"
     },
     {
       "basename": "(11653) Factorization",
