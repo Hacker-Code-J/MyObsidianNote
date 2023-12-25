@@ -5,6 +5,10 @@
       "path": "AES/AddRoundKey.md"
     },
     {
+      "basename": "Bit-slicing AES",
+      "path": "AES/Bit-slicing AES.md"
+    },
+    {
       "basename": "Question Prompt",
       "path": "Excalidraw/Question Prompt.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ChatGPT",
       "path": "AI/ChatGPT.md"
-    },
-    {
-      "basename": "Pedantic Compilation in Linux",
-      "path": "GCC/Pedantic Compilation in Linux.md"
     }
   ],
   "omittedPaths": [],
