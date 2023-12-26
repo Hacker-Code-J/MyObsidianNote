@@ -2,5 +2,126 @@
 [[AES/KeyExpansion/Key Expansion|Key Expansion]]
 
 
+$$
+\text{SubWord}(X_0\parallel X_1\parallel X_2\parallel X_3)=s(X_0)\parallel s(X_1)\parallel s(X_2)\parallel s(X_3)
+$$
+
+<div class="centered-content">
+    <table style="margin: auto;">
+	    <tr>
+			<th>Input String</th>
+	        <td style="background-color:magenta">X0</td>
+	        <td style="background-color:orange">X1</td>
+	        <td style="background-color:yellow">X2</td>
+	        <td style="background-color:cyan">X3</td>
+	    </tr>
+	    <tr>
+		    <th></th>
+	        <td style="background-color:red"></td>
+	        <td style="background-color:red"></td>
+	        <td style="background-color:red"></td>
+	        <td style="background-color:red"></td>
+	    </tr>
+	    <tr>
+			<th>word >> 0x18</th>
+	        <td style="background-color:chartreuse"></td>
+	        <td style="background-color:chartreuse"></td>
+	        <td style="background-color:chartreuse"></td>
+	        <td style="background-color:magenta">X0</td>
+	    </tr>
+	    <tr>
+			<th>word >> 0x10</th>
+	        <td style="background-color:chartreuse"></td>
+	        <td style="background-color:chartreuse"></td>
+	        <td style="background-color:magenta">X0</td>
+	        <td style="background-color:orange">X1</td>
+	    </tr>
+	    <tr>
+		    <th>word >> 0x08 </th>
+	        <td style="background-color:chartreuse"></td>
+	        <td style="background-color:magenta">X0</td>
+	        <td style="background-color:orange">X1</td>
+	        <td style="background-color:yellow">X2</td>
+	    </tr>
+	    <tr>
+		    <th>word >> 0x00</th>
+	        <td style="background-color:magenta">X0</td>
+	        <td style="background-color:orange">X1</td>
+	        <td style="background-color:yellow">X2</td>
+	        <td style="background-color:cyan">X3</td>
+	    </tr>
+		<tr>
+		    <th></th>
+	        <td style="background-color:red"></td>
+	        <td style="background-color:red"></td>
+	        <td style="background-color:red"></td>
+	        <td style="background-color:red"></td>
+	    </tr>
+		<tr>
+			<th>S(X0) << 0x18</th>
+	        <td style="background-color:magenta">S(X0)</td>
+	        <td style="background-color:chartreuse"></td>
+	        <td style="background-color:chartreuse"></td>
+	        <td style="background-color:chartreuse"></td>
+	    </tr>
+	    <tr>
+			<th>S(X1) << 0x10</th>
+	        <td style="background-color:chartreuse"></td>
+	        <td style="background-color:orange">S(X1)</td>
+	        <td style="background-color:chartreuse"></td>
+	        <td style="background-color:chartreuse"></td>
+	    </tr>
+	    <tr>
+			<th>S(X2) << 0x08</th>
+	        <td style="background-color:chartreuse"></td>
+	        <td style="background-color:chartreuse"></td>
+	        <td style="background-color:yellow">S(X2)</td>
+	        <td style="background-color:chartreuse"></td>
+	    </tr>
+	    <tr>
+			<th>S(X3) << 0x00</th>
+	        <td style="background-color:chartreuse"></td>
+	        <td style="background-color:chartreuse"></td>
+	        <td style="background-color:chartreuse"></td>
+	        <td style="background-color:cyan">S(X3)</td>
+	    </tr>
+	    <tr>
+		    <th></th>
+	        <td style="background-color:red"></td>
+	        <td style="background-color:red"></td>
+	        <td style="background-color:red"></td>
+	        <td style="background-color:red"></td>
+	    </tr>
+	    <tr>
+			<th>Output String</th>
+	        <td style="background-color:magenta">S(X0)</td>
+	        <td style="background-color:orange">S(X1)</td>
+	        <td style="background-color:yellow">S(X2)</td>
+	        <td style="background-color:cyan">S(X3)</td>
+	    </tr>
+	</table>
+</div>
+
+
+```c
+u32 SubWord(u32 word) {
+	return (u32)s_box[word >> 0x18] << 0x18 |
+		   (u32)s_box[(word >> 0x10) & 0xFF] << 0x10 |
+		   (u32)s_box[(word >> 0x08) & 0xFF] << 0x08 |
+		   (u32)s_box[word & 0xFF];
+}
+```
+
+```c
+u32 SubWord(u32* word) {
+	u8 temp;
+	for (int i = 0; i < 4; i++) {
+		temp = Te3[(*word >> (0x18 - 0x08 * i)) & 0x000000ff];
+		*word &= ~(0xFF << (0x18 - 0x08 * i)); // Clear the byte
+		*word |= (temp & 0x000000ff) << (0x18 - 0x08 * i); // Set the new value
+	}
+}
+```
+
 
 

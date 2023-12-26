@@ -23,11 +23,16 @@
             }
           },
           {
-            "id": "ed38d7585b8501bf",
+            "id": "7b5b6e2b52c92220",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AES/KeyExpansion/SubWord.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -100,14 +105,6 @@
               "type": "recent-files",
               "state": {}
             }
-          },
-          {
-            "id": "a7ecb0f6e17fcef3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ]
       }
@@ -129,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AES/KeyExpansion/SubWord.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AES/KeyExpansion/SubWord.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AES/KeyExpansion/SubWord.md"
+              }
             }
           },
           {
@@ -190,6 +191,7 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "daily-notes:Open today's daily note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -200,23 +202,24 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "ed38d7585b8501bf",
+  "active": "7b5b6e2b52c92220",
   "lastOpenFiles": [
-    "AES/Overview of AES.md",
     "AES/KeyExpansion/Key Expansion.md",
     "AES/KeyExpansion/RotWord.md",
     "AES/KeyExpansion/Round Constant (RCON).md",
     "AES/KeyExpansion/SubWord.md",
-    "AES/Functions used in AES/SubMix.md",
-    "AES/Functions used in AES/SubBytes and MixColumns.md",
-    "AES/Functions used in AES/ShiftRows.md",
+    "MyThinkPad/Source Collector.md",
     "AES/Functions used in AES/AddRoundKey.md",
+    "AES/Functions used in AES/ShiftRows.md",
+    "AES/Functions used in AES/SubBytes and MixColumns.md",
+    "Fas & Cas/Orientation.md",
+    "AES/Overview of AES.md",
+    "AES/Functions used in AES/SubMix.md",
     "AES/Functions used in AES",
     "Untitled.md",
     "AES/KeyExpansion",
     "Manim/AES Visualization.md",
     "AES/AES Encryption and Decryption.md",
-    "MyThinkPad/Source Collector.md",
     "BAEKJOON/Setup.md",
     "AES/Bit-slicing AES.md",
     "Excalidraw/Question Prompt.md",

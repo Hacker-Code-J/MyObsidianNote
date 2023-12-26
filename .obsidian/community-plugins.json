@@ -1,7 +1,6 @@
 [
   "obsidian-git",
   "obsidian-tasks-plugin",
-  "calendar",
   "better-word-count",
   "file-explorer-note-count",
   "discordian-plugin",
@@ -24,5 +23,7 @@
   "image-upload-toolkit",
   "recent-files-obsidian",
   "various-complements",
-  "oz-clear-unused-images"
+  "oz-clear-unused-images",
+  "obsidian-full-calendar",
+  "cm-editor-syntax-highlight-obsidian"
 ]
