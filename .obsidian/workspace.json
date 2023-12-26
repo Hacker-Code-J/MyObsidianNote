@@ -28,25 +28,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AES/AES Encryption and Decryption.md",
+                "file": "AES/Key Expansion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "4404a973dda3d2af",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AES/AES Encryption and Decryption.md",
+                "file": "AES/Key Expansion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AES/AES Encryption and Decryption.md",
+                "file": "AES/Key Expansion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AES/AES Encryption and Decryption.md"
+                "file": "AES/Key Expansion.md"
               }
             }
           },
@@ -220,14 +209,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "4404a973dda3d2af",
+  "active": "e577a632c5fbb840",
   "lastOpenFiles": [
+    "AES/Overview of AES.md",
+    "AES/AddRoundKey.md",
+    "Manim/AES Visualization.md",
     "AES/AES Encryption and Decryption.md",
     "MyThinkPad/Source Collector.md",
-    "AES/Overview of AES.md",
     "AES/SubBytes and MixColumns.md",
     "AES/ShiftRows.md",
-    "AES/AddRoundKey.md",
     "BAEKJOON/Setup.md",
     "AES/SubMix.md",
     "AES/Key Expansion.md",
@@ -250,7 +240,6 @@
     "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
     "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
     "Implementation for AES/III. Implementing AES in C/MixColums.md",
-    "Computer Science/NVIDIA CUDA Programming.md",
     "Untitled.canvas",
     "Spaces/Home",
     "Spaces",

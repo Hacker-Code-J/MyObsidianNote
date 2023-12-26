@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Key Expansion",
+      "path": "AES/Key Expansion.md"
+    },
+    {
+      "basename": "Overview of AES",
+      "path": "AES/Overview of AES.md"
+    },
+    {
+      "basename": "AddRoundKey",
+      "path": "AES/AddRoundKey.md"
+    },
+    {
+      "basename": "AES Visualization",
+      "path": "Manim/AES Visualization.md"
+    },
+    {
       "basename": "AES Encryption and Decryption",
       "path": "AES/AES Encryption and Decryption.md"
     },
     {
       "basename": "Source Collector",
       "path": "MyThinkPad/Source Collector.md"
-    },
-    {
-      "basename": "Overview of AES",
-      "path": "AES/Overview of AES.md"
     },
     {
       "basename": "SubBytes and MixColumns",
@@ -21,20 +33,12 @@
       "path": "AES/ShiftRows.md"
     },
     {
-      "basename": "AddRoundKey",
-      "path": "AES/AddRoundKey.md"
-    },
-    {
       "basename": "Setup",
       "path": "BAEKJOON/Setup.md"
     },
     {
       "basename": "SubMix",
       "path": "AES/SubMix.md"
-    },
-    {
-      "basename": "Key Expansion",
-      "path": "AES/Key Expansion.md"
     },
     {
       "basename": "Bit-slicing AES",
@@ -195,10 +199,6 @@
     {
       "basename": "C - CraftCodeLab",
       "path": "Mind Map/C - CraftCodeLab.canvas"
-    },
-    {
-      "basename": "Debian vs Red Hat",
-      "path": "Linux/Debian vs Red Hat.md"
     }
   ],
   "omittedPaths": [],
