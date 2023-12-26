@@ -1,6 +1,10 @@
 
 [[Overview of AES]]
 
+[[RotWord]]
+[[SubWord]]
+[[Round Constant (RCON)]]
+
 $$
 \text{KeyExpansion}_{128}:\set{0,1}^{128=8\cdot 16}\to\set{0,1}^{1408=32\cdot 44}
 $$
@@ -12,6 +16,8 @@ $$
 $$
 \text{KeyExpansion}_{256}:\set{0,1}^{256=8\cdot 32}\to\set{0,1}^{1920=32\cdot 60}
 $$
+
+
 
 # KeyExpansion with S-Box
 

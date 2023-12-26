@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "e577a632c5fbb840",
+            "id": "ed38d7585b8501bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AES/Key Expansion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -134,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AES/Key Expansion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AES/Key Expansion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AES/Key Expansion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -209,18 +200,24 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e577a632c5fbb840",
+  "active": "ed38d7585b8501bf",
   "lastOpenFiles": [
     "AES/Overview of AES.md",
-    "AES/AddRoundKey.md",
+    "AES/KeyExpansion/Key Expansion.md",
+    "AES/KeyExpansion/RotWord.md",
+    "AES/KeyExpansion/Round Constant (RCON).md",
+    "AES/KeyExpansion/SubWord.md",
+    "AES/Functions used in AES/SubMix.md",
+    "AES/Functions used in AES/SubBytes and MixColumns.md",
+    "AES/Functions used in AES/ShiftRows.md",
+    "AES/Functions used in AES/AddRoundKey.md",
+    "AES/Functions used in AES",
+    "Untitled.md",
+    "AES/KeyExpansion",
     "Manim/AES Visualization.md",
     "AES/AES Encryption and Decryption.md",
     "MyThinkPad/Source Collector.md",
-    "AES/SubBytes and MixColumns.md",
-    "AES/ShiftRows.md",
     "BAEKJOON/Setup.md",
-    "AES/SubMix.md",
-    "AES/Key Expansion.md",
     "AES/Bit-slicing AES.md",
     "Excalidraw/Question Prompt.md",
     "Excalidraw/(Drawing) Nested Loops.md",
@@ -233,21 +230,14 @@
     "Editor/NeoVim.md",
     "Editor/Dev Tip.md",
     "Editor/Bash_and_PowerShell.md",
-    "Hash/SHA-2.md",
     "AES",
-    "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md",
     "Hash",
-    "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md",
-    "Implementation for AES/III. Implementing AES in C/Key Expansion.md",
-    "Implementation for AES/III. Implementing AES in C/MixColums.md",
     "Untitled.canvas",
     "Spaces/Home",
     "Spaces",
     "Computer Science",
     "OpenSSL",
     "BAEKJOON/0. Fundamentals",
-    "BAEKJOON",
-    "My Language Training",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
     "Untitled 1.canvas"

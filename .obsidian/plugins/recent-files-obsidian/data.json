@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Key Expansion",
-      "path": "AES/Key Expansion.md"
-    },
-    {
       "basename": "Overview of AES",
       "path": "AES/Overview of AES.md"
     },
     {
+      "basename": "Key Expansion",
+      "path": "AES/KeyExpansion/Key Expansion.md"
+    },
+    {
+      "basename": "RotWord",
+      "path": "AES/KeyExpansion/RotWord.md"
+    },
+    {
+      "basename": "Round Constant (RCON)",
+      "path": "AES/KeyExpansion/Round Constant (RCON).md"
+    },
+    {
+      "basename": "SubWord",
+      "path": "AES/KeyExpansion/SubWord.md"
+    },
+    {
+      "basename": "SubMix",
+      "path": "AES/Functions used in AES/SubMix.md"
+    },
+    {
+      "basename": "SubBytes and MixColumns",
+      "path": "AES/Functions used in AES/SubBytes and MixColumns.md"
+    },
+    {
+      "basename": "ShiftRows",
+      "path": "AES/Functions used in AES/ShiftRows.md"
+    },
+    {
       "basename": "AddRoundKey",
-      "path": "AES/AddRoundKey.md"
+      "path": "AES/Functions used in AES/AddRoundKey.md"
     },
     {
       "basename": "AES Visualization",
@@ -25,20 +49,8 @@
       "path": "MyThinkPad/Source Collector.md"
     },
     {
-      "basename": "SubBytes and MixColumns",
-      "path": "AES/SubBytes and MixColumns.md"
-    },
-    {
-      "basename": "ShiftRows",
-      "path": "AES/ShiftRows.md"
-    },
-    {
       "basename": "Setup",
       "path": "BAEKJOON/Setup.md"
-    },
-    {
-      "basename": "SubMix",
-      "path": "AES/SubMix.md"
     },
     {
       "basename": "Bit-slicing AES",
@@ -187,18 +199,6 @@
     {
       "basename": "Callout Styles",
       "path": "MyThinkPad/Callout Styles.md"
-    },
-    {
-      "basename": "Ollama",
-      "path": "AI/Ollama.md"
-    },
-    {
-      "basename": "The 2nd Brain",
-      "path": "Mind Map/The 2nd Brain.canvas"
-    },
-    {
-      "basename": "C - CraftCodeLab",
-      "path": "Mind Map/C - CraftCodeLab.canvas"
     }
   ],
   "omittedPaths": [],
