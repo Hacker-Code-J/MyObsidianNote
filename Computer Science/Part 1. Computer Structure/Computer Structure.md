@@ -2,14 +2,16 @@
 sticker: emoji//1f5a5-fe0f
 ---
 
+[[(Drawing) Computer Structure]]
+
 https://fastcampus.co.kr/
 
-# 1. [[Chapter 1. Computer Structure]]
+# [[Chapter 1. Computer Structure]]
 
 - 컴퓨터 구조 거시적으로보기
 - 컴퓨터 부품의 개념학습하기
 
-# 2. 명령어
+# [[Chapter2. Command]]
 
 - 명령어의 개념과 동작 이해하기
 - 실제 명령어 관찰해보기

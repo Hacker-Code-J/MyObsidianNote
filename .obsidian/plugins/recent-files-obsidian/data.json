@@ -1,68 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "SubWord",
-      "path": "AES/KeyExpansion/SubWord.md"
+      "basename": "Chapter2. Command",
+      "path": "Computer Science/Part 1. Computer Structure/Chapter2. Command.md"
     },
     {
-      "basename": "Key Expansion",
-      "path": "AES/KeyExpansion/Key Expansion.md"
+      "basename": "JOB",
+      "path": "JOB.md"
     },
     {
-      "basename": "RotWord",
-      "path": "AES/KeyExpansion/RotWord.md"
+      "basename": "Computer Structure",
+      "path": "Computer Science/Part 1. Computer Structure/Computer Structure.md"
     },
     {
-      "basename": "Round Constant (RCON)",
-      "path": "AES/KeyExpansion/Round Constant (RCON).md"
+      "basename": "Chapter 1. Computer Structure",
+      "path": "Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md"
     },
     {
-      "basename": "Source Collector",
-      "path": "MyThinkPad/Source Collector.md"
+      "basename": "(Drawing) Computer Structure",
+      "path": "Excalidraw/(Drawing) Computer Structure.md"
     },
     {
-      "basename": "AddRoundKey",
-      "path": "AES/Functions used in AES/AddRoundKey.md"
-    },
-    {
-      "basename": "ShiftRows",
-      "path": "AES/Functions used in AES/ShiftRows.md"
-    },
-    {
-      "basename": "SubBytes and MixColumns",
-      "path": "AES/Functions used in AES/SubBytes and MixColumns.md"
-    },
-    {
-      "basename": "Orientation",
-      "path": "Fas & Cas/Orientation.md"
-    },
-    {
-      "basename": "Overview of AES",
-      "path": "AES/Overview of AES.md"
-    },
-    {
-      "basename": "SubMix",
-      "path": "AES/Functions used in AES/SubMix.md"
-    },
-    {
-      "basename": "AES Visualization",
-      "path": "Manim/AES Visualization.md"
-    },
-    {
-      "basename": "AES Encryption and Decryption",
-      "path": "AES/AES Encryption and Decryption.md"
-    },
-    {
-      "basename": "Setup",
-      "path": "BAEKJOON/Setup.md"
-    },
-    {
-      "basename": "Bit-slicing AES",
-      "path": "AES/Bit-slicing AES.md"
-    },
-    {
-      "basename": "Question Prompt",
-      "path": "Excalidraw/Question Prompt.md"
+      "basename": "(Drawing) AES",
+      "path": "Excalidraw/(Drawing) AES.md"
     },
     {
       "basename": "(Drawing) Nested Loops",
@@ -77,8 +37,88 @@
       "path": "Excalidraw/(Drawing) CPU and GPU.md"
     },
     {
-      "basename": "(Drawing) AES",
-      "path": "Excalidraw/(Drawing) AES.md"
+      "basename": "ChatGPT",
+      "path": "AI/ChatGPT.md"
+    },
+    {
+      "basename": "NVIDIA CUDA Programming",
+      "path": "Computer Science/NVIDIA CUDA Programming.md"
+    },
+    {
+      "basename": "Ollama",
+      "path": "AI/Ollama.md"
+    },
+    {
+      "basename": "SubMix",
+      "path": "AES/Functions used in AES/SubMix.md"
+    },
+    {
+      "basename": "SubBytes and MixColumns",
+      "path": "AES/Functions used in AES/SubBytes and MixColumns.md"
+    },
+    {
+      "basename": "ShiftRows",
+      "path": "AES/Functions used in AES/ShiftRows.md"
+    },
+    {
+      "basename": "AddRoundKey",
+      "path": "AES/Functions used in AES/AddRoundKey.md"
+    },
+    {
+      "basename": "SubWord",
+      "path": "AES/KeyExpansion/SubWord.md"
+    },
+    {
+      "basename": "Round Constant (RCON)",
+      "path": "AES/KeyExpansion/Round Constant (RCON).md"
+    },
+    {
+      "basename": "Key Expansion",
+      "path": "AES/KeyExpansion/Key Expansion.md"
+    },
+    {
+      "basename": "RotWord",
+      "path": "AES/KeyExpansion/RotWord.md"
+    },
+    {
+      "basename": "AES Encryption and Decryption",
+      "path": "AES/AES Encryption and Decryption.md"
+    },
+    {
+      "basename": "Bit-slicing AES",
+      "path": "AES/Bit-slicing AES.md"
+    },
+    {
+      "basename": "Overview of AES",
+      "path": "AES/Overview of AES.md"
+    },
+    {
+      "basename": "32-bit AES",
+      "path": "32-bit AES.md"
+    },
+    {
+      "basename": "Codellama",
+      "path": "AI/Codellama.md"
+    },
+    {
+      "basename": "Setup",
+      "path": "BAEKJOON/Setup.md"
+    },
+    {
+      "basename": "Source Collector",
+      "path": "MyThinkPad/Source Collector.md"
+    },
+    {
+      "basename": "Orientation",
+      "path": "Fas & Cas/Orientation.md"
+    },
+    {
+      "basename": "AES Visualization",
+      "path": "Manim/AES Visualization.md"
+    },
+    {
+      "basename": "Question Prompt",
+      "path": "Excalidraw/Question Prompt.md"
     },
     {
       "basename": "OpenSSL",
@@ -121,22 +161,6 @@
       "path": "Implementation for AES/III. Implementing AES in C/MixColums.md"
     },
     {
-      "basename": "NVIDIA CUDA Programming",
-      "path": "Computer Science/NVIDIA CUDA Programming.md"
-    },
-    {
-      "basename": "Codellama",
-      "path": "AI/Codellama.md"
-    },
-    {
-      "basename": "Chapter 1. Computer Structure",
-      "path": "Computer Science/Chapter 1. Computer Structure.md"
-    },
-    {
-      "basename": "Computer Structure",
-      "path": "Computer Science/Computer Structure.md"
-    },
-    {
       "basename": "(11653) Factorization",
       "path": "BAEKJOON/0. Fundamentals/(11653) Factorization.md"
     },
@@ -157,10 +181,6 @@
       "path": "My Language Training/size_t and usize.md"
     },
     {
-      "basename": "32-bit AES",
-      "path": "32-bit AES.md"
-    },
-    {
       "basename": "Simple Multi-Chat",
       "path": "My Language Training/Rust Note/Simple Multi-Chat.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "I.1. AES Fundamentals",
       "path": "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md"
-    },
-    {
-      "basename": "I.2. AES Requirements",
-      "path": "Implementation for AES/I. Understanding/I.2. AES Requirements.md"
-    },
-    {
-      "basename": "I.3. AES Encryption Process",
-      "path": "Implementation for AES/I. Understanding/I.3. AES Encryption Process.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Github SSH Setup",
-      "path": "Github SSH Setup.md"
-    },
-    {
-      "basename": "Learning Git",
-      "path": "Git/Learning Git.md"
     }
   ],
   "omittedPaths": [],

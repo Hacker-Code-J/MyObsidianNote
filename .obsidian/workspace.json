@@ -28,7 +28,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AES/KeyExpansion/SubWord.md",
+                "file": "Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1969587ed07b8a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Part 1. Computer Structure/Chapter2. Command.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad4235a58a05e0b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Part 1. Computer Structure/Chapter2. Command.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AES/KeyExpansion/SubWord.md",
+                "file": "Computer Science/Part 1. Computer Structure/Chapter2. Command.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AES/KeyExpansion/SubWord.md",
+                "file": "Computer Science/Part 1. Computer Structure/Chapter2. Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AES/KeyExpansion/SubWord.md"
+                "file": "Computer Science/Part 1. Computer Structure/Chapter2. Command.md"
               }
             }
           },
@@ -202,37 +228,38 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "7b5b6e2b52c92220",
+  "active": "ad4235a58a05e0b5",
   "lastOpenFiles": [
-    "AES/KeyExpansion/Key Expansion.md",
-    "AES/KeyExpansion/RotWord.md",
-    "AES/KeyExpansion/Round Constant (RCON).md",
-    "AES/KeyExpansion/SubWord.md",
-    "MyThinkPad/Source Collector.md",
-    "AES/Functions used in AES/AddRoundKey.md",
-    "AES/Functions used in AES/ShiftRows.md",
-    "AES/Functions used in AES/SubBytes and MixColumns.md",
-    "Fas & Cas/Orientation.md",
-    "AES/Overview of AES.md",
-    "AES/Functions used in AES/SubMix.md",
-    "AES/Functions used in AES",
-    "Untitled.md",
-    "AES/KeyExpansion",
-    "Manim/AES Visualization.md",
-    "AES/AES Encryption and Decryption.md",
-    "BAEKJOON/Setup.md",
-    "AES/Bit-slicing AES.md",
-    "Excalidraw/Question Prompt.md",
+    "JOB.md",
+    "Computer Science/Part 1. Computer Structure/Chapter2. Command.md",
+    "Computer Science/Part 1. Computer Structure/Computer Structure.md",
+    "Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
+    "Computer Science/Part 1. Computer Structure",
+    "Excalidraw/(Drawing) Computer Structure.md",
+    "Excalidraw/(Drawing) AES.md",
     "Excalidraw/(Drawing) Nested Loops.md",
     "Excalidraw/(Drawing) Hash.md",
     "Excalidraw/(Drawing) CPU and GPU.md",
-    "Excalidraw/(Drawing) AES.md",
-    "OpenSSL/OpenSSL.md",
-    "OpenSSL/Check OpenSSL Version.md",
+    "AI/ChatGPT.md",
+    "Computer Science/NVIDIA CUDA Programming.md",
+    "AI/Ollama.md",
+    "AES/Functions used in AES/SubMix.md",
+    "AES/Functions used in AES/SubBytes and MixColumns.md",
+    "AES/Functions used in AES/ShiftRows.md",
+    "AES/Functions used in AES/AddRoundKey.md",
+    "AES/KeyExpansion/SubWord.md",
+    "AES/KeyExpansion/Round Constant (RCON).md",
+    "AES/KeyExpansion/Key Expansion.md",
+    "AES/KeyExpansion/RotWord.md",
+    "AES/AES Encryption and Decryption.md",
+    "AES/Bit-slicing AES.md",
+    "AES/Overview of AES.md",
+    "32-bit AES.md",
+    "AI/Codellama.md",
+    "BAEKJOON/Setup.md",
+    "AES/Functions used in AES",
+    "AES/KeyExpansion",
     "Untitled",
-    "Editor/NeoVim.md",
-    "Editor/Dev Tip.md",
-    "Editor/Bash_and_PowerShell.md",
     "AES",
     "Hash",
     "Untitled.canvas",
@@ -240,7 +267,6 @@
     "Spaces",
     "Computer Science",
     "OpenSSL",
-    "BAEKJOON/0. Fundamentals",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
     "Untitled 1.canvas"
