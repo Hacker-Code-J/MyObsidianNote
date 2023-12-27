@@ -356,3 +356,31 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11642
   color: var(--text-normal); /* Ensuring readable text color */
 }
 
+.callout[data-callout="proof"] {
+  font-family: 'Helvetica Neue', Arial, sans-serif; /* Modern, clean font */
+  background-color: transparent; /* Completely transparent background */
+  padding: 10px 0; /* Vertical padding only to keep the text aligned */
+  margin: 10px 0; /* Space around the callout */
+  border: none; /* No border */
+  box-shadow: none; /* No shadow */
+}
+
+.callout[data-callout="proof"] .callout-icon {
+  display: none; /* Icon hidden for a cleaner look */
+}
+
+.callout[data-callout="proof"] .callout-title-inner {
+  font-weight: bold; /* Bold title for emphasis */
+  color: var(--text-strong); /* Strong color for the title 'prof' */
+  background-color: transparent; /* Transparent background for the title */
+  margin-bottom: 5px; /* Small space between title and content */
+}
+
+.callout[data-callout="proof"] .callout-content {
+  color: black; /* Content text in black for visibility */
+  line-height: 1.6; /* Line height for structure */
+}
+
+
+
+
