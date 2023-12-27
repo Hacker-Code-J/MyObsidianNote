@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-12-27",
+      "path": "Daily Tasks/2023-12-27.md"
+    },
+    {
       "basename": "2.1. The Division Algorithm",
       "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "II.1. Structuring AES in C",
       "path": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
-    },
-    {
-      "basename": "II.2. Side-Channel Attacks",
-      "path": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md"
     }
   ],
   "omittedPaths": [],

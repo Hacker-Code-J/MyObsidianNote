@@ -26,8 +26,13 @@
             "id": "7b5b6e2b52c92220",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Tasks/2023-12-27.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -147,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Tasks/2023-12-27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Tasks/2023-12-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Tasks/2023-12-27.md"
+              }
             }
           },
           {
@@ -219,8 +228,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "7b5b6e2b52c92220",
+  "active": "d22981e05f73d4fd",
   "lastOpenFiles": [
+    "Daily Tasks/2023-12-27.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md",
     "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
     "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
@@ -250,7 +260,6 @@
     "AI/ChatGPT.md",
     "AI/Ollama.md",
     "AES/Functions used in AES/SubMix.md",
-    "AES/Functions used in AES/SubBytes and MixColumns.md",
     "AES/Functions used in AES",
     "AES/KeyExpansion",
     "AES",
