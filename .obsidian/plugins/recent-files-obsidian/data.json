@@ -1,20 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Chapter2. Command",
-      "path": "Computer Science/Part 1. Computer Structure/Chapter2. Command.md"
-    },
-    {
-      "basename": "JOB",
-      "path": "JOB.md"
+      "basename": "Chapter 3. Data",
+      "path": "Computer Science/Part 1. Computer Structure/Chapter 3. Data.md"
     },
     {
       "basename": "Computer Structure",
       "path": "Computer Science/Part 1. Computer Structure/Computer Structure.md"
     },
     {
-      "basename": "Chapter 1. Computer Structure",
-      "path": "Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md"
+      "basename": "Chapter 2. Command",
+      "path": "Computer Science/Part 1. Computer Structure/Chapter 2. Command.md"
     },
     {
       "basename": "(Drawing) Computer Structure",
@@ -23,6 +19,14 @@
     {
       "basename": "(Drawing) AES",
       "path": "Excalidraw/(Drawing) AES.md"
+    },
+    {
+      "basename": "JOB",
+      "path": "JOB.md"
+    },
+    {
+      "basename": "Chapter 1. Computer Structure",
+      "path": "Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md"
     },
     {
       "basename": "(Drawing) Nested Loops",
@@ -195,10 +199,6 @@
     {
       "basename": "1. Multiple '.rs' files in Rust",
       "path": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md"
-    },
-    {
-      "basename": "I.1. AES Fundamentals",
-      "path": "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md"
     }
   ],
   "omittedPaths": [],
