@@ -309,7 +309,7 @@ support Anubis: https://www.buymeacoffee.com/anubisnekhet
 author: sailKite, elevict
 source: https://discord.com/channels/686053708261228577/702656734631821413/1164269429543149598
 */
-
+/*
 .callout[data-callout="theorem"] {
   --callout-color: var(--text-normal);
   font-family: Times;
@@ -325,5 +325,34 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11642
 }
 .callout[data-callout="theorem"] .callout-content {
   font-style: italic;
+}
+*/
+
+.callout[data-callout="theorem"] {
+  --callout-color: var(--text-normal);
+  font-family: 'Times New Roman', Times, serif; /* Ensuring a classic, scholarly font is used */
+  background-color: rgba(255, 255, 255, 0.8); /* Light background for readability */
+  border: 2px solid var(--text-faint); /* Solid, subtle border */
+  border-radius: 6px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adding a slight shadow for depth */
+  padding: 10px; /* Adequate padding for content */
+  margin: 10px 0; /* Spacing around the callout */
+}
+
+.callout[data-callout="theorem"] .callout-icon {
+  display: none; /* Hiding the icon for a cleaner look */
+}
+
+.callout[data-callout="theorem"] .callout-title-inner {
+  font-weight: bold; /* Bold title for emphasis */
+  color: var(--text-accent); /* Using accent color for title */
+  border-bottom: 1px solid var(--text-faint); /* Subtle line under the title */
+  padding-bottom: 4px; /* Padding under the title */
+  margin-bottom: 8px; /* Space between title and content */
+}
+
+.callout[data-callout="theorem"] .callout-content {
+  font-style: italic; /* Italicized content for distinction */
+  color: var(--text-normal); /* Ensuring readable text color */
 }
 

@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Chapter 3. Data",
-      "path": "Computer Science/Part 1. Computer Structure/Chapter 3. Data.md"
+      "basename": "1.1. Mathematical Induction",
+      "path": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
+    },
+    {
+      "basename": "Obsidian Test",
+      "path": "MyThinkPad/Obsidian Test.md"
+    },
+    {
+      "basename": "Callout Styles",
+      "path": "MyThinkPad/Callout Styles.md"
+    },
+    {
+      "basename": "Chapter 1. Preliminaries",
+      "path": "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md"
+    },
+    {
+      "basename": "Number Theroy",
+      "path": "Number Theory/Number Theroy.md"
+    },
+    {
+      "basename": "1.2. The Binomial Theorem",
+      "path": "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md"
     },
     {
       "basename": "Computer Structure",
@@ -11,6 +31,10 @@
     {
       "basename": "Chapter 2. Command",
       "path": "Computer Science/Part 1. Computer Structure/Chapter 2. Command.md"
+    },
+    {
+      "basename": "Chapter 3. Data",
+      "path": "Computer Science/Part 1. Computer Structure/Chapter 3. Data.md"
     },
     {
       "basename": "(Drawing) Computer Structure",
@@ -175,30 +199,6 @@
     {
       "basename": "(8222)",
       "path": "BAEKJOON/0. Fundamentals/(8222).md"
-    },
-    {
-      "basename": "2023-12-23",
-      "path": "Daily Tasks/2023-12-23.md"
-    },
-    {
-      "basename": "size_t and usize",
-      "path": "My Language Training/size_t and usize.md"
-    },
-    {
-      "basename": "Simple Multi-Chat",
-      "path": "My Language Training/Rust Note/Simple Multi-Chat.md"
-    },
-    {
-      "basename": "sources",
-      "path": "My Language Training/Rust Note/sources.md"
-    },
-    {
-      "basename": "0. Installation and Setup",
-      "path": "My Language Training/Rust Note/0. Installation and Setup.md"
-    },
-    {
-      "basename": "1. Multiple '.rs' files in Rust",
-      "path": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md"
     }
   ],
   "omittedPaths": [],

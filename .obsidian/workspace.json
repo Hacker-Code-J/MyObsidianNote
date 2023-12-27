@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Part 1. Computer Structure/Chapter 3. Data.md",
+                "file": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -132,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Part 1. Computer Structure/Chapter 3. Data.md",
+                "file": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Part 1. Computer Structure/Chapter 3. Data.md",
+                "file": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Part 1. Computer Structure/Chapter 3. Data.md"
+                "file": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
               }
             }
           },
@@ -231,7 +230,15 @@
   },
   "active": "ad4235a58a05e0b5",
   "lastOpenFiles": [
+    "MyThinkPad/Obsidian Test.md",
+    "MyThinkPad/Callout Styles.md",
+    "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
+    "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
+    "Number Theory/Number Theroy.md",
+    "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
+    "Number Theory/Chapter 1. Preliminaries",
     "Computer Science/Part 1. Computer Structure/Computer Structure.md",
+    "Number Theory",
     "Computer Science/Part 1. Computer Structure/Chapter 2. Command.md",
     "Computer Science/Part 1. Computer Structure/Chapter 3. Data.md",
     "Excalidraw/(Drawing) Computer Structure.md",
@@ -252,22 +259,14 @@
     "AES/KeyExpansion/SubWord.md",
     "AES/KeyExpansion/Round Constant (RCON).md",
     "AES/KeyExpansion/Key Expansion.md",
-    "AES/KeyExpansion/RotWord.md",
-    "AES/AES Encryption and Decryption.md",
-    "AES/Bit-slicing AES.md",
-    "AES/Overview of AES.md",
-    "32-bit AES.md",
-    "AI/Codellama.md",
     "AES/Functions used in AES",
     "AES/KeyExpansion",
-    "Untitled",
     "AES",
     "Hash",
     "Untitled.canvas",
     "Spaces/Home",
     "Spaces",
     "Computer Science",
-    "OpenSSL",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
     "Untitled 1.canvas"
