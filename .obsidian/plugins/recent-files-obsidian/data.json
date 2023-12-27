@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2.1. The Division Algorithm",
+      "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md"
+    },
+    {
+      "basename": "1.1. Mathematical Induction",
+      "path": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
+    },
+    {
       "basename": "1.2. The Binomial Theorem",
       "path": "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md"
     },
@@ -9,8 +17,24 @@
       "path": "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md"
     },
     {
-      "basename": "1.1. Mathematical Induction",
-      "path": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
+      "basename": "Chapter 2. Divisibility Theory in the Integer",
+      "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/Chapter 2. Divisibility Theory in the Integer.md"
+    },
+    {
+      "basename": "2.4. The Diophantine Equation",
+      "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.4. The Diophantine Equation.md"
+    },
+    {
+      "basename": "2.3. The Euclidean Algorithm",
+      "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md"
+    },
+    {
+      "basename": "2.2. The Greatest Common Divisor",
+      "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.2. The Greatest Common Divisor.md"
+    },
+    {
+      "basename": "Number Theroy",
+      "path": "Number Theory/Number Theroy.md"
     },
     {
       "basename": "NVIDIA CUDA Programming",
@@ -31,10 +55,6 @@
     {
       "basename": "Callout Styles",
       "path": "MyThinkPad/Callout Styles.md"
-    },
-    {
-      "basename": "Number Theroy",
-      "path": "Number Theory/Number Theroy.md"
     },
     {
       "basename": "Computer Structure",
@@ -179,26 +199,6 @@
     {
       "basename": "II.2. Side-Channel Attacks",
       "path": "Implementation for AES/II. Design and Architecture/II.2. Side-Channel Attacks.md"
-    },
-    {
-      "basename": "Key Expansion",
-      "path": "Implementation for AES/III. Implementing AES in C/Key Expansion.md"
-    },
-    {
-      "basename": "MixColums",
-      "path": "Implementation for AES/III. Implementing AES in C/MixColums.md"
-    },
-    {
-      "basename": "(11653) Factorization",
-      "path": "BAEKJOON/0. Fundamentals/(11653) Factorization.md"
-    },
-    {
-      "basename": "(16563) Advanced Factorization",
-      "path": "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md"
-    },
-    {
-      "basename": "(8222)",
-      "path": "BAEKJOON/0. Fundamentals/(8222).md"
     }
   ],
   "omittedPaths": [],

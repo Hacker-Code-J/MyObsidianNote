@@ -328,6 +328,29 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11642
 }
 */
 
+.callout[data-callout="definition"] {
+  --callout-color: var(--text-normal);
+  font-family: 'Georgia', serif; /* Classic, elegant font for definitions */
+  background-color: rgba(255, 255, 255, 0.8); /* Light lavender background for a subtle distinction */
+  border: 2px solid var(--text-muted); /* Solid, more pronounced border */
+  border-radius: 6px;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1); /* Slightly less pronounced shadow */
+  padding: 10px; /* Consistent padding for content */
+  margin: 10px 0; /* Uniform spacing around the callout */
+}
+
+.callout[data-callout="definition"] .callout-icon {
+  display: none; /* Keeping the icon hidden for a clean appearance */
+}
+
+.callout[data-callout="definition"] .callout-title-inner {
+  font-weight: bold; /* Maintaining bold title for emphasis */
+  color: var(--text-info); /* A different accent color for title, like blue or green */
+  border-bottom: 1px dashed var(--text-muted); /* Dashed line under the title for a distinct look */
+  padding-bottom: 4px; /* Slight padding under the title */
+  margin-bottom: 8px; /* Adequate space between title and content */
+}
+
 .callout[data-callout="theorem"] {
   --callout-color: var(--text-normal);
   font-family: 'Times New Roman', Times, serif; /* Ensuring a classic, scholarly font is used */

@@ -26,13 +26,8 @@
             "id": "7b5b6e2b52c92220",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -152,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md"
-              }
+              "state": {}
             }
           },
           {
@@ -230,15 +221,21 @@
   },
   "active": "7b5b6e2b52c92220",
   "lastOpenFiles": [
-    "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
+    "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md",
     "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
-    "Computer Science/NVIDIA CUDA Programming.md",
     "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
+    "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
+    "Number Theory/Chapter 2. Divisibility Theory in the Integer/Chapter 2. Divisibility Theory in the Integer.md",
+    "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.4. The Diophantine Equation.md",
+    "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md",
+    "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.2. The Greatest Common Divisor.md",
+    "Number Theory/Number Theroy.md",
+    "Number Theory/Chapter 2. Divisibility Theory in the Integer",
+    "Computer Science/NVIDIA CUDA Programming.md",
     "Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
     "Computer Science/Part 1. Computer Structure/Chapter 2. Command.md",
     "MyThinkPad/Obsidian Test.md",
     "MyThinkPad/Callout Styles.md",
-    "Number Theory/Number Theroy.md",
     "Number Theory/Chapter 1. Preliminaries",
     "Computer Science/Part 1. Computer Structure/Computer Structure.md",
     "Number Theory",
@@ -254,11 +251,6 @@
     "AI/Ollama.md",
     "AES/Functions used in AES/SubMix.md",
     "AES/Functions used in AES/SubBytes and MixColumns.md",
-    "AES/Functions used in AES/ShiftRows.md",
-    "AES/Functions used in AES/AddRoundKey.md",
-    "AES/KeyExpansion/SubWord.md",
-    "AES/KeyExpansion/Round Constant (RCON).md",
-    "AES/KeyExpansion/Key Expansion.md",
     "AES/Functions used in AES",
     "AES/KeyExpansion",
     "AES",
@@ -266,7 +258,6 @@
     "Untitled.canvas",
     "Spaces/Home",
     "Spaces",
-    "Computer Science",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
     "Untitled 1.canvas"

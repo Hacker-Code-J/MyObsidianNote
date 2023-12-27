@@ -35,17 +35,7 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//Implementation for AES",
-    "//Implementation for AES",
-    "//Excalidraw",
-    "//Excalidraw",
-    "//Editor",
-    "//Editor",
-    "//Daily Tasks",
-    "//Daily Tasks",
-    "//Fas & Cas",
-    "//Fas & Cas"
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
