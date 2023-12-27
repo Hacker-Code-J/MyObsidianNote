@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "NVIDIA CUDA Programming",
+      "path": "Computer Science/NVIDIA CUDA Programming.md"
+    },
+    {
       "basename": "1.1. Mathematical Induction",
       "path": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Chapter 2. Command",
       "path": "Computer Science/Part 1. Computer Structure/Chapter 2. Command.md"
-    },
-    {
-      "basename": "NVIDIA CUDA Programming",
-      "path": "Computer Science/NVIDIA CUDA Programming.md"
     },
     {
       "basename": "Obsidian Test",
