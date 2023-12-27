@@ -3,6 +3,8 @@
 
 https://www.youtube.com/watch?v=8sDg-lD1fZQ
 https://rust-gpu.github.io/Rust-CUDA/cuda/gpu_computing.html
+
+https://www.youtube.com/watch?v=kUqkOAU84bA
 ## Why GPU Programming?
 
 - GPUs are designed for parallelized processing

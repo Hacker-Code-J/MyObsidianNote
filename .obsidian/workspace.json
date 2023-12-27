@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
+                "file": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
+                "file": "Computer Science/NVIDIA CUDA Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,29 +228,29 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "ad4235a58a05e0b5",
+  "active": "7b5b6e2b52c92220",
   "lastOpenFiles": [
+    "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
+    "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
+    "Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
+    "Computer Science/Part 1. Computer Structure/Chapter 2. Command.md",
+    "Computer Science/NVIDIA CUDA Programming.md",
     "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
     "MyThinkPad/Obsidian Test.md",
     "MyThinkPad/Callout Styles.md",
-    "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
     "Number Theory/Number Theroy.md",
-    "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
     "Number Theory/Chapter 1. Preliminaries",
     "Computer Science/Part 1. Computer Structure/Computer Structure.md",
     "Number Theory",
-    "Computer Science/Part 1. Computer Structure/Chapter 2. Command.md",
     "Computer Science/Part 1. Computer Structure/Chapter 3. Data.md",
     "Excalidraw/(Drawing) Computer Structure.md",
     "Excalidraw/(Drawing) AES.md",
     "JOB.md",
-    "Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
     "Computer Science/Part 1. Computer Structure",
     "Excalidraw/(Drawing) Nested Loops.md",
     "Excalidraw/(Drawing) Hash.md",
     "Excalidraw/(Drawing) CPU and GPU.md",
     "AI/ChatGPT.md",
-    "Computer Science/NVIDIA CUDA Programming.md",
     "AI/Ollama.md",
     "AES/Functions used in AES/SubMix.md",
     "AES/Functions used in AES/SubBytes and MixColumns.md",
