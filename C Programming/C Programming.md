@@ -1,5 +1,6 @@
 
 https://www.youtube.com/@CodeVault/videos
+https://tcpschool.com/c/intro
 
 - [[Random Numbers]]
 - [[String Operations]]

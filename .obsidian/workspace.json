@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Programming/Random Numbers.md",
+                "file": "C Programming/C Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Programming/Random Numbers.md",
+                "file": "C Programming/C Programming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Programming/Random Numbers.md",
+                "file": "C Programming/C Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Programming/Random Numbers.md"
+                "file": "C Programming/C Programming.md"
               }
             }
           },
@@ -217,11 +217,11 @@
   },
   "active": "c1969587ed07b8a9",
   "lastOpenFiles": [
+    "C Programming/Random Numbers.md",
     "C Programming/C Programming.md",
     "C Programming/File and Terminal In-output Operations.md",
     "C Programming/Pointer and Memory Management.md",
     "C Programming/String Operations.md",
-    "C Programming/Random Numbers.md",
     "My Language Training/C Note/static vs const vs static const.md",
     "C Programming",
     "My Language Training/Rust Note/0. Installation and Setup.md",
