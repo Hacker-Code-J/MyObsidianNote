@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Random Numbers",
+      "path": "C Programming/Random Numbers.md"
+    },
+    {
       "basename": "C Programming",
       "path": "C Programming/C Programming.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "String Operations",
       "path": "C Programming/String Operations.md"
-    },
-    {
-      "basename": "Random Numbers",
-      "path": "C Programming/Random Numbers.md"
     },
     {
       "basename": "static vs const vs static const",
