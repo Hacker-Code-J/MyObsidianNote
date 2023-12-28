@@ -39,13 +39,8 @@
             "id": "c1969587ed07b8a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Traning/C Training.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -152,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Traning/C Training.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Traning/C Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C Traning/C Training.md"
-              }
+              "state": {}
             }
           },
           {
@@ -230,9 +221,13 @@
   },
   "active": "c1969587ed07b8a9",
   "lastOpenFiles": [
+    "C Programming/C Programming.md",
+    "C Programming/File and Terminal In-output Operations.md",
+    "C Programming/Pointer and Memory Management.md",
+    "C Programming/String Operations.md",
+    "C Programming/Random Numbers.md",
     "My Language Training/C Note/static vs const vs static const.md",
-    "C Traning/C Training.md",
-    "C Traning",
+    "C Programming",
     "My Language Training/Rust Note/0. Installation and Setup.md",
     "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
     "My Language Training/Rust Note/Simple Multi-Chat.md",
@@ -254,12 +249,8 @@
     "Number Theory/Chapter 2. Divisibility Theory in the Integer",
     "Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
     "MyThinkPad/Obsidian Test.md",
-    "MyThinkPad/Callout Styles.md",
     "Number Theory/Chapter 1. Preliminaries",
-    "Computer Science/Part 1. Computer Structure/Computer Structure.md",
     "Number Theory",
-    "Computer Science/Part 1. Computer Structure/Chapter 3. Data.md",
-    "Excalidraw/(Drawing) Computer Structure.md",
     "Computer Science/Part 1. Computer Structure",
     "AES/Functions used in AES",
     "AES/KeyExpansion",

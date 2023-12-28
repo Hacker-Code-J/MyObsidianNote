@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "C Training",
-      "path": "C Traning/C Training.md"
+      "basename": "C Programming",
+      "path": "C Programming/C Programming.md"
+    },
+    {
+      "basename": "File and Terminal In-output Operations",
+      "path": "C Programming/File and Terminal In-output Operations.md"
+    },
+    {
+      "basename": "Pointer and Memory Management",
+      "path": "C Programming/Pointer and Memory Management.md"
+    },
+    {
+      "basename": "String Operations",
+      "path": "C Programming/String Operations.md"
+    },
+    {
+      "basename": "Random Numbers",
+      "path": "C Programming/Random Numbers.md"
     },
     {
       "basename": "static vs const vs static const",
@@ -183,22 +199,6 @@
     {
       "basename": "Codellama",
       "path": "AI/Codellama.md"
-    },
-    {
-      "basename": "Setup",
-      "path": "BAEKJOON/Setup.md"
-    },
-    {
-      "basename": "Orientation",
-      "path": "Fas & Cas/Orientation.md"
-    },
-    {
-      "basename": "AES Visualization",
-      "path": "Manim/AES Visualization.md"
-    },
-    {
-      "basename": "Question Prompt",
-      "path": "Excalidraw/Question Prompt.md"
     }
   ],
   "omittedPaths": [],
