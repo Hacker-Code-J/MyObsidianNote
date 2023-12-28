@@ -6,5 +6,7 @@ https://tcpschool.com/c/intro
 - [[String Operations]]
 - [[Pointer and Memory Management]]
 - [[File and Terminal In-output Operations]]
-- 
+
+
+
 
