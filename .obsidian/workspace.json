@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Programming/C Programming.md",
+                "file": "ECC/ECC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Programming/C Programming.md",
+                "file": "ECC/ECC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Programming/C Programming.md",
+                "file": "ECC/ECC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Programming/C Programming.md"
+                "file": "ECC/ECC.md"
               }
             }
           },
@@ -217,8 +217,10 @@
   },
   "active": "c1969587ed07b8a9",
   "lastOpenFiles": [
-    "C Programming/Random Numbers.md",
     "C Programming/C Programming.md",
+    "ECC/ECC.md",
+    "ECC",
+    "C Programming/Random Numbers.md",
     "C Programming/File and Terminal In-output Operations.md",
     "C Programming/Pointer and Memory Management.md",
     "C Programming/String Operations.md",
@@ -244,7 +246,6 @@
     "Number Theory/Number Theroy.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer",
     "Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
-    "MyThinkPad/Obsidian Test.md",
     "Number Theory/Chapter 1. Preliminaries",
     "Number Theory",
     "Computer Science/Part 1. Computer Structure",
@@ -253,7 +254,6 @@
     "AES",
     "Hash",
     "Untitled.canvas",
-    "Spaces/Home",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
     "Untitled 1.canvas"

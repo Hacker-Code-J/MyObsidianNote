@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ECC",
+      "path": "ECC/ECC.md"
+    },
+    {
       "basename": "C Programming",
       "path": "C Programming/C Programming.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "32-bit AES",
       "path": "32-bit AES.md"
-    },
-    {
-      "basename": "Codellama",
-      "path": "AI/Codellama.md"
     }
   ],
   "omittedPaths": [],
