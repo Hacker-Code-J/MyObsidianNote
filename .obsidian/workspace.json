@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Part 1. Computer Structure/Chapter 2. Command.md",
+                "file": "C Traning/C Training.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyThinkPad/Source Collector.md",
+                "file": "C Traning/C Training.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyThinkPad/Source Collector.md",
+                "file": "C Traning/C Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyThinkPad/Source Collector.md"
+                "file": "C Traning/C Training.md"
               }
             }
           },
@@ -229,22 +228,31 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d22981e05f73d4fd",
+  "active": "c1969587ed07b8a9",
   "lastOpenFiles": [
-    "Daily Tasks/2023-12-27.md",
-    "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md",
+    "My Language Training/C Note/static vs const vs static const.md",
+    "C Traning/C Training.md",
+    "C Traning",
+    "My Language Training/Rust Note/0. Installation and Setup.md",
+    "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
+    "My Language Training/Rust Note/Simple Multi-Chat.md",
+    "My Language Training/Rust Note/sources.md",
+    "My Language Training/size_t and usize.md",
     "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
     "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
+    "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md",
+    "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.4. The Diophantine Equation.md",
+    "Computer Science/Part 1. Computer Structure/Chapter 2. Command.md",
+    "Computer Science/NVIDIA CUDA Programming.md",
+    "MyThinkPad/Source Collector.md",
+    "Daily Tasks/2023-12-27.md",
+    "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md",
     "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer/Chapter 2. Divisibility Theory in the Integer.md",
-    "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.4. The Diophantine Equation.md",
-    "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.2. The Greatest Common Divisor.md",
     "Number Theory/Number Theroy.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer",
-    "Computer Science/NVIDIA CUDA Programming.md",
     "Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
-    "Computer Science/Part 1. Computer Structure/Chapter 2. Command.md",
     "MyThinkPad/Obsidian Test.md",
     "MyThinkPad/Callout Styles.md",
     "Number Theory/Chapter 1. Preliminaries",
@@ -252,22 +260,13 @@
     "Number Theory",
     "Computer Science/Part 1. Computer Structure/Chapter 3. Data.md",
     "Excalidraw/(Drawing) Computer Structure.md",
-    "Excalidraw/(Drawing) AES.md",
-    "JOB.md",
     "Computer Science/Part 1. Computer Structure",
-    "Excalidraw/(Drawing) Nested Loops.md",
-    "Excalidraw/(Drawing) Hash.md",
-    "Excalidraw/(Drawing) CPU and GPU.md",
-    "AI/ChatGPT.md",
-    "AI/Ollama.md",
-    "AES/Functions used in AES/SubMix.md",
     "AES/Functions used in AES",
     "AES/KeyExpansion",
     "AES",
     "Hash",
     "Untitled.canvas",
     "Spaces/Home",
-    "Spaces",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
     "Untitled 1.canvas"

@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "C Training",
+      "path": "C Traning/C Training.md"
+    },
+    {
+      "basename": "static vs const vs static const",
+      "path": "My Language Training/C Note/static vs const vs static const.md"
+    },
+    {
+      "basename": "0. Installation and Setup",
+      "path": "My Language Training/Rust Note/0. Installation and Setup.md"
+    },
+    {
+      "basename": "1. Multiple '.rs' files in Rust",
+      "path": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md"
+    },
+    {
+      "basename": "Simple Multi-Chat",
+      "path": "My Language Training/Rust Note/Simple Multi-Chat.md"
+    },
+    {
+      "basename": "sources",
+      "path": "My Language Training/Rust Note/sources.md"
+    },
+    {
+      "basename": "size_t and usize",
+      "path": "My Language Training/size_t and usize.md"
+    },
+    {
+      "basename": "1.1. Mathematical Induction",
+      "path": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
+    },
+    {
+      "basename": "1.2. The Binomial Theorem",
+      "path": "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md"
+    },
+    {
+      "basename": "2.3. The Euclidean Algorithm",
+      "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md"
+    },
+    {
+      "basename": "2.4. The Diophantine Equation",
+      "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.4. The Diophantine Equation.md"
+    },
+    {
+      "basename": "Chapter 2. Command",
+      "path": "Computer Science/Part 1. Computer Structure/Chapter 2. Command.md"
+    },
+    {
+      "basename": "NVIDIA CUDA Programming",
+      "path": "Computer Science/NVIDIA CUDA Programming.md"
+    },
+    {
       "basename": "Source Collector",
       "path": "MyThinkPad/Source Collector.md"
     },
@@ -13,28 +65,12 @@
       "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md"
     },
     {
-      "basename": "1.1. Mathematical Induction",
-      "path": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
-    },
-    {
-      "basename": "1.2. The Binomial Theorem",
-      "path": "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md"
-    },
-    {
       "basename": "Chapter 1. Preliminaries",
       "path": "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md"
     },
     {
       "basename": "Chapter 2. Divisibility Theory in the Integer",
       "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/Chapter 2. Divisibility Theory in the Integer.md"
-    },
-    {
-      "basename": "2.4. The Diophantine Equation",
-      "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.4. The Diophantine Equation.md"
-    },
-    {
-      "basename": "2.3. The Euclidean Algorithm",
-      "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md"
     },
     {
       "basename": "2.2. The Greatest Common Divisor",
@@ -45,16 +81,8 @@
       "path": "Number Theory/Number Theroy.md"
     },
     {
-      "basename": "NVIDIA CUDA Programming",
-      "path": "Computer Science/NVIDIA CUDA Programming.md"
-    },
-    {
       "basename": "Chapter 1. Computer Structure",
       "path": "Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md"
-    },
-    {
-      "basename": "Chapter 2. Command",
-      "path": "Computer Science/Part 1. Computer Structure/Chapter 2. Command.md"
     },
     {
       "basename": "Obsidian Test",
@@ -171,34 +199,6 @@
     {
       "basename": "Question Prompt",
       "path": "Excalidraw/Question Prompt.md"
-    },
-    {
-      "basename": "OpenSSL",
-      "path": "OpenSSL/OpenSSL.md"
-    },
-    {
-      "basename": "Check OpenSSL Version",
-      "path": "OpenSSL/Check OpenSSL Version.md"
-    },
-    {
-      "basename": "NeoVim",
-      "path": "Editor/NeoVim.md"
-    },
-    {
-      "basename": "Dev Tip",
-      "path": "Editor/Dev Tip.md"
-    },
-    {
-      "basename": "Bash_and_PowerShell",
-      "path": "Editor/Bash_and_PowerShell.md"
-    },
-    {
-      "basename": "SHA-2",
-      "path": "Hash/SHA-2.md"
-    },
-    {
-      "basename": "II.1. Structuring AES in C",
-      "path": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
     }
   ],
   "omittedPaths": [],
