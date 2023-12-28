@@ -20,3 +20,31 @@ int main(int argc, char* argv[]) {
 }
 ```
 
+### Random Number in an Interval in C
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int rand_interval(int a, int b) {
+	return rand() % (b - a) + a;
+}
+
+int main(int argc, char* argv[]) {
+	srand((unsigned int)time(NULL));
+	for(int i = 0; i < 100; i++) {
+		printf("%d\n", rand_interval(5, 20));
+	}
+	return 0;
+}
+```
+
+
+
+
+
+
+
+
+
