@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Assistants API",
+      "path": "AI/Assistants API.md"
+    },
+    {
       "basename": "Elliptic Curves",
       "path": "ECC/Elliptic Curves.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Bit-slicing AES",
       "path": "AES/Bit-slicing AES.md"
-    },
-    {
-      "basename": "Overview of AES",
-      "path": "AES/Overview of AES.md"
     }
   ],
   "omittedPaths": [],

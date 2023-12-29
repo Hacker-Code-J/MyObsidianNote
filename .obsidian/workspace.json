@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECC/Elliptic Curves.md",
+                "file": "AI/Assistants API.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECC/Elliptic Curves.md",
+                "file": "AI/Assistants API.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECC/Elliptic Curves.md",
+                "file": "AI/Assistants API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECC/Elliptic Curves.md"
+                "file": "AI/Assistants API.md"
               }
             }
           },
@@ -217,8 +217,9 @@
   },
   "active": "c1969587ed07b8a9",
   "lastOpenFiles": [
-    "ECC/ECC.md",
     "ECC/Elliptic Curves.md",
+    "AI/Assistants API.md",
+    "ECC/ECC.md",
     "ECC/Untitled",
     "Daily Tasks/2023-12-27.md",
     "AI/ChatGPT.md",
@@ -245,7 +246,6 @@
     "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md",
     "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer/Chapter 2. Divisibility Theory in the Integer.md",
-    "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.2. The Greatest Common Divisor.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer",
     "Number Theory/Chapter 1. Preliminaries",
     "Number Theory",
