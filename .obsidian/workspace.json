@@ -26,12 +26,19 @@
             "id": "c1969587ed07b8a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "AI/Assistants API.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/(Drawing) Nested Loops.md"
+              }
+            }
+          },
+          {
+            "id": "24e8115ec0201da5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing - Data Structure.md"
               }
             }
           },
@@ -49,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Assistants API.md",
+                "file": "Excalidraw/Drawing - Data Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Assistants API.md",
+                "file": "Excalidraw/Drawing - Data Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Assistants API.md"
+                "file": "Excalidraw/Drawing - Data Structure.md"
               }
             }
           },
@@ -215,10 +222,16 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c1969587ed07b8a9",
+  "active": "24e8115ec0201da5",
   "lastOpenFiles": [
-    "ECC/Elliptic Curves.md",
+    "Excalidraw/(Drawing) Nested Loops.md",
+    "Excalidraw/(Drawing) Hash.md",
+    "Excalidraw/(Drawing) AES.md",
+    "Excalidraw/(Drawing) Computer Structure.md",
+    "Excalidraw/(Drawing) CPU and GPU.md",
+    "Excalidraw/Drawing - Data Structure.md",
     "AI/Assistants API.md",
+    "ECC/Elliptic Curves.md",
     "ECC/ECC.md",
     "ECC/Untitled",
     "Daily Tasks/2023-12-27.md",
@@ -240,12 +253,6 @@
     "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.4. The Diophantine Equation.md",
-    "Computer Science/Part 1. Computer Structure/Chapter 2. Command.md",
-    "Computer Science/NVIDIA CUDA Programming.md",
-    "MyThinkPad/Source Collector.md",
-    "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md",
-    "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
-    "Number Theory/Chapter 2. Divisibility Theory in the Integer/Chapter 2. Divisibility Theory in the Integer.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer",
     "Number Theory/Chapter 1. Preliminaries",
     "Number Theory",

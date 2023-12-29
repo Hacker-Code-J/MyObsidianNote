@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing - Data Structure",
+      "path": "Excalidraw/Drawing - Data Structure.md"
+    },
+    {
+      "basename": "(Drawing) Nested Loops",
+      "path": "Excalidraw/(Drawing) Nested Loops.md"
+    },
+    {
+      "basename": "(Drawing) Hash",
+      "path": "Excalidraw/(Drawing) Hash.md"
+    },
+    {
+      "basename": "(Drawing) AES",
+      "path": "Excalidraw/(Drawing) AES.md"
+    },
+    {
+      "basename": "(Drawing) Computer Structure",
+      "path": "Excalidraw/(Drawing) Computer Structure.md"
+    },
+    {
+      "basename": "(Drawing) CPU and GPU",
+      "path": "Excalidraw/(Drawing) CPU and GPU.md"
+    },
+    {
       "basename": "Assistants API",
       "path": "AI/Assistants API.md"
     },
@@ -133,28 +157,8 @@
       "path": "Computer Science/Part 1. Computer Structure/Chapter 3. Data.md"
     },
     {
-      "basename": "(Drawing) Computer Structure",
-      "path": "Excalidraw/(Drawing) Computer Structure.md"
-    },
-    {
-      "basename": "(Drawing) AES",
-      "path": "Excalidraw/(Drawing) AES.md"
-    },
-    {
       "basename": "JOB",
       "path": "JOB.md"
-    },
-    {
-      "basename": "(Drawing) Nested Loops",
-      "path": "Excalidraw/(Drawing) Nested Loops.md"
-    },
-    {
-      "basename": "(Drawing) Hash",
-      "path": "Excalidraw/(Drawing) Hash.md"
-    },
-    {
-      "basename": "(Drawing) CPU and GPU",
-      "path": "Excalidraw/(Drawing) CPU and GPU.md"
     },
     {
       "basename": "Ollama",
@@ -195,10 +199,6 @@
     {
       "basename": "AES Encryption and Decryption",
       "path": "AES/AES Encryption and Decryption.md"
-    },
-    {
-      "basename": "Bit-slicing AES",
-      "path": "AES/Bit-slicing AES.md"
     }
   ],
   "omittedPaths": [],
