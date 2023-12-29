@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECC/ECC.md",
+                "file": "ECC/Elliptic Curves.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECC/ECC.md",
+                "file": "ECC/Elliptic Curves.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECC/ECC.md",
+                "file": "ECC/Elliptic Curves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECC/ECC.md"
+                "file": "ECC/Elliptic Curves.md"
               }
             }
           },
@@ -217,8 +217,13 @@
   },
   "active": "c1969587ed07b8a9",
   "lastOpenFiles": [
-    "C Programming/C Programming.md",
     "ECC/ECC.md",
+    "ECC/Elliptic Curves.md",
+    "ECC/Untitled",
+    "Daily Tasks/2023-12-27.md",
+    "AI/ChatGPT.md",
+    "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
+    "C Programming/C Programming.md",
     "ECC",
     "C Programming/Random Numbers.md",
     "C Programming/File and Terminal In-output Operations.md",
@@ -231,28 +236,23 @@
     "My Language Training/Rust Note/Simple Multi-Chat.md",
     "My Language Training/Rust Note/sources.md",
     "My Language Training/size_t and usize.md",
-    "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
     "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.4. The Diophantine Equation.md",
     "Computer Science/Part 1. Computer Structure/Chapter 2. Command.md",
     "Computer Science/NVIDIA CUDA Programming.md",
     "MyThinkPad/Source Collector.md",
-    "Daily Tasks/2023-12-27.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md",
     "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer/Chapter 2. Divisibility Theory in the Integer.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.2. The Greatest Common Divisor.md",
-    "Number Theory/Number Theroy.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer",
-    "Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
     "Number Theory/Chapter 1. Preliminaries",
     "Number Theory",
     "Computer Science/Part 1. Computer Structure",
     "AES/Functions used in AES",
     "AES/KeyExpansion",
     "AES",
-    "Hash",
     "Untitled.canvas",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",

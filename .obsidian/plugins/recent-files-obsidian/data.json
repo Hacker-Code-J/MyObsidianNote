@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Elliptic Curves",
+      "path": "ECC/Elliptic Curves.md"
+    },
+    {
       "basename": "ECC",
       "path": "ECC/ECC.md"
+    },
+    {
+      "basename": "2023-12-27",
+      "path": "Daily Tasks/2023-12-27.md"
+    },
+    {
+      "basename": "ChatGPT",
+      "path": "AI/ChatGPT.md"
+    },
+    {
+      "basename": "1.1. Mathematical Induction",
+      "path": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
     },
     {
       "basename": "C Programming",
@@ -49,10 +65,6 @@
       "path": "My Language Training/size_t and usize.md"
     },
     {
-      "basename": "1.1. Mathematical Induction",
-      "path": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
-    },
-    {
       "basename": "1.2. The Binomial Theorem",
       "path": "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md"
     },
@@ -75,10 +87,6 @@
     {
       "basename": "Source Collector",
       "path": "MyThinkPad/Source Collector.md"
-    },
-    {
-      "basename": "2023-12-27",
-      "path": "Daily Tasks/2023-12-27.md"
     },
     {
       "basename": "2.1. The Division Algorithm",
@@ -145,10 +153,6 @@
       "path": "Excalidraw/(Drawing) CPU and GPU.md"
     },
     {
-      "basename": "ChatGPT",
-      "path": "AI/ChatGPT.md"
-    },
-    {
       "basename": "Ollama",
       "path": "AI/Ollama.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Overview of AES",
       "path": "AES/Overview of AES.md"
-    },
-    {
-      "basename": "32-bit AES",
-      "path": "32-bit AES.md"
     }
   ],
   "omittedPaths": [],
