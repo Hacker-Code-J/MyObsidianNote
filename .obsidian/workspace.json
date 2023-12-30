@@ -36,9 +36,12 @@
             "id": "24e8115ec0201da5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing - Data Structure.md"
+                "file": "Daily Tasks/Main Tasks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -146,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing - Data Structure.md",
+                "file": "Daily Tasks/Main Tasks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing - Data Structure.md",
+                "file": "Daily Tasks/Main Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing - Data Structure.md"
+                "file": "Daily Tasks/Main Tasks.md"
               }
             }
           },
@@ -224,12 +227,13 @@
   },
   "active": "24e8115ec0201da5",
   "lastOpenFiles": [
+    "Excalidraw/Drawing - Data Structure.md",
+    "Daily Tasks/Main Tasks.md",
     "Excalidraw/(Drawing) Nested Loops.md",
     "Excalidraw/(Drawing) Hash.md",
     "Excalidraw/(Drawing) AES.md",
     "Excalidraw/(Drawing) Computer Structure.md",
     "Excalidraw/(Drawing) CPU and GPU.md",
-    "Excalidraw/Drawing - Data Structure.md",
     "AI/Assistants API.md",
     "ECC/Elliptic Curves.md",
     "ECC/ECC.md",
@@ -252,7 +256,6 @@
     "My Language Training/size_t and usize.md",
     "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md",
-    "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.4. The Diophantine Equation.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer",
     "Number Theory/Chapter 1. Preliminaries",
     "Number Theory",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Main Tasks",
+      "path": "Daily Tasks/Main Tasks.md"
+    },
+    {
       "basename": "Drawing - Data Structure",
       "path": "Excalidraw/Drawing - Data Structure.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "RotWord",
       "path": "AES/KeyExpansion/RotWord.md"
-    },
-    {
-      "basename": "AES Encryption and Decryption",
-      "path": "AES/AES Encryption and Decryption.md"
     }
   ],
   "omittedPaths": [],
