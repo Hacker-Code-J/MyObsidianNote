@@ -1,6 +1,8 @@
 
 
 - https://www.youtube.com/@user-pw9fm4gc7e/playlists
+- https://www.youtube.com/watch?v=Z-ksCSK-1mk
+- https://www.youtube.com/watch?v=JfOXC9rw3PM
 ### CodeValut
 - https://www.youtube.com/@CodeVault/playlists
 
@@ -29,3 +31,11 @@
 ### Obsidian and Excalidraw
 - https://www.youtube.com/watch?v=u2UfMCH42Tk
 - https://www.youtube.com/watch?v=m2l67VyC4CY
+
+### C
+- https://www.youtube.com/watch?v=alZBfnOiZQw
+- https://www.youtube.com/watch?v=M9ZrQX1UgAU
+- https://www.youtube.com/watch?v=x-Lp-h_pf9Q&t=802s
+
+### Rust
+- https://www.youtube.com/watch?v=w1dlmOjDLX8
