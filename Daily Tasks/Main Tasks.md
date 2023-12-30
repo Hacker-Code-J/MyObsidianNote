@@ -39,3 +39,12 @@
 
 ### Rust
 - https://www.youtube.com/watch?v=w1dlmOjDLX8
+
+
+### NTT
+- https://blog.naver.com/yyhjin12/223044578555
+
+https://developer-mac.tistory.com/83
+https://patents.google.com/patent/KR101952547B1/ko
+http://cryptostudy.xyz/crypto/article/3-ECC-%ED%83%80%EC%9B%90%EA%B3%A1%EC%84%A0%EC%95%94%ED%98%B8
+
