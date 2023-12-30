@@ -26,5 +26,6 @@
 - https://blog.skby.net/%EC%96%91%EC%9E%90-%EC%95%94%ED%98%B8-%EA%B8%B0%EC%88%A0%EA%B3%BC-%EC%96%91%EC%9E%90%EB%82%B4%EC%84%B1%EC%95%94%ED%98%B8pqc-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/
 
 
-### Excalidraw
+### Obsidian and Excalidraw
 - https://www.youtube.com/watch?v=u2UfMCH42Tk
+- https://www.youtube.com/watch?v=m2l67VyC4CY
