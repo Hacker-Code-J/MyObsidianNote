@@ -48,3 +48,18 @@ https://developer-mac.tistory.com/83
 https://patents.google.com/patent/KR101952547B1/ko
 http://cryptostudy.xyz/crypto/article/3-ECC-%ED%83%80%EC%9B%90%EA%B3%A1%EC%84%A0%EC%95%94%ED%98%B8
 
+
+
+### 2023-12-31
+- https://namu.wiki/w/%ED%83%80%EC%9B%90%EA%B3%A1%EC%84%A0
+- https://hyun-jeong.medium.com/%ED%83%80%EC%9B%90%EA%B3%A1%EC%84%A0%EC%9D%98-%EA%B7%BC%EB%B3%B8%EC%A0%81%EC%9D%B8-%EC%88%98%ED%95%99-%EC%9D%B4%EC%95%BC%EA%B8%B0-1-427948ca28c5
+- https://hyun-jeong.medium.com/
+
+- https://www.youtube.com/watch?v=_Za35RoWMlo
+- https://www.youtube.com/watch?v=tK3phDCwRC0
+- https://www.youtube.com/watch?v=hkeT3LRVXkM
+- https://www.youtube.com/watch?v=C1nuZ2sJa9E
+- https://www.youtube.com/watch?v=EDT4aF9KQFA
+- https://www.youtube.com/watch?v=pp06oGD4m00
+- https://www.youtube.com/watch?v=pQsdygaYcE4
+- https://www.youtube.com/@kimylamp/videos
