@@ -63,3 +63,14 @@ http://cryptostudy.xyz/crypto/article/3-ECC-%ED%83%80%EC%9B%90%EA%B3%A1%EC%84%A0
 - https://www.youtube.com/watch?v=pp06oGD4m00
 - https://www.youtube.com/watch?v=pQsdygaYcE4
 - https://www.youtube.com/@kimylamp/videos
+
+### 2024-01-01
+- https://www.youtube.com/watch?v=-9K7zNgsbP0
+- https://www.youtube.com/watch?v=PHbCmIckV20
+- https://www.youtube.com/watch?v=FjOz-8nvW28
+
+- https://www.youtube.com/watch?v=K9L9YZhEjC0
+- https://www.youtube.com/watch?v=IWpJsoX_UmU&list=PLLcbGhhl4sQBIPHbSmmYmrCapsfqThJnw&index=3
+- https://www.youtube.com/watch?v=hWnLq-dg7B4
+- https://www.youtube.com/watch?v=hvcjeAZ2qCI
+- https://www.youtube.com/watch?v=LkHWorICuHY
