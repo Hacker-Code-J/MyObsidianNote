@@ -83,3 +83,4 @@ http://cryptostudy.xyz/crypto/article/3-ECC-%ED%83%80%EC%9B%90%EA%B3%A1%EC%84%A0
 - https://www.youtube.com/watch?v=vaagJVt2il0
 - https://www.youtube.com/watch?v=GRgwsq7yK5I (논문작성)
 - https://www.youtube.com/watch?v=DikSHZS2yNs (타원곡선)
+- https://www.youtube.com/watch?v=usSZKfm39CE (영지식증명)
