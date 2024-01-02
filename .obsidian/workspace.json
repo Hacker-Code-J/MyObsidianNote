@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1. C Programming/0.1. C Programming.md",
+                "file": "1.1. AES/1.1.0. AES - Galois Fields.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. C Programming/0.1. C Programming.md",
+                "file": "1.1. AES/1.1.0. AES - Galois Fields.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. C Programming/0.1. C Programming.md",
+                "file": "1.1. AES/1.1.0. AES - Galois Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. C Programming/0.1. C Programming.md"
+                "file": "1.1. AES/1.1.0. AES - Galois Fields.md"
               }
             }
           },
@@ -225,8 +225,25 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d22981e05f73d4fd",
+  "active": "2dbfca2f669a8278",
   "lastOpenFiles": [
+    "1.1. AES/1.1.0. AES - Galois Fields.md",
+    "1.1. AES/1.1.0. Overview of AES.md",
+    "Hash/SHA-2.md",
+    "GCC/Pedantic Compilation in Linux.md",
+    "1.1. AES/1.1.1.1. RotWord.md",
+    "1.1. AES/1.1.3. ShiftRows.md",
+    "1.1. AES/1.1.5. AES Encryption and Decryption.md",
+    "1.1. AES/1.1.2. AddRoundKey.md",
+    "1.1. AES/1.1.1.0. Key Expansion.md",
+    "Manim/AES Visualization.md",
+    "32-bit AES.md",
+    "Github SSH Setup.md",
+    "JOB.md",
+    "Question Prompt.md",
+    "README.md",
+    "1.1. AES/Bit-slicing AES.md",
+    "0.1. C Programming/0.1. C Programming.md",
     "0.1. Rust Programming/0.1. Rust Programming.md",
     "1.2. OpenSSL/Check OpenSSL Version.md",
     "1.2. OpenSSL/OpenSSL.md",
@@ -237,23 +254,6 @@
     "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
     "0.1. C Programming/0.1.0. GDB.md",
     "0.1. Rust Programming/0.1.0 Rust and C with ChatGPT.md",
-    "0.1. C Programming/String Operations.md",
-    "0.4. Excalidraw/0.4.0 Metacognition.md",
-    "0.4. Excalidraw/0.4.1. bigint (excalidraw).md",
-    "0.4. Excalidraw/0.4.0.md",
-    "0.4. Excalidraw/Drawing of Hash.md",
-    "0.4. Excalidraw/Drawing of Nested Loops.md",
-    "0.4. Excalidraw/Drawing of Computer Structure.md",
-    "0.4. Excalidraw/Drawing of AES.md",
-    "0.4. Excalidraw/Drawing of Data Structure.md",
-    "0.4. Excalidraw/Drawing of CPU and GPU.md",
-    "0.1. C Programming/0.1. C Programming.md",
-    "0.1. C Programming/File and Terminal In-output Operations.md",
-    "0.5 Editor/NeoVim.md",
-    "0.5 Editor/NVIM Command.md",
-    "0.5 Editor/Dev Tip.md",
-    "0.0. MyThinkPad/Obsidian Test.md",
-    "0.0. MyThinkPad/Zero-Based Numbering.md",
     "Untitled Document",
     "Mind Map/The 2nd Brain.canvas",
     "0.1. Rust Programming",
