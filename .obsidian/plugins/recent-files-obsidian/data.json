@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "0.1.0. GDB",
-      "path": "0.1. C Programming/0.1.0. GDB.md"
+      "basename": "0.0.0. Source Collector",
+      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+    },
+    {
+      "basename": "Rust Programming",
+      "path": "0.1. Rust Programming/Rust Programming.md"
     },
     {
       "basename": "0.1.0 Rust and C with ChatGPT",
       "path": "0.1. Rust Programming/0.1.0 Rust and C with ChatGPT.md"
     },
     {
-      "basename": "String Operations",
-      "path": "0.1. C Programming/String Operations.md"
+      "basename": "0.1.0. GDB",
+      "path": "0.1. C Programming/0.1.0. GDB.md"
     },
     {
-      "basename": "0.0.0. Source Collector",
-      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+      "basename": "String Operations",
+      "path": "0.1. C Programming/String Operations.md"
     },
     {
       "basename": "0.4.0 Metacognition",
@@ -55,10 +59,6 @@
     {
       "basename": "File and Terminal In-output Operations",
       "path": "0.1. C Programming/File and Terminal In-output Operations.md"
-    },
-    {
-      "basename": "Rust Programming",
-      "path": "0.1. Rust Programming/Rust Programming.md"
     },
     {
       "basename": "NeoVim",
