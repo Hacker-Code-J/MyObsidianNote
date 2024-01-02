@@ -1,5 +1,5 @@
 
-[[1. AES/KeyExpansion/Key Expansion|Key Expansion]]
+[[1.1. AES/KeyExpansion/Key Expansion|Key Expansion]]
 
 | i               | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   |
 | --------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |

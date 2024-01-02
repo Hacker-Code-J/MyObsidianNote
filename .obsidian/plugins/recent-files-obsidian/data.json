@@ -5,6 +5,18 @@
       "path": "0.1. C Programming/0.1.0. GDB.md"
     },
     {
+      "basename": "0.1.0 Rust and C with ChatGPT",
+      "path": "0.1. Rust Programming/0.1.0 Rust and C with ChatGPT.md"
+    },
+    {
+      "basename": "String Operations",
+      "path": "0.1. C Programming/String Operations.md"
+    },
+    {
+      "basename": "0.0.0. Source Collector",
+      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+    },
+    {
       "basename": "0.4.0 Metacognition",
       "path": "0.4. Excalidraw/0.4.0 Metacognition.md"
     },
@@ -58,15 +70,11 @@
     },
     {
       "basename": "Check OpenSSL Version",
-      "path": "1. OpenSSL/Check OpenSSL Version.md"
+      "path": "1.2. OpenSSL/Check OpenSSL Version.md"
     },
     {
       "basename": "Dev Tip",
       "path": "0.5 Editor/Dev Tip.md"
-    },
-    {
-      "basename": "Source Collector",
-      "path": "0.0. MyThinkPad/Source Collector.md"
     },
     {
       "basename": "Obsidian Test",
@@ -94,7 +102,7 @@
     },
     {
       "basename": "Key Expansion",
-      "path": "1. AES/KeyExpansion/Key Expansion.md"
+      "path": "1.1. AES/KeyExpansion/Key Expansion.md"
     },
     {
       "basename": "README",
@@ -129,10 +137,6 @@
       "path": "0.1. C Programming/Random Numbers.md"
     },
     {
-      "basename": "String Operations",
-      "path": "0.1. C Programming/String Operations.md"
-    },
-    {
       "basename": "Chapter 1. Computer Structure",
       "path": "0.2. Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md"
     },
@@ -162,11 +166,11 @@
     },
     {
       "basename": "ECC",
-      "path": "1. ECC/ECC.md"
+      "path": "1.0. ECC/ECC.md"
     },
     {
       "basename": "Elliptic Curves",
-      "path": "1. ECC/Elliptic Curves.md"
+      "path": "1.0. ECC/Elliptic Curves.md"
     },
     {
       "basename": "Bash_and_PowerShell",
@@ -190,15 +194,11 @@
     },
     {
       "basename": "1.1. Mathematical Induction",
-      "path": "2. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
+      "path": "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
     },
     {
       "basename": "1. Multiple '.rs' files in Rust",
       "path": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md"
-    },
-    {
-      "basename": "Simple Multi-Chat",
-      "path": "My Language Training/Rust Note/Simple Multi-Chat.md"
     }
   ],
   "omittedPaths": [],

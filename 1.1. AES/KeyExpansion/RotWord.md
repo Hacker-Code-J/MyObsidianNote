@@ -1,5 +1,5 @@
 
-[[1. AES/KeyExpansion/Key Expansion|Key Expansion]]
+[[1.1. AES/KeyExpansion/Key Expansion|Key Expansion]]
 
 $$
 \text{RotWord}(X_0\parallel X_1\parallel X_2\parallel X_3)=X_1\parallel X_2\parallel X_3\parallel X_0
