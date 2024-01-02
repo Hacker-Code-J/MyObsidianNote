@@ -1,4 +1,18 @@
 
+```bash
+sudo apt-get remove neovim -y
+sudo add-apt-repository ppa:neovim-ppa/stable
+sudo apt-get update -y
+sudo apt-get install neovim -y
+```
+
+```bash
+sudo apt-get remove neovim -y
+sudo add-apt-repository ppa:neovim-ppa/unstable
+sudo apt-get update -y
+sudo apt-get install neovim -y
+```
+
 - [ ] https://www.youtube.com/watch?v=8HogB0SxKjA
 - [ ] https://www.youtube.com/watch?v=Oj0if8rL-wo&list=PLGPF8gvWLYyrmWBOzypMlVgWKfqTzYvgQ
 - [ ] https://www.youtube.com/watch?v=cY0JxzENBJg&t=4s
