@@ -1,6 +1,6 @@
 
 ## Parent Document
-- [[C Programming]]
+- [[0.1. C Programming]]
 
 ### Random Number Generation in C
 

@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1. C Programming/C Programming.md",
+                "file": "0.1. C Programming/0.1. C Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.2. OpenSSL/Check OpenSSL Version.md",
+                "file": "0.1. C Programming/0.1. C Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.2. OpenSSL/Check OpenSSL Version.md",
+                "file": "0.1. C Programming/0.1. C Programming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.2. OpenSSL/Check OpenSSL Version.md",
+                "file": "0.1. C Programming/0.1. C Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.2. OpenSSL/Check OpenSSL Version.md"
+                "file": "0.1. C Programming/0.1. C Programming.md"
               }
             }
           },
@@ -225,14 +225,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "2dbfca2f669a8278",
+  "active": "d22981e05f73d4fd",
   "lastOpenFiles": [
-    "1.2. OpenSSL/OpenSSL.md",
+    "0.1. Rust Programming/0.1. Rust Programming.md",
     "1.2. OpenSSL/Check OpenSSL Version.md",
+    "1.2. OpenSSL/OpenSSL.md",
     "0.0. MyThinkPad/Callout Styles.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "2.1. Discrete Mathematics/2.1.1. Discrete Mathematics.md",
-    "0.1. Rust Programming/Rust Programming.md",
     "2.1. Discrete Mathematics",
     "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
     "0.1. C Programming/0.1.0. GDB.md",
@@ -247,7 +247,7 @@
     "0.4. Excalidraw/Drawing of AES.md",
     "0.4. Excalidraw/Drawing of Data Structure.md",
     "0.4. Excalidraw/Drawing of CPU and GPU.md",
-    "0.1. C Programming/C Programming.md",
+    "0.1. C Programming/0.1. C Programming.md",
     "0.1. C Programming/File and Terminal In-output Operations.md",
     "0.5 Editor/NeoVim.md",
     "0.5 Editor/NVIM Command.md",
