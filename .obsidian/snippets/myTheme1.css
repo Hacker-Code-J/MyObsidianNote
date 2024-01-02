@@ -116,6 +116,34 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11444
 
 .nav-folder-children > .nav-folder {
   background-color: var(--folder-color);
+  --nav-item-color: #333333; /* dark gray for text */
+  --nav-item-color-hover: #1a1a1a; /* darker gray for hover text */
+  --nav-collapse-icon-color: #333333; /* matching dark gray for icons */
+  border-radius: 10px;
+  transition: background-color 0.3s ease; /* smooth transition for hover effect */
+  font-weight: bold; /* make text bold */
+}
+
+.nav-folder-children > .nav-folder:hover {
+  background-color: lighten(var(--folder-color), 10%); /* subtle color change on hover */
+}
+
+/* Pastel color palette */
+.nav-folder-children > .nav-folder:nth-child(11n + 2) { --folder-color: #f3abc8; }
+.nav-folder-children > .nav-folder:nth-child(11n + 3) { --folder-color: #ebb0ac; }
+.nav-folder-children > .nav-folder:nth-child(11n + 4) { --folder-color: #fab387; }
+.nav-folder-children > .nav-folder:nth-child(11n + 5) { --folder-color: #f9e2af; }
+.nav-folder-children > .nav-folder:nth-child(11n + 6) { --folder-color: #a6e3a1; }
+.nav-folder-children > .nav-folder:nth-child(11n + 7) { --folder-color: #94e2d5; }
+.nav-folder-children > .nav-folder:nth-child(11n + 8) { --folder-color: #89dceb; }
+.nav-folder-children > .nav-folder:nth-child(11n + 9) { --folder-color: #74c7ec; }
+.nav-folder-children > .nav-folder:nth-child(11n + 10) { --folder-color: #87b0f9; }
+.nav-folder-children > .nav-folder:nth-child(11n + 11) { --folder-color: #b4befa; }
+.nav-folder-children > .nav-folder:nth-child(11n + 12) { --folder-color: #cba6f7; }
+
+/*
+.nav-folder-children > .nav-folder {
+  background-color: var(--folder-color);
   --nav-item-color: black;
   --nav-item-color-hover: black;
   --nav-collapse-icon-color: black;
@@ -157,6 +185,7 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11444
 .nav-folder-children > .nav-folder:nth-child(11n + 12) {
   --folder-color: rgb(203, 166, 247);
 }
+*/
 
 /*
 author: quinntyx, sailKite

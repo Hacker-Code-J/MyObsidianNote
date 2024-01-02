@@ -35,7 +35,10 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Daily Tasks",
+    "//Daily Tasks",
+    "//Excalidraw"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

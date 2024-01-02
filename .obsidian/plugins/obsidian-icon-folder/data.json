@@ -34,11 +34,11 @@
   "Implementation for AES/III. Implementing AES in C": "FasC",
   "Implementation for AES/IV. Optimization for AES in C": "LiCpu",
   "GCC": "SiCompilerexplorer",
-  "Editor": "SiVim",
-  "Excalidraw": "SiDiagramsdotnet",
-  "AI": "SiProtondb",
   "Git": "SiGit",
-  "MyThinkPad": "FasBrain",
   "My Language Training/C Note": "SiC",
-  "My Language Training/Rust Note": "SiRust"
+  "My Language Training/Rust Note": "SiRust",
+  "1. Editor": "SiVim",
+  "0.0. MyThinkPad": "FasBrain",
+  "1. Excalidraw": "SiDiagramsdotnet",
+  "0.3. Artificial Intelligence": "SiProtondb"
 }

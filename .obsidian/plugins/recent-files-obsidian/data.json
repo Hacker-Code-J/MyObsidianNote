@@ -1,112 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Source Collector",
-      "path": "MyThinkPad/Source Collector.md"
-    },
-    {
-      "basename": "Callout Styles",
-      "path": "MyThinkPad/Callout Styles.md"
-    },
-    {
-      "basename": "Obsidian Test",
-      "path": "MyThinkPad/Obsidian Test.md"
-    },
-    {
-      "basename": "ECC",
-      "path": "ECC/ECC.md"
-    },
-    {
-      "basename": "Elliptic Curves",
-      "path": "ECC/Elliptic Curves.md"
-    },
-    {
-      "basename": "Orientation",
-      "path": "Fas & Cas/Orientation.md"
-    },
-    {
-      "basename": "Drawing - Data Structure",
-      "path": "Excalidraw/Drawing - Data Structure.md"
-    },
-    {
-      "basename": "Bash_and_PowerShell",
-      "path": "Editor/Bash_and_PowerShell.md"
-    },
-    {
-      "basename": "Dev Tip",
-      "path": "Editor/Dev Tip.md"
-    },
-    {
-      "basename": "NeoVim",
-      "path": "Editor/NeoVim.md"
-    },
-    {
-      "basename": "(Drawing) Nested Loops",
-      "path": "Excalidraw/(Drawing) Nested Loops.md"
-    },
-    {
-      "basename": "(Drawing) Hash",
-      "path": "Excalidraw/(Drawing) Hash.md"
-    },
-    {
-      "basename": "(Drawing) CPU and GPU",
-      "path": "Excalidraw/(Drawing) CPU and GPU.md"
-    },
-    {
-      "basename": "(Drawing) Computer Structure",
-      "path": "Excalidraw/(Drawing) Computer Structure.md"
-    },
-    {
-      "basename": "(Drawing) AES",
-      "path": "Excalidraw/(Drawing) AES.md"
-    },
-    {
-      "basename": "32-bit AES",
-      "path": "32-bit AES.md"
-    },
-    {
-      "basename": "Rust Programming",
-      "path": "Rust Programming/Rust Programming.md"
-    },
-    {
-      "basename": "C Programming",
-      "path": "C Programming/C Programming.md"
-    },
-    {
-      "basename": "Pointer and Memory Management",
-      "path": "C Programming/Pointer and Memory Management.md"
-    },
-    {
-      "basename": "Main Tasks",
-      "path": "Daily Tasks/Main Tasks.md"
-    },
-    {
-      "basename": "Assistants API",
-      "path": "AI/Assistants API.md"
-    },
-    {
-      "basename": "2023-12-27",
-      "path": "Daily Tasks/2023-12-27.md"
-    },
-    {
-      "basename": "ChatGPT",
-      "path": "AI/ChatGPT.md"
-    },
-    {
-      "basename": "1.1. Mathematical Induction",
-      "path": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
-    },
-    {
-      "basename": "Random Numbers",
-      "path": "C Programming/Random Numbers.md"
-    },
-    {
-      "basename": "File and Terminal In-output Operations",
-      "path": "C Programming/File and Terminal In-output Operations.md"
-    },
-    {
-      "basename": "String Operations",
-      "path": "C Programming/String Operations.md"
+      "basename": "SHA-2",
+      "path": "Hash/SHA-2.md"
     },
     {
       "basename": "static vs const vs static const",
@@ -115,6 +11,166 @@
     {
       "basename": "0. Installation and Setup",
       "path": "My Language Training/Rust Note/0. Installation and Setup.md"
+    },
+    {
+      "basename": "Key Expansion",
+      "path": "1. AES/KeyExpansion/Key Expansion.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "JOB",
+      "path": "JOB.md"
+    },
+    {
+      "basename": "Github SSH Setup",
+      "path": "Github SSH Setup.md"
+    },
+    {
+      "basename": "(Drawing) AES",
+      "path": "1. Excalidraw/(Drawing) AES.md"
+    },
+    {
+      "basename": "Source Collector",
+      "path": "0.0. MyThinkPad/Source Collector.md"
+    },
+    {
+      "basename": "(Drawing) Nested Loops",
+      "path": "1. Excalidraw/(Drawing) Nested Loops.md"
+    },
+    {
+      "basename": "Obsidian Test",
+      "path": "0.0. MyThinkPad/Obsidian Test.md"
+    },
+    {
+      "basename": "Orientation",
+      "path": "Fas & Cas/Orientation.md"
+    },
+    {
+      "basename": "The 2nd Brain",
+      "path": "Mind Map/The 2nd Brain.canvas"
+    },
+    {
+      "basename": "Pointer and Memory Management",
+      "path": "0.1. C Programming/Pointer and Memory Management.md"
+    },
+    {
+      "basename": "Questions",
+      "path": "Implementation for AES/Questions.md"
+    },
+    {
+      "basename": "Random Numbers",
+      "path": "0.1. C Programming/Random Numbers.md"
+    },
+    {
+      "basename": "String Operations",
+      "path": "0.1. C Programming/String Operations.md"
+    },
+    {
+      "basename": "File and Terminal In-output Operations",
+      "path": "0.1. C Programming/File and Terminal In-output Operations.md"
+    },
+    {
+      "basename": "Chapter 1. Computer Structure",
+      "path": "0.2. Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md"
+    },
+    {
+      "basename": "Dev Tip",
+      "path": "1. Editor/Dev Tip.md"
+    },
+    {
+      "basename": "(Drawing) Hash",
+      "path": "1. Excalidraw/(Drawing) Hash.md"
+    },
+    {
+      "basename": "I.1. AES Fundamentals",
+      "path": "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md"
+    },
+    {
+      "basename": "I.2. AES Requirements",
+      "path": "Implementation for AES/I. Understanding/I.2. AES Requirements.md"
+    },
+    {
+      "basename": "Chapter 2. Command",
+      "path": "0.2. Computer Science/Part 1. Computer Structure/Chapter 2. Command.md"
+    },
+    {
+      "basename": "(Drawing) CPU and GPU",
+      "path": "1. Excalidraw/(Drawing) CPU and GPU.md"
+    },
+    {
+      "basename": "Drawing - Data Structure",
+      "path": "1. Excalidraw/Drawing - Data Structure.md"
+    },
+    {
+      "basename": "II.1. Structuring AES in C",
+      "path": "Implementation for AES/II. Design and Architecture/II.1. Structuring AES in C.md"
+    },
+    {
+      "basename": "32-bit AES",
+      "path": "32-bit AES.md"
+    },
+    {
+      "basename": "(Drawing) Computer Structure",
+      "path": "1. Excalidraw/(Drawing) Computer Structure.md"
+    },
+    {
+      "basename": "NVIDIA CUDA Programming",
+      "path": "0.2. Computer Science/NVIDIA CUDA Programming.md"
+    },
+    {
+      "basename": "Zero-Based Numbering",
+      "path": "0.0. MyThinkPad/Zero-Based Numbering.md"
+    },
+    {
+      "basename": "Callout Styles",
+      "path": "0.0. MyThinkPad/Callout Styles.md"
+    },
+    {
+      "basename": "ECC",
+      "path": "1. ECC/ECC.md"
+    },
+    {
+      "basename": "Elliptic Curves",
+      "path": "1. ECC/Elliptic Curves.md"
+    },
+    {
+      "basename": "Bash_and_PowerShell",
+      "path": "1. Editor/Bash_and_PowerShell.md"
+    },
+    {
+      "basename": "NeoVim",
+      "path": "1. Editor/NeoVim.md"
+    },
+    {
+      "basename": "Rust Programming",
+      "path": "0.1. Rust Programming/Rust Programming.md"
+    },
+    {
+      "basename": "C Programming",
+      "path": "0.1. C Programming/C Programming.md"
+    },
+    {
+      "basename": "Main Tasks",
+      "path": "Daily Tasks/Main Tasks.md"
+    },
+    {
+      "basename": "Assistants API",
+      "path": "0.3. Artificial Intelligence/Assistants API.md"
+    },
+    {
+      "basename": "2023-12-27",
+      "path": "Daily Tasks/2023-12-27.md"
+    },
+    {
+      "basename": "ChatGPT",
+      "path": "0.3. Artificial Intelligence/ChatGPT.md"
+    },
+    {
+      "basename": "1.1. Mathematical Induction",
+      "path": "2. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
     },
     {
       "basename": "1. Multiple '.rs' files in Rust",
@@ -134,71 +190,15 @@
     },
     {
       "basename": "1.2. The Binomial Theorem",
-      "path": "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md"
+      "path": "2. Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md"
     },
     {
       "basename": "2.3. The Euclidean Algorithm",
-      "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md"
+      "path": "2. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md"
     },
     {
       "basename": "2.4. The Diophantine Equation",
-      "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.4. The Diophantine Equation.md"
-    },
-    {
-      "basename": "Chapter 2. Command",
-      "path": "Computer Science/Part 1. Computer Structure/Chapter 2. Command.md"
-    },
-    {
-      "basename": "NVIDIA CUDA Programming",
-      "path": "Computer Science/NVIDIA CUDA Programming.md"
-    },
-    {
-      "basename": "2.1. The Division Algorithm",
-      "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md"
-    },
-    {
-      "basename": "Chapter 1. Preliminaries",
-      "path": "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md"
-    },
-    {
-      "basename": "Chapter 2. Divisibility Theory in the Integer",
-      "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/Chapter 2. Divisibility Theory in the Integer.md"
-    },
-    {
-      "basename": "2.2. The Greatest Common Divisor",
-      "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.2. The Greatest Common Divisor.md"
-    },
-    {
-      "basename": "Number Theroy",
-      "path": "Number Theory/Number Theroy.md"
-    },
-    {
-      "basename": "Chapter 1. Computer Structure",
-      "path": "Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md"
-    },
-    {
-      "basename": "Computer Structure",
-      "path": "Computer Science/Part 1. Computer Structure/Computer Structure.md"
-    },
-    {
-      "basename": "Chapter 3. Data",
-      "path": "Computer Science/Part 1. Computer Structure/Chapter 3. Data.md"
-    },
-    {
-      "basename": "JOB",
-      "path": "JOB.md"
-    },
-    {
-      "basename": "Ollama",
-      "path": "AI/Ollama.md"
-    },
-    {
-      "basename": "SubMix",
-      "path": "AES/Functions used in AES/SubMix.md"
-    },
-    {
-      "basename": "SubBytes and MixColumns",
-      "path": "AES/Functions used in AES/SubBytes and MixColumns.md"
+      "path": "2. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.4. The Diophantine Equation.md"
     }
   ],
   "omittedPaths": [],

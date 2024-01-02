@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyThinkPad/Source Collector.md",
+                "file": "0.0. MyThinkPad/Source Collector.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -23,35 +23,12 @@
             }
           },
           {
-            "id": "c1969587ed07b8a9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/(Drawing) Nested Loops.md"
-              }
-            }
-          },
-          {
-            "id": "24e8115ec0201da5",
+            "id": "08facc38dbd061cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyThinkPad/Callout Styles.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad4235a58a05e0b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/NVIDIA CUDA Programming.md",
+                "file": "Hash/SHA-2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyThinkPad/Source Collector.md",
+                "file": "Hash/SHA-2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyThinkPad/Source Collector.md",
+                "file": "Hash/SHA-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyThinkPad/Source Collector.md"
+                "file": "Hash/SHA-2.md"
               }
             }
           },
@@ -228,44 +204,44 @@
   },
   "active": "d22981e05f73d4fd",
   "lastOpenFiles": [
-    "MyThinkPad/Obsidian Test.md",
-    "ECC/ECC.md",
-    "ECC/Elliptic Curves.md",
+    "My Language Training/C Note/static vs const vs static const.md",
+    "My Language Training/Rust Note/0. Installation and Setup.md",
+    "1. AES/KeyExpansion/Key Expansion.md",
+    "README.md",
+    "sortspec.md",
+    "JOB.md",
+    "Github SSH Setup.md",
+    "1. Excalidraw/(Drawing) AES.md",
+    "0.0. MyThinkPad/Source Collector.md",
+    "Untitled Document",
+    "1. Excalidraw/(Drawing) Nested Loops.md",
+    "0.0. MyThinkPad/Obsidian Test.md",
     "Fas & Cas/Orientation.md",
-    "Excalidraw/Drawing - Data Structure.md",
-    "Editor/Bash_and_PowerShell.md",
-    "Editor/Dev Tip.md",
-    "Editor/NeoVim.md",
-    "Excalidraw/(Drawing) Nested Loops.md",
-    "Excalidraw/(Drawing) Hash.md",
-    "Excalidraw/(Drawing) CPU and GPU.md",
-    "Excalidraw/(Drawing) Computer Structure.md",
-    "Excalidraw/(Drawing) AES.md",
-    "32-bit AES.md",
-    "Rust Programming/Rust Programming.md",
-    "C Programming/C Programming.md",
-    "Rust Programming",
-    "C Programming/Pointer and Memory Management.md",
-    "MyThinkPad/Source Collector.md",
-    "Daily Tasks/Main Tasks.md",
-    "AI/Assistants API.md",
-    "ECC/Untitled",
-    "Daily Tasks/2023-12-27.md",
-    "AI/ChatGPT.md",
-    "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
-    "ECC",
-    "C Programming/Random Numbers.md",
-    "C Programming/File and Terminal In-output Operations.md",
-    "C Programming/String Operations.md",
-    "C Programming",
-    "Number Theory/Chapter 2. Divisibility Theory in the Integer",
-    "Number Theory/Chapter 1. Preliminaries",
-    "Number Theory",
-    "Computer Science/Part 1. Computer Structure",
-    "AES/Functions used in AES",
-    "AES/KeyExpansion",
-    "Untitled.canvas",
     "Mind Map/The 2nd Brain.canvas",
+    "0.1. C Programming/Pointer and Memory Management.md",
+    "Implementation for AES/Questions.md",
+    "0.1. C Programming/Random Numbers.md",
+    "0.1. C Programming/String Operations.md",
+    "0.1. C Programming/File and Terminal In-output Operations.md",
+    "0.2. Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
+    "1. Editor/Dev Tip.md",
+    "1. Excalidraw/(Drawing) Hash.md",
+    "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
+    "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
+    "0.2. Computer Science/Part 1. Computer Structure/Chapter 2. Command.md",
+    "1. Excalidraw/(Drawing) CPU and GPU.md",
+    "1. Excalidraw/Drawing - Data Structure.md",
+    "Hash/SHA-2.md",
+    "0.1. Rust Programming",
+    "ECC/Untitled",
+    "1. ECC",
+    "0.1. C Programming",
+    "2. Number Theory/Chapter 2. Divisibility Theory in the Integer",
+    "2. Number Theory/Chapter 1. Preliminaries",
+    "2. Number Theory",
+    "0.2. Computer Science/Part 1. Computer Structure",
+    "1. AES/Functions used in AES",
+    "Untitled.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
     "Untitled 1.canvas"
   ]
