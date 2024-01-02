@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hash/SHA-2.md",
+                "file": "0.4 Editor/NeoVim.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hash/SHA-2.md",
+                "file": "0.4 Editor/NeoVim.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hash/SHA-2.md",
+                "file": "0.4 Editor/NeoVim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hash/SHA-2.md"
+                "file": "0.4 Editor/NeoVim.md"
               }
             }
           },
@@ -202,8 +202,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d22981e05f73d4fd",
+  "active": "08facc38dbd061cb",
   "lastOpenFiles": [
+    "0.0. MyThinkPad/Source Collector.md",
+    "0.0. MyThinkPad/Zero-Based Numbering.md",
+    "0.0. MyThinkPad/Obsidian Test.md",
+    "0.0. MyThinkPad/Callout Styles.md",
+    "0.4 Editor/NeoVim.md",
+    "Hash/SHA-2.md",
     "My Language Training/C Note/static vs const vs static const.md",
     "My Language Training/Rust Note/0. Installation and Setup.md",
     "1. AES/KeyExpansion/Key Expansion.md",
@@ -212,10 +218,8 @@
     "JOB.md",
     "Github SSH Setup.md",
     "1. Excalidraw/(Drawing) AES.md",
-    "0.0. MyThinkPad/Source Collector.md",
     "Untitled Document",
     "1. Excalidraw/(Drawing) Nested Loops.md",
-    "0.0. MyThinkPad/Obsidian Test.md",
     "Fas & Cas/Orientation.md",
     "Mind Map/The 2nd Brain.canvas",
     "0.1. C Programming/Pointer and Memory Management.md",
@@ -224,14 +228,10 @@
     "0.1. C Programming/String Operations.md",
     "0.1. C Programming/File and Terminal In-output Operations.md",
     "0.2. Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
-    "1. Editor/Dev Tip.md",
+    "0.4 Editor/Dev Tip.md",
     "1. Excalidraw/(Drawing) Hash.md",
     "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
     "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
-    "0.2. Computer Science/Part 1. Computer Structure/Chapter 2. Command.md",
-    "1. Excalidraw/(Drawing) CPU and GPU.md",
-    "1. Excalidraw/Drawing - Data Structure.md",
-    "Hash/SHA-2.md",
     "0.1. Rust Programming",
     "ECC/Untitled",
     "1. ECC",

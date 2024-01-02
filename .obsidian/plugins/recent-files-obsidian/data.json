@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "NeoVim",
+      "path": "0.4 Editor/NeoVim.md"
+    },
+    {
+      "basename": "Source Collector",
+      "path": "0.0. MyThinkPad/Source Collector.md"
+    },
+    {
+      "basename": "Zero-Based Numbering",
+      "path": "0.0. MyThinkPad/Zero-Based Numbering.md"
+    },
+    {
+      "basename": "Obsidian Test",
+      "path": "0.0. MyThinkPad/Obsidian Test.md"
+    },
+    {
+      "basename": "Callout Styles",
+      "path": "0.0. MyThinkPad/Callout Styles.md"
+    },
+    {
       "basename": "SHA-2",
       "path": "Hash/SHA-2.md"
     },
@@ -33,16 +53,8 @@
       "path": "1. Excalidraw/(Drawing) AES.md"
     },
     {
-      "basename": "Source Collector",
-      "path": "0.0. MyThinkPad/Source Collector.md"
-    },
-    {
       "basename": "(Drawing) Nested Loops",
       "path": "1. Excalidraw/(Drawing) Nested Loops.md"
-    },
-    {
-      "basename": "Obsidian Test",
-      "path": "0.0. MyThinkPad/Obsidian Test.md"
     },
     {
       "basename": "Orientation",
@@ -78,7 +90,7 @@
     },
     {
       "basename": "Dev Tip",
-      "path": "1. Editor/Dev Tip.md"
+      "path": "0.4 Editor/Dev Tip.md"
     },
     {
       "basename": "(Drawing) Hash",
@@ -121,14 +133,6 @@
       "path": "0.2. Computer Science/NVIDIA CUDA Programming.md"
     },
     {
-      "basename": "Zero-Based Numbering",
-      "path": "0.0. MyThinkPad/Zero-Based Numbering.md"
-    },
-    {
-      "basename": "Callout Styles",
-      "path": "0.0. MyThinkPad/Callout Styles.md"
-    },
-    {
       "basename": "ECC",
       "path": "1. ECC/ECC.md"
     },
@@ -138,11 +142,7 @@
     },
     {
       "basename": "Bash_and_PowerShell",
-      "path": "1. Editor/Bash_and_PowerShell.md"
-    },
-    {
-      "basename": "NeoVim",
-      "path": "1. Editor/NeoVim.md"
+      "path": "0.4 Editor/Bash_and_PowerShell.md"
     },
     {
       "basename": "Rust Programming",

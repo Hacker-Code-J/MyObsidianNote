@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasBrain",
-      "SiRust",
-      "SiGit",
-      "SiProtondb",
-      "SiC"
+      "SiNeovim",
+      "FasRobot",
+      "FasComputer",
+      "SiC",
+      "SiMusicbrainz"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,8 +37,11 @@
   "Git": "SiGit",
   "My Language Training/C Note": "SiC",
   "My Language Training/Rust Note": "SiRust",
-  "1. Editor": "SiVim",
-  "0.0. MyThinkPad": "FasBrain",
+  "0.0. MyThinkPad": "SiMusicbrainz",
   "1. Excalidraw": "SiDiagramsdotnet",
-  "0.3. Artificial Intelligence": "SiProtondb"
+  "0.3. Artificial Intelligence": "FasRobot",
+  "0.1. C Programming": "SiC",
+  "0.1. Rust Programming": "SiRust",
+  "0.2. Computer Science": "FasComputer",
+  "0.4 Editor": "SiNeovim"
 }
