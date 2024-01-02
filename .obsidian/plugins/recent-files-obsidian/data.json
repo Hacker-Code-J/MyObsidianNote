@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "NVIM Command",
+      "path": "0.4 Editor/NVIM Command.md"
+    },
+    {
       "basename": "NeoVim",
       "path": "0.4 Editor/NeoVim.md"
+    },
+    {
+      "basename": "Rust Programming",
+      "path": "0.1. Rust Programming/Rust Programming.md"
     },
     {
       "basename": "Source Collector",
@@ -145,10 +153,6 @@
       "path": "0.4 Editor/Bash_and_PowerShell.md"
     },
     {
-      "basename": "Rust Programming",
-      "path": "0.1. Rust Programming/Rust Programming.md"
-    },
-    {
       "basename": "C Programming",
       "path": "0.1. C Programming/C Programming.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2.3. The Euclidean Algorithm",
       "path": "2. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md"
-    },
-    {
-      "basename": "2.4. The Diophantine Equation",
-      "path": "2. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.4. The Diophantine Equation.md"
     }
   ],
   "omittedPaths": [],

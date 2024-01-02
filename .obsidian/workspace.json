@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.4 Editor/NeoVim.md",
+                "file": "0.4 Editor/NVIM Command.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4 Editor/NeoVim.md",
+                "file": "0.4 Editor/NVIM Command.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4 Editor/NeoVim.md",
+                "file": "0.4 Editor/NVIM Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4 Editor/NeoVim.md"
+                "file": "0.4 Editor/NVIM Command.md"
               }
             }
           },
@@ -204,11 +204,13 @@
   },
   "active": "08facc38dbd061cb",
   "lastOpenFiles": [
+    "0.4 Editor/NeoVim.md",
+    "0.4 Editor/NVIM Command.md",
+    "0.1. Rust Programming/Rust Programming.md",
     "0.0. MyThinkPad/Source Collector.md",
     "0.0. MyThinkPad/Zero-Based Numbering.md",
     "0.0. MyThinkPad/Obsidian Test.md",
     "0.0. MyThinkPad/Callout Styles.md",
-    "0.4 Editor/NeoVim.md",
     "Hash/SHA-2.md",
     "My Language Training/C Note/static vs const vs static const.md",
     "My Language Training/Rust Note/0. Installation and Setup.md",
@@ -230,8 +232,6 @@
     "0.2. Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
     "0.4 Editor/Dev Tip.md",
     "1. Excalidraw/(Drawing) Hash.md",
-    "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
-    "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
     "0.1. Rust Programming",
     "ECC/Untitled",
     "1. ECC",
