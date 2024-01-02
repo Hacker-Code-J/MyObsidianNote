@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "0.4.0. bigint (excalidraw)",
-      "path": "0.4. Excalidraw/0.4.0. bigint (excalidraw).md"
+      "basename": "0.4.0 Metacognition",
+      "path": "0.4. Excalidraw/0.4.0 Metacognition.md"
+    },
+    {
+      "basename": "0.4.1. bigint (excalidraw)",
+      "path": "0.4. Excalidraw/0.4.1. bigint (excalidraw).md"
     },
     {
       "basename": "Drawing of Hash",
@@ -195,10 +199,6 @@
     {
       "basename": "sources",
       "path": "My Language Training/Rust Note/sources.md"
-    },
-    {
-      "basename": "size_t and usize",
-      "path": "My Language Training/size_t and usize.md"
     }
   ],
   "omittedPaths": [],
