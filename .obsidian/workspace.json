@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Tasks/Main Tasks.md",
+                "file": "MyThinkPad/Callout Styles.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Tasks/Main Tasks.md",
+                "file": "MyThinkPad/Source Collector.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Tasks/Main Tasks.md",
+                "file": "MyThinkPad/Source Collector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Tasks/Main Tasks.md"
+                "file": "MyThinkPad/Source Collector.md"
               }
             }
           },
@@ -226,44 +226,44 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "24e8115ec0201da5",
+  "active": "d22981e05f73d4fd",
   "lastOpenFiles": [
+    "MyThinkPad/Obsidian Test.md",
+    "ECC/ECC.md",
+    "ECC/Elliptic Curves.md",
+    "Fas & Cas/Orientation.md",
     "Excalidraw/Drawing - Data Structure.md",
-    "Daily Tasks/Main Tasks.md",
+    "Editor/Bash_and_PowerShell.md",
+    "Editor/Dev Tip.md",
+    "Editor/NeoVim.md",
     "Excalidraw/(Drawing) Nested Loops.md",
     "Excalidraw/(Drawing) Hash.md",
-    "Excalidraw/(Drawing) AES.md",
-    "Excalidraw/(Drawing) Computer Structure.md",
     "Excalidraw/(Drawing) CPU and GPU.md",
+    "Excalidraw/(Drawing) Computer Structure.md",
+    "Excalidraw/(Drawing) AES.md",
+    "32-bit AES.md",
+    "Rust Programming/Rust Programming.md",
+    "C Programming/C Programming.md",
+    "Rust Programming",
+    "C Programming/Pointer and Memory Management.md",
+    "MyThinkPad/Source Collector.md",
+    "Daily Tasks/Main Tasks.md",
     "AI/Assistants API.md",
-    "ECC/Elliptic Curves.md",
-    "ECC/ECC.md",
     "ECC/Untitled",
     "Daily Tasks/2023-12-27.md",
     "AI/ChatGPT.md",
     "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
-    "C Programming/C Programming.md",
     "ECC",
     "C Programming/Random Numbers.md",
     "C Programming/File and Terminal In-output Operations.md",
-    "C Programming/Pointer and Memory Management.md",
     "C Programming/String Operations.md",
-    "My Language Training/C Note/static vs const vs static const.md",
     "C Programming",
-    "My Language Training/Rust Note/0. Installation and Setup.md",
-    "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
-    "My Language Training/Rust Note/Simple Multi-Chat.md",
-    "My Language Training/Rust Note/sources.md",
-    "My Language Training/size_t and usize.md",
-    "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
-    "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer",
     "Number Theory/Chapter 1. Preliminaries",
     "Number Theory",
     "Computer Science/Part 1. Computer Structure",
     "AES/Functions used in AES",
     "AES/KeyExpansion",
-    "AES",
     "Untitled.canvas",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",

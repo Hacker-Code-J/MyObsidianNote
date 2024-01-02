@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Main Tasks",
-      "path": "Daily Tasks/Main Tasks.md"
+      "basename": "Source Collector",
+      "path": "MyThinkPad/Source Collector.md"
+    },
+    {
+      "basename": "Callout Styles",
+      "path": "MyThinkPad/Callout Styles.md"
+    },
+    {
+      "basename": "Obsidian Test",
+      "path": "MyThinkPad/Obsidian Test.md"
+    },
+    {
+      "basename": "ECC",
+      "path": "ECC/ECC.md"
+    },
+    {
+      "basename": "Elliptic Curves",
+      "path": "ECC/Elliptic Curves.md"
+    },
+    {
+      "basename": "Orientation",
+      "path": "Fas & Cas/Orientation.md"
     },
     {
       "basename": "Drawing - Data Structure",
       "path": "Excalidraw/Drawing - Data Structure.md"
+    },
+    {
+      "basename": "Bash_and_PowerShell",
+      "path": "Editor/Bash_and_PowerShell.md"
+    },
+    {
+      "basename": "Dev Tip",
+      "path": "Editor/Dev Tip.md"
+    },
+    {
+      "basename": "NeoVim",
+      "path": "Editor/NeoVim.md"
     },
     {
       "basename": "(Drawing) Nested Loops",
@@ -17,28 +49,40 @@
       "path": "Excalidraw/(Drawing) Hash.md"
     },
     {
-      "basename": "(Drawing) AES",
-      "path": "Excalidraw/(Drawing) AES.md"
+      "basename": "(Drawing) CPU and GPU",
+      "path": "Excalidraw/(Drawing) CPU and GPU.md"
     },
     {
       "basename": "(Drawing) Computer Structure",
       "path": "Excalidraw/(Drawing) Computer Structure.md"
     },
     {
-      "basename": "(Drawing) CPU and GPU",
-      "path": "Excalidraw/(Drawing) CPU and GPU.md"
+      "basename": "(Drawing) AES",
+      "path": "Excalidraw/(Drawing) AES.md"
+    },
+    {
+      "basename": "32-bit AES",
+      "path": "32-bit AES.md"
+    },
+    {
+      "basename": "Rust Programming",
+      "path": "Rust Programming/Rust Programming.md"
+    },
+    {
+      "basename": "C Programming",
+      "path": "C Programming/C Programming.md"
+    },
+    {
+      "basename": "Pointer and Memory Management",
+      "path": "C Programming/Pointer and Memory Management.md"
+    },
+    {
+      "basename": "Main Tasks",
+      "path": "Daily Tasks/Main Tasks.md"
     },
     {
       "basename": "Assistants API",
       "path": "AI/Assistants API.md"
-    },
-    {
-      "basename": "Elliptic Curves",
-      "path": "ECC/Elliptic Curves.md"
-    },
-    {
-      "basename": "ECC",
-      "path": "ECC/ECC.md"
     },
     {
       "basename": "2023-12-27",
@@ -53,20 +97,12 @@
       "path": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
     },
     {
-      "basename": "C Programming",
-      "path": "C Programming/C Programming.md"
-    },
-    {
       "basename": "Random Numbers",
       "path": "C Programming/Random Numbers.md"
     },
     {
       "basename": "File and Terminal In-output Operations",
       "path": "C Programming/File and Terminal In-output Operations.md"
-    },
-    {
-      "basename": "Pointer and Memory Management",
-      "path": "C Programming/Pointer and Memory Management.md"
     },
     {
       "basename": "String Operations",
@@ -117,10 +153,6 @@
       "path": "Computer Science/NVIDIA CUDA Programming.md"
     },
     {
-      "basename": "Source Collector",
-      "path": "MyThinkPad/Source Collector.md"
-    },
-    {
       "basename": "2.1. The Division Algorithm",
       "path": "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md"
     },
@@ -145,14 +177,6 @@
       "path": "Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md"
     },
     {
-      "basename": "Obsidian Test",
-      "path": "MyThinkPad/Obsidian Test.md"
-    },
-    {
-      "basename": "Callout Styles",
-      "path": "MyThinkPad/Callout Styles.md"
-    },
-    {
       "basename": "Computer Structure",
       "path": "Computer Science/Part 1. Computer Structure/Computer Structure.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "SubBytes and MixColumns",
       "path": "AES/Functions used in AES/SubBytes and MixColumns.md"
-    },
-    {
-      "basename": "ShiftRows",
-      "path": "AES/Functions used in AES/ShiftRows.md"
-    },
-    {
-      "basename": "AddRoundKey",
-      "path": "AES/Functions used in AES/AddRoundKey.md"
-    },
-    {
-      "basename": "SubWord",
-      "path": "AES/KeyExpansion/SubWord.md"
-    },
-    {
-      "basename": "Round Constant (RCON)",
-      "path": "AES/KeyExpansion/Round Constant (RCON).md"
-    },
-    {
-      "basename": "Key Expansion",
-      "path": "AES/KeyExpansion/Key Expansion.md"
-    },
-    {
-      "basename": "RotWord",
-      "path": "AES/KeyExpansion/RotWord.md"
     }
   ],
   "omittedPaths": [],
