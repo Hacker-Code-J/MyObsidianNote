@@ -25,3 +25,6 @@ sudo apt-get install lua5.4
 	- :NvimTreeToggle
 - Telescope
 	- space + ff 
+- Mason
+	- I (설치)
+	- X (제거)
