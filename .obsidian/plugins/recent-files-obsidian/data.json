@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Check OpenSSL Version",
+      "path": "1.2. OpenSSL/Check OpenSSL Version.md"
+    },
+    {
+      "basename": "OpenSSL",
+      "path": "1.2. OpenSSL/OpenSSL.md"
+    },
+    {
+      "basename": "Callout Styles",
+      "path": "0.0. MyThinkPad/Callout Styles.md"
+    },
+    {
+      "basename": "0.0.0. Source Collector",
+      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+    },
+    {
+      "basename": "2.1.1. Discrete Mathematics",
+      "path": "2.1. Discrete Mathematics/2.1.1. Discrete Mathematics.md"
+    },
+    {
       "basename": "Rust Programming",
       "path": "0.1. Rust Programming/Rust Programming.md"
     },
@@ -15,10 +35,6 @@
     {
       "basename": "0.1.0 Rust and C with ChatGPT",
       "path": "0.1. Rust Programming/0.1.0 Rust and C with ChatGPT.md"
-    },
-    {
-      "basename": "0.0.0. Source Collector",
-      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
     },
     {
       "basename": "String Operations",
@@ -73,10 +89,6 @@
       "path": "0.5 Editor/NVIM Command.md"
     },
     {
-      "basename": "Check OpenSSL Version",
-      "path": "1.2. OpenSSL/Check OpenSSL Version.md"
-    },
-    {
       "basename": "Dev Tip",
       "path": "0.5 Editor/Dev Tip.md"
     },
@@ -87,10 +99,6 @@
     {
       "basename": "Zero-Based Numbering",
       "path": "0.0. MyThinkPad/Zero-Based Numbering.md"
-    },
-    {
-      "basename": "Callout Styles",
-      "path": "0.0. MyThinkPad/Callout Styles.md"
     },
     {
       "basename": "SHA-2",
@@ -191,14 +199,6 @@
     {
       "basename": "2023-12-27",
       "path": "Daily Tasks/2023-12-27.md"
-    },
-    {
-      "basename": "ChatGPT",
-      "path": "0.3. Artificial Intelligence/ChatGPT.md"
-    },
-    {
-      "basename": "1.1. Mathematical Induction",
-      "path": "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
     }
   ],
   "omittedPaths": [],
