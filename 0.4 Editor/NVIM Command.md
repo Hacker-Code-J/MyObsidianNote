@@ -3,6 +3,7 @@
 - shift+G : go to the bottom
 - ysw + ' ' or "" / cs ""/'' + 바꾸고 싶은 것.
 - copy/paste: yw w gr w
+- space+e +a : 새로운 파일 만들 수 있음
 ### Key Maps
 - i / jk (intsert / ESC)
 - n / nh (next / next-head)
@@ -13,3 +14,5 @@
 	 - gc9 + j
 - Tree
 	- :NvimTreeToggle
+- Telescope
+	- space + ff 
