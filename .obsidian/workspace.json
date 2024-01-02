@@ -34,9 +34,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0143d5b51ddc5e0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.4. Excalidraw/0.4.0. bigint (excalidraw).md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. C Programming/C Programming.md",
+                "file": "0.4. Excalidraw/0.4.0. bigint (excalidraw).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. C Programming/C Programming.md",
+                "file": "0.4. Excalidraw/0.4.0. bigint (excalidraw).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. C Programming/C Programming.md"
+                "file": "0.4. Excalidraw/0.4.0. bigint (excalidraw).md"
               }
             }
           },
@@ -202,14 +212,22 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "08facc38dbd061cb",
+  "active": "e0143d5b51ddc5e0",
   "lastOpenFiles": [
+    "0.4. Excalidraw/Drawing of Hash.md",
+    "0.4. Excalidraw/Drawing of Nested Loops.md",
+    "0.4. Excalidraw/Drawing of Computer Structure.md",
+    "0.4. Excalidraw/Drawing of AES.md",
+    "0.4. Excalidraw/Drawing of Data Structure.md",
+    "0.4. Excalidraw/Drawing of CPU and GPU.md",
+    "0.4. Excalidraw/0.4.0. bigint (excalidraw).md",
+    "0.1. C Programming/C Programming.md",
     "0.1. C Programming/File and Terminal In-output Operations.md",
     "0.1. Rust Programming/Rust Programming.md",
-    "0.4 Editor/NeoVim.md",
-    "0.4 Editor/NVIM Command.md",
+    "0.5 Editor/NeoVim.md",
+    "0.5 Editor/NVIM Command.md",
     "1. OpenSSL/Check OpenSSL Version.md",
-    "0.4 Editor/Dev Tip.md",
+    "0.5 Editor/Dev Tip.md",
     "0.0. MyThinkPad/Source Collector.md",
     "0.0. MyThinkPad/Obsidian Test.md",
     "0.0. MyThinkPad/Zero-Based Numbering.md",
@@ -222,16 +240,8 @@
     "sortspec.md",
     "JOB.md",
     "Github SSH Setup.md",
-    "1. Excalidraw/(Drawing) AES.md",
     "Untitled Document",
-    "1. Excalidraw/(Drawing) Nested Loops.md",
-    "Fas & Cas/Orientation.md",
     "Mind Map/The 2nd Brain.canvas",
-    "0.1. C Programming/Pointer and Memory Management.md",
-    "Implementation for AES/Questions.md",
-    "0.1. C Programming/Random Numbers.md",
-    "0.1. C Programming/String Operations.md",
-    "0.2. Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
     "0.1. Rust Programming",
     "ECC/Untitled",
     "1. ECC",

@@ -1,5 +1,5 @@
 
-[[(Drawing) AES]]
+[[Drawing of AES]]
 [[AES Visualization]]
 
 Let
