@@ -1,4 +1,13 @@
 
+```bash
+sudo mv fonts /usr/share/fonts/
+sudo fc-cache -f -v
+```
+
+```bash
+sudo apt-get install lua5.4
+```
+
 - ESC -> /hello /Hello : ctrl+F와 같은 기능
 - shift+G : go to the bottom
 - ysw + ' ' or "" / cs ""/'' + 바꾸고 싶은 것.

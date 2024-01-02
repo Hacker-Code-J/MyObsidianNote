@@ -5,24 +5,32 @@
       "path": "0.4 Editor/NVIM Command.md"
     },
     {
+      "basename": "Check OpenSSL Version",
+      "path": "1. OpenSSL/Check OpenSSL Version.md"
+    },
+    {
       "basename": "NeoVim",
       "path": "0.4 Editor/NeoVim.md"
     },
     {
-      "basename": "Rust Programming",
-      "path": "0.1. Rust Programming/Rust Programming.md"
+      "basename": "Dev Tip",
+      "path": "0.4 Editor/Dev Tip.md"
     },
     {
       "basename": "Source Collector",
       "path": "0.0. MyThinkPad/Source Collector.md"
     },
     {
-      "basename": "Zero-Based Numbering",
-      "path": "0.0. MyThinkPad/Zero-Based Numbering.md"
-    },
-    {
       "basename": "Obsidian Test",
       "path": "0.0. MyThinkPad/Obsidian Test.md"
+    },
+    {
+      "basename": "Rust Programming",
+      "path": "0.1. Rust Programming/Rust Programming.md"
+    },
+    {
+      "basename": "Zero-Based Numbering",
+      "path": "0.0. MyThinkPad/Zero-Based Numbering.md"
     },
     {
       "basename": "Callout Styles",
@@ -95,10 +103,6 @@
     {
       "basename": "Chapter 1. Computer Structure",
       "path": "0.2. Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md"
-    },
-    {
-      "basename": "Dev Tip",
-      "path": "0.4 Editor/Dev Tip.md"
     },
     {
       "basename": "(Drawing) Hash",
@@ -195,10 +199,6 @@
     {
       "basename": "1.2. The Binomial Theorem",
       "path": "2. Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md"
-    },
-    {
-      "basename": "2.3. The Euclidean Algorithm",
-      "path": "2. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md"
     }
   ],
   "omittedPaths": [],
