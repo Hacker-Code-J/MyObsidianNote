@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.1. AES/1.1.0. AES - Galois Fields.md",
+                "file": "Daily Tasks/2023-12-23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,16 +72,6 @@
         "id": "2d9fa714aa0750d2",
         "type": "tabs",
         "children": [
-          {
-            "id": "d22981e05f73d4fd",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "bfa1bbaf7de2c1cb",
             "type": "leaf",
@@ -133,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 1047.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -149,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.1. AES/1.1.0. AES - Galois Fields.md",
+                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.1. AES/1.1.0. AES - Galois Fields.md",
+                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.1. AES/1.1.0. AES - Galois Fields.md"
+                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md"
               }
             }
           },
@@ -221,12 +211,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "remotely-save:Remotely Save": false,
-      "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "2dbfca2f669a8278",
+  "active": "bfa1bbaf7de2c1cb",
   "lastOpenFiles": [
+    "1.1. AES/Bit-slicing AES.md",
+    "0.4. Excalidraw/Untitled Diagram.svg",
     "1.1. AES/1.1.0. AES - Galois Fields.md",
     "1.1. AES/1.1.0. Overview of AES.md",
     "Hash/SHA-2.md",
@@ -242,7 +233,6 @@
     "JOB.md",
     "Question Prompt.md",
     "README.md",
-    "1.1. AES/Bit-slicing AES.md",
     "0.1. C Programming/0.1. C Programming.md",
     "0.1. Rust Programming/0.1. Rust Programming.md",
     "1.2. OpenSSL/Check OpenSSL Version.md",
@@ -253,7 +243,6 @@
     "2.1. Discrete Mathematics",
     "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
     "0.1. C Programming/0.1.0. GDB.md",
-    "0.1. Rust Programming/0.1.0 Rust and C with ChatGPT.md",
     "Untitled Document",
     "Mind Map/The 2nd Brain.canvas",
     "0.1. Rust Programming",

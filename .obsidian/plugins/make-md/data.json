@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "/",
+  "activeView": "Spaces/Home",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -38,7 +38,8 @@
     "/",
     "//Daily Tasks",
     "//Daily Tasks",
-    "//Excalidraw"
+    "//Excalidraw",
+    "//Implementation for AES"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
