@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "0.5.0 NeoVim Setup",
+      "path": "0.5. Editor/0.5.0 NeoVim Setup.md"
+    },
+    {
+      "basename": "Bash_and_PowerShell",
+      "path": "0.5. Editor/Bash_and_PowerShell.md"
+    },
+    {
+      "basename": "Dev Tip",
+      "path": "0.5. Editor/Dev Tip.md"
+    },
+    {
+      "basename": "0.0.0. Source Collector",
+      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+    },
+    {
       "basename": "Github SSH Setup",
       "path": "Github SSH Setup.md"
     },
@@ -17,10 +33,6 @@
       "path": "1.2. OpenSSL/OpenSSL.md"
     },
     {
-      "basename": "0.5.0 NeoVim Setup",
-      "path": "0.5. Editor/0.5.0 NeoVim Setup.md"
-    },
-    {
       "basename": "NeoVim",
       "path": "0.5. Editor/NeoVim.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "Callout Styles",
       "path": "0.0. MyThinkPad/Callout Styles.md"
-    },
-    {
-      "basename": "0.0.0. Source Collector",
-      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
     },
     {
       "basename": "0.1. C Programming",
@@ -181,24 +189,12 @@
       "path": "0.5. Editor/NVIM Command.md"
     },
     {
-      "basename": "Dev Tip",
-      "path": "0.5. Editor/Dev Tip.md"
-    },
-    {
       "basename": "static vs const vs static const",
       "path": "My Language Training/C Note/static vs const vs static const.md"
     },
     {
       "basename": "0. Installation and Setup",
       "path": "My Language Training/Rust Note/0. Installation and Setup.md"
-    },
-    {
-      "basename": "Orientation",
-      "path": "Fas & Cas/Orientation.md"
-    },
-    {
-      "basename": "The 2nd Brain",
-      "path": "Mind Map/The 2nd Brain.canvas"
     }
   ],
   "omittedPaths": [],

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b01da4b33a721ef5",
+        "id": "056a1d684e1f8bf5",
         "type": "tabs",
         "children": [
           {
@@ -28,20 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1d740bdbad1b24d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Github SSH Setup.md",
+                "file": "0.5. Editor/0.5.0 NeoVim Setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,14 +57,6 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "b85a2c1d33fba032",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
             }
           },
           {
@@ -118,6 +97,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "99874c600aae30c3",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -139,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github SSH Setup.md",
+                "file": "0.5. Editor/0.5.0 NeoVim Setup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github SSH Setup.md",
+                "file": "0.5. Editor/0.5.0 NeoVim Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github SSH Setup.md"
+                "file": "0.5. Editor/0.5.0 NeoVim Setup.md"
               }
             }
           },
@@ -214,18 +201,21 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e1d740bdbad1b24d",
+  "active": "3713b76ab41238ad",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "0.5. Editor/0.5.0 NeoVim Setup.md",
+    "0.5. Editor/Bash_and_PowerShell.md",
+    "0.5. Editor/Dev Tip.md",
+    "0.0. MyThinkPad/0.0.0. Source Collector.md",
+    "Github SSH Setup.md",
     "JOB.md",
     "1.2. OpenSSL/Check OpenSSL Version.md",
     "1.2. OpenSSL/OpenSSL.md",
-    "0.5. Editor/0.5.0 NeoVim Setup.md",
     "0.5. Editor/NeoVim.md",
-    "Github SSH Setup.md",
     "0.0. MyThinkPad/Zero-Based Numbering.md",
     "0.0. MyThinkPad/Obsidian Test.md",
     "0.0. MyThinkPad/Callout Styles.md",
-    "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "0.1. C Programming/0.1. C Programming.md",
     "3.0. LaTex/LaTex Tips.md",
     "1.1. AES/1.1.1.0. Key Expansion.md",
@@ -240,11 +230,8 @@
     "0.1. C Programming/0.1.0. GDB.md",
     "1.1. AES/1.1.1.1. RotWord.md",
     "0.4. Excalidraw/0.4.0 Metacognition.md",
-    "0.4. Excalidraw/Drawing of Computer Structure.md",
     "0.4. Excalidraw/Untitled Diagram.svg",
     "Untitled.canvas",
-    "Question Prompt.md",
-    "README.md",
     "2.1. Discrete Mathematics",
     "Untitled Document",
     "Mind Map/The 2nd Brain.canvas",
