@@ -12,7 +12,6 @@
   "cmdr",
   "quickadd",
   "remotely-save",
-  "make-md",
   "obsidian-emoji-toolbar",
   "obsidian-image-toolkit",
   "obsidian-outliner",
@@ -25,5 +24,6 @@
   "obsidian-full-calendar",
   "cm-editor-syntax-highlight-obsidian",
   "highlightr-plugin",
-  "editing-toolbar"
+  "editing-toolbar",
+  "make-md"
 ]
