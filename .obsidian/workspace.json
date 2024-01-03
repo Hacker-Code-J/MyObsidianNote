@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.1. AES/1.1.0. AES - Galois Fields.md",
+                "file": "3.0. LaTex/LaTex Tips.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +119,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.1. AES/1.1.0. AES - Galois Fields.md",
+                "file": "3.0. LaTex/LaTex Tips.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.1. AES/1.1.0. AES - Galois Fields.md",
+                "file": "3.0. LaTex/LaTex Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.1. AES/1.1.0. AES - Galois Fields.md"
+                "file": "3.0. LaTex/LaTex Tips.md"
               }
             }
           },
@@ -216,20 +217,22 @@
   },
   "active": "e1d740bdbad1b24d",
   "lastOpenFiles": [
+    "1.1. AES/1.1.1.0. Key Expansion.md",
+    "3.0. LaTex/LaTex Tips.md",
+    "3.0. LaTex",
+    "1.1. AES/1.1.0. Overview of AES.md",
+    "1.1. AES/1.1.0. AES - Galois Fields.md",
     "0.1. Rust Programming/0.1. Rust Programming.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
     "0.1. C Programming/0.1. C Programming.md",
-    "1.1. AES/1.1.0. AES - Galois Fields.md",
     "1.1. AES/1.1.1.3. Round Constant (RCON).md",
     "1.1. AES/1.1.1.2. SubWord.md",
-    "1.1. AES/1.1.1.0. Key Expansion.md",
     "0.1. C Programming/File and Terminal In-output Operations.md",
     "0.1. C Programming/0.1.0. GDB.md",
     "0.0. MyThinkPad/Zero-Based Numbering.md",
     "0.0. MyThinkPad/Obsidian Test.md",
     "0.0. MyThinkPad/Callout Styles.md",
-    "1.1. AES/1.1.0. Overview of AES.md",
     "1.1. AES/1.1.1.1. RotWord.md",
     "0.4. Excalidraw/0.4.0 Metacognition.md",
     "0.4. Excalidraw/Drawing of Computer Structure.md",
@@ -243,7 +246,6 @@
     "1.1. AES/1.1.3. ShiftRows.md",
     "1.1. AES/1.1.5. AES Encryption and Decryption.md",
     "1.1. AES/1.1.2. AddRoundKey.md",
-    "Manim/AES Visualization.md",
     "2.1. Discrete Mathematics",
     "Untitled Document",
     "Mind Map/The 2nd Brain.canvas",
@@ -254,7 +256,6 @@
     "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer",
     "2.0. Number Theory/Chapter 1. Preliminaries",
     "2.0. Number Theory",
-    "0.2. Computer Science/Part 1. Computer Structure",
     "Mind Map/C - CraftCodeLab.canvas",
     "Untitled 1.canvas"
   ]
