@@ -5,6 +5,14 @@
       "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
     },
     {
+      "basename": "Question Prompt",
+      "path": "Question Prompt.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "2023-12-23",
       "path": "Daily Tasks/2023-12-23.md"
     },
@@ -67,14 +75,6 @@
     {
       "basename": "JOB",
       "path": "JOB.md"
-    },
-    {
-      "basename": "Question Prompt",
-      "path": "Question Prompt.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "0.1. C Programming",

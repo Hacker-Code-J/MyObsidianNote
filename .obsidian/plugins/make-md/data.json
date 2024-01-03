@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "Spaces/Home",
+  "activeView": "/",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -39,7 +39,12 @@
     "//Daily Tasks",
     "//Daily Tasks",
     "//Excalidraw",
-    "//Implementation for AES"
+    "//Implementation for AES",
+    "//Daily Tasks",
+    "//1.2. OpenSSL",
+    "//Fas & Cas",
+    "//Implementation for AES/Implementation for AES/II. Design and Architecture",
+    "//0.0. MyThinkPad"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

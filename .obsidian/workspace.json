@@ -23,35 +23,12 @@
             }
           },
           {
-            "id": "08facc38dbd061cb",
+            "id": "3713b76ab41238ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1. C Programming/0.1. C Programming.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0143d5b51ddc5e0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/0.4.1. bigint (excalidraw).md"
-              }
-            }
-          },
-          {
-            "id": "2dbfca2f669a8278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Tasks/2023-12-23.md",
+                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +50,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bfa1bbaf7de2c1cb",
+            "id": "eab80d53867b44cd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -123,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1047.5
+    "width": 357.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -214,8 +191,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "bfa1bbaf7de2c1cb",
+  "active": "3713b76ab41238ad",
   "lastOpenFiles": [
+    "Question Prompt.md",
+    "README.md",
+    "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "1.1. AES/Bit-slicing AES.md",
     "0.4. Excalidraw/Untitled Diagram.svg",
     "1.1. AES/1.1.0. AES - Galois Fields.md",
@@ -231,14 +211,11 @@
     "32-bit AES.md",
     "Github SSH Setup.md",
     "JOB.md",
-    "Question Prompt.md",
-    "README.md",
     "0.1. C Programming/0.1. C Programming.md",
     "0.1. Rust Programming/0.1. Rust Programming.md",
     "1.2. OpenSSL/Check OpenSSL Version.md",
     "1.2. OpenSSL/OpenSSL.md",
     "0.0. MyThinkPad/Callout Styles.md",
-    "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "2.1. Discrete Mathematics/2.1.1. Discrete Mathematics.md",
     "2.1. Discrete Mathematics",
     "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
