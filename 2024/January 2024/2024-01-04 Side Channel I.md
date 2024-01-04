@@ -9,10 +9,6 @@ completed: null
 
 - https://github.com/newaetech/chipwhisperer/releases/tag/5.7.0
 
-- py --version
-- 
-
-
 - Chipwhisperer
 - Install CW-lite Firmware
 
@@ -47,6 +43,40 @@ make PLATFORM=$1 CRYPTO_TARGET=$2 SS_VER=$3 -j
 
 ```python
 cw.program_target(scope, prog, "../hardware/victims/firmware/simpleserial-aes/simpleserial-aes-{}.hex".format(PLATFORM))
+```
+
+```python
+from tqdm.notebook import trange
+import numpy as np
+import time
+
+ktp = cw.ktp.Basic()
+trace_array = []
+textin_array = []
+#textout_array = []
+
+key, text = ktp.next()
+
+target.set_key(key)
+
+N = 10
+for i in tnrange(N, desc='Capturing traces'):
+	scope.arm() # Trigger
+
+	target.simpleserial_write('p', text)
+
+	ret = scope.capture()
+	if ret:
+		print("Target timed out!")
+		continue
+
+	response = target.simpleserial_read('r', 16)
+
+	trace_array.append(scope.get_last_trace())
+	textin_array.append(text)
+	#textout_array.append(key)
+
+	key, text = ktp.next()
 ```
 
 
