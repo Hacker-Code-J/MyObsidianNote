@@ -31,32 +31,6 @@
             }
           },
           {
-            "id": "5092fe0745325f3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.1. Rust Programming/0.1.0 Setup Rust DE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a33aa991bcd900e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "36e257ab9440cf8c",
             "type": "leaf",
             "state": {
@@ -70,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,14 +211,15 @@
   },
   "active": "36e257ab9440cf8c",
   "lastOpenFiles": [
-    "2024/January 2024/2024-01-05 Side Channel II.md",
+    "0.4. Excalidraw/0.4.0 Metacognition.md",
+    "2024/January 2024/2024-01-04 Side Channel I.md",
     "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md",
+    "0.1. Rust Programming/0.1.0 Setup Rust DE.md",
+    "2024/January 2024/2024-01-05 Side Channel II.md",
     "2024/January 2024",
     "2024",
     "0.5. Editor/0.5.0 NeoVim Setup.md",
-    "0.1. Rust Programming/0.1.0 Setup Rust DE.md",
     "0.1. Rust Programming/0.1. Rust Programming.md",
-    "2024/January 2024/2024-01-04 Side Channel I.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "Daily Tasks/2024-01-04.md",
     "Calender",

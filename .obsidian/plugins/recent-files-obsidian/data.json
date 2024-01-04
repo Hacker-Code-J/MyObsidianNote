@@ -5,20 +5,24 @@
       "path": "2024/January 2024/2024-01-04 Side Channel I.md"
     },
     {
-      "basename": "2024-01-05 Side Channel II",
-      "path": "2024/January 2024/2024-01-05 Side Channel II.md"
+      "basename": "0.4.0 Metacognition",
+      "path": "0.4. Excalidraw/0.4.0 Metacognition.md"
     },
     {
       "basename": "0.1.1 Rust and C with ChatGPT",
       "path": "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md"
     },
     {
-      "basename": "0.5.0 NeoVim Setup",
-      "path": "0.5. Editor/0.5.0 NeoVim Setup.md"
-    },
-    {
       "basename": "0.1.0 Setup Rust DE",
       "path": "0.1. Rust Programming/0.1.0 Setup Rust DE.md"
+    },
+    {
+      "basename": "2024-01-05 Side Channel II",
+      "path": "2024/January 2024/2024-01-05 Side Channel II.md"
+    },
+    {
+      "basename": "0.5.0 NeoVim Setup",
+      "path": "0.5. Editor/0.5.0 NeoVim Setup.md"
     },
     {
       "basename": "0.1. Rust Programming",
@@ -119,10 +123,6 @@
     {
       "basename": "1.1.1.1. RotWord",
       "path": "1.1. AES/1.1.1.1. RotWord.md"
-    },
-    {
-      "basename": "0.4.0 Metacognition",
-      "path": "0.4. Excalidraw/0.4.0 Metacognition.md"
     },
     {
       "basename": "Drawing of Computer Structure",

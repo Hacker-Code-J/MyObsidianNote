@@ -7,6 +7,8 @@ date: 2024-01-04
 completed: null
 ---
 
+### Jupyter NoteBook
+
 - https://github.com/newaetech/chipwhisperer/releases/tag/5.7.0
 
 - Chipwhisperer
@@ -79,4 +81,6 @@ for i in tnrange(N, desc='Capturing traces'):
 	key, text = ktp.next()
 ```
 
+
+### Matlab
 
