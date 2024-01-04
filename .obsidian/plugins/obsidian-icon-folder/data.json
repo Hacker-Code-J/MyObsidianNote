@@ -1,4 +1,5 @@
 {
+  "2024": "LiCalendarDays",
   "settings": {
     "migrated": 3,
     "iconPacksPath": ".obsidian/icons",
@@ -43,6 +44,5 @@
   "0.1. Rust Programming": "SiRust",
   "0.2. Computer Science": "FasComputer",
   "0.4. Excalidraw": "FasPencil",
-  "0.5. Editor": "SiNeovim",
-  "Calender": "LiCalendarDays"
+  "0.5. Editor": "SiNeovim"
 }
