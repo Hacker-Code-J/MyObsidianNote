@@ -46,7 +46,7 @@ cw.program_target(scope, prog, "../hardware/victims/firmware/simpleserial-aes/si
 ```
 
 ```python
-from tqdm.notebook import trange
+from tqdm.notebook import tnrange
 import numpy as np
 import time
 
