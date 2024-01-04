@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-01-04",
+      "path": "Daily Tasks/2024-01-04.md"
+    },
+    {
+      "basename": "0.0.0. Source Collector",
+      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+    },
+    {
       "basename": "0.5.0 NeoVim Setup",
       "path": "0.5. Editor/0.5.0 NeoVim Setup.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Dev Tip",
       "path": "0.5. Editor/Dev Tip.md"
-    },
-    {
-      "basename": "0.0.0. Source Collector",
-      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
     },
     {
       "basename": "Github SSH Setup",
