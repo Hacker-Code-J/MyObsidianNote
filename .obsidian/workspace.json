@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
+                "file": "0.1. C Programming/0.1.0. GDB.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
+                "file": "0.1. C Programming/0.1.0. GDB.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
+                "file": "0.1. C Programming/0.1.0. GDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0. MyThinkPad/0.0.2. TO DO LIST.md"
+                "file": "0.1. C Programming/0.1.0. GDB.md"
               }
             }
           },
@@ -211,8 +211,8 @@
   },
   "active": "2dd8926a197989ee",
   "lastOpenFiles": [
-    "0.0. MyThinkPad/0.0.1. Want.md",
     "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
+    "0.0. MyThinkPad/0.0.1. Want.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "0.5. Editor/0.5.0 NeoVim Setup.md",
     "1.1. AES/1.1.0. AES - Galois Fields.md",
