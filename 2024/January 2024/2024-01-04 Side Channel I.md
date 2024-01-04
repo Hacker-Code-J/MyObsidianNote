@@ -7,3 +7,14 @@ date: 2024-01-04
 completed: null
 ---
 
+- https://github.com/newaetech/chipwhisperer/releases/tag/5.7.0
+- Chipwhisperer
+- Install CW-lite Firmware
+
+```python
+import chipwhisperer as cw
+cw.program_sam_firmware(hardware_type='cwlite')
+```
+
+
+

@@ -55,9 +55,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36e257ab9440cf8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024/January 2024/2024-01-04 Side Channel I.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md",
+                "file": "2024/January 2024/2024-01-04 Side Channel I.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md",
+                "file": "2024/January 2024/2024-01-04 Side Channel I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md"
+                "file": "2024/January 2024/2024-01-04 Side Channel I.md"
               }
             }
           },
@@ -222,17 +235,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9a3c00af89f573f9",
+  "active": "36e257ab9440cf8c",
   "lastOpenFiles": [
+    "2024/January 2024/2024-01-05 Side Channel II.md",
+    "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md",
     "2024/January 2024",
     "2024",
     "0.5. Editor/0.5.0 NeoVim Setup.md",
-    "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md",
     "0.1. Rust Programming/0.1.0 Setup Rust DE.md",
     "0.1. Rust Programming/0.1. Rust Programming.md",
     "2024/January 2024/2024-01-04 Side Channel I.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
-    "2024/January 2024/2024-01-05 Side Channel II.md",
     "Daily Tasks/2024-01-04.md",
     "Calender",
     "0.4. Excalidraw/Drawing of CPU and GPU.md",
@@ -262,7 +275,6 @@
     "ECC/Untitled",
     "1.0. ECC",
     "0.1. C Programming",
-    "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer",
     "Mind Map/C - CraftCodeLab.canvas",
     "Untitled 1.canvas"
   ]
