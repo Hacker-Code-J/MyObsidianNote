@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "36e257ab9440cf8c",
+            "id": "2dd8926a197989ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -209,17 +209,19 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "36e257ab9440cf8c",
+  "active": "2dd8926a197989ee",
   "lastOpenFiles": [
-    "0.4. Excalidraw/0.4.0 Metacognition.md",
-    "2024/January 2024/2024-01-04 Side Channel I.md",
-    "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md",
-    "0.1. Rust Programming/0.1.0 Setup Rust DE.md",
     "2024/January 2024/2024-01-05 Side Channel II.md",
+    "0.1. Rust Programming/0.1.0 Setup Rust DE.md",
+    "0.1. Rust Programming/0.1. Rust Programming.md",
+    "0.0. MyThinkPad/Callout Styles.md",
+    "0.0. MyThinkPad/0.0.1. Want.md",
+    "2024/January 2024/2024-01-04 Side Channel I.md",
+    "0.4. Excalidraw/0.4.0 Metacognition.md",
+    "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md",
     "2024/January 2024",
     "2024",
     "0.5. Editor/0.5.0 NeoVim Setup.md",
-    "0.1. Rust Programming/0.1. Rust Programming.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "Daily Tasks/2024-01-04.md",
     "Calender",
@@ -234,13 +236,11 @@
     "0.5. Editor/NeoVim.md",
     "0.0. MyThinkPad/Zero-Based Numbering.md",
     "0.0. MyThinkPad/Obsidian Test.md",
-    "0.0. MyThinkPad/Callout Styles.md",
     "0.1. C Programming/0.1. C Programming.md",
     "3.0. LaTex/LaTex Tips.md",
     "1.1. AES/1.1.1.0. Key Expansion.md",
     "3.0. LaTex",
     "1.1. AES/1.1.0. Overview of AES.md",
-    "1.1. AES/1.1.0. AES - Galois Fields.md",
     "0.4. Excalidraw/Untitled Diagram.svg",
     "Untitled.canvas",
     "2.1. Discrete Mathematics",

@@ -5,6 +5,26 @@
       "path": "2024/January 2024/2024-01-04 Side Channel I.md"
     },
     {
+      "basename": "2024-01-05 Side Channel II",
+      "path": "2024/January 2024/2024-01-05 Side Channel II.md"
+    },
+    {
+      "basename": "0.1.0 Setup Rust DE",
+      "path": "0.1. Rust Programming/0.1.0 Setup Rust DE.md"
+    },
+    {
+      "basename": "0.1. Rust Programming",
+      "path": "0.1. Rust Programming/0.1. Rust Programming.md"
+    },
+    {
+      "basename": "Callout Styles",
+      "path": "0.0. MyThinkPad/Callout Styles.md"
+    },
+    {
+      "basename": "0.0.1. Want",
+      "path": "0.0. MyThinkPad/0.0.1. Want.md"
+    },
+    {
       "basename": "0.4.0 Metacognition",
       "path": "0.4. Excalidraw/0.4.0 Metacognition.md"
     },
@@ -13,20 +33,8 @@
       "path": "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md"
     },
     {
-      "basename": "0.1.0 Setup Rust DE",
-      "path": "0.1. Rust Programming/0.1.0 Setup Rust DE.md"
-    },
-    {
-      "basename": "2024-01-05 Side Channel II",
-      "path": "2024/January 2024/2024-01-05 Side Channel II.md"
-    },
-    {
       "basename": "0.5.0 NeoVim Setup",
       "path": "0.5. Editor/0.5.0 NeoVim Setup.md"
-    },
-    {
-      "basename": "0.1. Rust Programming",
-      "path": "0.1. Rust Programming/0.1. Rust Programming.md"
     },
     {
       "basename": "0.0.0. Source Collector",
@@ -75,10 +83,6 @@
     {
       "basename": "Obsidian Test",
       "path": "0.0. MyThinkPad/Obsidian Test.md"
-    },
-    {
-      "basename": "Callout Styles",
-      "path": "0.0. MyThinkPad/Callout Styles.md"
     },
     {
       "basename": "0.1. C Programming",
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing of AES",
       "path": "0.4. Excalidraw/Drawing of AES.md"
-    },
-    {
-      "basename": "Drawing of Data Structure",
-      "path": "0.4. Excalidraw/Drawing of Data Structure.md"
     }
   ],
   "omittedPaths": [],
