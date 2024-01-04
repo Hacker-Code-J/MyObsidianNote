@@ -8,6 +8,11 @@ completed: null
 ---
 
 - https://github.com/newaetech/chipwhisperer/releases/tag/5.7.0
+
+- py --version
+- 
+
+
 - Chipwhisperer
 - Install CW-lite Firmware
 
