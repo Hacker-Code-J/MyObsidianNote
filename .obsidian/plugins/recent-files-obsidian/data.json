@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-01-04",
-      "path": "Daily Tasks/2024-01-04.md"
+      "basename": "2024-01-04 Side Channel I",
+      "path": "Calender/2024-01-04 Side Channel I.md"
     },
     {
       "basename": "0.0.0. Source Collector",
       "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+    },
+    {
+      "basename": "2024-01-05 Side Channel II",
+      "path": "Calender/2024-01-05 Side Channel II.md"
+    },
+    {
+      "basename": "2024-01-04",
+      "path": "Daily Tasks/2024-01-04.md"
+    },
+    {
+      "basename": "Drawing of CPU and GPU",
+      "path": "0.4. Excalidraw/Drawing of CPU and GPU.md"
     },
     {
       "basename": "0.5.0 NeoVim Setup",
@@ -185,20 +197,8 @@
       "path": "0.4. Excalidraw/Drawing of Data Structure.md"
     },
     {
-      "basename": "Drawing of CPU and GPU",
-      "path": "0.4. Excalidraw/Drawing of CPU and GPU.md"
-    },
-    {
       "basename": "NVIM Command",
       "path": "0.5. Editor/NVIM Command.md"
-    },
-    {
-      "basename": "static vs const vs static const",
-      "path": "My Language Training/C Note/static vs const vs static const.md"
-    },
-    {
-      "basename": "0. Installation and Setup",
-      "path": "My Language Training/Rust Note/0. Installation and Setup.md"
     }
   ],
   "omittedPaths": [],

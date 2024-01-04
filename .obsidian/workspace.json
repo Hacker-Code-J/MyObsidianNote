@@ -23,12 +23,20 @@
             }
           },
           {
-            "id": "3713b76ab41238ad",
+            "id": "0a01c1c32fbf07c8",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5092fe0745325f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Tasks/2024-01-04.md",
+                "file": "Calender/2024-01-04 Side Channel I.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Tasks/2024-01-04.md",
+                "file": "Calender/2024-01-04 Side Channel I.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Tasks/2024-01-04.md",
+                "file": "Calender/2024-01-04 Side Channel I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Tasks/2024-01-04.md"
+                "file": "Calender/2024-01-04 Side Channel I.md"
               }
             }
           },
@@ -201,10 +209,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3713b76ab41238ad",
+  "active": "5092fe0745325f3f",
   "lastOpenFiles": [
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
+    "Calender/2024-01-04 Side Channel I.md",
+    "Calender/2024-01-05 Side Channel II.md",
     "Daily Tasks/2024-01-04.md",
+    "Calender",
+    "0.4. Excalidraw/Drawing of CPU and GPU.md",
     "0.5. Editor/0.5.0 NeoVim Setup.md",
     "conflict-files-obsidian-git.md",
     "0.5. Editor/Bash_and_PowerShell.md",
@@ -227,9 +239,6 @@
     "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
     "1.1. AES/1.1.1.3. Round Constant (RCON).md",
     "1.1. AES/1.1.1.2. SubWord.md",
-    "0.1. C Programming/File and Terminal In-output Operations.md",
-    "0.1. C Programming/0.1.0. GDB.md",
-    "1.1. AES/1.1.1.1. RotWord.md",
     "0.4. Excalidraw/Untitled Diagram.svg",
     "Untitled.canvas",
     "2.1. Discrete Mathematics",
@@ -241,7 +250,6 @@
     "0.1. C Programming",
     "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer",
     "2.0. Number Theory/Chapter 1. Preliminaries",
-    "2.0. Number Theory",
     "Mind Map/C - CraftCodeLab.canvas",
     "Untitled 1.canvas"
   ]
