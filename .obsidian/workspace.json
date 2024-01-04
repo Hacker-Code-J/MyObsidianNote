@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.5. Editor/0.5.0 NeoVim Setup.md",
+                "file": "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.5. Editor/0.5.0 NeoVim Setup.md",
+                "file": "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.5. Editor/0.5.0 NeoVim Setup.md",
+                "file": "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.5. Editor/0.5.0 NeoVim Setup.md"
+                "file": "0.0. MyThinkPad/0.0.2. TO DO LIST.md"
               }
             }
           },
@@ -211,6 +211,10 @@
   },
   "active": "2dd8926a197989ee",
   "lastOpenFiles": [
+    "0.0. MyThinkPad/0.0.1. Want.md",
+    "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
+    "0.0. MyThinkPad/0.0.0. Source Collector.md",
+    "0.5. Editor/0.5.0 NeoVim Setup.md",
     "1.1. AES/1.1.0. AES - Galois Fields.md",
     "1.1. AES/1.1.0. Overview of AES.md",
     "1.1. AES/1.1.1.2. SubWord.md",
@@ -223,13 +227,10 @@
     "0.1. Rust Programming/0.1.0 Setup Rust DE.md",
     "0.1. Rust Programming/0.1. Rust Programming.md",
     "0.0. MyThinkPad/Callout Styles.md",
-    "0.0. MyThinkPad/0.0.1. Want.md",
     "0.4. Excalidraw/0.4.0 Metacognition.md",
     "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md",
     "2024/January 2024",
     "2024",
-    "0.5. Editor/0.5.0 NeoVim Setup.md",
-    "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "Daily Tasks/2024-01-04.md",
     "Calender",
     "0.4. Excalidraw/Drawing of CPU and GPU.md",
@@ -239,7 +240,6 @@
     "Github SSH Setup.md",
     "JOB.md",
     "1.2. OpenSSL/Check OpenSSL Version.md",
-    "1.2. OpenSSL/OpenSSL.md",
     "3.0. LaTex",
     "0.4. Excalidraw/Untitled Diagram.svg",
     "Untitled.canvas",

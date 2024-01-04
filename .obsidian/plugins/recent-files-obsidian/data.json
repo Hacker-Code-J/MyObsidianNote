@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "0.0.2. TO DO LIST",
+      "path": "0.0. MyThinkPad/0.0.2. TO DO LIST.md"
+    },
+    {
+      "basename": "0.0.1. Want",
+      "path": "0.0. MyThinkPad/0.0.1. Want.md"
+    },
+    {
+      "basename": "0.0.0. Source Collector",
+      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+    },
+    {
       "basename": "0.5.0 NeoVim Setup",
       "path": "0.5. Editor/0.5.0 NeoVim Setup.md"
     },
@@ -53,20 +65,12 @@
       "path": "0.0. MyThinkPad/Callout Styles.md"
     },
     {
-      "basename": "0.0.1. Want",
-      "path": "0.0. MyThinkPad/0.0.1. Want.md"
-    },
-    {
       "basename": "0.4.0 Metacognition",
       "path": "0.4. Excalidraw/0.4.0 Metacognition.md"
     },
     {
       "basename": "0.1.1 Rust and C with ChatGPT",
       "path": "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md"
-    },
-    {
-      "basename": "0.0.0. Source Collector",
-      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
     },
     {
       "basename": "2024-01-04",
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing of Hash",
       "path": "0.4. Excalidraw/Drawing of Hash.md"
-    },
-    {
-      "basename": "Drawing of Nested Loops",
-      "path": "0.4. Excalidraw/Drawing of Nested Loops.md"
     }
   ],
   "omittedPaths": [],
