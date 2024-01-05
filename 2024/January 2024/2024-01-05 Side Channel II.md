@@ -82,3 +82,4 @@ A = randn(6,1); % 6 x 1
 B = randn(6,1); % 6 x 1
 corr(A,B)
 ```
+

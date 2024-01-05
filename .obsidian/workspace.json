@@ -23,17 +23,28 @@
             }
           },
           {
-            "id": "d567719a87ff9d27",
+            "id": "3c40da7a50576f7f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "72c15065f4f882d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "0.4. Excalidraw/Drawing of AES.md"
+                "file": "2024/January 2024/2024-01-05 Side Channel II.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/Drawing of AES.md",
+                "file": "2024/January 2024/2024-01-05 Side Channel II.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/Drawing of AES.md",
+                "file": "2024/January 2024/2024-01-05 Side Channel II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/Drawing of AES.md"
+                "file": "2024/January 2024/2024-01-05 Side Channel II.md"
               }
             }
           },
@@ -198,16 +209,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d567719a87ff9d27",
+  "active": "72c15065f4f882d4",
   "lastOpenFiles": [
+    "0.0. MyThinkPad/0.0.0. Source Collector.md",
+    "2024/January 2024/2024-01-05 Side Channel II.md",
+    "0.4. Excalidraw/Drawing of AES.md",
     "1.1. AES/1.1.0. Overview of AES.md",
     "0.4. Excalidraw/0.4.0 Metacognition.md",
-    "0.4. Excalidraw/Drawing of AES.md",
     "1.1. AES/1.1.1.1. RotWord.md",
     "1.1. AES/1.1.1.0. Key Expansion.md",
     "1.1. AES/1.1.0. AES - Galois Fields.md",
-    "0.0. MyThinkPad/0.0.0. Source Collector.md",
-    "2024/January 2024/2024-01-05 Side Channel II.md",
     "2024/January 2024/2024-01-04 Side Channel I.md",
     "0.0. MyThinkPad/Obsidian Test.md",
     "0.0. MyThinkPad/0.0.2. TO DO LIST.md",

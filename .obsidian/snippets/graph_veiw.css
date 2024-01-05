@@ -1,7 +1,7 @@
 .theme-light {
     --graph-circle: #ff7b7b;          /* Red */
     --graph-line: #282c34;            /* Dark Background */
-    --graph-bg: #353b45;              /* Slightly lighter background */
+    --graph-bg: #ffffff;              /* Slightly lighter background */
     --graph-text: #abb2bf;            /* Light Gray Text */
     --graphtag: #61afef;              /* Blue */
     --graph-attach: #98c379;          /* Green */
