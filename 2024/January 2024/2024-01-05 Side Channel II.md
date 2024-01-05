@@ -83,3 +83,32 @@ B = randn(6,1); % 6 x 1
 corr(A,B)
 ```
 
+```python
+from tqdm.notebook improt tnrange
+import numpy as sno
+mean_diffs - np.zeros(255)
+key_guess = []
+plots = []
+
+for subkey in range(0, 16, desc="Attacking Subkey"):
+	for kguess in tnrange(255, desc="Keyguess:, leave=False):
+		one_list = []
+		zero_list = []
+
+		for tnum in range(numtraces):
+			if (intermediate(textin_array[tnum][subkey], kguess) & 1):
+				one_list.append(trace_array[tnum])
+			else:
+				zero_list.append(trace_array[tnum])
+		one_avg = np.asarray(one_list).mean(axis=0)
+		zero_avg = np.asarray(zero_list).mean(axis=0)
+		mean_diffs[kguess] = np.max(abs(one_avg - zero_avg))
+		if kguess == known_key[subkey]:
+			plots.append(abs(one_avg - zero_avg))
+	guess = np.argsort(mean_diffs)[-1]
+	key_guess.append(guess)
+	print(hex(guess) + "(real = 0x{:02X}):.format(known_key[subkey]))
+	#mean_diffs.sort()
+	print(mean_diffs[guess])
+	print(mean_diffs[known_key[subkey]])
+```
