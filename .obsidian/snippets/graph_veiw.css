@@ -1,19 +1,13 @@
 .theme-light {
-.theme-light {
-    --background-nav-alt: #3a3e3f;
-    --background-nav-file-tag: #ff9f9b;
-    --background-nav-selected: #ff9f9b;
-    --background-nav: #292c2e;
-    --graph-circle: #ff7b7b;      /* Pastel Red */
-    --graph-line: #dddddd;        /* Light Gray */
-    --graph-bg: #f8f8f8;          /* Off-White */
-    --graph-text: #b0b0b0;        /* Pastel Gray */
-    --graphtag: #c4f2a7;          /* Light Pastel Green */
-    --graph-attach: #a5e8ff;       /* Light Pastel Blue */
-    --graph-unresolved: #b3b7b3;   /* Pastel Grayish Blue */
+    --graph-circle: #ff7b7b;          /* Red */
+    --graph-line: #282c34;            /* Dark Background */
+    --graph-bg: #353b45;              /* Slightly lighter background */
+    --graph-text: #abb2bf;            /* Light Gray Text */
+    --graphtag: #61afef;              /* Blue */
+    --graph-attach: #98c379;          /* Green */
+    --graph-unresolved: #abb2bf;      /* Light Grayish Blue */
     --checklist-done-decoration: none;
-}  
-
+}
 
 /* ======= ## Global graph  ==============*/
 

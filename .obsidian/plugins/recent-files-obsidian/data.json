@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-01-05 Side Channel II",
-      "path": "2024/January 2024/2024-01-05 Side Channel II.md"
+      "basename": "Drawing of AES",
+      "path": "0.4. Excalidraw/Drawing of AES.md"
+    },
+    {
+      "basename": "1.1.0. Overview of AES",
+      "path": "1.1. AES/1.1.0. Overview of AES.md"
+    },
+    {
+      "basename": "0.4.0 Metacognition",
+      "path": "0.4. Excalidraw/0.4.0 Metacognition.md"
+    },
+    {
+      "basename": "1.1.1.1. RotWord",
+      "path": "1.1. AES/1.1.1.1. RotWord.md"
+    },
+    {
+      "basename": "1.1.1.0. Key Expansion",
+      "path": "1.1. AES/1.1.1.0. Key Expansion.md"
+    },
+    {
+      "basename": "1.1.0. AES - Galois Fields",
+      "path": "1.1. AES/1.1.0. AES - Galois Fields.md"
     },
     {
       "basename": "0.0.0. Source Collector",
       "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
     },
     {
-      "basename": "Obsidian Test",
-      "path": "0.0. MyThinkPad/Obsidian Test.md"
+      "basename": "2024-01-05 Side Channel II",
+      "path": "2024/January 2024/2024-01-05 Side Channel II.md"
     },
     {
       "basename": "2024-01-04 Side Channel I",
       "path": "2024/January 2024/2024-01-04 Side Channel I.md"
+    },
+    {
+      "basename": "Obsidian Test",
+      "path": "0.0. MyThinkPad/Obsidian Test.md"
     },
     {
       "basename": "0.0.2. TO DO LIST",
@@ -33,24 +57,8 @@
       "path": "0.5. Editor/0.5.0 NeoVim Setup.md"
     },
     {
-      "basename": "1.1.0. AES - Galois Fields",
-      "path": "1.1. AES/1.1.0. AES - Galois Fields.md"
-    },
-    {
-      "basename": "1.1.0. Overview of AES",
-      "path": "1.1. AES/1.1.0. Overview of AES.md"
-    },
-    {
       "basename": "1.1.1.2. SubWord",
       "path": "1.1. AES/1.1.1.2. SubWord.md"
-    },
-    {
-      "basename": "1.1.1.1. RotWord",
-      "path": "1.1. AES/1.1.1.1. RotWord.md"
-    },
-    {
-      "basename": "1.1.1.0. Key Expansion",
-      "path": "1.1. AES/1.1.1.0. Key Expansion.md"
     },
     {
       "basename": "1.1.5. AES Encryption and Decryption",
@@ -71,10 +79,6 @@
     {
       "basename": "Callout Styles",
       "path": "0.0. MyThinkPad/Callout Styles.md"
-    },
-    {
-      "basename": "0.4.0 Metacognition",
-      "path": "0.4. Excalidraw/0.4.0 Metacognition.md"
     },
     {
       "basename": "0.1.1 Rust and C with ChatGPT",
@@ -195,10 +199,6 @@
     {
       "basename": "0.4.1. bigint (excalidraw)",
       "path": "0.4. Excalidraw/0.4.1. bigint (excalidraw).md"
-    },
-    {
-      "basename": "Drawing of Hash",
-      "path": "0.4. Excalidraw/Drawing of Hash.md"
     }
   ],
   "omittedPaths": [],

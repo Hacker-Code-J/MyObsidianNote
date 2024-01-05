@@ -3,7 +3,14 @@
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
-  "fileMenu": [],
+  "fileMenu": [
+    {
+      "id": "editor:insert-tag",
+      "icon": "lucide-tag",
+      "name": "aes",
+      "mode": "any"
+    }
+  ],
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],

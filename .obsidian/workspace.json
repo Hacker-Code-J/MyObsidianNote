@@ -23,15 +23,12 @@
             }
           },
           {
-            "id": "70e98c6d906f59e4",
+            "id": "d567719a87ff9d27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2024/January 2024/2024-01-05 Side Channel II.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "0.4. Excalidraw/Drawing of AES.md"
               }
             }
           }
@@ -126,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/January 2024/2024-01-05 Side Channel II.md",
+                "file": "0.4. Excalidraw/Drawing of AES.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/January 2024/2024-01-05 Side Channel II.md",
+                "file": "0.4. Excalidraw/Drawing of AES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/January 2024/2024-01-05 Side Channel II.md"
+                "file": "0.4. Excalidraw/Drawing of AES.md"
               }
             }
           },
@@ -179,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -201,27 +198,28 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "70e98c6d906f59e4",
+  "active": "d567719a87ff9d27",
   "lastOpenFiles": [
+    "1.1. AES/1.1.0. Overview of AES.md",
+    "0.4. Excalidraw/0.4.0 Metacognition.md",
+    "0.4. Excalidraw/Drawing of AES.md",
+    "1.1. AES/1.1.1.1. RotWord.md",
+    "1.1. AES/1.1.1.0. Key Expansion.md",
+    "1.1. AES/1.1.0. AES - Galois Fields.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
-    "0.0. MyThinkPad/Obsidian Test.md",
     "2024/January 2024/2024-01-05 Side Channel II.md",
     "2024/January 2024/2024-01-04 Side Channel I.md",
+    "0.0. MyThinkPad/Obsidian Test.md",
     "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
     "0.1. C Programming/0.1.0. GDB.md",
     "0.0. MyThinkPad/0.0.1. Want.md",
     "0.5. Editor/0.5.0 NeoVim Setup.md",
-    "1.1. AES/1.1.0. AES - Galois Fields.md",
-    "1.1. AES/1.1.0. Overview of AES.md",
     "1.1. AES/1.1.1.2. SubWord.md",
-    "1.1. AES/1.1.1.1. RotWord.md",
-    "1.1. AES/1.1.1.0. Key Expansion.md",
     "1.1. AES/1.1.5. AES Encryption and Decryption.md",
     "1.1. AES/1.1.4.0. SubBytes and MixColumns.md",
     "0.1. Rust Programming/0.1.0 Setup Rust DE.md",
     "0.1. Rust Programming/0.1. Rust Programming.md",
     "0.0. MyThinkPad/Callout Styles.md",
-    "0.4. Excalidraw/0.4.0 Metacognition.md",
     "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md",
     "2024/January 2024",
     "2024",
@@ -231,7 +229,6 @@
     "conflict-files-obsidian-git.md",
     "0.5. Editor/Bash_and_PowerShell.md",
     "0.5. Editor/Dev Tip.md",
-    "Github SSH Setup.md",
     "3.0. LaTex",
     "0.4. Excalidraw/Untitled Diagram.svg",
     "Untitled.canvas",
