@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "479e50c9d0e8e444",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "5defc0a13c66a6db",
             "type": "leaf",
             "pinned": true,
@@ -31,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "2cca1204a4d4dd5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024/January 2024/2024-01-05 Side Channel II.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/January 2024/2024-01-05 Side Channel II.md",
+                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/January 2024/2024-01-05 Side Channel II.md",
+                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/January 2024/2024-01-05 Side Channel II.md"
+                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md"
               }
             }
           },
@@ -211,9 +187,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2cca1204a4d4dd5e",
+  "active": "5defc0a13c66a6db",
   "lastOpenFiles": [
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
+    "0.0. MyThinkPad/Obsidian Test.md",
     "2024/January 2024/2024-01-05 Side Channel II.md",
     "2024/January 2024/2024-01-04 Side Channel I.md",
     "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
@@ -241,7 +218,6 @@
     "0.5. Editor/Bash_and_PowerShell.md",
     "0.5. Editor/Dev Tip.md",
     "Github SSH Setup.md",
-    "JOB.md",
     "3.0. LaTex",
     "0.4. Excalidraw/Untitled Diagram.svg",
     "Untitled.canvas",
