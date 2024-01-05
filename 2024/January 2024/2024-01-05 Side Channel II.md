@@ -84,14 +84,15 @@ corr(A,B)
 ```
 
 ```python
-from tqdm.notebook improt tnrange
+from tqdm.notebook import tnrange
 import numpy as sno
-mean_diffs - np.zeros(255)
+mean_diffs = np.zeros(255)
 key_guess = []
+known_key = known_keys[0]
 plots = []
 
-for subkey in range(0, 16, desc="Attacking Subkey"):
-	for kguess in tnrange(255, desc="Keyguess:, leave=False):
+for subkey in tnrange(0, 16, desc="Attacking Subkey"):
+	for kguess in tnrange(255, desc="Keyguess", leave=False):
 		one_list = []
 		zero_list = []
 
@@ -107,7 +108,7 @@ for subkey in range(0, 16, desc="Attacking Subkey"):
 			plots.append(abs(one_avg - zero_avg))
 	guess = np.argsort(mean_diffs)[-1]
 	key_guess.append(guess)
-	print(hex(guess) + "(real = 0x{:02X}):.format(known_key[subkey]))
+	print(hex(guess) + "(real = 0x{:02X})".format(known_key[subkey]))
 	#mean_diffs.sort()
 	print(mean_diffs[guess])
 	print(mean_diffs[known_key[subkey]])
