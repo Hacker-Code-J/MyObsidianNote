@@ -72,3 +72,5 @@ static void Cipher(void)
 
 ### Differential Power Analysis
 
+### Correlation Power Analysis
+
