@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-01-05 Side Channel II",
+      "path": "2024/January 2024/2024-01-05 Side Channel II.md"
+    },
+    {
+      "basename": "2024-01-04 Side Channel I",
+      "path": "2024/January 2024/2024-01-04 Side Channel I.md"
+    },
+    {
+      "basename": "0.0.0. Source Collector",
+      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+    },
+    {
       "basename": "0.0.2. TO DO LIST",
       "path": "0.0. MyThinkPad/0.0.2. TO DO LIST.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "0.0.1. Want",
       "path": "0.0. MyThinkPad/0.0.1. Want.md"
-    },
-    {
-      "basename": "0.0.0. Source Collector",
-      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
     },
     {
       "basename": "0.5.0 NeoVim Setup",
@@ -47,14 +55,6 @@
     {
       "basename": "1.1.4.0. SubBytes and MixColumns",
       "path": "1.1. AES/1.1.4.0. SubBytes and MixColumns.md"
-    },
-    {
-      "basename": "2024-01-04 Side Channel I",
-      "path": "2024/January 2024/2024-01-04 Side Channel I.md"
-    },
-    {
-      "basename": "2024-01-05 Side Channel II",
-      "path": "2024/January 2024/2024-01-05 Side Channel II.md"
     },
     {
       "basename": "0.1.0 Setup Rust DE",
