@@ -67,3 +67,8 @@ static void Cipher(void)
   trigger_low();
 }
 ```
+
+## DPA and CPA
+
+### Differential Power Analysis
+

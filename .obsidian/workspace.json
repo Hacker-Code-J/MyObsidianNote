@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2dd8926a197989ee",
+            "id": "479e50c9d0e8e444",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -33,15 +33,7 @@
             }
           },
           {
-            "id": "2ee96a647f2aa82a",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "3deb22f9ef0762d8",
+            "id": "2cca1204a4d4dd5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -144,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024/January 2024/2024-01-05 Side Channel II.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024/January 2024/2024-01-05 Side Channel II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024/January 2024/2024-01-05 Side Channel II.md"
+              }
             }
           },
           {
@@ -215,11 +211,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2dd8926a197989ee",
+  "active": "2cca1204a4d4dd5e",
   "lastOpenFiles": [
-    "2024/January 2024/2024-01-04 Side Channel I.md",
-    "2024/January 2024/2024-01-05 Side Channel II.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
+    "2024/January 2024/2024-01-05 Side Channel II.md",
+    "2024/January 2024/2024-01-04 Side Channel I.md",
     "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
     "0.1. C Programming/0.1.0. GDB.md",
     "0.0. MyThinkPad/0.0.1. Want.md",
