@@ -113,3 +113,60 @@ for subkey in tnrange(0, 16, desc="Attacking Subkey"):
 	print(mean_diffs[guess])
 	print(mean_diffs[known_key[subkey]])
 ```
+
+```python
+import numpy as np
+from tqdm.notebook import tqdm
+
+HW = [bin(n).count("1") for n in range(0, 256)]
+
+numtraces = np.shape(trace_array)[0] #total number of traces
+numpoint = np.shape(trace_array)[1] #samples per trace
+
+pt = textin_array
+knownkey = traces[0].key
+cparefs = [0] * 16
+bestguess = [0]*16
+
+for bnum in tqdm(range(0, 16), desc='Attacking subkeys'):
+	cpaoutput = [0] * 256
+	maxcpa = [0] * 256
+	for kguess in range(0, 256):
+		# Initialize arrays &amp; variables to zero
+		sumnum = np.zeros(numpoint)
+		sumden1 = np.zeros(numpoint)
+		sumden2 = np.zeros(numpoint)
+		
+		hyp = np.zeros(numtraces)
+		for tnum in range(0, numtraces):
+			hyp[tnum] = HW[intermediate(pt[tnum][bnum], kguess)]
+		
+		# Mean of hypothesis
+		meanh = np.mean(hyp, dtype=np.float64)
+		# Mean of all points in trace
+		meant = np.mean(trace_array, axis=0, dtype=np.float64)
+		
+		# For each trace, do the following
+		for tnum in range(0, numtraces):
+			hdiff = (hyp[tnum] - meanh)
+			tdiff = trace_array[tnum, :] - meant
+			sumnum = sumnum + (hdiff * tdiff)
+			sumden1 = sumden1 + hdiff * hdiff
+			sumden2 = sumden2 + tdiff * tdiff
+		cpaoutput[kguess] = sumnum / np.sqrt(sumden1 * sumden2)
+		maxcpa[kguess] = max(abs(cpaoutput[kguess]))
+	bestguess[bnum] = np.argmax(maxcpa)
+	cparefs[bnum] = np.argsort(maxcpa)[::-1]
+print("Best Key Guess: ", end="")
+for b in bestguess: print("%02x " % b, end="")
+```
+
+```python
+for b in knownkey: print("%02x "%b, end="")
+print("\n")
+if all([known_byte == guess_byte for known_byte, guess_byte in zip(knownkey, bestguess)]):
+	print("Guess was right")
+else:
+	print("Guess was wrong")
+```
+

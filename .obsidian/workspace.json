@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024/January 2024/2024-01-05 Side Channel II.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024/January 2024/2024-01-05 Side Channel II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024/January 2024/2024-01-05 Side Channel II.md"
+              }
             }
           },
           {
@@ -205,8 +209,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "790b29d78532c388",
+  "active": "9a3c00af89f573f9",
   "lastOpenFiles": [
+    "3.0. LaTex/LaTex Tips.md",
     "2024/January 2024/2024-01-05 Side Channel II.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "Untitled.md",
@@ -235,7 +240,6 @@
     "Calender",
     "0.4. Excalidraw/Drawing of CPU and GPU.md",
     "conflict-files-obsidian-git.md",
-    "0.5. Editor/Bash_and_PowerShell.md",
     "3.0. LaTex",
     "0.4. Excalidraw/Untitled Diagram.svg",
     "Untitled.canvas",
