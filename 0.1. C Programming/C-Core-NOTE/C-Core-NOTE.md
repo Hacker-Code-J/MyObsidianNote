@@ -1,6 +1,6 @@
 #C
 
-[[References for C-Core-NOTE]]
+[[Drawing of CS]]
 
 > [!NOTE] References
 > - https://www.inflearn.com/users/865030
