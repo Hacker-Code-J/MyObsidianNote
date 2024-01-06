@@ -26,12 +26,19 @@
             "id": "ea29dc407afb71c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "0.1. C Programming/C-Core-NOTE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "0.4. Excalidraw/References for C-Core-NOTE.md"
+              }
+            }
+          },
+          {
+            "id": "d6e194469270564d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.4. Excalidraw/References for C-Core-NOTE.md"
               }
             }
           },
@@ -44,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,8 +214,8 @@
   },
   "active": "579fc0c9497c40b8",
   "lastOpenFiles": [
-    "0.1. C Programming/C-Core-NOTE.md",
     "0.4. Excalidraw/References for C-Core-NOTE.md",
+    "0.1. C Programming/C-Core-NOTE.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "0.1. C Programming/0.1.0. GDB.md",
     "0.0. MyThinkPad/Obsidian Test.md",
