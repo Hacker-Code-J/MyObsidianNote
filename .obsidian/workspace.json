@@ -36,9 +36,12 @@
             "id": "d6e194469270564d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0.4. Excalidraw/References for C-Core-NOTE.md"
+                "file": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -51,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
+              }
             }
           },
           {
@@ -212,10 +219,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "579fc0c9497c40b8",
+  "active": "9a3c00af89f573f9",
   "lastOpenFiles": [
+    "0.1. C Programming/C-Core-NOTE",
     "0.4. Excalidraw/References for C-Core-NOTE.md",
-    "0.1. C Programming/C-Core-NOTE.md",
+    "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "0.1. C Programming/0.1.0. GDB.md",
     "0.0. MyThinkPad/Obsidian Test.md",
@@ -239,7 +247,6 @@
     "2024/January 2024/2024-01-04 Side Channel I.md",
     "0.5. Editor/0.5.0 NeoVim Setup.md",
     "1.1. AES/1.1.1.2. SubWord.md",
-    "1.1. AES/1.1.5. AES Encryption and Decryption.md",
     "2024/January 2024",
     "2024",
     "Calender",
