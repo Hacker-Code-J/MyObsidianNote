@@ -6,7 +6,36 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"0.0. MyThinkPad\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65531
+      }
+    },
+    {
+      "query": "path:\"0.1. C Programming\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16639
+      }
+    },
+    {
+      "query": "path:\"0.1. Rust Programming\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    },
+    {
+      "query": "path:\"1.1. AES\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15597823
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.46822130772748,
+  "scale": 0.31214753848498666,
   "close": false
 }

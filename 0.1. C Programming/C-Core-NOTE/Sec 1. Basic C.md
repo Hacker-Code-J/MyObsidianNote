@@ -53,3 +53,7 @@ gdb ./endian_test
 ```
 
 ### Two's Complement
+
+- one's complement is implemented with not operation
+- two's complement is one's complement + 1
+- 정수형식에서 부호라는 개념은 어떻게 이해하여야 하는가?
