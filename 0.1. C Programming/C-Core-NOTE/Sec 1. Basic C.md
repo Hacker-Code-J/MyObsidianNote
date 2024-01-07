@@ -37,6 +37,19 @@ gdb ./endian_test
 **Set a Breakpoint:**
 
 ```bash
-
+(gdb) break 4
 ```
+
+**Run the Program:**
+
+```bash
+(gdb) run
+```
+
+**Examine the Variable:**
+
+```bash
+(gdb) x/4xb &a
+```
+
 ### Two's Complement
