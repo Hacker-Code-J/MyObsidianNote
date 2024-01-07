@@ -1,12 +1,12 @@
 .theme-light {
-    --graph-circle: #ff7b7b;                /* Light Pastel Red */
-    --graph-line: #dddddd;                  /* Light Gray */
-    --graph-bg: #f8f8f8;                    /* Off-White */
-    --graph-text: #b0b0b0;                 /* Pastel Gray */
-    --graphtag: #c4f2a7;                    /* Light Pastel Green */
-    --graph-attach: #a5e8ff;                /* Light Pastel Blue */
-    --graph-unresolved: #abb2bf;            /* Pastel Grayish Blue */
-    --checklist-done-decoration: none;
+    --graph-circle: #ff7b7b;            /* Light Pastel Red */
+    --graph-line: #dddddd;              /* Light Gray */
+    --graph-bg: #f8f8f8;                /* Off-White */
+    --graph-text: #b0b0b0;              /* Pastel Gray */
+    --graphtag: #c4f2a7;                /* Light Pastel Green */
+    --graph-attach: #a5e8ff;            /* Light Pastel Blue */
+    --graph-unresolved: #abb2bf;        /* Pastel Grayish Blue */
+    --checklist-done-decoration: none
 }
 
 /* ======= ## Global graph  ==============*/

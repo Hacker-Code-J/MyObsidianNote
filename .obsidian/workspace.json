@@ -23,7 +23,17 @@
             }
           },
           {
-            "id": "8860584c21bd392d",
+            "id": "7536c7b54899d657",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md"
+              }
+            }
+          },
+          {
+            "id": "dea808d432ee4ac5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,24 +42,6 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c0c49f248d904b69",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7536c7b54899d657",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md"
               }
             }
           }
@@ -144,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md"
+              }
             }
           },
           {
@@ -215,14 +211,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c0c49f248d904b69",
+  "active": "dea808d432ee4ac5",
   "lastOpenFiles": [
-    "0.1. C Programming/0.1.0. GDB.md",
-    "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md",
+    "0.0. MyThinkPad/0.0.0. Source Collector.md",
+    "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md",
+    "0.1. C Programming/0.1.0. GDB.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Drawing of CS.md",
     "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
-    "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "2024/January 2024/2024-01-05 Side Channel II.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw",
     "0.2. Computer Science/Part 1. Computer Structure/Computer Structure.md",
