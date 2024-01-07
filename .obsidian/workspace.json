@@ -23,22 +23,12 @@
             }
           },
           {
-            "id": "ea29dc407afb71c6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Drawing of CS.md"
-              }
-            }
-          },
-          {
-            "id": "d6e194469270564d",
+            "id": "8860584c21bd392d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/January 2024/2024-01-05 Side Channel II.md",
+                "file": "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,15 +36,7 @@
             }
           },
           {
-            "id": "1a87f61ff9be0afe",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "579fc0c9497c40b8",
+            "id": "7536c7b54899d657",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -64,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md",
+                "file": "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md",
+                "file": "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md"
+                "file": "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md"
               }
             }
           },
@@ -229,21 +211,21 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "579fc0c9497c40b8",
+  "active": "8860584c21bd392d",
   "lastOpenFiles": [
-    "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md",
+    "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Drawing of CS.md",
+    "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
+    "0.0. MyThinkPad/0.0.0. Source Collector.md",
+    "2024/January 2024/2024-01-05 Side Channel II.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw",
     "0.2. Computer Science/Part 1. Computer Structure/Computer Structure.md",
-    "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
     "0.0. MyThinkPad/Callout Styles.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Drawing of CS.md",
-    "2024/January 2024/2024-01-05 Side Channel II.md",
     "3.0. LaTex/LaTex Tips.md",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
     "0.1. C Programming/C-Core-NOTE",
-    "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "0.1. C Programming/0.1.0. GDB.md",
     "0.0. MyThinkPad/Obsidian Test.md",
     "0.1. C Programming/0.1. C Programming.md",
