@@ -51,6 +51,29 @@ gdb ./endian_test
 ```bash
 (gdb) x/4xb &a
 ```
+```bash
+0x7fffffffd9dc: 0x33    0x22    0x11    0x00
+```
+
+1. **Memory Address (`0x7fffffffd9dc`):**
+    
+    - This is the address in memory where the variable `a` is stored.
+    - It's represented in hexadecimal format, a common convention in programming and debugging for representing memory addresses.
+    - The address `0x7fffffffd9dc` is a location in the stack segment of your process's memory (indicated by the `7fff...` part, which is typical for stack addresses in a 64-bit Linux process).
+2. **Command Explanation (`x/4xb &a`):**
+    
+    - `x/`: This is the GDB command to examine memory.
+    - `4x`: This tells GDB to display 4 units of whatever comes next.
+    - `b`: This specifies that each unit is a byte.
+    - `&a`: This is the address of the variable `a`. The `&` operator in C and C++ gets the address of a variable.
+3. **Output Explanation (`0x67 0x45 0x23 0x01`):**
+    
+    - These are the values of the 4 bytes at memory address `0x7fffffffd9dc`, displayed in hexadecimal.
+    - These bytes represent the value of the variable `a` in memory. Since most modern systems are little-endian, the least significant byte (`0x01` in this case) is stored at the lowest address, and the most significant byte (`0x67`) at the highest address of the 4-byte sequence.
+4. **Size of the Data:**
+    
+    - The size, `4 bytes`, is determined by the `x` command you've used in GDB (`x/4xb`). You've explicitly asked GDB to show you 4 bytes starting from the address of `a`.
+    - The size of the data is important for understanding how the variable `a` is stored in memory. If `a` is an `int` on your system and your system uses a 32-bit integer representation, then `a` occupies 4 bytes of memory, which aligns with the size of data you've requested to see.
 
 ### Two's Complement
 
