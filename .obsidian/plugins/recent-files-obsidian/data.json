@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Basic-C-Draw",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md"
+    },
+    {
       "basename": "Sec 1. Basic C",
       "path": "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "2023-12-23",
-      "path": "Daily Tasks/2023-12-23.md"
     }
   ],
   "omittedPaths": [],
