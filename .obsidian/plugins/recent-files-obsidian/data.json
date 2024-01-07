@@ -5,12 +5,24 @@
       "path": "0.1. C Programming/C-Core-NOTE/1. Basic C/1.2. Floating-Point Arithmetic.md"
     },
     {
+      "basename": "Basic-C-Draw",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md"
+    },
+    {
       "basename": "C-Core-NOTE",
       "path": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
     },
     {
-      "basename": "Basic-C-Draw",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md"
+      "basename": "Setup",
+      "path": "BAEKJOON/Setup.md"
+    },
+    {
+      "basename": "(8222)",
+      "path": "BAEKJOON/0. Fundamentals/(8222).md"
+    },
+    {
+      "basename": "(16563) Advanced Factorization",
+      "path": "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md"
     },
     {
       "basename": "1.1. Endian and Two's Complement",
@@ -187,18 +199,6 @@
     {
       "basename": "Drawing of CPU and GPU",
       "path": "0.4. Excalidraw/Drawing of CPU and GPU.md"
-    },
-    {
-      "basename": "Bash_and_PowerShell",
-      "path": "0.5. Editor/Bash_and_PowerShell.md"
-    },
-    {
-      "basename": "Dev Tip",
-      "path": "0.5. Editor/Dev Tip.md"
-    },
-    {
-      "basename": "Github SSH Setup",
-      "path": "Github SSH Setup.md"
     }
   ],
   "omittedPaths": [],
