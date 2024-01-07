@@ -21,8 +21,43 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "67958c3a593d52f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f254d9f7447b2bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.1. Components of Compiler.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adecc82f89f9fba4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,25 +218,29 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5defc0a13c66a6db",
+  "active": "adecc82f89f9fba4",
   "lastOpenFiles": [
+    "0.1. C Programming/C-Core-NOTE/2. Compiler/2.1. Components of Compiler.md",
+    "0.1. C Programming/C-Core-NOTE/1. Basic C/1.4. Time Points for Code.md",
+    "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
+    "0.1. C Programming/C-Core-NOTE/1. Basic C/1.3. String Constant.md",
+    "0.1. C Programming/C-Core-NOTE/1. Basic C/1.2. Floating-Point Arithmetic.md",
+    "0.1. C Programming/C-Core-NOTE/1. Basic C/1.1. Endian and Two's Complement.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
+    "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
+    "0.1. C Programming/C-Core-NOTE/2. Compiler",
     "0.4. Excalidraw/Git-Draw.md",
     "0.6. Git/Learning Git.md",
     "1.1. AES/1.1.0. Overview of AES.md",
     "1.1. AES/1.1.4.0. SubBytes and MixColumns.md",
-    "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
-    "0.1. C Programming/C-Core-NOTE/1. Basic C/1.4. Time Points for Code.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md",
     "0.0. MyThinkPad/My Tips.md",
-    "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
     "0.1. C Programming/0.1.0. GDB.md",
-    "0.1. C Programming/C-Core-NOTE/1. Basic C/1.3. String Constant.md",
-    "0.1. C Programming/C-Core-NOTE/1. Basic C/1.2. Floating-Point Arithmetic.md",
     "BAEKJOON/Setup.md",
     "BAEKJOON/0. Fundamentals/(8222).md",
     "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
-    "0.1. C Programming/C-Core-NOTE/1. Basic C/1.1. Endian and Two's Complement.md",
     "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
     "2.0. Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
     "2.0. Number Theory/Number Theroy.md",
@@ -213,9 +248,6 @@
     "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md",
     "0.1. C Programming/C-Core-NOTE/1. Basic C",
     "2024/January 2024/2024-01-05 Side Channel II.md",
-    "2024/January 2024/2024-01-04 Side Channel I.md",
-    "0.5. Editor/0.5.0 NeoVim Setup.md",
-    "0.0. MyThinkPad/Callout Styles.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
@@ -228,7 +260,6 @@
     "Untitled.canvas",
     "2.1. Discrete Mathematics",
     "Untitled Document",
-    "0.1. Rust Programming",
     "Untitled 1.canvas"
   ]
 }

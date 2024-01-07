@@ -1,6 +1,6 @@
 #C
 
-[[Drawing of CS]]
+[[CS-Drawing]]
 
 > [!NOTE] References
 > - https://www.inflearn.com/users/865030
@@ -15,4 +15,6 @@
 - [[1.3. String Constant]]
 - [[1.4. Time Points for Code]]
 
-
+**Section 2. Complier**
+- [[2.1. Components of Compiler]]
+- 
