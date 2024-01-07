@@ -7,7 +7,8 @@
 
 ### Setup C/C++ Develop Envirenment
 
-### Content
+### Contents
 
-- [[Sec 1. Basic C]]
-- 
+**Section 1. Basic C**
+- [[1.1. Endian and Two's Complement]]
+- [[1.2. Floating-Point Arithmetic]]

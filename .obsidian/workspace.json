@@ -42,6 +42,42 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39d77f99b4370230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.1. C Programming/C-Core-NOTE/1. Basic C/1.2. Floating-Point Arithmetic.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52d05835f3b2bc88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.1. C Programming/C-Core-NOTE/1. Basic C/1.1. Endian and Two's Complement.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aeaa85dd0eeda9d1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -183,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,18 +244,20 @@
   "active": "9968b090fc1d68ad",
   "lastOpenFiles": [
     "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
+    "0.1. C Programming/C-Core-NOTE/1. Basic C/1.1. Endian and Two's Complement.md",
+    "0.1. C Programming/C-Core-NOTE/1. Basic C/1.2. Floating-Point Arithmetic.md",
+    "0.1. C Programming/C-Core-NOTE/1. Basic C",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md",
     "2024/January 2024/2024-01-05 Side Channel II.md",
     "2024/January 2024/2024-01-04 Side Channel I.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "0.4. Excalidraw/Git-Draw.md",
     "0.6. Git/Learning Git.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md",
     "0.5. Editor/0.5.0 NeoVim Setup.md",
     "0.0. MyThinkPad/My Tips.md",
     "0.0. MyThinkPad/Callout Styles.md",
     "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
     "0.0. MyThinkPad/0.0.1. Want.md",
-    "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md",
     "0.1. C Programming/0.1.0. GDB.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Drawing of CS.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw",
@@ -236,7 +274,6 @@
     "0.1. C Programming/String Operations.md",
     "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
     "Untitled.md",
-    "0.4. Excalidraw/Drawing of AES.md",
     "2024/January 2024",
     "2024",
     "Calender",
@@ -246,7 +283,6 @@
     "2.1. Discrete Mathematics",
     "Untitled Document",
     "0.1. Rust Programming",
-    "ECC/Untitled",
     "Untitled 1.canvas"
   ]
 }

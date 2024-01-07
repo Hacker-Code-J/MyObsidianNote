@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 int a= 0x01234567; ^6zhrFbzj
 
-%%***>>>text element-link:[[Sec 1. Basic C]]<<<***%%Sec 1. Basic C ^FEesOjT7
+%%***>>>text element-link:[[1.1. Endian and Two's Complement]]<<<***%%Sec 1. Basic C ^FEesOjT7
 
 0x01 ^9bfFd2mW
 
