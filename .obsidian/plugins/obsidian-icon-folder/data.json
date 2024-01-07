@@ -49,5 +49,6 @@
   "1.0. ECC": "TiLockCog",
   "1.1. AES": "TiLockCog",
   "1.2. OpenSSL": "TiLockCog",
-  "2.0. Number Theory": "TiMath"
+  "2.0. Number Theory": "TiMath",
+  "2.1. Discrete Mathematics": "TiMath"
 }

@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing of CS",
-      "path": "0.4. Excalidraw/Drawing of CS.md"
+      "basename": "Sec 1. Basic C",
+      "path": "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md"
+    },
+    {
+      "basename": "Computer Structure",
+      "path": "0.2. Computer Science/Part 1. Computer Structure/Computer Structure.md"
     },
     {
       "basename": "C-Core-NOTE",
       "path": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
+    },
+    {
+      "basename": "Callout Styles",
+      "path": "0.0. MyThinkPad/Callout Styles.md"
+    },
+    {
+      "basename": "Drawing of CS",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Drawing of CS.md"
+    },
+    {
+      "basename": "2024-01-05 Side Channel II",
+      "path": "2024/January 2024/2024-01-05 Side Channel II.md"
+    },
+    {
+      "basename": "LaTex Tips",
+      "path": "3.0. LaTex/LaTex Tips.md"
+    },
+    {
+      "basename": "The 2nd Brain",
+      "path": "Mind Map/The 2nd Brain.canvas"
+    },
+    {
+      "basename": "C - CraftCodeLab",
+      "path": "Mind Map/C - CraftCodeLab.canvas"
     },
     {
       "basename": "0.0.0. Source Collector",
@@ -51,14 +79,6 @@
     {
       "basename": "0.0.1. Want",
       "path": "0.0. MyThinkPad/0.0.1. Want.md"
-    },
-    {
-      "basename": "2024-01-05 Side Channel II",
-      "path": "2024/January 2024/2024-01-05 Side Channel II.md"
-    },
-    {
-      "basename": "LaTex Tips",
-      "path": "3.0. LaTex/LaTex Tips.md"
     },
     {
       "basename": "Untitled",
@@ -115,10 +135,6 @@
     {
       "basename": "0.1. Rust Programming",
       "path": "0.1. Rust Programming/0.1. Rust Programming.md"
-    },
-    {
-      "basename": "Callout Styles",
-      "path": "0.0. MyThinkPad/Callout Styles.md"
     },
     {
       "basename": "0.1.1 Rust and C with ChatGPT",
@@ -183,22 +199,6 @@
     {
       "basename": "2023-12-23",
       "path": "Daily Tasks/2023-12-23.md"
-    },
-    {
-      "basename": "Bit-slicing AES",
-      "path": "1.1. AES/Bit-slicing AES.md"
-    },
-    {
-      "basename": "SHA-2",
-      "path": "Hash/SHA-2.md"
-    },
-    {
-      "basename": "Pedantic Compilation in Linux",
-      "path": "GCC/Pedantic Compilation in Linux.md"
-    },
-    {
-      "basename": "1.1.3. ShiftRows",
-      "path": "1.1. AES/1.1.3. ShiftRows.md"
     }
   ],
   "omittedPaths": [],
