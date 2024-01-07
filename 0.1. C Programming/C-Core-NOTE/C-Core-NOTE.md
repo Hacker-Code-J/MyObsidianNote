@@ -12,3 +12,7 @@
 **Section 1. Basic C**
 - [[1.1. Endian and Two's Complement]]
 - [[1.2. Floating-Point Arithmetic]]
+- [[1.3. String Constant]]
+- [[1.4. Time Points for Code]]
+
+
