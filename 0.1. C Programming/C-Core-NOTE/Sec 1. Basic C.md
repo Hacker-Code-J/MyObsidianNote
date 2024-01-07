@@ -4,6 +4,8 @@
 
 ### Integer and Endian
 
+https://betterexplained.com/articles/understanding-big-and-little-endian-byte-order/
+
 ```bash
 lscpu | grep -i endian
 ```
@@ -17,7 +19,7 @@ Byte Order:                         Little Endian
 #include <stdio.h>
 
 int main() {
-    int a = 0x00112233;
+    int a = 0x01234567;
     return 0;
 }
 ```
@@ -52,7 +54,7 @@ gdb ./endian_test
 (gdb) x/4xb &a
 ```
 ```bash
-0x7fffffffd9dc: 0x33    0x22    0x11    0x00
+0x7fffffffd9dc: 0x67    0x45    0x23    0x01
 ```
 
 1. **Memory Address (`0x7fffffffd9dc`):**
@@ -75,6 +77,9 @@ gdb ./endian_test
     - The size, `4 bytes`, is determined by the `x` command you've used in GDB (`x/4xb`). You've explicitly asked GDB to show you 4 bytes starting from the address of `a`.
     - The size of the data is important for understanding how the variable `a` is stored in memory. If `a` is an `int` on your system and your system uses a 32-bit integer representation, then `a` occupies 4 bytes of memory, which aligns with the size of data you've requested to see.
 
+```c
+
+```
 ### Two's Complement
 
 - one's complement is implemented with not operation

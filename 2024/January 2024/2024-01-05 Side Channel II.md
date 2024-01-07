@@ -6,7 +6,7 @@ endTime: 17:00
 date: 2024-01-05
 completed: null
 ---
-
+#january2024
 ### Triggering
 
 - path: `/chipwhisperer-5.7.0/hardware/victims/firmware/simpleserial-aes`

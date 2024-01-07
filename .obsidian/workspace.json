@@ -23,22 +23,20 @@
             }
           },
           {
-            "id": "7536c7b54899d657",
+            "id": "9968b090fc1d68ad",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "dea808d432ee4ac5",
+            "id": "932da2344f858b6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md",
+                "file": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#january2024",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md"
-              }
+              "state": {}
             }
           },
           {
@@ -211,18 +205,25 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "dea808d432ee4ac5",
+  "active": "9968b090fc1d68ad",
   "lastOpenFiles": [
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md",
+    "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
+    "2024/January 2024/2024-01-05 Side Channel II.md",
+    "2024/January 2024/2024-01-04 Side Channel I.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
+    "0.4. Excalidraw/Git-Draw.md",
+    "0.6. Git/Learning Git.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md",
+    "0.5. Editor/0.5.0 NeoVim Setup.md",
+    "0.0. MyThinkPad/My Tips.md",
+    "0.0. MyThinkPad/Callout Styles.md",
+    "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
+    "0.0. MyThinkPad/0.0.1. Want.md",
     "0.1. C Programming/C-Core-NOTE/Sec 1. Basic C.md",
     "0.1. C Programming/0.1.0. GDB.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Drawing of CS.md",
-    "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
-    "2024/January 2024/2024-01-05 Side Channel II.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw",
     "0.2. Computer Science/Part 1. Computer Structure/Computer Structure.md",
-    "0.0. MyThinkPad/Callout Styles.md",
     "3.0. LaTex/LaTex Tips.md",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
@@ -234,15 +235,8 @@
     "0.1. C Programming/Random Numbers.md",
     "0.1. C Programming/String Operations.md",
     "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
-    "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
-    "0.0. MyThinkPad/0.0.1. Want.md",
     "Untitled.md",
     "0.4. Excalidraw/Drawing of AES.md",
-    "1.1. AES/1.1.0. Overview of AES.md",
-    "0.4. Excalidraw/0.4.0 Metacognition.md",
-    "1.1. AES/1.1.1.1. RotWord.md",
-    "1.1. AES/1.1.1.0. Key Expansion.md",
-    "1.1. AES/1.1.0. AES - Galois Fields.md",
     "2024/January 2024",
     "2024",
     "Calender",

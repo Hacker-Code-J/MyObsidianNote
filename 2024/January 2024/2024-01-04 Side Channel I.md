@@ -6,7 +6,7 @@ endTime: 17:00
 date: 2024-01-04
 completed: null
 ---
-
+#january2024
 ### Jupyter NoteBook
 
 - https://github.com/newaetech/chipwhisperer/releases/tag/5.7.0
