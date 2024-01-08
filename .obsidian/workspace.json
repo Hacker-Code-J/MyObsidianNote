@@ -55,9 +55,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "1326ddb6ecc0b26b",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -148,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,8 +226,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "cc5b19f8b1701948",
+  "active": "1326ddb6ecc0b26b",
   "lastOpenFiles": [
+    "2024/January 2024/2024-01-12 Implement LEA.md",
+    "2024/January 2024/Implement LEA.md",
     "0.7. CSE/Intern/LEA.md",
     "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
     "0.4. Excalidraw/CSE",
@@ -257,9 +262,7 @@
     "Excalidraw/Scripts/Downloaded/Organic Line.svg",
     "Excalidraw/Scripts/Downloaded/Organic Line.md",
     "Excalidraw/Scripts/Downloaded/Modify background color opacity.svg",
-    "Excalidraw/Scripts/Downloaded/Modify background color opacity.md",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/ExcaliAI.svg",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",

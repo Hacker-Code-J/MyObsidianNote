@@ -195,10 +195,6 @@
     {
       "basename": "Pointer and Memory Management",
       "path": "0.1. C Programming/Pointer and Memory Management.md"
-    },
-    {
-      "basename": "Random Numbers",
-      "path": "0.1. C Programming/Random Numbers.md"
     }
   ],
   "omittedPaths": [],
