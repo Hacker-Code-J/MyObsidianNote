@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
+                "file": "0.0. MyThinkPad/My Tips.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,16 +49,6 @@
             }
           },
           {
-            "id": "52a91512a661f343",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
-              }
-            }
-          },
-          {
             "id": "adecc82f89f9fba4",
             "type": "leaf",
             "state": {
@@ -67,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
+                "file": "0.0. MyThinkPad/My Tips.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
+                "file": "0.0. MyThinkPad/My Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
+                "file": "0.0. MyThinkPad/My Tips.md"
               }
             }
           },
@@ -232,8 +222,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "52a91512a661f343",
+  "active": "9a3c00af89f573f9",
   "lastOpenFiles": [
+    "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
+    "0.1. C Programming/C-Core-NOTE/2. Compiler/2.2. Abstract Syntax Tree.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
     "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
     "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
     "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
@@ -254,14 +247,10 @@
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "0.1. C Programming/C-Core-NOTE/2. Compiler/2.2. Abstract Syntax Tree.md",
-    "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
     "0.1. C Programming/C-Core-NOTE/2. Compiler/2.1. Syntax Analysis.md",
     "images",
     "0.1. C Programming/C-Core-NOTE/1. Basic C/1.4. Time Points for Code.md",

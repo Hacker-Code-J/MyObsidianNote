@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Compiler-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
+      "basename": "My Tips",
+      "path": "0.0. MyThinkPad/My Tips.md"
+    },
+    {
+      "basename": "0.0.2. TO DO LIST",
+      "path": "0.0. MyThinkPad/0.0.2. TO DO LIST.md"
     },
     {
       "basename": "2.2. Abstract Syntax Tree",
       "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.2. Abstract Syntax Tree.md"
     },
     {
-      "basename": "0.0.2. TO DO LIST",
-      "path": "0.0. MyThinkPad/0.0.2. TO DO LIST.md"
+      "basename": "Compiler-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
     },
     {
       "basename": "2.1. Syntax Analysis",
@@ -63,10 +67,6 @@
     {
       "basename": "Basic-C-Draw",
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md"
-    },
-    {
-      "basename": "My Tips",
-      "path": "0.0. MyThinkPad/My Tips.md"
     },
     {
       "basename": "0.1.0. GDB",
