@@ -15,6 +15,7 @@
 - [[1.3. String Constant]]
 - [[1.4. Time Points for Code]]
 
-**Section 2. Complier**
+**Section 2. Compiler**
 - [[2.1. Syntax Analysis]]
-- 
+- [[2.2. Abstract Syntax Tree]]
+
