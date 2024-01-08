@@ -36,34 +36,16 @@
             }
           },
           {
-            "id": "e39766894666641f",
+            "id": "adecc82f89f9fba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.1. Syntax Analysis.md",
+                "file": "0.2. Computer Science/Computer Language.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "7d629d1821f27a8b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
-              }
-            }
-          },
-          {
-            "id": "adecc82f89f9fba4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -141,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -157,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.1. Syntax Analysis.md",
+                "file": "0.2. Computer Science/Computer Language.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.1. Syntax Analysis.md",
+                "file": "0.2. Computer Science/Computer Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.1. Syntax Analysis.md"
+                "file": "0.2. Computer Science/Computer Language.md"
               }
             }
           },
@@ -232,12 +215,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e39766894666641f",
+  "active": "adecc82f89f9fba4",
   "lastOpenFiles": [
+    "0.2. Computer Science/Computer Language.md",
+    "0.1. C Programming/C-Core-NOTE/2. Compiler/2.2. Abstract Syntax Tree.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
+    "2024/January 2024/2024-01-05 Side Channel II.md",
+    "2024/January 2024/2024-01-04 Side Channel I.md",
     "0.1. C Programming/C-Core-NOTE/2. Compiler/2.1. Syntax Analysis.md",
     "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
-    "0.1. C Programming/C-Core-NOTE/2. Compiler/2.2. Abstract Syntax Tree.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "0.0. MyThinkPad/My Tips.md",
     "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
@@ -272,9 +258,6 @@
     "0.1. C Programming/C-Core-NOTE/1. Basic C/1.1. Endian and Two's Complement.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
     "0.1. C Programming/C-Core-NOTE/2. Compiler",
-    "0.4. Excalidraw/Git-Draw.md",
-    "0.6. Git/Learning Git.md",
-    "1.1. AES/1.1.0. Overview of AES.md",
     "0.1. C Programming/C-Core-NOTE/1. Basic C",
     "0.4. Excalidraw/C-Core-NOTE-Draw",
     "Mind Map/The 2nd Brain.canvas",

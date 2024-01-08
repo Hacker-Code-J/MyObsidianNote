@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "2.1. Syntax Analysis",
-      "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.1. Syntax Analysis.md"
+      "basename": "Computer Language",
+      "path": "0.2. Computer Science/Computer Language.md"
+    },
+    {
+      "basename": "2.2. Abstract Syntax Tree",
+      "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.2. Abstract Syntax Tree.md"
     },
     {
       "basename": "Compiler-Drawing",
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
     },
     {
-      "basename": "C-Core-NOTE",
-      "path": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
+      "basename": "2024-01-05 Side Channel II",
+      "path": "2024/January 2024/2024-01-05 Side Channel II.md"
     },
     {
-      "basename": "2.2. Abstract Syntax Tree",
-      "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.2. Abstract Syntax Tree.md"
+      "basename": "2024-01-04 Side Channel I",
+      "path": "2024/January 2024/2024-01-04 Side Channel I.md"
+    },
+    {
+      "basename": "2.1. Syntax Analysis",
+      "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.1. Syntax Analysis.md"
+    },
+    {
+      "basename": "C-Core-NOTE",
+      "path": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
     },
     {
       "basename": "0.0.0. Source Collector",
@@ -105,14 +117,6 @@
       "path": "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md"
     },
     {
-      "basename": "2024-01-05 Side Channel II",
-      "path": "2024/January 2024/2024-01-05 Side Channel II.md"
-    },
-    {
-      "basename": "2024-01-04 Side Channel I",
-      "path": "2024/January 2024/2024-01-04 Side Channel I.md"
-    },
-    {
       "basename": "0.5.0 NeoVim Setup",
       "path": "0.5. Editor/0.5.0 NeoVim Setup.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.1.1.2. SubWord",
       "path": "1.1. AES/1.1.1.2. SubWord.md"
-    },
-    {
-      "basename": "1.1.5. AES Encryption and Decryption",
-      "path": "1.1. AES/1.1.5. AES Encryption and Decryption.md"
     }
   ],
   "omittedPaths": [],
