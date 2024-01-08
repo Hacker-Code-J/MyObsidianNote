@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CSE-LEA-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
+    },
+    {
       "basename": "LEA",
       "path": "0.7. CSE/Intern/LEA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Random Numbers",
       "path": "0.1. C Programming/Random Numbers.md"
-    },
-    {
-      "basename": "String Operations",
-      "path": "0.1. C Programming/String Operations.md"
     }
   ],
   "omittedPaths": [],
