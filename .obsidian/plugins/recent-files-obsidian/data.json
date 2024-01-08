@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Programming Language",
+      "path": "0.2. Computer Science/Computer Language/Programming Language.md"
+    },
+    {
       "basename": "Computer Language",
-      "path": "0.2. Computer Science/Computer Language.md"
+      "path": "0.2. Computer Science/Computer Language/Computer Language.md"
+    },
+    {
+      "basename": "Computer Structure",
+      "path": "0.2. Computer Science/Part 1. Computer Structure/Computer Structure.md"
     },
     {
       "basename": "2.2. Abstract Syntax Tree",
@@ -129,10 +137,6 @@
       "path": "0.0. MyThinkPad/0.0.1. Want.md"
     },
     {
-      "basename": "Computer Structure",
-      "path": "0.2. Computer Science/Part 1. Computer Structure/Computer Structure.md"
-    },
-    {
       "basename": "LaTex Tips",
       "path": "3.0. LaTex/LaTex Tips.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.1.0. AES - Galois Fields",
       "path": "1.1. AES/1.1.0. AES - Galois Fields.md"
-    },
-    {
-      "basename": "1.1.1.2. SubWord",
-      "path": "1.1. AES/1.1.1.2. SubWord.md"
     }
   ],
   "omittedPaths": [],

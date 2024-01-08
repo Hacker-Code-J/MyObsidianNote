@@ -1,9 +1,6 @@
----
-sticker: emoji//1f5a5-fe0f
----
+#CS
 
 [[Drawing of Computer Structure]]
-
 https://fastcampus.co.kr/
 
 # [[Chapter 1. Computer Structure]]
