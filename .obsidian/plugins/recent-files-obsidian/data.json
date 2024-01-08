@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "0.4.0 Metacognition",
+      "path": "0.4. Excalidraw/0.4.0 Metacognition.md"
+    },
+    {
+      "basename": "0.0.2. TO DO LIST",
+      "path": "0.0. MyThinkPad/0.0.2. TO DO LIST.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "0.7. CSE/Intern/Untitled.md"
+    },
+    {
       "basename": "Programming Language",
       "path": "0.2. Computer Science/Computer Language/Programming Language.md"
+    },
+    {
+      "basename": "0.0.0. Source Collector",
+      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+    },
+    {
+      "basename": "2.2. Abstract Syntax Tree",
+      "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.2. Abstract Syntax Tree.md"
     },
     {
       "basename": "Computer Language",
@@ -11,10 +31,6 @@
     {
       "basename": "Computer Structure",
       "path": "0.2. Computer Science/Part 1. Computer Structure/Computer Structure.md"
-    },
-    {
-      "basename": "2.2. Abstract Syntax Tree",
-      "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.2. Abstract Syntax Tree.md"
     },
     {
       "basename": "Compiler-Drawing",
@@ -37,16 +53,8 @@
       "path": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
     },
     {
-      "basename": "0.0.0. Source Collector",
-      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
-    },
-    {
       "basename": "My Tips",
       "path": "0.0. MyThinkPad/My Tips.md"
-    },
-    {
-      "basename": "0.0.2. TO DO LIST",
-      "path": "0.0. MyThinkPad/0.0.2. TO DO LIST.md"
     },
     {
       "basename": "1.4. Time Points for Code",
@@ -185,20 +193,12 @@
       "path": "0.4. Excalidraw/Drawing of AES.md"
     },
     {
-      "basename": "0.4.0 Metacognition",
-      "path": "0.4. Excalidraw/0.4.0 Metacognition.md"
-    },
-    {
       "basename": "1.1.1.1. RotWord",
       "path": "1.1. AES/1.1.1.1. RotWord.md"
     },
     {
       "basename": "1.1.1.0. Key Expansion",
       "path": "1.1. AES/1.1.1.0. Key Expansion.md"
-    },
-    {
-      "basename": "1.1.0. AES - Galois Fields",
-      "path": "1.1. AES/1.1.0. AES - Galois Fields.md"
     }
   ],
   "omittedPaths": [],
