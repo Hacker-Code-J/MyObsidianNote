@@ -1,4 +1,5 @@
 
 [[Computer Language]]
 
-
+Syntax
+Semantic
