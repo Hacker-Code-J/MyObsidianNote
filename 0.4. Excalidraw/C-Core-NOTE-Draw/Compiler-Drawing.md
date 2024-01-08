@@ -5024,8 +5024,8 @@ a649eceb7b690914b67741e43d95ec742d0380bc: [[Pasted Image 20240108005332_323.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1024.7985527544363,
-		"scrollY": -686.458944002728,
+		"scrollX": 874.2103174603192,
+		"scrollY": 21.77635011491907,
 		"zoom": {
 			"value": 0.8499999999999999
 		},
