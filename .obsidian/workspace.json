@@ -47,9 +47,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc5b19f8b1701948",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.7. CSE/Intern/LEA.md",
+                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.7. CSE/Intern/LEA.md",
+                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.7. CSE/Intern/LEA.md"
+                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md"
               }
             }
           },
@@ -215,7 +223,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "beb610428cfbca44",
+  "active": "cc5b19f8b1701948",
   "lastOpenFiles": [
     "0.7. CSE/Intern/LEA.md",
     "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
