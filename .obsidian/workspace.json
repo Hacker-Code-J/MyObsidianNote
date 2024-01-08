@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.7. CSE/Intern/Untitled.md",
+                "file": "0.7. CSE/Intern/LEA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,25 +49,20 @@
             }
           },
           {
-            "id": "b41064dd9821eaeb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "1b2ea7864d0a6958",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0.4. Excalidraw/0.4.0 Metacognition.md"
+                "file": "0.7. CSE/Intern/LEA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -158,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/0.4.0 Metacognition.md",
+                "file": "0.7. CSE/Intern/LEA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/0.4.0 Metacognition.md",
+                "file": "0.7. CSE/Intern/LEA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/0.4.0 Metacognition.md"
+                "file": "0.7. CSE/Intern/LEA.md"
               }
             }
           },
@@ -235,8 +229,15 @@
   },
   "active": "1b2ea7864d0a6958",
   "lastOpenFiles": [
+    "1.1. AES/1.1.1.0. Key Expansion.md",
+    "1.1. AES/1.1.0. Overview of AES.md",
+    "1.1. AES/1.1.0. AES - Galois Fields.md",
+    "0.4. Excalidraw/0.4.0 Metacognition.md",
+    "0.7. CSE/Intern/LEA.md",
     "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
-    "0.7. CSE/Intern/Untitled.md",
+    "0.2. Computer Science/Part 1. Computer Structure/Chapter 3. Data.md",
+    "0.2. Computer Science/Part 1. Computer Structure/Chapter 2. Command.md",
+    "0.2. Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
     "0.2. Computer Science/Computer Language/Programming Language.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "0.7. CSE/Intern",
@@ -264,20 +265,13 @@
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "Excalidraw/Scripts/Downloaded/ExcaliAI.svg",
-    "Excalidraw/Scripts/Downloaded/ExcaliAI.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
-    "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
     "images",
-    "0.1. C Programming/C-Core-NOTE/1. Basic C/1.4. Time Points for Code.md",
-    "0.1. C Programming/C-Core-NOTE/1. Basic C/1.3. String Constant.md",
     "0.1. C Programming/C-Core-NOTE/2. Compiler",
     "0.1. C Programming/C-Core-NOTE/1. Basic C",
     "0.4. Excalidraw/C-Core-NOTE-Draw",

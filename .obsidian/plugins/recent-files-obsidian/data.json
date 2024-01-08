@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "LEA",
+      "path": "0.7. CSE/Intern/LEA.md"
+    },
+    {
+      "basename": "1.1.1.0. Key Expansion",
+      "path": "1.1. AES/1.1.1.0. Key Expansion.md"
+    },
+    {
+      "basename": "1.1.0. Overview of AES",
+      "path": "1.1. AES/1.1.0. Overview of AES.md"
+    },
+    {
+      "basename": "1.1.0. AES - Galois Fields",
+      "path": "1.1. AES/1.1.0. AES - Galois Fields.md"
+    },
+    {
       "basename": "0.4.0 Metacognition",
       "path": "0.4. Excalidraw/0.4.0 Metacognition.md"
     },
@@ -9,8 +25,16 @@
       "path": "0.0. MyThinkPad/0.0.2. TO DO LIST.md"
     },
     {
-      "basename": "Untitled",
-      "path": "0.7. CSE/Intern/Untitled.md"
+      "basename": "Chapter 3. Data",
+      "path": "0.2. Computer Science/Part 1. Computer Structure/Chapter 3. Data.md"
+    },
+    {
+      "basename": "Chapter 2. Command",
+      "path": "0.2. Computer Science/Part 1. Computer Structure/Chapter 2. Command.md"
+    },
+    {
+      "basename": "Chapter 1. Computer Structure",
+      "path": "0.2. Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md"
     },
     {
       "basename": "Programming Language",
@@ -83,10 +107,6 @@
     {
       "basename": "Learning Git",
       "path": "0.6. Git/Learning Git.md"
-    },
-    {
-      "basename": "1.1.0. Overview of AES",
-      "path": "1.1. AES/1.1.0. Overview of AES.md"
     },
     {
       "basename": "1.1.4.0. SubBytes and MixColumns",
@@ -179,26 +199,6 @@
     {
       "basename": "String Operations",
       "path": "0.1. C Programming/String Operations.md"
-    },
-    {
-      "basename": "0.1.0 ChatGPT Prompt (C)",
-      "path": "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "Drawing of AES",
-      "path": "0.4. Excalidraw/Drawing of AES.md"
-    },
-    {
-      "basename": "1.1.1.1. RotWord",
-      "path": "1.1. AES/1.1.1.1. RotWord.md"
-    },
-    {
-      "basename": "1.1.1.0. Key Expansion",
-      "path": "1.1. AES/1.1.1.0. Key Expansion.md"
     }
   ],
   "omittedPaths": [],
