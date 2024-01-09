@@ -21,30 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "beb610428cfbca44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.7. CSE/Intern/LEA.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc5b19f8b1701948",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +179,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc5b19f8b1701948",
+  "active": "5defc0a13c66a6db",
   "lastOpenFiles": [
     "0.7. CSE/Intern/LEA.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
