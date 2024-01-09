@@ -1,4 +1,4 @@
-# MyObsidianMemo
+# MyObsidianNote
 The Second Brain
 
 ```
