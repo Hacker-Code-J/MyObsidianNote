@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "0.1.0 Setup Rust DE",
+      "path": "0.1. Rust Programming/0.1.0 Setup Rust DE.md"
+    },
+    {
+      "basename": "0.1.1 Rust and C with ChatGPT",
+      "path": "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md"
+    },
+    {
+      "basename": "0.1. Rust Programming",
+      "path": "0.1. Rust Programming/0.1. Rust Programming.md"
+    },
+    {
       "basename": "0.0.0. Source Collector",
       "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Chapter 2. Divisibility Theory in the Integer",
       "path": "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/Chapter 2. Divisibility Theory in the Integer.md"
-    },
-    {
-      "basename": "2.1. The Division Algorithm",
-      "path": "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md"
-    },
-    {
-      "basename": "Callout Styles",
-      "path": "0.0. MyThinkPad/Callout Styles.md"
-    },
-    {
-      "basename": "0.0.1. Want",
-      "path": "0.0. MyThinkPad/0.0.1. Want.md"
     }
   ],
   "omittedPaths": [],
