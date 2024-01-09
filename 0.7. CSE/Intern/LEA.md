@@ -6,6 +6,7 @@
 > - **Namu.wiki:** https://namu.wiki/w/LEA
 > - **HashNet:** http://wiki.hash.kr/index.php/LEA
 > - **Springer:** https://link.springer.com/chapter/10.1007/978-3-319-05149-9_1
+> - 
 
 The LEA (Lightweight Encryption Algorithm) is a symmetric-key block cipher known for its efficiency and simplicity, making it suitable for resource-constrained environments. When implementing LEA in C, a well-structured approach is crucial for both performance and maintainability. Here's a recommended file structure:
 
