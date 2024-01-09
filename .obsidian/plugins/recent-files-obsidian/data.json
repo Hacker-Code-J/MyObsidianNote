@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1.1. Endian and Two's Complement",
+      "path": "0.1. C Programming/C-Core-NOTE/1. Basic C/1.1. Endian and Two's Complement.md"
+    },
+    {
+      "basename": "0.1.0. GDB",
+      "path": "0.1. C Programming/0.1.0. GDB.md"
+    },
+    {
       "basename": "0.0.0. Source Collector",
       "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
     },
@@ -97,10 +105,6 @@
       "path": "0.1. C Programming/C-Core-NOTE/1. Basic C/1.2. Floating-Point Arithmetic.md"
     },
     {
-      "basename": "1.1. Endian and Two's Complement",
-      "path": "0.1. C Programming/C-Core-NOTE/1. Basic C/1.1. Endian and Two's Complement.md"
-    },
-    {
       "basename": "CS-Drawing",
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "Basic-C-Draw",
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md"
-    },
-    {
-      "basename": "0.1.0. GDB",
-      "path": "0.1. C Programming/0.1.0. GDB.md"
     },
     {
       "basename": "Setup",

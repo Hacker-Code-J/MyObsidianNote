@@ -63,9 +63,22 @@
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "1a1c1e66c6e52ad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.1. C Programming/C-Core-NOTE/1. Basic C/1.1. Endian and Two's Complement.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -155,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
+                "file": "0.1. C Programming/C-Core-NOTE/1. Basic C/1.1. Endian and Two's Complement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
+                "file": "0.1. C Programming/C-Core-NOTE/1. Basic C/1.1. Endian and Two's Complement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+                "file": "0.1. C Programming/C-Core-NOTE/1. Basic C/1.1. Endian and Two's Complement.md"
               }
             }
           },
@@ -230,8 +243,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "1326ddb6ecc0b26b",
+  "active": "1a1c1e66c6e52ad7",
   "lastOpenFiles": [
+    "0.1. C Programming/0.1.0. GDB.md",
+    "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "2024/January 2024/2024-01-12 Implement LEA.md",
     "2024/January 2024/Implement LEA.md",
     "0.7. CSE/Intern/LEA.md",
@@ -246,7 +261,6 @@
     "0.2. Computer Science/Part 1. Computer Structure/Chapter 2. Command.md",
     "0.2. Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
     "0.2. Computer Science/Computer Language/Programming Language.md",
-    "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "0.7. CSE/Intern",
     "0.7. CSE",
     "0.1. C Programming/C-Core-NOTE/2. Compiler/2.2. Abstract Syntax Tree.md",
@@ -264,7 +278,6 @@
     "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
     "Excalidraw/Scripts/Downloaded/Organic Line Legacy.md",
     "Excalidraw/Scripts/Downloaded/Organic Line.svg",
-    "Excalidraw/Scripts/Downloaded/Organic Line.md",
     "Excalidraw/Scripts/Downloaded/Modify background color opacity.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
