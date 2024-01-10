@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Rust 101 Crash Course",
+      "path": "0.1. Rust Programming/Rust 101 Crash Course.md"
+    },
+    {
+      "basename": "Basic-C-Draw",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md"
+    },
+    {
+      "basename": "CS-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
+    },
+    {
+      "basename": "Compiler-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
+    },
+    {
+      "basename": "0.0.0. Source Collector",
+      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+    },
+    {
+      "basename": "C-Core-NOTE",
+      "path": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
+    },
+    {
+      "basename": "0.1. Rust Programming",
+      "path": "0.1. Rust Programming/0.1. Rust Programming.md"
+    },
+    {
       "basename": "Order of Header",
       "path": "0.1. C Programming/Order of Header.md"
     },
@@ -47,14 +75,6 @@
     {
       "basename": "0.1.1 Rust and C with ChatGPT",
       "path": "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md"
-    },
-    {
-      "basename": "0.1. Rust Programming",
-      "path": "0.1. Rust Programming/0.1. Rust Programming.md"
-    },
-    {
-      "basename": "0.0.0. Source Collector",
-      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
     },
     {
       "basename": "LEA",
@@ -137,10 +157,6 @@
       "path": "0.2. Computer Science/Part 1. Computer Structure/Computer Structure.md"
     },
     {
-      "basename": "Compiler-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
-    },
-    {
       "basename": "2024-01-05 Side Channel II",
       "path": "2024/January 2024/2024-01-05 Side Channel II.md"
     },
@@ -151,10 +167,6 @@
     {
       "basename": "2.1. Syntax Analysis",
       "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.1. Syntax Analysis.md"
-    },
-    {
-      "basename": "C-Core-NOTE",
-      "path": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
     },
     {
       "basename": "1.4. Time Points for Code",
@@ -169,10 +181,6 @@
       "path": "0.1. C Programming/C-Core-NOTE/1. Basic C/1.2. Floating-Point Arithmetic.md"
     },
     {
-      "basename": "CS-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
-    },
-    {
       "basename": "Git-Draw",
       "path": "0.4. Excalidraw/Git-Draw.md"
     },
@@ -185,20 +193,12 @@
       "path": "1.1. AES/1.1.4.0. SubBytes and MixColumns.md"
     },
     {
-      "basename": "Basic-C-Draw",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md"
-    },
-    {
       "basename": "Setup",
       "path": "BAEKJOON/Setup.md"
     },
     {
       "basename": "(8222)",
       "path": "BAEKJOON/0. Fundamentals/(8222).md"
-    },
-    {
-      "basename": "(16563) Advanced Factorization",
-      "path": "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md"
     }
   ],
   "omittedPaths": [],

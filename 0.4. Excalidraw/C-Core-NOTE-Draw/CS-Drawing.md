@@ -191,7 +191,7 @@ Physical Memory ^BsCEACsN
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.10",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.16",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -3414,8 +3414,8 @@ Physical Memory ^BsCEACsN
 		},
 		{
 			"type": "arrow",
-			"version": 632,
-			"versionNonce": 1265152108,
+			"version": 633,
+			"versionNonce": 598235038,
 			"isDeleted": false,
 			"id": "z0HLUqSlOkz8IU86wuKyy",
 			"fillStyle": "hachure",
@@ -3439,7 +3439,7 @@ Physical Memory ^BsCEACsN
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704639989250,
+			"updated": 1704856146759,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4046,8 +4046,8 @@ Physical Memory ^BsCEACsN
 		},
 		{
 			"type": "text",
-			"version": 72,
-			"versionNonce": 823370220,
+			"version": 73,
+			"versionNonce": 1470474370,
 			"isDeleted": false,
 			"id": "WigU0KvP",
 			"fillStyle": "hachure",
@@ -4067,7 +4067,7 @@ Physical Memory ^BsCEACsN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704640012743,
+			"updated": 1704856147899,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4260,8 +4260,8 @@ Physical Memory ^BsCEACsN
 		},
 		{
 			"type": "text",
-			"version": 189,
-			"versionNonce": 1424016084,
+			"version": 190,
+			"versionNonce": 491296926,
 			"isDeleted": false,
 			"id": "UDJ92Tk7",
 			"fillStyle": "hachure",
@@ -4281,7 +4281,7 @@ Physical Memory ^BsCEACsN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704640012746,
+			"updated": 1704856147902,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5612,8 +5612,8 @@ Physical Memory ^BsCEACsN
 		},
 		{
 			"type": "text",
-			"version": 43,
-			"versionNonce": 2023785580,
+			"version": 44,
+			"versionNonce": 731990082,
 			"isDeleted": false,
 			"id": "CdbfGlin",
 			"fillStyle": "solid",
@@ -5635,7 +5635,7 @@ Physical Memory ^BsCEACsN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704640012750,
+			"updated": 1704856147908,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -6889,8 +6889,8 @@ Physical Memory ^BsCEACsN
 		},
 		{
 			"type": "arrow",
-			"version": 99,
-			"versionNonce": 1068533100,
+			"version": 101,
+			"versionNonce": 1729202206,
 			"isDeleted": false,
 			"id": "bbF-KufE5tbefaa7-BO-M",
 			"fillStyle": "solid",
@@ -6914,7 +6914,7 @@ Physical Memory ^BsCEACsN
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704639989252,
+			"updated": 1704856146761,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6957,10 +6957,10 @@ Physical Memory ^BsCEACsN
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 859.5845348139981,
-		"scrollY": 1191.9076608734215,
+		"scrollX": 256.94564592510915,
+		"scrollY": 2493.9909942067547,
 		"zoom": {
-			"value": 0.45
+			"value": 0.2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
