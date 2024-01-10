@@ -31,8 +31,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "be7762036896b508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ba78bfabe44ec2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md"
+              }
             }
           },
           {
@@ -186,11 +217,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f77912dfe6d3af6b",
+  "active": "be7762036896b508",
   "lastOpenFiles": [
-    "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
     "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md",
+    "0.0. MyThinkPad/0.0.0. Source Collector.md",
+    "1.1. AES/1.1.4.0. SubBytes and MixColumns.md",
     "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.2. 'struct'.md",
     "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md",
     "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.1. 'enum'.md",
@@ -225,7 +257,6 @@
     "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
     "0.2. Computer Science/Computer Language/Computer Language.md",
     "0.2. Computer Science/Computer Language/Programming Language.md",
-    "0.2. Computer Science/Part 1. Computer Structure/Chapter 3. Data.md",
     "0.4. Excalidraw/CSE",
     "0.7. CSE/Intern",
     "0.7. CSE",

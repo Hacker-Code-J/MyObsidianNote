@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "0.0.0. Source Collector",
-      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+      "basename": "3.3. Tuples",
+      "path": "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md"
     },
     {
       "basename": "Rust 101 Crash Course",
       "path": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md"
     },
     {
-      "basename": "3.3. Tuples",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md"
+      "basename": "0.0.0. Source Collector",
+      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+    },
+    {
+      "basename": "1.1.4.0. SubBytes and MixColumns",
+      "path": "1.1. AES/1.1.4.0. SubBytes and MixColumns.md"
     },
     {
       "basename": "3.2. 'struct'",
@@ -195,10 +199,6 @@
     {
       "basename": "1.1.0. AES - Galois Fields",
       "path": "1.1. AES/1.1.0. AES - Galois Fields.md"
-    },
-    {
-      "basename": "0.4.0 Metacognition",
-      "path": "0.4. Excalidraw/0.4.0 Metacognition.md"
     }
   ],
   "omittedPaths": [],
