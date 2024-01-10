@@ -22,6 +22,10 @@ https://www.youtube.com/watch?v=lzKeecy4OmQ
 	- Generate docs, lint code, auto format
 
 ### 1. Fundamentals
+- [[Rust-101-Crash-Fundamentals-Draw]]
 - [[1.1. Data Types]]
 - [[1.2. Variables]]
 - [[1.3. Functions]]
+- [[1.4. println Macro]]
+
+
