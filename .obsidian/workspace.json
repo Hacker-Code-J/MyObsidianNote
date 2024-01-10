@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md",
+                "file": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md",
+                "file": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md",
+                "file": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md"
+                "file": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md"
               }
             }
           },
@@ -219,8 +218,12 @@
   },
   "active": "be7762036896b508",
   "lastOpenFiles": [
+    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.9. Intermediate Memory.md",
     "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.8. Expressions.md",
     "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.3. Functions.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.2. Variables.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "1.1. AES/1.1.4.0. SubBytes and MixColumns.md",
     "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.2. 'struct'.md",
@@ -233,8 +236,6 @@
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.7. Match.md",
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.5. Control flow using \"if\".md",
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.4. 'println' Macro.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.3. Functions.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.2. Variables.md",
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.1. Data Types.md",
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.6. Repetition using Loops.md",
     "0.1. Rust Programming/Rust 101 Crash Course/2. Setup",
@@ -255,8 +256,6 @@
     "0.1. Rust Programming/0.1. Rust Programming.md",
     "0.1. C Programming/Order of Header.md",
     "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
-    "0.2. Computer Science/Computer Language/Computer Language.md",
-    "0.2. Computer Science/Computer Language/Programming Language.md",
     "0.4. Excalidraw/CSE",
     "0.7. CSE/Intern",
     "0.7. CSE",
