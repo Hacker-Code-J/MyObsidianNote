@@ -5,6 +5,34 @@
       "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
     },
     {
+      "basename": "Rust 101 Crash Course",
+      "path": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md"
+    },
+    {
+      "basename": "Rust-High-Performance",
+      "path": "0.1. Rust Programming/Rust-High-Performance/Rust-High-Performance.md"
+    },
+    {
+      "basename": "B.2. Vectors",
+      "path": "0.1. Rust Programming/Rust 101 Crash Course/B. Activity/B.2. Vectors.md"
+    },
+    {
+      "basename": "B.1. 'impl'",
+      "path": "0.1. Rust Programming/Rust 101 Crash Course/B. Activity/B.1. 'impl'.md"
+    },
+    {
+      "basename": "A.2. 'impl'",
+      "path": "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.2. 'impl'.md"
+    },
+    {
+      "basename": "A.3. Vectors",
+      "path": "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.3. Vectors.md"
+    },
+    {
+      "basename": "4.1. Vector",
+      "path": "0.1. Rust Programming/Rust 101 Crash Course/4. Data Structure/4.1. Vector.md"
+    },
+    {
       "basename": "Auto Draw for Pen",
       "path": "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md"
     },
@@ -59,14 +87,6 @@
     {
       "basename": "1.5. Control flow using \"if\"",
       "path": "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.5. Control flow using \"if\".md"
-    },
-    {
-      "basename": "Rust 101 Crash Course",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md"
-    },
-    {
-      "basename": "A.2. 'impl'",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.2. 'impl'.md"
     },
     {
       "basename": "Rust-101-Crash-Fundamentals-Draw",
@@ -179,26 +199,6 @@
     {
       "basename": "Programming Language",
       "path": "0.2. Computer Science/Computer Language/Programming Language.md"
-    },
-    {
-      "basename": "Chapter 3. Data",
-      "path": "0.2. Computer Science/Part 1. Computer Structure/Chapter 3. Data.md"
-    },
-    {
-      "basename": "Chapter 2. Command",
-      "path": "0.2. Computer Science/Part 1. Computer Structure/Chapter 2. Command.md"
-    },
-    {
-      "basename": "Chapter 1. Computer Structure",
-      "path": "0.2. Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md"
-    },
-    {
-      "basename": "NVIDIA CUDA Programming",
-      "path": "0.2. Computer Science/NVIDIA CUDA Programming.md"
-    },
-    {
-      "basename": "0.1.0 Setup Rust DE",
-      "path": "0.1. Rust Programming/0.1.0 Setup Rust DE.md"
     }
   ],
   "omittedPaths": [],

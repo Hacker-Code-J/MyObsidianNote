@@ -2,7 +2,7 @@
 
 https://www.youtube.com/watch?v=lzKeecy4OmQ
 
-3:39:25 / 6:01:14
+3:47:25 / 6:01:14
 ### Why Rust?
 - High-level language features without performance penalties
 - Program behaviors can be enforced at compile time
@@ -48,9 +48,19 @@ https://www.youtube.com/watch?v=lzKeecy4OmQ
 - [[3.2. 'struct']]
 - [[3.3. Tuples]]
 
+### 4. Data Structures
+- [[4.1. Vector]]
+
 ### A. Demo
 - [[A.1. Making decisions with 'match']]
 - [[A.2. 'impl']]
+- [[A.3. Vectors]]
+
+### B. Activity
+- [[B.1. 'impl']]
+- [[B.2. Vectors]]
+
+
 
 
 
