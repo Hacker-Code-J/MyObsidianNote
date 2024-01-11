@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0. Crypto-coding",
+      "path": "0.1. C Programming/0. Crypto-coding.md"
+    },
+    {
       "basename": "Rust-High-Performance",
       "path": "0.1. Rust Programming/Rust-High-Performance/Rust-High-Performance.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Computer Language",
       "path": "0.2. Computer Science/Computer Language/Computer Language.md"
-    },
-    {
-      "basename": "Programming Language",
-      "path": "0.2. Computer Science/Computer Language/Programming Language.md"
     }
   ],
   "omittedPaths": [],
