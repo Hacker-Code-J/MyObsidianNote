@@ -23,12 +23,20 @@
             }
           },
           {
-            "id": "949ce61a30533324",
+            "id": "9242d484c9b9be8a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9dca9f440fd24dcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
+                "file": "2024/January 2024/2024-01-12 Implement LEA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,6 +186,7 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "daily-notes:Open today's daily note": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
@@ -189,15 +194,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "remotely-save:Remotely Save": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "949ce61a30533324",
+  "active": "9242d484c9b9be8a",
   "lastOpenFiles": [
-    "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.2. 'impl'.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.5. Control flow using \"if\".md",
+    "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
+    "2024/January 2024/2024-01-12 CaS Study 1.md",
+    "2024/January 2024/2024-01-05 Side Channel II.md",
+    "2024/January 2024/2024-01-04 Side Channel I.md",
+    "2024/January 2024/2024-01-12 Implement LEA.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.2. 'impl'.md",
     "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md",
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md",
     "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md",
@@ -219,10 +228,6 @@
     "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.1. Making decisions with 'match'.md",
     "0.1. Rust Programming/Rust 101 Crash Course/A. Demo",
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.7. Match.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.5. Control flow using \"if\".md",
-    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.4. 'println' Macro.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.1. Data Types.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.6. Repetition using Loops.md",
     "0.1. Rust Programming/Rust 101 Crash Course/2. Setup",
     "Mind Map/Pasted Image 20240110131444_135.png",
     "Mind Map/Pasted Image 20240110131154_119.png",
@@ -231,7 +236,6 @@
     "0.4. Excalidraw/Rust-101-Crash-Draw",
     "images/rust_101_crash/rust_101_crash1.png",
     "images/rust_101_crash",
-    "0.0. MyThinkPad/Callout Styles.md",
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals",
     "0.1. Rust Programming/Rust 101 Crash Course",
     "0.4. Excalidraw/CSE",
