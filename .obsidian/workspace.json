@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f77912dfe6d3af6b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "5defc0a13c66a6db",
             "type": "leaf",
             "pinned": true,
@@ -33,12 +23,22 @@
             }
           },
           {
-            "id": "7ba78bfabe44ec2b",
+            "id": "78e46267528afc8b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md"
+              }
+            }
+          },
+          {
+            "id": "6ac93023670fdb5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1. C Programming/ThinkNote/Memory and Array.md",
+                "file": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "4bf9a0d9fd25d377",
+            "id": "949ce61a30533324",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -57,19 +57,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "78e46267528afc8b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. C Programming/ThinkNote/Memory and Array.md",
+                "file": "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. C Programming/ThinkNote/Memory and Array.md",
+                "file": "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. C Programming/ThinkNote/Memory and Array.md"
+                "file": "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md"
               }
             }
           },
@@ -226,17 +216,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a3c00af89f573f9",
+  "active": "949ce61a30533324",
   "lastOpenFiles": [
-    "0.1. C Programming/ThinkNote",
-    "0.1. C Programming/Untitled.md",
-    "0.1. C Programming/ThinkNote/Memory and Array.md",
+    "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md",
     "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md",
     "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md",
+    "0.0. MyThinkPad/0.0.0. Source Collector.md",
+    "0.1. C Programming/ThinkNote/Memory and Array.md",
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
+    "0.1. C Programming/ThinkNote",
+    "0.1. C Programming/Untitled.md",
     "0.1. Rust Programming/0.1. Rust Programming.md",
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.9. Intermediate Memory.md",
-    "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.8. Expressions.md",
     "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md",
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.3. Functions.md",
@@ -265,10 +257,8 @@
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals",
     "0.1. Rust Programming/Rust 101 Crash Course",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
     "0.4. Excalidraw/CSE",
     "0.7. CSE/Intern",
-    "0.7. CSE",
     "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
     "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
     "Excalidraw/Scripts/Downloaded/Organic Line.svg",
