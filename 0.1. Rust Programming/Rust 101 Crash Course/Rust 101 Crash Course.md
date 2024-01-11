@@ -2,7 +2,7 @@
 
 https://www.youtube.com/watch?v=lzKeecy4OmQ
 
-2:52:23 / 6:01:14
+2:56:01 / 6:01:14
 ### Why Rust?
 - High-level language features without performance penalties
 - Program behaviors can be enforced at compile time
@@ -38,6 +38,7 @@ https://www.youtube.com/watch?v=lzKeecy4OmQ
 - [[1.7. Match]]
 - [[1.8. Expressions]]
 - [[1.9. Intermediate Memory]]
+- [[1.10. Ownership]]
 
 ### 2. Setup
 - [[2.1. Tool Installation]]
