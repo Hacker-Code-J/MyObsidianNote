@@ -26,8 +26,13 @@
             "id": "76e8ce22881ac554",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0.1. Rust Programming/Rust-High-Performance/Rust-High-Performance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -110,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -127,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.1. Rust Programming/Rust-High-Performance/Rust-High-Performance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.1. Rust Programming/Rust-High-Performance/Rust-High-Performance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.1. Rust Programming/Rust-High-Performance/Rust-High-Performance.md"
+              }
             }
           },
           {
@@ -200,6 +208,7 @@
   },
   "active": "76e8ce22881ac554",
   "lastOpenFiles": [
+    "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md",
     "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
     "0.1. Rust Programming/Rust-High-Performance/Rust-High-Performance.md",
@@ -228,7 +237,6 @@
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.5. Control flow using \"if\".md",
     "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md",
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md",
-    "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md",
     "0.1. C Programming/ThinkNote/Memory and Array.md",
     "0.1. C Programming/ThinkNote",
     "0.1. C Programming/Untitled.md",
