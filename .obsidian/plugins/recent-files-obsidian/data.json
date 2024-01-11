@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "1.10. Ownership",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md"
-    },
-    {
-      "basename": "0.1.1 Rust and C with ChatGPT",
-      "path": "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md"
-    },
-    {
       "basename": "Rust 101 Crash Course",
       "path": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md"
+    },
+    {
+      "basename": "A.2. 'impl'",
+      "path": "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.2. 'impl'.md"
+    },
+    {
+      "basename": "0.0.0. Source Collector",
+      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
     },
     {
       "basename": "Rust-101-Crash-Fundamentals-Draw",
       "path": "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md"
     },
     {
-      "basename": "0.0.0. Source Collector",
-      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+      "basename": "1.10. Ownership",
+      "path": "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md"
+    },
+    {
+      "basename": "0.1.1 Rust and C with ChatGPT",
+      "path": "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md"
     },
     {
       "basename": "Memory and Array",
@@ -195,10 +199,6 @@
     {
       "basename": "NeoVim",
       "path": "0.5. Editor/NeoVim.md"
-    },
-    {
-      "basename": "Dev Tip",
-      "path": "0.5. Editor/Dev Tip.md"
     }
   ],
   "omittedPaths": [],

@@ -2,7 +2,7 @@
 
 https://www.youtube.com/watch?v=lzKeecy4OmQ
 
-2:56:01 / 6:01:14
+3:39:25 / 6:01:14
 ### Why Rust?
 - High-level language features without performance penalties
 - Program behaviors can be enforced at compile time
@@ -50,4 +50,7 @@ https://www.youtube.com/watch?v=lzKeecy4OmQ
 
 ### A. Demo
 - [[A.1. Making decisions with 'match']]
+- [[A.2. 'impl']]
+
+
 
