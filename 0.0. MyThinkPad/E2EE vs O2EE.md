@@ -1,4 +1,4 @@
-#O2EE
+#E2EE #O2EE
 
 End-to-end encryption and one-to-end encryption are concepts related to the security and privacy of data transmission, particularly in digital communications:
 
