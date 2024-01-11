@@ -7,11 +7,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiSecurityscorecard",
       "TiMath",
       "TiLockCog",
       "SiLatex",
-      "LiCalendarDays",
-      "FasPencil"
+      "LiCalendarDays"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,6 @@
   "1.2. OpenSSL": "TiLockCog",
   "2.0. Number Theory": "TiMath",
   "2.1. Discrete Mathematics": "TiMath",
-  "0.6. Git": "SiGit"
+  "0.6. Git": "SiGit",
+  "0.7. CSE": "SiSecurityscorecard"
 }

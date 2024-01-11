@@ -29,19 +29,6 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "9dca9f440fd24dcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024/January 2024/2024-01-12 Implement LEA.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -199,13 +186,15 @@
   },
   "active": "9242d484c9b9be8a",
   "lastOpenFiles": [
-    "0.0. MyThinkPad/0.0.0. Source Collector.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.5. Control flow using \"if\".md",
-    "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
+    "2024/January 2024/2024-01-12 Implement LEA.md",
     "2024/January 2024/2024-01-12 CaS Study 1.md",
     "2024/January 2024/2024-01-05 Side Channel II.md",
     "2024/January 2024/2024-01-04 Side Channel I.md",
-    "2024/January 2024/2024-01-12 Implement LEA.md",
+    "0.7. CSE/Intern/LEA.md",
+    "0.7. CSE/Drawing 2024-01-11 16.59.16.excalidraw.md",
+    "0.0. MyThinkPad/0.0.0. Source Collector.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.5. Control flow using \"if\".md",
+    "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
     "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.2. 'impl'.md",
     "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md",
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md",
@@ -225,9 +214,7 @@
     "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.1. 'enum'.md",
     "0.1. Rust Programming/Rust 101 Crash Course/2. Setup/2.1. Tool Installation.md",
     "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data",
-    "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.1. Making decisions with 'match'.md",
     "0.1. Rust Programming/Rust 101 Crash Course/A. Demo",
-    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.7. Match.md",
     "0.1. Rust Programming/Rust 101 Crash Course/2. Setup",
     "Mind Map/Pasted Image 20240110131444_135.png",
     "Mind Map/Pasted Image 20240110131154_119.png",

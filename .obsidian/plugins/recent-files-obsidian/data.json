@@ -1,16 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "0.0.0. Source Collector",
-      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
-    },
-    {
-      "basename": "1.5. Control flow using \"if\"",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.5. Control flow using \"if\".md"
-    },
-    {
-      "basename": "Rust 101 Crash Course",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md"
+      "basename": "2024-01-12 Implement LEA",
+      "path": "2024/January 2024/2024-01-12 Implement LEA.md"
     },
     {
       "basename": "2024-01-12 CaS Study 1",
@@ -25,8 +17,20 @@
       "path": "2024/January 2024/2024-01-04 Side Channel I.md"
     },
     {
-      "basename": "2024-01-12 Implement LEA",
-      "path": "2024/January 2024/2024-01-12 Implement LEA.md"
+      "basename": "LEA",
+      "path": "0.7. CSE/Intern/LEA.md"
+    },
+    {
+      "basename": "0.0.0. Source Collector",
+      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+    },
+    {
+      "basename": "1.5. Control flow using \"if\"",
+      "path": "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.5. Control flow using \"if\".md"
+    },
+    {
+      "basename": "Rust 101 Crash Course",
+      "path": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md"
     },
     {
       "basename": "A.2. 'impl'",
@@ -173,10 +177,6 @@
       "path": "0.0. MyThinkPad/My Tips.md"
     },
     {
-      "basename": "LEA",
-      "path": "0.7. CSE/Intern/LEA.md"
-    },
-    {
       "basename": "Github SSH Setup",
       "path": "Github SSH Setup.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "1.1.1.0. Key Expansion",
       "path": "1.1. AES/1.1.1.0. Key Expansion.md"
-    },
-    {
-      "basename": "1.1.1.3. Round Constant (RCON)",
-      "path": "1.1. AES/1.1.1.3. Round Constant (RCON).md"
     }
   ],
   "omittedPaths": [],
