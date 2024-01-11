@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "0.0.0. Source Collector",
+      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+    },
+    {
+      "basename": "Auto Draw for Pen",
+      "path": "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md"
+    },
+    {
+      "basename": "Connect elements",
+      "path": "Excalidraw/Scripts/Downloaded/Connect elements.md"
+    },
+    {
+      "basename": "Boolean Operations",
+      "path": "Excalidraw/Scripts/Downloaded/Boolean Operations.svg"
+    },
+    {
+      "basename": "Auto Layout",
+      "path": "Excalidraw/Scripts/Downloaded/Auto Layout.svg"
+    },
+    {
+      "basename": "Repeat Elements",
+      "path": "Excalidraw/Scripts/Downloaded/Repeat Elements.svg"
+    },
+    {
+      "basename": "Organic Line",
+      "path": "Excalidraw/Scripts/Downloaded/Organic Line.md"
+    },
+    {
+      "basename": "Auto Layout",
+      "path": "Excalidraw/Scripts/Downloaded/Auto Layout.md"
+    },
+    {
+      "basename": "Auto Draw for Pen",
+      "path": "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg"
+    },
+    {
       "basename": "2024-01-12 Implement LEA",
       "path": "2024/January 2024/2024-01-12 Implement LEA.md"
     },
@@ -19,10 +55,6 @@
     {
       "basename": "LEA",
       "path": "0.7. CSE/Intern/LEA.md"
-    },
-    {
-      "basename": "0.0.0. Source Collector",
-      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
     },
     {
       "basename": "1.5. Control flow using \"if\"",
@@ -51,10 +83,6 @@
     {
       "basename": "Memory and Array",
       "path": "0.1. C Programming/ThinkNote/Memory and Array.md"
-    },
-    {
-      "basename": "Auto Draw for Pen",
-      "path": "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md"
     },
     {
       "basename": "0.1. Rust Programming",
@@ -171,30 +199,6 @@
     {
       "basename": "0.1.0 Setup Rust DE",
       "path": "0.1. Rust Programming/0.1.0 Setup Rust DE.md"
-    },
-    {
-      "basename": "My Tips",
-      "path": "0.0. MyThinkPad/My Tips.md"
-    },
-    {
-      "basename": "Github SSH Setup",
-      "path": "Github SSH Setup.md"
-    },
-    {
-      "basename": "0.0.2. TO DO LIST",
-      "path": "0.0. MyThinkPad/0.0.2. TO DO LIST.md"
-    },
-    {
-      "basename": "Bash_and_PowerShell",
-      "path": "0.5. Editor/Bash_and_PowerShell.md"
-    },
-    {
-      "basename": "1.1.1.1. RotWord",
-      "path": "1.1. AES/1.1.1.1. RotWord.md"
-    },
-    {
-      "basename": "1.1.1.0. Key Expansion",
-      "path": "1.1. AES/1.1.1.0. Key Expansion.md"
     }
   ],
   "omittedPaths": [],

@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9242d484c9b9be8a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md"
+              }
             }
           },
           {
@@ -184,15 +179,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9242d484c9b9be8a",
+  "active": "5defc0a13c66a6db",
   "lastOpenFiles": [
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
+    "Excalidraw/Scripts/Downloaded/Connect elements.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Organic Line.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
+    "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "2024/January 2024/2024-01-12 Implement LEA.md",
     "2024/January 2024/2024-01-12 CaS Study 1.md",
     "2024/January 2024/2024-01-05 Side Channel II.md",
     "2024/January 2024/2024-01-04 Side Channel I.md",
     "0.7. CSE/Intern/LEA.md",
     "0.7. CSE/Drawing 2024-01-11 16.59.16.excalidraw.md",
-    "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.5. Control flow using \"if\".md",
     "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
     "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.2. 'impl'.md",
@@ -200,7 +203,6 @@
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md",
     "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md",
     "0.1. C Programming/ThinkNote/Memory and Array.md",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
     "0.1. C Programming/ThinkNote",
     "0.1. C Programming/Untitled.md",
     "0.1. Rust Programming/0.1. Rust Programming.md",
@@ -210,9 +212,6 @@
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.3. Functions.md",
     "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.2. Variables.md",
     "1.1. AES/1.1.4.0. SubBytes and MixColumns.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.2. 'struct'.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.1. 'enum'.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/2. Setup/2.1. Tool Installation.md",
     "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data",
     "0.1. Rust Programming/Rust 101 Crash Course/A. Demo",
     "0.1. Rust Programming/Rust 101 Crash Course/2. Setup",
@@ -227,11 +226,7 @@
     "0.1. Rust Programming/Rust 101 Crash Course",
     "0.4. Excalidraw/CSE",
     "0.7. CSE/Intern",
-    "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
     "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
-    "Excalidraw/Scripts/Downloaded/Organic Line.svg",
-    "Excalidraw/Scripts/Downloaded/Modify background color opacity.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
     "Untitled.canvas",
