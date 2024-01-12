@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a20e33d7ee1de75c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024/January 2024/2024-01-12 CaS Study 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0. MyThinkPad/Obsidian Test.md",
+                "file": "2024/January 2024/2024-01-12 CaS Study 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0. MyThinkPad/Obsidian Test.md",
+                "file": "2024/January 2024/2024-01-12 CaS Study 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0. MyThinkPad/Obsidian Test.md"
+                "file": "2024/January 2024/2024-01-12 CaS Study 1.md"
               }
             }
           },
@@ -193,8 +206,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46ff43e82f2e3a75",
+  "active": "a20e33d7ee1de75c",
   "lastOpenFiles": [
+    "0.0. MyThinkPad/Obsidian Test.md",
     "0.1. C Programming/0. Crypto-coding.md",
     "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
     "0.1. C Programming/0.1. C Programming.md",
@@ -202,7 +216,6 @@
     "0.0. MyThinkPad/Callout Styles.md",
     "0.0. MyThinkPad/Zero-Based Numbering.md",
     "0.0. MyThinkPad/E2EE vs O2EE.md",
-    "0.0. MyThinkPad/Obsidian Test.md",
     "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
     "0.0. MyThinkPad/0.0.1. Want.md",
     "2024/January 2024/2024-01-17 Implement MOVS for LEA.md",
