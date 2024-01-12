@@ -55,11 +55,11 @@ body {
   --highlight-background-color--active: hsl(50deg 100% 50% / 20%) !important;
 
   /* Font families */
-  --font-text-theme: -apple-system, BlinkMacSystemFont, 'Laksaman', Roboto,
+  --font-text-theme: -apple-system, Qarmic Sans, 'Laksaman', Roboto,
     Inter, Ubuntu, sans-serif;
   --font-editor-theme: -apple-system, BlinkMacSystemFont, 'Laksaman', Roboto,
     Inter, Ubuntu, sans-serif;
-  --font-monospace-theme: 'JetBrains Mono', 'Fira Code', Menlo, SFMono-Regular,
+  --font-monospace-theme: Comic Sans, 'JetBrains Mono', 'Fira Code', Menlo, SFMono-Regular,
     Consolas, 'Roboto Mono', monospace;
   --font-interface-theme: -apple-system, BlinkMacSystemFont, 'Laksaman', Roboto,
     Inter, Ubuntu, sans-serif;

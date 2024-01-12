@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips/Install Font in Debian.md",
+                "file": "0.1. C Programming/0. Crypto-coding.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips/Install Font in Debian.md",
+                "file": "0.1. C Programming/0. Crypto-coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips/Install Font in Debian.md"
+                "file": "0.1. C Programming/0. Crypto-coding.md"
               }
             }
           },
@@ -206,13 +205,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a20e33d7ee1de75c",
+  "active": "23c75740c5405d70",
   "lastOpenFiles": [
+    "0.0. MyThinkPad/Obsidian Test.md",
     "Tips/Install Font in Debian.md",
     "Tips",
     "0.0. MyThinkPad/My Tips.md",
     "2024/January 2024/2024-01-12 CaS Study 1.md",
-    "0.0. MyThinkPad/Obsidian Test.md",
     "0.1. C Programming/0. Crypto-coding.md",
     "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
     "0.1. C Programming/0.1. C Programming.md",

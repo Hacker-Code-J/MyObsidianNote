@@ -7,7 +7,7 @@ My favorite fonts
 - Comic Mono
 - Qarmic Sans
 - Georgia
-- 
+- BlinkMacSystemFont
 
 Installing a font in Debian is a straightforward process. Here are the steps to do it:
 
