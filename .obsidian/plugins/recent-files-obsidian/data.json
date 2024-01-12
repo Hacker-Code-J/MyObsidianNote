@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "My Tips",
+      "path": "0.0. MyThinkPad/My Tips.md"
+    },
+    {
       "basename": "2024-01-12 CaS Study 1",
       "path": "2024/January 2024/2024-01-12 CaS Study 1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.2. Variables",
       "path": "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.2. Variables.md"
-    },
-    {
-      "basename": "1.1.4.0. SubBytes and MixColumns",
-      "path": "1.1. AES/1.1.4.0. SubBytes and MixColumns.md"
     }
   ],
   "omittedPaths": [],
