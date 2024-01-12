@@ -39,13 +39,8 @@
             "id": "a20e33d7ee1de75c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.0. MyThinkPad/My Tips.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -131,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0. MyThinkPad/My Tips.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0. MyThinkPad/My Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0.0. MyThinkPad/My Tips.md"
-              }
+              "state": {}
             }
           },
           {
@@ -208,6 +199,7 @@
   },
   "active": "a20e33d7ee1de75c",
   "lastOpenFiles": [
+    "0.0. MyThinkPad/My Tips.md",
     "2024/January 2024/2024-01-12 CaS Study 1.md",
     "0.0. MyThinkPad/Obsidian Test.md",
     "0.1. C Programming/0. Crypto-coding.md",
@@ -234,7 +226,6 @@
     "0.1. Rust Programming/Rust-High-Performance",
     "0.1. Rust Programming/Rust 101 Crash Course/B. Activity/B.1. 'impl'.md",
     "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.2. 'impl'.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.3. Vectors.md",
     "0.1. Rust Programming/Rust 101 Crash Course/B. Activity",
     "0.1. Rust Programming/Rust 101 Crash Course/4. Data Structure",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
