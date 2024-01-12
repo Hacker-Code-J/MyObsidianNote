@@ -7,7 +7,7 @@
     border-left: 3px solid #009688; /* Stylish left border */
     padding: 10px;
     border-radius: 5px;
-    font-family: 'Hack', monospace; /* Monospaced font for code */
+    font-family: 'SF CARTOONIST HAND SC', monospace; /* Monospaced font for code */
     font-size: 0.9em;
     overflow-x: auto; /* Ensures code is scrollable horizontally */
 }

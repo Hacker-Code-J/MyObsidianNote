@@ -2,8 +2,8 @@
   "accentColor": "",
   "cssTheme": "Things",
   "enabledCssSnippets": [
-    "myTheme1",
-    "graph_veiw"
+    "graph_veiw",
+    "myTheme1"
   ],
   "theme": "moonstone",
   "nativeMenus": false

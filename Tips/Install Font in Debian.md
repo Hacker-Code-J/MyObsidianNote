@@ -6,6 +6,7 @@ My favorite fonts
 - Noto Sans Mono
 - Comic Mono
 - Qarmic Sans
+- Georgia
 - 
 
 Installing a font in Debian is a straightforward process. Here are the steps to do it:
