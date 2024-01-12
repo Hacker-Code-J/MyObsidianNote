@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5defc0a13c66a6db",
+            "id": "23c75740c5405d70",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.0. MyThinkPad/0.0.0. Source Collector.md",
+                "file": "0.1. C Programming/0. Crypto-coding.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -23,51 +23,15 @@
             }
           },
           {
-            "id": "76e8ce22881ac554",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
-              }
-            }
-          },
-          {
-            "id": "18a4b38b9c2150c3",
+            "id": "46ff43e82f2e3a75",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "411cbb4548a95f83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.1. AES/1.1.0. Overview of AES.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afde7719a425ff07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.1. Rust Programming/Rust-High-Performance/Rust-High-Performance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,20 +184,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18a4b38b9c2150c3",
+  "active": "46ff43e82f2e3a75",
   "lastOpenFiles": [
+    "0.1. C Programming/0. Crypto-coding.md",
+    "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
+    "0.1. C Programming/0.1. C Programming.md",
+    "0.0. MyThinkPad/0.0.0. Source Collector.md",
+    "0.0. MyThinkPad/Callout Styles.md",
+    "0.0. MyThinkPad/Zero-Based Numbering.md",
+    "0.0. MyThinkPad/E2EE vs O2EE.md",
+    "0.0. MyThinkPad/Obsidian Test.md",
+    "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
+    "0.0. MyThinkPad/0.0.1. Want.md",
+    "2024/January 2024/2024-01-17 Implement MOVS for LEA.md",
+    "1.1. AES/1.1.0. Overview of AES.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
     "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Draw.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
-    "1.1. AES/1.1.0. Overview of AES.md",
     "1.1. AES/1.1.1.0. Key Expansion.md",
     "Github SSH Setup.md",
-    "0.0. MyThinkPad/E2EE vs O2EE.md",
-    "0.1. C Programming/0. Crypto-coding.md",
     "0.1. Rust Programming/Rust-High-Performance/Rust-High-Performance.md",
     "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md",
-    "0.0. MyThinkPad/0.0.0. Source Collector.md",
     "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
     "0.1. Rust Programming/Rust 101 Crash Course/B. Activity/B.2. Vectors.md",
     "0.1. Rust Programming/Rust-High-Performance",
@@ -243,18 +215,10 @@
     "0.1. Rust Programming/Rust 101 Crash Course/B. Activity",
     "0.1. Rust Programming/Rust 101 Crash Course/4. Data Structure/4.1. Vector.md",
     "0.1. Rust Programming/Rust 101 Crash Course/4. Data Structure",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
-    "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
-    "Excalidraw/Scripts/Downloaded/Organic Line.md",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
-    "2024/January 2024/2024-01-12 Implement LEA.md",
-    "2024/January 2024/2024-01-12 CaS Study 1.md",
-    "2024/January 2024/2024-01-05 Side Channel II.md",
-    "2024/January 2024/2024-01-04 Side Channel I.md",
     "0.1. C Programming/ThinkNote",
     "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data",
     "0.1. Rust Programming/Rust 101 Crash Course/A. Demo",
