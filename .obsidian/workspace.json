@@ -39,8 +39,13 @@
             "id": "a20e33d7ee1de75c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tips/Install Font in Debian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -126,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. C Programming/0. Crypto-coding.md",
+                "file": "Tips/Install Font in Debian.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. C Programming/0. Crypto-coding.md",
+                "file": "Tips/Install Font in Debian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. C Programming/0. Crypto-coding.md"
+                "file": "Tips/Install Font in Debian.md"
               }
             }
           },
@@ -203,6 +208,8 @@
   },
   "active": "a20e33d7ee1de75c",
   "lastOpenFiles": [
+    "Tips/Install Font in Debian.md",
+    "Tips",
     "0.0. MyThinkPad/My Tips.md",
     "2024/January 2024/2024-01-12 CaS Study 1.md",
     "0.0. MyThinkPad/Obsidian Test.md",
@@ -229,7 +236,6 @@
     "0.1. Rust Programming/Rust 101 Crash Course/B. Activity/B.2. Vectors.md",
     "0.1. Rust Programming/Rust-High-Performance",
     "0.1. Rust Programming/Rust 101 Crash Course/B. Activity/B.1. 'impl'.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.2. 'impl'.md",
     "0.1. Rust Programming/Rust 101 Crash Course/B. Activity",
     "0.1. Rust Programming/Rust 101 Crash Course/4. Data Structure",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
@@ -247,7 +253,6 @@
     "0.4. Excalidraw/Rust-101-Crash-Draw",
     "images/rust_101_crash/rust_101_crash1.png",
     "images/rust_101_crash",
-    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals",
     "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
     "Mind Map/The 2nd Brain.canvas",
     "Mind Map/C - CraftCodeLab.canvas",
