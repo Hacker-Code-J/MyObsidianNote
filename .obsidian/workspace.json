@@ -26,8 +26,13 @@
             "id": "46ff43e82f2e3a75",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0.0. MyThinkPad/Obsidian Test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -113,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.0. MyThinkPad/Obsidian Test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.0. MyThinkPad/Obsidian Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.0. MyThinkPad/Obsidian Test.md"
+              }
             }
           },
           {
