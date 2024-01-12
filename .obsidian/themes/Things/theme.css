@@ -57,11 +57,11 @@ body {
   /* Font families */
   --font-text-theme: -apple-system, Qarmic Sans, 'Laksaman', Roboto,
     Inter, Ubuntu, sans-serif;
-  --font-editor-theme: -apple-system, BlinkMacSystemFont, 'Laksaman', Roboto,
+  --font-editor-theme: -apple-system, Qarmic Sans, 'Laksaman', Roboto,
     Inter, Ubuntu, sans-serif;
-  --font-monospace-theme: Comic Sans, 'JetBrains Mono', 'Fira Code', Menlo, SFMono-Regular,
+  --font-monospace-theme: Comic Mono, 'JetBrains Mono', 'Fira Code', Menlo, SFMono-Regular,
     Consolas, 'Roboto Mono', monospace;
-  --font-interface-theme: -apple-system, BlinkMacSystemFont, 'Laksaman', Roboto,
+  --font-interface-theme: -apple-system, Qarmic Sans, 'Laksaman', Roboto,
     Inter, Ubuntu, sans-serif;
   --font-editor: var(--font-editor-override), var(--font-text-override),
     var(--font-editor-theme);

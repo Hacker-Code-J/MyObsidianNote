@@ -3,7 +3,8 @@
   "cssTheme": "Things",
   "enabledCssSnippets": [
     "graph_veiw",
-    "myTheme1"
+    "myTheme1",
+    "code"
   ],
   "theme": "moonstone",
   "nativeMenus": false

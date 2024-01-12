@@ -162,3 +162,65 @@ rebuild: clean all
 
 .PHONY: all clean directories
 ```
+
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+#define BUFFER_SIZE 1024  // Adjust this based on expected file size and memory constraints
+
+void compareFiles(const char *file1, const char *file2) {
+    FILE *fp1 = fopen(file1, "r");
+    FILE *fp2 = fopen(file2, "r");
+
+    if (fp1 == NULL || fp2 == NULL) {
+        fprintf(stderr, "Error opening files.\n");
+        exit(EXIT_FAILURE);
+    }
+
+    char buffer1[BUFFER_SIZE];
+    char buffer2[BUFFER_SIZE];
+    
+    while (!feof(fp1) && !feof(fp2)) {
+        if (fgets(buffer1, BUFFER_SIZE, fp1) == NULL) break;
+        if (fgets(buffer2, BUFFER_SIZE, fp2) == NULL) break;
+
+        if (strcmp(buffer1, buffer2) != 0) {
+            printf("FAIL\n");
+            fclose(fp1);
+            fclose(fp2);
+            return;
+        }
+    }
+
+    if (!feof(fp1) || !feof(fp2)) {
+        printf("FAIL\n");
+    } else {
+        printf("PASS\n");
+    }
+
+    fclose(fp1);
+    fclose(fp2);
+}
+
+int main(int argc, char *argv[]) {
+    if (argc != 3) {
+        fprintf(stderr, "Usage: %s <file1> <file2>\n", argv[0]);
+        return EXIT_FAILURE;
+    }
+
+    compareFiles(argv[1], argv[2]);
+    return EXIT_SUCCESS;
+}
+```
+
+```bash
+gcc -o filecompare filecompare.c
+```
+
+**Run the Executable**:
+
+- On Linux or macOS, you might run `./filecompare file1.txt file2.txt`.
+- On Windows, you would run `filecompare file1.txt file2.txt`.
