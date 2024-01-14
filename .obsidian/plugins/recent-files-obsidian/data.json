@@ -1,20 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "C-Core-NOTE",
-      "path": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
+      "basename": "Functions-in-C-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md"
     },
     {
-      "basename": "Compiler-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
+      "basename": "3.1. Call and Return",
+      "path": "0.1. C Programming/C-Core-NOTE/3. Functions in C/3.1. Call and Return.md"
     },
     {
-      "basename": "2.4. Execution File",
-      "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.4. Execution File.md"
-    },
-    {
-      "basename": "2.5. Increment and Decrement Operators",
-      "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.5. Increment and Decrement Operators.md"
+      "basename": "2.1. Syntax Analysis",
+      "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.1. Syntax Analysis.md"
     },
     {
       "basename": "2.2. Abstract Syntax Tree",
@@ -25,20 +21,28 @@
       "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.3. Code Generation and Optimization.md"
     },
     {
-      "basename": "CS-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
-    },
-    {
-      "basename": "2.1. Syntax Analysis",
-      "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.1. Syntax Analysis.md"
-    },
-    {
-      "basename": "Basic-C-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
+      "basename": "2.4. Execution File",
+      "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.4. Execution File.md"
     },
     {
       "basename": "Pointer-in-C-Drawing",
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md"
+    },
+    {
+      "basename": "Compiler-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
+    },
+    {
+      "basename": "CS-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
+    },
+    {
+      "basename": "C-Core-NOTE",
+      "path": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
+    },
+    {
+      "basename": "Basic-C-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
     },
     {
       "basename": "Rust-101-Crash-Fundamentals-Draw",
@@ -195,10 +199,6 @@
     {
       "basename": "Auto Layout",
       "path": "Excalidraw/Scripts/Downloaded/Auto Layout.svg"
-    },
-    {
-      "basename": "Repeat Elements",
-      "path": "Excalidraw/Scripts/Downloaded/Repeat Elements.svg"
     }
   ],
   "omittedPaths": [],
