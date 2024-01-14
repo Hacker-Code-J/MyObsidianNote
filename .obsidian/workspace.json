@@ -49,20 +49,7 @@
             }
           },
           {
-            "id": "7a2794e4fc6d9d10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.1. C Programming/C-Core-NOTE/3. Functions in C/3.1. Call and Return.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d33a69c6055aae6",
+            "id": "c0361946e9c1ffe1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -72,43 +59,20 @@
             }
           },
           {
-            "id": "0a8faad8afd9cd12",
+            "id": "0d33a69c6055aae6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.2. Abstract Syntax Tree.md",
+                "file": "0.1. C Programming/C-Core-NOTE/3. Functions in C/3.1. Parameters.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e76cbd5e99a03ada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.4. Execution File.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a43fe4c970ca964d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md",
+                "file": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md",
+                "file": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md"
+                "file": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
               }
             }
           },
@@ -265,20 +229,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d33a69c6055aae6",
+  "active": "3ee7dcf63fbb6102",
   "lastOpenFiles": [
-    "0.1. C Programming/C-Core-NOTE/3. Functions in C/3.1. Call and Return.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md",
+    "0.1. C Programming/C-Core-NOTE/3. Functions in C/3.1. Parameters.md",
+    "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
+    "0.1. C Programming/C-Core-NOTE/2. Compiler/2.4. Execution File.md",
+    "0.1. C Programming/C-Core-NOTE/2. Compiler/2.2. Abstract Syntax Tree.md",
     "0.1. C Programming/C-Core-NOTE/3. Functions in C",
     "0.1. C Programming/C-Core-NOTE/2. Compiler/2.1. Syntax Analysis.md",
-    "0.1. C Programming/C-Core-NOTE/2. Compiler/2.2. Abstract Syntax Tree.md",
     "0.1. C Programming/C-Core-NOTE/2. Compiler/2.3. Code Generation and Optimization.md",
-    "0.1. C Programming/C-Core-NOTE/2. Compiler/2.4. Execution File.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
     "0.1. C Programming/C-Core-NOTE/2. Compiler/2.5. Increment and Decrement Operators.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
-    "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
     "0.1. C Programming/C-Core-NOTE/A. Pointer in C",
     "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md",

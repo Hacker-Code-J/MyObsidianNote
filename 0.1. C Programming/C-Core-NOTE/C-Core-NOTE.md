@@ -23,6 +23,10 @@
 - [[2.3. Code Generation and Optimization]]
 - [[2.4. Execution File]]
 
+**Section 3. Functions in C**
+- [[Functions-in-C-Drawing]]
+- [[3.1. Parameters]]
+
 **Appendix A.**
 - [[Pointer-in-C-Drawing]]
 
