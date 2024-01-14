@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "2.3. Code Generation and Optimization",
-      "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.3. Code Generation and Optimization.md"
-    },
-    {
       "basename": "Compiler-Drawing",
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
     },
     {
-      "basename": "Rust-101-Crash-Fundamentals-Draw",
-      "path": "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md"
+      "basename": "2.4. Execution File",
+      "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.4. Execution File.md"
+    },
+    {
+      "basename": "2.3. Code Generation and Optimization",
+      "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.3. Code Generation and Optimization.md"
+    },
+    {
+      "basename": "C-Core-NOTE",
+      "path": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
     },
     {
       "basename": "2.1. Syntax Analysis",
       "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.1. Syntax Analysis.md"
     },
     {
-      "basename": "C-Core-NOTE",
-      "path": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
+      "basename": "Rust-101-Crash-Fundamentals-Draw",
+      "path": "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md"
     },
     {
       "basename": "2.2. Abstract Syntax Tree",
@@ -195,10 +199,6 @@
     {
       "basename": "Auto Layout",
       "path": "Excalidraw/Scripts/Downloaded/Auto Layout.md"
-    },
-    {
-      "basename": "Auto Draw for Pen",
-      "path": "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg"
     }
   ],
   "omittedPaths": [],

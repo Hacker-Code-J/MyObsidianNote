@@ -19,5 +19,8 @@
 - [[2.1. Syntax Analysis]]
 - [[2.2. Abstract Syntax Tree]]
 - [[2.3. Code Generation and Optimization]]
+- [[2.4. Execution File]]
+
+
 
 
