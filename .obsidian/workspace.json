@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
+                "file": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.3. Code Generation and Optimization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
+                "file": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.3. Code Generation and Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
+                "file": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.3. Code Generation and Optimization.md"
               }
             }
           },
@@ -229,10 +229,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a43fe4c970ca964d",
+  "active": "e76cbd5e99a03ada",
   "lastOpenFiles": [
-    "0.1. C Programming/C-Core-NOTE/2. Compiler/2.3. Code Generation and Optimization.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
+    "0.1. C Programming/C-Core-NOTE/2. Compiler/2.3. Code Generation and Optimization.md",
     "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md",
     "0.1. C Programming/C-Core-NOTE/2. Compiler/2.1. Syntax Analysis.md",
     "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md",
