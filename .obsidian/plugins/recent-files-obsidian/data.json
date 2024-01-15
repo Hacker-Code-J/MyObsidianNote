@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "LEA",
+      "path": "0.7. CSE/Intern/LEA.md"
+    },
+    {
+      "basename": "CSE-LEA-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
+    },
+    {
       "basename": "C-Core-NOTE",
       "path": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
     },
@@ -85,10 +93,6 @@
       "path": "0.1. C Programming/C-Core-NOTE/1. Basic C/1.1. Endian and Two's Complement.md"
     },
     {
-      "basename": "LEA",
-      "path": "0.7. CSE/Intern/LEA.md"
-    },
-    {
       "basename": "A.1. Making decisions with 'match'",
       "path": "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.1. Making decisions with 'match'.md"
     },
@@ -155,10 +159,6 @@
     {
       "basename": "1.1.0. Overview of AES",
       "path": "1.1. AES/1.1.0. Overview of AES.md"
-    },
-    {
-      "basename": "CSE-LEA-Drawing",
-      "path": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
     },
     {
       "basename": "1.1.1.0. Key Expansion",
