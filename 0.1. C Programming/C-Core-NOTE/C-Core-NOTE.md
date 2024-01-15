@@ -5,8 +5,6 @@
 > [!NOTE] References
 > - https://www.inflearn.com/users/865030
 
-### Setup C/C++ Develop Envirenment
-
 ### Contents
 
 **Section 1. Basic C**
@@ -26,6 +24,7 @@
 **Section 3. Functions in C**
 - [[Functions-in-C-Drawing]]
 - [[3.1. Parameters]]
+- [[3.2. Stack Frame]]
 
 **Appendix A.**
 - [[Pointer-in-C-Drawing]]
@@ -39,3 +38,8 @@
 		(2) Unary increment and decrement operations.
 		(3) Control structures such as if, if-else, and while statements, along with functions.
 		(4) Other unique features (like global variables).
+
+
+
+
+

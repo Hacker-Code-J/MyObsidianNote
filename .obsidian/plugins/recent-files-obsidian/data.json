@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "3.1. Parameters",
-      "path": "0.1. C Programming/C-Core-NOTE/3. Functions in C/3.1. Parameters.md"
+      "basename": "C-Core-NOTE",
+      "path": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
     },
     {
       "basename": "Functions-in-C-Drawing",
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md"
     },
     {
-      "basename": "C-Core-NOTE",
-      "path": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
+      "basename": "3.2. Stack Frame",
+      "path": "0.1. C Programming/C-Core-NOTE/3. Functions in C/3.2. Stack Frame.md"
+    },
+    {
+      "basename": "Swap Aanlysis",
+      "path": "0.1. C Programming/Assembly/Swap Aanlysis.md"
+    },
+    {
+      "basename": "3.1. Parameters",
+      "path": "0.1. C Programming/C-Core-NOTE/3. Functions in C/3.1. Parameters.md"
+    },
+    {
+      "basename": "Memory and Array",
+      "path": "0.1. C Programming/ThinkNote/Memory and Array.md"
     },
     {
       "basename": "Compiler-Drawing",
@@ -187,18 +199,6 @@
     {
       "basename": "Auto Draw for Pen",
       "path": "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md"
-    },
-    {
-      "basename": "Connect elements",
-      "path": "Excalidraw/Scripts/Downloaded/Connect elements.md"
-    },
-    {
-      "basename": "Boolean Operations",
-      "path": "Excalidraw/Scripts/Downloaded/Boolean Operations.svg"
-    },
-    {
-      "basename": "Auto Layout",
-      "path": "Excalidraw/Scripts/Downloaded/Auto Layout.svg"
     }
   ],
   "omittedPaths": [],
