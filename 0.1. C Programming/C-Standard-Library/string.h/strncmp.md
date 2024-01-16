@@ -30,9 +30,9 @@ The behavior is undefined when access occurs past the end of either array lhs 
 void demo(const char* lhs, const char* rhs, int sz)
 {
     const int rc = strncmp(lhs, rhs, sz);
-    if (rc < 0)
+    if (rc < 0) // order: lhs, rhs
         printf("First %d chars of [%s] precede [%s]\n", sz, lhs, rhs);
-    else if (rc > 0)
+    else if (rc > 0) // order: rhs, rhs
         printf("First %d chars of [%s] follow [%s]\n", sz, lhs, rhs);
     else
         printf("First %d chars of [%s] equal [%s]\n", sz, lhs, rhs);
