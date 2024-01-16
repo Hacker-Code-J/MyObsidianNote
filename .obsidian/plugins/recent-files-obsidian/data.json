@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "fgets",
-      "path": "0.1. C Programming/C-Standard-Library/stdio.h/fgets.md"
+      "basename": "strncmp",
+      "path": "0.1. C Programming/C-Standard-Library/string.h/strncmp.md"
     },
     {
-      "basename": "fgetc",
-      "path": "0.1. C Programming/C-Standard-Library/stdio.h/fgetc.md"
+      "basename": "string.h",
+      "path": "0.1. C Programming/C-Standard-Library/string.h/string.h.md"
     },
     {
       "basename": "stdio.h",
@@ -15,6 +15,18 @@
     {
       "basename": "C-Standard-Library",
       "path": "0.1. C Programming/C-Standard-Library/C-Standard-Library.md"
+    },
+    {
+      "basename": "fgets",
+      "path": "0.1. C Programming/C-Standard-Library/stdio.h/fgets.md"
+    },
+    {
+      "basename": "Callout Styles",
+      "path": "0.0. MyThinkPad/Callout Styles.md"
+    },
+    {
+      "basename": "fgetc",
+      "path": "0.1. C Programming/C-Standard-Library/stdio.h/fgetc.md"
     },
     {
       "basename": "OpenSSL",
@@ -157,10 +169,6 @@
       "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
     },
     {
-      "basename": "Callout Styles",
-      "path": "0.0. MyThinkPad/Callout Styles.md"
-    },
-    {
       "basename": "Zero-Based Numbering",
       "path": "0.0. MyThinkPad/Zero-Based Numbering.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Github SSH Setup",
       "path": "Github SSH Setup.md"
-    },
-    {
-      "basename": "Rust-High-Performance",
-      "path": "0.1. Rust Programming/Rust-High-Performance/Rust-High-Performance.md"
-    },
-    {
-      "basename": "0.1.1 Rust and C with ChatGPT",
-      "path": "0.1. Rust Programming/0.1.1 Rust and C with ChatGPT.md"
     }
   ],
   "omittedPaths": [],
