@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Compiler-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
+    },
+    {
+      "basename": "CS-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
+    },
+    {
+      "basename": "Basic-C-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
+    },
+    {
+      "basename": "Pointer-in-C-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md"
+    },
+    {
+      "basename": "Functions-in-C-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md"
+    },
+    {
       "basename": "LEA",
       "path": "0.7. CSE/Intern/LEA.md"
+    },
+    {
+      "basename": "Drawing of AES",
+      "path": "0.4. Excalidraw/Drawing of AES.md"
     },
     {
       "basename": "CSE-LEA-Drawing",
@@ -21,10 +45,6 @@
       "path": "0.1. C Programming/0. Crypto-coding.md"
     },
     {
-      "basename": "Functions-in-C-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md"
-    },
-    {
       "basename": "3.2. Stack Frame",
       "path": "0.1. C Programming/C-Core-NOTE/3. Functions in C/3.2. Stack Frame.md"
     },
@@ -41,10 +61,6 @@
       "path": "0.1. C Programming/ThinkNote/Memory and Array.md"
     },
     {
-      "basename": "Compiler-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
-    },
-    {
       "basename": "2.4. Execution File",
       "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.4. Execution File.md"
     },
@@ -59,18 +75,6 @@
     {
       "basename": "2.3. Code Generation and Optimization",
       "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.3. Code Generation and Optimization.md"
-    },
-    {
-      "basename": "Pointer-in-C-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md"
-    },
-    {
-      "basename": "CS-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
-    },
-    {
-      "basename": "Basic-C-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
     },
     {
       "basename": "Rust-101-Crash-Fundamentals-Draw",
@@ -195,10 +199,6 @@
     {
       "basename": "4.1. Vector",
       "path": "0.1. Rust Programming/Rust 101 Crash Course/4. Data Structure/4.1. Vector.md"
-    },
-    {
-      "basename": "Auto Draw for Pen",
-      "path": "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md"
     }
   ],
   "omittedPaths": [],
