@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "C-Standard-Library",
+      "path": "0.1. C Programming/C-Standard-Library/C-Standard-Library.md"
+    },
+    {
+      "basename": "OpenSSL",
+      "path": "1.2. OpenSSL/OpenSSL.md"
+    },
+    {
+      "basename": "fgetc",
+      "path": "0.1. C Programming/C-Standard-Library/stdio.h/fgetc.md"
+    },
+    {
+      "basename": "stdio.h",
+      "path": "0.1. C Programming/C-Standard-Library/stdio.h/stdio.h.md"
+    },
+    {
+      "basename": "0. Crypto-coding",
+      "path": "0.1. C Programming/0. Crypto-coding.md"
+    },
+    {
+      "basename": "LEA",
+      "path": "0.7. CSE/Intern/LEA.md"
+    },
+    {
       "basename": "Compiler-Drawing",
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
     },
@@ -21,10 +45,6 @@
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md"
     },
     {
-      "basename": "LEA",
-      "path": "0.7. CSE/Intern/LEA.md"
-    },
-    {
       "basename": "Drawing of AES",
       "path": "0.4. Excalidraw/Drawing of AES.md"
     },
@@ -39,10 +59,6 @@
     {
       "basename": "2024-01-12 CaS Study 1",
       "path": "2024/January 2024/2024-01-12 CaS Study 1.md"
-    },
-    {
-      "basename": "0. Crypto-coding",
-      "path": "0.1. C Programming/0. Crypto-coding.md"
     },
     {
       "basename": "3.2. Stack Frame",
@@ -183,22 +199,6 @@
     {
       "basename": "B.2. Vectors",
       "path": "0.1. Rust Programming/Rust 101 Crash Course/B. Activity/B.2. Vectors.md"
-    },
-    {
-      "basename": "B.1. 'impl'",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/B. Activity/B.1. 'impl'.md"
-    },
-    {
-      "basename": "A.2. 'impl'",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.2. 'impl'.md"
-    },
-    {
-      "basename": "A.3. Vectors",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.3. Vectors.md"
-    },
-    {
-      "basename": "4.1. Vector",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/4. Data Structure/4.1. Vector.md"
     }
   ],
   "omittedPaths": [],
