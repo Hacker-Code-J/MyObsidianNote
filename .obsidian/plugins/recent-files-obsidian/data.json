@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "memset",
+      "path": "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation/memset.md"
+    },
+    {
+      "basename": "<string.h>",
+      "path": "0.1. C Programming/C-Standard-Library/<string.h>/<string.h>.md"
+    },
+    {
+      "basename": "C-Standard-Library",
+      "path": "0.1. C Programming/C-Standard-Library/C-Standard-Library.md"
+    },
+    {
       "basename": "C Version Detection",
       "path": "0.1. C Programming/ThinkNote/C Version Detection.md"
     },
@@ -33,16 +45,8 @@
       "path": "0.1. C Programming/ThinkNote/Memory and Array.md"
     },
     {
-      "basename": "memset",
-      "path": "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation/memset.md"
-    },
-    {
       "basename": "strncmp",
       "path": "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strncmp.md"
-    },
-    {
-      "basename": "C-Standard-Library",
-      "path": "0.1. C Programming/C-Standard-Library/C-Standard-Library.md"
     },
     {
       "basename": "<stdio.h>",
@@ -55,10 +59,6 @@
     {
       "basename": "fgets",
       "path": "0.1. C Programming/C-Standard-Library/<stdio.h>/fgets.md"
-    },
-    {
-      "basename": "<string.h>",
-      "path": "0.1. C Programming/C-Standard-Library/<string.h>/<string.h>.md"
     },
     {
       "basename": "Github SSH Setup",

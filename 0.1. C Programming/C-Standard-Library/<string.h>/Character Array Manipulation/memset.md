@@ -27,6 +27,34 @@ errno_t memset_s(void *dest, rsize_t destsz, int ch, rsize_t count);  // 3) s
 
 ### Return value
 
-1,2) A copy of `dest`
-
+1) A copy of `dest`
+2) A copy of `dest`
 3) zero on success, non-zero on error. Also on error, if `dest` is not a null pointer and `destsz` is valid, writes `destsz` fill bytes `ch` to the destination array.
+
+### Example
+```c
+#define __STDC_WANT_LIB_EXT1__ 1
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+ 
+int main(void)
+{
+    char str[] = "ghghghghghghghghghghgh";
+    puts(str);
+    memset(str,'a',5);
+    puts(str);
+ 
+#ifdef __STDC_LIB_EXT1__
+    set_constraint_handler_s(ignore_handler_s);
+    int r = memset_s(str, sizeof str, 'b', 5);
+    printf("str = \"%s\", r = %d\n", str, r);
+    r = memset_s(str, 5, 'c', 10);   // count is greater than destsz  
+    printf("str = \"%s\", r = %d\n", str, r);
+#endif
+}
+```
+```text
+ghghghghghghghghghghgh
+aaaaahghghghghghghghgh
+```
