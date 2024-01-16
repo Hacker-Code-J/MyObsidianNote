@@ -1,3 +1,4 @@
+#stdio
 
 - [[fgetc]]
-- 
+- [[fgets]]
