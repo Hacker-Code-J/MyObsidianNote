@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strcmp.md",
+                "file": "0.1. C Programming/IdeaThinkNote/Progess-Bar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strcmp.md",
+                "file": "0.1. C Programming/IdeaThinkNote/Progess-Bar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strcmp.md",
+                "file": "0.1. C Programming/IdeaThinkNote/Progess-Bar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strcmp.md"
+                "file": "0.1. C Programming/IdeaThinkNote/Progess-Bar.md"
               }
             }
           },
@@ -196,12 +196,13 @@
   "active": "f535647200feea1c",
   "lastOpenFiles": [
     "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strcmp.md",
+    "0.1. C Programming/IdeaThinkNote/Progess-Bar.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strncmp.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/<string.h>.md",
     "0.1. C Programming/C-Standard-Library/C-Standard-Library.md",
-    "0.1. C Programming/ThinkNote/C Version Detection.md",
-    "0.1. C Programming/ThinkNote/define vs inline.md",
-    "0.1. C Programming/ThinkNote/Thread in C.md",
+    "0.1. C Programming/IdeaThinkNote/C Version Detection.md",
+    "0.1. C Programming/IdeaThinkNote/define vs inline.md",
+    "0.1. C Programming/IdeaThinkNote/Thread in C.md",
     "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation/memset.md",
     "0.1. C Programming/Crypto-coding.md",
@@ -213,14 +214,13 @@
     "0.1. C Programming/Order of Header.md",
     "0.1. C Programming/String Operations.md",
     "0.1. C Programming/Pointer and Memory Management.md",
-    "0.1. C Programming/ThinkNote/Memory and Array.md",
+    "0.1. C Programming/IdeaThinkNote/Memory and Array.md",
     "0.1. C Programming/C-Standard-Library/<stdio.h>/<stdio.h>.md",
     "0.1. C Programming/C-Standard-Library/<stdio.h>/fgetc.md",
     "0.1. C Programming/C-Standard-Library/<stdio.h>/fgets.md",
     "Github SSH Setup.md",
     "JOB.md",
     "Question Prompt.md",
-    "README.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation",
     "0.1. C Programming/C-Standard-Library/<string.h>/String Examination",
     "0.1. C Programming/C-Standard-Library/<string.h>",
