@@ -1,8 +1,9 @@
 #CSE #LEA #block_cipher
 
 > [!info] References
-> - **KISA:** https://seed.kisa.or.kr/kisa/algorithm/EgovLeaInfo.do
-> - https://seed.kisa.or.kr/kisa/kcmvp/EgovVerification.do 
+> - **KISA:**
+> 	- https://seed.kisa.or.kr/kisa/algorithm/EgovLeaInfo.do
+> 	- https://seed.kisa.or.kr/kisa/kcmvp/EgovVerification.do 
 > - **Wikipedia:** https://en.wikipedia.org/wiki/LEA_(cipher)
 > - **Namu.wiki:** https://namu.wiki/w/LEA
 > - **HashNet:** http://wiki.hash.kr/index.php/LEA
