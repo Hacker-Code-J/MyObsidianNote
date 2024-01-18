@@ -23,12 +23,38 @@
             }
           },
           {
-            "id": "f535647200feea1c",
+            "id": "aef81b3f0511fab1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1. C Programming/IdeaThinkNote/Progess-Bar.md",
+                "file": "2024/January 2024/2024-01-12 Implement LEA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d8b119d2e3df91d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024/January 2024/2024-01-17 Implement MOVS for LEA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5414b880b1ba6993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024/January 2024/2024-01-12 CaS Study 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. C Programming/IdeaThinkNote/Progess-Bar.md",
+                "file": "2024/January 2024/2024-01-17 Implement MOVS for LEA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. C Programming/IdeaThinkNote/Progess-Bar.md",
+                "file": "2024/January 2024/2024-01-17 Implement MOVS for LEA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. C Programming/IdeaThinkNote/Progess-Bar.md"
+                "file": "2024/January 2024/2024-01-17 Implement MOVS for LEA.md"
               }
             }
           },
@@ -193,10 +219,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f535647200feea1c",
+  "active": "0d8b119d2e3df91d",
   "lastOpenFiles": [
-    "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strcmp.md",
+    "2024/January 2024/2024-01-12 CaS Study 1.md",
+    "2024/January 2024/2024-01-17 Implement MOVS for LEA.md",
+    "0.1. C Programming/Crypto-coding.md",
     "0.1. C Programming/IdeaThinkNote/Progess-Bar.md",
+    "2024/January 2024/2024-01-12 Implement LEA.md",
+    "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strcmp.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strncmp.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/<string.h>.md",
     "0.1. C Programming/C-Standard-Library/C-Standard-Library.md",
@@ -205,7 +235,6 @@
     "0.1. C Programming/IdeaThinkNote/Thread in C.md",
     "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation/memset.md",
-    "0.1. C Programming/Crypto-coding.md",
     "0.1. C Programming/0.1. C Programming.md",
     "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
     "0.1. C Programming/0.1.0. GDB.md",
@@ -218,9 +247,6 @@
     "0.1. C Programming/C-Standard-Library/<stdio.h>/<stdio.h>.md",
     "0.1. C Programming/C-Standard-Library/<stdio.h>/fgetc.md",
     "0.1. C Programming/C-Standard-Library/<stdio.h>/fgets.md",
-    "Github SSH Setup.md",
-    "JOB.md",
-    "Question Prompt.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation",
     "0.1. C Programming/C-Standard-Library/<string.h>/String Examination",
     "0.1. C Programming/C-Standard-Library/<string.h>",
