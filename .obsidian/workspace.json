@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "aef81b3f0511fab1",
+            "id": "b05550a89ccd42cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/January 2024/2024-01-12 Implement LEA.md",
+                "file": "2024/January 2024/2024-01-12 CaS Study 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,25 +36,12 @@
             }
           },
           {
-            "id": "0d8b119d2e3df91d",
+            "id": "abedf2901ceceaa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/January 2024/2024-01-17 Implement MOVS for LEA.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a4b7cf5636f5f27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.7. CSE/Intern/LEA.md",
+                "file": "2024/January 2024/2024-01-19 CaS Study2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.7. CSE/Intern/LEA.md",
+                "file": "2024/January 2024/2024-01-12 CaS Study 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.7. CSE/Intern/LEA.md",
+                "file": "2024/January 2024/2024-01-12 CaS Study 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.7. CSE/Intern/LEA.md"
+                "file": "2024/January 2024/2024-01-12 CaS Study 1.md"
               }
             }
           },
@@ -219,12 +206,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a4b7cf5636f5f27",
+  "active": "b05550a89ccd42cf",
   "lastOpenFiles": [
-    "2024/January 2024/2024-01-17 Implement MOVS for LEA.md",
-    "2024/January 2024/2024-01-12 Implement LEA.md",
-    "2024/January 2024/2024-01-12 CaS Study 1.md",
+    "2024/January 2024/2024-01-19 CaS Study2.md",
     "0.1. C Programming/Crypto-coding.md",
+    "2024/January 2024/2024-01-12 Implement LEA.md",
+    "2024/January 2024/2024-01-17 Implement MOVS for LEA.md",
+    "2024/January 2024/2024-01-12 CaS Study 1.md",
+    "0.7. CSE/Intern/LEA.md",
     "0.1. C Programming/IdeaThinkNote/Progess-Bar.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strcmp.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strncmp.md",
@@ -245,8 +234,6 @@
     "0.1. C Programming/Pointer and Memory Management.md",
     "0.1. C Programming/IdeaThinkNote/Memory and Array.md",
     "0.1. C Programming/C-Standard-Library/<stdio.h>/<stdio.h>.md",
-    "0.1. C Programming/C-Standard-Library/<stdio.h>/fgetc.md",
-    "0.1. C Programming/C-Standard-Library/<stdio.h>/fgets.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation",
     "0.1. C Programming/C-Standard-Library/<string.h>/String Examination",
     "0.1. C Programming/C-Standard-Library/<string.h>",
