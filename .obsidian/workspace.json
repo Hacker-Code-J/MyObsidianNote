@@ -47,9 +47,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4b05554dd7f2d9d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.4. Excalidraw/CaS 240119.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/January 2024/2024-01-12 CaS Study 1.md",
+                "file": "0.4. Excalidraw/CaS 240119.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/January 2024/2024-01-12 CaS Study 1.md",
+                "file": "0.4. Excalidraw/CaS 240119.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/January 2024/2024-01-12 CaS Study 1.md"
+                "file": "0.4. Excalidraw/CaS 240119.md"
               }
             }
           },
@@ -206,9 +216,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b05550a89ccd42cf",
+  "active": "a4b05554dd7f2d9d",
   "lastOpenFiles": [
     "2024/January 2024/2024-01-19 CaS Study2.md",
+    "0.4. Excalidraw/CaS 240119.md",
     "2024/January 2024/2024-01-12 CaS Study 1.md",
     "0.1. C Programming/Crypto-coding.md",
     "2024/January 2024/2024-01-12 Implement LEA.md",
@@ -233,7 +244,6 @@
     "0.1. C Programming/String Operations.md",
     "0.1. C Programming/Pointer and Memory Management.md",
     "0.1. C Programming/IdeaThinkNote/Memory and Array.md",
-    "0.1. C Programming/C-Standard-Library/<stdio.h>/<stdio.h>.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation",
     "0.1. C Programming/C-Standard-Library/<string.h>/String Examination",
     "0.1. C Programming/C-Standard-Library/<string.h>",
