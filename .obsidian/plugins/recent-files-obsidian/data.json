@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Git-Drawing",
+      "path": "0.4. Excalidraw/Git-Drawing.md"
+    },
+    {
+      "basename": "2024-01-19 CaS Study2",
+      "path": "2024/January 2024/2024-01-19 CaS Study2.md"
+    },
+    {
       "basename": "Github SSH Setup",
       "path": "Github SSH Setup.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "CaS 240119",
       "path": "0.4. Excalidraw/CaS 240119.md"
-    },
-    {
-      "basename": "2024-01-19 CaS Study2",
-      "path": "2024/January 2024/2024-01-19 CaS Study2.md"
     },
     {
       "basename": "2024-01-12 CaS Study 1",
@@ -195,10 +199,6 @@
     {
       "basename": "Rust-101-Crash-Fundamentals-Draw",
       "path": "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md"
-    },
-    {
-      "basename": "1.4. Time Points for Code",
-      "path": "0.1. C Programming/C-Core-NOTE/1. Basic C/1.4. Time Points for Code.md"
     }
   ],
   "omittedPaths": [],

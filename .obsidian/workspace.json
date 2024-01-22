@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "b05550a89ccd42cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024/January 2024/2024-01-12 CaS Study 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "abedf2901ceceaa8",
             "type": "leaf",
             "state": {
@@ -52,17 +39,14 @@
             "id": "a4b05554dd7f2d9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation/memset.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "0.4. Excalidraw/Git-Drawing.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation/memset.md",
+                "file": "0.4. Excalidraw/Git-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation/memset.md",
+                "file": "0.4. Excalidraw/Git-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation/memset.md"
+                "file": "0.4. Excalidraw/Git-Drawing.md"
               }
             }
           },
@@ -221,10 +205,13 @@
   },
   "active": "a4b05554dd7f2d9d",
   "lastOpenFiles": [
+    "2024/January 2024/2024-01-19 CaS Study2.md",
+    "0.4. Excalidraw/Git-Drawing.md",
+    "Github SSH Setup.md",
+    "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation/memset.md",
     "Tips/Install Font in Debian.md",
     "0.0. MyThinkPad/0.0. HAVE TO.md",
     "0.4. Excalidraw/CaS 240119.md",
-    "2024/January 2024/2024-01-19 CaS Study2.md",
     "2024/January 2024/2024-01-12 CaS Study 1.md",
     "0.1. C Programming/Crypto-coding.md",
     "2024/January 2024/2024-01-12 Implement LEA.md",
@@ -239,14 +226,11 @@
     "0.1. C Programming/IdeaThinkNote/define vs inline.md",
     "0.1. C Programming/IdeaThinkNote/Thread in C.md",
     "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
-    "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation/memset.md",
     "0.1. C Programming/0.1. C Programming.md",
     "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
     "0.1. C Programming/0.1.0. GDB.md",
     "0.1. C Programming/File and Terminal In-output Operations.md",
     "0.1. C Programming/Random Numbers.md",
-    "0.1. C Programming/Order of Header.md",
-    "0.1. C Programming/String Operations.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation",
     "0.1. C Programming/C-Standard-Library/<string.h>/String Examination",
     "0.1. C Programming/C-Standard-Library/<string.h>",
