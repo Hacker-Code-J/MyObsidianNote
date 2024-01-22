@@ -1,5 +1,7 @@
 #CSE #LEA #block_cipher
 
+[[CSE-LEA-Drawing]]
+
 > [!info] References
 > - **KISA:**
 > 	- https://seed.kisa.or.kr/kisa/algorithm/EgovLeaInfo.do
