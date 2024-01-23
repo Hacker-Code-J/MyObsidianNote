@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/January 2024/2024-01-17 Implement MOVS for LEA.md",
+                "file": "0.0. MyThinkPad/0.0. HAVE TO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/January 2024/2024-01-17 Implement MOVS for LEA.md",
+                "file": "0.0. MyThinkPad/0.0. HAVE TO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/January 2024/2024-01-17 Implement MOVS for LEA.md",
+                "file": "0.0. MyThinkPad/0.0. HAVE TO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/January 2024/2024-01-17 Implement MOVS for LEA.md"
+                "file": "0.0. MyThinkPad/0.0. HAVE TO.md"
               }
             }
           },
@@ -228,6 +228,15 @@
   },
   "active": "a57bd1576a1a36ee",
   "lastOpenFiles": [
+    "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
+    "0.0. MyThinkPad/0.0. HAVE TO.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Untitled.md",
+    "2024/January 2024/2024-01-17 Implement MOVS for LEA.md",
     "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
     "Mind Map/Pasted Image 20240122220405_859.png",
     "images/CSE/CBC_DEC.png",
@@ -246,24 +255,16 @@
     "Github SSH Setup.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation/memset.md",
     "Tips/Install Font in Debian.md",
-    "0.0. MyThinkPad/0.0. HAVE TO.md",
     "0.4. Excalidraw/CaS 240119.md",
     "2024/January 2024/2024-01-12 CaS Study 1.md",
     "0.1. C Programming/Crypto-coding.md",
     "2024/January 2024/2024-01-12 Implement LEA.md",
-    "2024/January 2024/2024-01-17 Implement MOVS for LEA.md",
     "0.1. C Programming/IdeaThinkNote/Progess-Bar.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strcmp.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strncmp.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/<string.h>.md",
     "0.1. C Programming/C-Standard-Library/C-Standard-Library.md",
     "0.1. C Programming/IdeaThinkNote/C Version Detection.md",
-    "0.1. C Programming/IdeaThinkNote/define vs inline.md",
-    "0.1. C Programming/IdeaThinkNote/Thread in C.md",
-    "0.1. C Programming/0.1. C Programming.md",
-    "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
-    "0.1. C Programming/0.1.0. GDB.md",
-    "0.1. C Programming/File and Terminal In-output Operations.md",
     "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation",
     "0.1. C Programming/C-Standard-Library/<string.h>/String Examination",
     "0.1. C Programming/C-Standard-Library/<string.h>",

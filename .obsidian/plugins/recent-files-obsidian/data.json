@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "0.0. HAVE TO",
+      "path": "0.0. MyThinkPad/0.0. HAVE TO.md"
+    },
+    {
+      "basename": "C-Note-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md"
+    },
+    {
+      "basename": "Pointer-in-C-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md"
+    },
+    {
+      "basename": "Functions-in-C-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md"
+    },
+    {
+      "basename": "CS-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
+    },
+    {
+      "basename": "Compiler-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
+    },
+    {
+      "basename": "Basic-C-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
+    },
+    {
       "basename": "2024-01-17 Implement MOVS for LEA",
       "path": "2024/January 2024/2024-01-17 Implement MOVS for LEA.md"
     },
@@ -31,10 +59,6 @@
     {
       "basename": "Install Font in Debian",
       "path": "Tips/Install Font in Debian.md"
-    },
-    {
-      "basename": "0.0. HAVE TO",
-      "path": "0.0. MyThinkPad/0.0. HAVE TO.md"
     },
     {
       "basename": "CaS 240119",
@@ -141,26 +165,6 @@
       "path": "1.2. OpenSSL/OpenSSL.md"
     },
     {
-      "basename": "Compiler-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
-    },
-    {
-      "basename": "CS-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
-    },
-    {
-      "basename": "Basic-C-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
-    },
-    {
-      "basename": "Pointer-in-C-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md"
-    },
-    {
-      "basename": "Functions-in-C-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md"
-    },
-    {
       "basename": "Drawing of AES",
       "path": "0.4. Excalidraw/Drawing of AES.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2.3. Code Generation and Optimization",
       "path": "0.1. C Programming/C-Core-NOTE/2. Compiler/2.3. Code Generation and Optimization.md"
-    },
-    {
-      "basename": "Rust-101-Crash-Fundamentals-Draw",
-      "path": "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md"
     }
   ],
   "omittedPaths": [],
