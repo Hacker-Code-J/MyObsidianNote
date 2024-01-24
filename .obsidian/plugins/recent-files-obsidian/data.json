@@ -1,12 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "0.0.2. TO DO LIST",
+      "path": "0.0. MyThinkPad/0.0.2. TO DO LIST.md"
+    },
+    {
+      "basename": "0.0.1. Want",
+      "path": "0.0. MyThinkPad/0.0.1. Want.md"
+    },
+    {
+      "basename": "Callout Styles",
+      "path": "0.0. MyThinkPad/Callout Styles.md"
+    },
+    {
+      "basename": "E2EE vs O2EE",
+      "path": "0.0. MyThinkPad/E2EE vs O2EE.md"
+    },
+    {
+      "basename": "0.0. HAVE TO",
+      "path": "0.0. MyThinkPad/0.0. HAVE TO.md"
+    },
+    {
+      "basename": "Debian vs Red Hat",
+      "path": "Linux/Debian vs Red Hat.md"
+    },
+    {
+      "basename": "1.1. Mathematical Induction",
+      "path": "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
+    },
+    {
+      "basename": "2.1.1. Discrete Mathematics",
+      "path": "2.1. Discrete Mathematics/2.1.1. Discrete Mathematics.md"
+    },
+    {
+      "basename": "1.1.1.2. SubWord",
+      "path": "1.1. AES/1.1.1.2. SubWord.md"
+    },
+    {
+      "basename": "1.1.0. Overview of AES",
+      "path": "1.1. AES/1.1.0. Overview of AES.md"
+    },
+    {
+      "basename": "1.1.0. AES - Galois Fields",
+      "path": "1.1. AES/1.1.0. AES - Galois Fields.md"
+    },
+    {
+      "basename": "Zero-Based Numbering",
+      "path": "0.0. MyThinkPad/Zero-Based Numbering.md"
+    },
+    {
       "basename": "Opsidian and Markdown Tip",
       "path": "0.0. MyThinkPad/Opsidian and Markdown Tip.md"
     },
     {
       "basename": "Obsidian Test",
       "path": "0.0. MyThinkPad/Obsidian Test.md"
+    },
+    {
+      "basename": "My Tips",
+      "path": "0.0. MyThinkPad/My Tips.md"
+    },
+    {
+      "basename": "My Computer",
+      "path": "0.0. MyThinkPad/My Computer.md"
+    },
+    {
+      "basename": "Chapter 2. Command",
+      "path": "0.2. Computer Science/Part 1. Computer Structure/Chapter 2. Command.md"
+    },
+    {
+      "basename": "Chapter 1. Computer Structure",
+      "path": "0.2. Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md"
+    },
+    {
+      "basename": "Programming Language",
+      "path": "0.2. Computer Science/Computer Language/Programming Language.md"
+    },
+    {
+      "basename": "Computer Language",
+      "path": "0.2. Computer Science/Computer Language/Computer Language.md"
+    },
+    {
+      "basename": "Crypto-coding",
+      "path": "0.1. C Programming/Crypto-coding.md"
+    },
+    {
+      "basename": "Learning Git",
+      "path": "0.6. Git/Learning Git.md"
+    },
+    {
+      "basename": "Git Command",
+      "path": "0.6. Git/Git Command.md"
+    },
+    {
+      "basename": "Github SSH Setup",
+      "path": "Github SSH Setup.md"
     },
     {
       "basename": "1.1. Endian and Two's Complement",
@@ -25,14 +113,6 @@
       "path": "2024/January 2024/2024-01-19 CaS Study2.md"
     },
     {
-      "basename": "Callout Styles",
-      "path": "0.0. MyThinkPad/Callout Styles.md"
-    },
-    {
-      "basename": "Crypto-coding",
-      "path": "0.1. C Programming/Crypto-coding.md"
-    },
-    {
       "basename": "CSE-LEA-Drawing",
       "path": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
     },
@@ -41,20 +121,8 @@
       "path": "0.7. CSE/Intern/LEA.md"
     },
     {
-      "basename": "0.0.1. Want",
-      "path": "0.0. MyThinkPad/0.0.1. Want.md"
-    },
-    {
       "basename": "2024-01-17 Implement MOVS for LEA",
       "path": "2024/January 2024/2024-01-17 Implement MOVS for LEA.md"
-    },
-    {
-      "basename": "0.0.2. TO DO LIST",
-      "path": "0.0. MyThinkPad/0.0.2. TO DO LIST.md"
-    },
-    {
-      "basename": "0.0. HAVE TO",
-      "path": "0.0. MyThinkPad/0.0. HAVE TO.md"
     },
     {
       "basename": "Check OpenSSL Version",
@@ -79,10 +147,6 @@
     {
       "basename": "JOB",
       "path": "JOB.md"
-    },
-    {
-      "basename": "Github SSH Setup",
-      "path": "Github SSH Setup.md"
     },
     {
       "basename": "C - CraftCodeLab",
@@ -135,70 +199,6 @@
     {
       "basename": "The 2nd Brain",
       "path": "Mind Map/The 2nd Brain.canvas"
-    },
-    {
-      "basename": "Install Font in Debian",
-      "path": "Tips/Install Font in Debian.md"
-    },
-    {
-      "basename": "My Computer",
-      "path": "0.0. MyThinkPad/My Computer.md"
-    },
-    {
-      "basename": "My Tips",
-      "path": "0.0. MyThinkPad/My Tips.md"
-    },
-    {
-      "basename": "3.1. Parameters",
-      "path": "0.1. C Programming/C-Core-NOTE/3. Functions in C/3.1. Parameters.md"
-    },
-    {
-      "basename": "rdtsc",
-      "path": "0.1. C Programming/IdeaThinkNote/rdtsc.md"
-    },
-    {
-      "basename": "Git-Drawing",
-      "path": "0.4. Excalidraw/Git-Drawing.md"
-    },
-    {
-      "basename": "C-Note-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md"
-    },
-    {
-      "basename": "Pointer-in-C-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md"
-    },
-    {
-      "basename": "Functions-in-C-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md"
-    },
-    {
-      "basename": "CS-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
-    },
-    {
-      "basename": "Compiler-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
-    },
-    {
-      "basename": "Basic-C-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
-    },
-    {
-      "basename": "memset",
-      "path": "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation/memset.md"
-    },
-    {
-      "basename": "CaS 240119",
-      "path": "0.4. Excalidraw/CaS 240119.md"
-    },
-    {
-      "basename": "2024-01-12 CaS Study 1",
-      "path": "2024/January 2024/2024-01-12 CaS Study 1.md"
-    },
-    {
-      "basename": "2024-01-12 Implement LEA",
-      "path": "2024/January 2024/2024-01-12 Implement LEA.md"
     }
   ],
   "omittedPaths": [],
