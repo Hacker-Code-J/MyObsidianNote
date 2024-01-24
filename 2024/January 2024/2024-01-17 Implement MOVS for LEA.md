@@ -21,10 +21,10 @@ completed: false
 		- [ ] MCT
 
 - [ ] LEA CTR MOVS
-	- [ ] LEA128
-		- [ ] KAT
-		- [ ] MMT
-		- [ ] MCT
+	- [x] LEA128 ✅ 2024-01-24
+		- [x] KAT ✅ 2024-01-24
+		- [x] MMT ✅ 2024-01-24
+		- [x] MCT ✅ 2024-01-24
 	- [ ] LEA192
 		- [ ] KAT
 		- [ ] MMT
