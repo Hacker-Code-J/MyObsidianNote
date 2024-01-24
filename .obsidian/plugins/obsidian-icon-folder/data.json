@@ -1,7 +1,7 @@
 {
   "2024": "LiCalendarDays",
   "settings": {
-    "migrated": 3,
+    "migrated": 4,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "none",
@@ -25,7 +25,8 @@
     "iconInTitleEnabled": true,
     "iconInFrontmatterEnabled": true,
     "iconsBackgroundCheckEnabled": true,
-    "iconsInNotesEnabled": true
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
   },
   "Daily Tasks": "FasCalendarDay",
   "Implementation for AES": "BoBxCodeBlock",
