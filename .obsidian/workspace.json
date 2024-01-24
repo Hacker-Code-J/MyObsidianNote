@@ -23,12 +23,23 @@
             }
           },
           {
+            "id": "cc395284770db7a0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "bec2932ee772c18c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
+                "file": "0.0. MyThinkPad/Callout Styles.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -38,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/January 2024/2024-01-19 CaS Study2.md",
+                "file": "0.0. MyThinkPad/Opsidian and Markdown Tip.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
+                "file": "0.0. MyThinkPad/Opsidian and Markdown Tip.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
+                "file": "0.0. MyThinkPad/Opsidian and Markdown Tip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
+                "file": "0.0. MyThinkPad/Opsidian and Markdown Tip.md"
               }
             }
           },
@@ -203,15 +214,21 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "bec2932ee772c18c",
+  "active": "582cc8b5e942a43a",
   "lastOpenFiles": [
-    "0.7. CSE/Intern/LEA.md",
-    "0.1. C Programming/Crypto-coding.md",
+    "0.0. MyThinkPad/Obsidian Test.md",
+    "0.0. MyThinkPad/Opsidian and Markdown Tip.md",
+    "0.1. C Programming/C-Core-NOTE/1. Basic C/1.1. Endian and Two's Complement.md",
+    "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md",
+    "0.1. C Programming/Assembly/Swap Aanlysis.md",
     "2024/January 2024/2024-01-19 CaS Study2.md",
+    "0.0. MyThinkPad/Callout Styles.md",
+    "0.1. C Programming/Crypto-coding.md",
+    "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
+    "0.7. CSE/Intern/LEA.md",
     "0.0. MyThinkPad/0.0.1. Want.md",
     "2024/January 2024/2024-01-17 Implement MOVS for LEA.md",
     "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
-    "0.0. MyThinkPad/Callout Styles.md",
     "0.0. MyThinkPad/0.0. HAVE TO.md",
     "1.2. OpenSSL/Check OpenSSL Version.md",
     "1.2. OpenSSL/OpenSSL.md",
@@ -237,12 +254,6 @@
     "Mind Map/Pasted Image 20240122215005_755.png",
     "Mind Map/Pasted Image 20240122215140_767.png",
     "Mind Map/The 2nd Brain.canvas",
-    "Tips/Install Font in Debian.md",
-    "0.0. MyThinkPad/My Computer.md",
-    "0.0. MyThinkPad/My Tips.md",
-    "0.0. MyThinkPad/Obsidian Test.md",
-    "0.1. C Programming/Assembly/Swap Aanlysis.md",
-    "0.1. C Programming/C-Core-NOTE/3. Functions in C/3.1. Parameters.md",
     "images/CSE",
     "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation",
     "0.1. C Programming/C-Standard-Library/<string.h>/String Examination",

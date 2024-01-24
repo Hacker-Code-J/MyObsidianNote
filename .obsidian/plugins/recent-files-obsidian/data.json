@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "CSE-LEA-Drawing",
-      "path": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
+      "basename": "Opsidian and Markdown Tip",
+      "path": "0.0. MyThinkPad/Opsidian and Markdown Tip.md"
     },
     {
-      "basename": "LEA",
-      "path": "0.7. CSE/Intern/LEA.md"
+      "basename": "Obsidian Test",
+      "path": "0.0. MyThinkPad/Obsidian Test.md"
+    },
+    {
+      "basename": "1.1. Endian and Two's Complement",
+      "path": "0.1. C Programming/C-Core-NOTE/1. Basic C/1.1. Endian and Two's Complement.md"
+    },
+    {
+      "basename": "0.1.0 ChatGPT Prompt (C)",
+      "path": "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md"
+    },
+    {
+      "basename": "Swap Aanlysis",
+      "path": "0.1. C Programming/Assembly/Swap Aanlysis.md"
+    },
+    {
+      "basename": "2024-01-19 CaS Study2",
+      "path": "2024/January 2024/2024-01-19 CaS Study2.md"
+    },
+    {
+      "basename": "Callout Styles",
+      "path": "0.0. MyThinkPad/Callout Styles.md"
     },
     {
       "basename": "Crypto-coding",
       "path": "0.1. C Programming/Crypto-coding.md"
     },
     {
-      "basename": "2024-01-19 CaS Study2",
-      "path": "2024/January 2024/2024-01-19 CaS Study2.md"
+      "basename": "CSE-LEA-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
+    },
+    {
+      "basename": "LEA",
+      "path": "0.7. CSE/Intern/LEA.md"
     },
     {
       "basename": "0.0.1. Want",
@@ -27,10 +51,6 @@
     {
       "basename": "0.0.2. TO DO LIST",
       "path": "0.0. MyThinkPad/0.0.2. TO DO LIST.md"
-    },
-    {
-      "basename": "Callout Styles",
-      "path": "0.0. MyThinkPad/Callout Styles.md"
     },
     {
       "basename": "0.0. HAVE TO",
@@ -129,14 +149,6 @@
       "path": "0.0. MyThinkPad/My Tips.md"
     },
     {
-      "basename": "Obsidian Test",
-      "path": "0.0. MyThinkPad/Obsidian Test.md"
-    },
-    {
-      "basename": "Swap Aanlysis",
-      "path": "0.1. C Programming/Assembly/Swap Aanlysis.md"
-    },
-    {
       "basename": "3.1. Parameters",
       "path": "0.1. C Programming/C-Core-NOTE/3. Functions in C/3.1. Parameters.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2024-01-12 Implement LEA",
       "path": "2024/January 2024/2024-01-12 Implement LEA.md"
-    },
-    {
-      "basename": "Progess-Bar",
-      "path": "0.1. C Programming/IdeaThinkNote/Progess-Bar.md"
-    },
-    {
-      "basename": "strcmp",
-      "path": "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strcmp.md"
-    },
-    {
-      "basename": "strncmp",
-      "path": "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strncmp.md"
     }
   ],
   "omittedPaths": [],
