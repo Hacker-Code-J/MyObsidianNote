@@ -1,11 +1,12 @@
 {
   "accentColor": "",
-  "cssTheme": "Atom",
+  "cssTheme": "Things",
   "enabledCssSnippets": [
     "graph_veiw",
     "myTheme1",
     "code"
   ],
   "theme": "moonstone",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 17
 }

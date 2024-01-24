@@ -12,29 +12,35 @@
     overflow-x: auto; /* Ensures code is scrollable horizontally */
 }
 
-/* Specific Highlighting for C Syntax */
+/* Specific Highlighting for C Syntax in Light Version with Bold Font */
 /* You can modify or add more based on specific syntax elements you want to highlight */
 .cm-s-obsidian .cm-keyword {
-    color: #569cd6; /* Blue for keywords like int, return, etc. */
+    color: #4078f2; /* Softer blue for keywords like int, return, etc. */
+    font-weight: bold;
 }
 
 .cm-s-obsidian .cm-meta {
-    color: #663399; /* Dark purple for macros like #define */
+    color: #c678dd;
+    font-weight: bold;
 }
 
 .cm-s-obsidian .cm-builtin {
-    color: #4ec9b0; /* Light green for built-in functions */
+    color: #61afef;
+    font-weight: bold;
 }
 
 .cm-s-obsidian .cm-string {
-    color: #ce9178; /* Light red for strings */
+    color: #d19a66; /* Soft orange for strings */
+    font-weight: bold;
 }
 
 .cm-s-obsidian .cm-number {
-    color: #b5cea8; /* Soft green for numbers */
+    color: #e06c75;
+    font-weight: bold;
 }
 
 .cm-s-obsidian .cm-comment {
-    color: #6a9955; /* Green for comments */
+    color: #7fbe79;
     font-style: italic;
+    font-weight: bold; /* If you prefer bold comments */
 }
