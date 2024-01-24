@@ -5,6 +5,14 @@
       "path": "0.0. MyThinkPad/0.0. HAVE TO.md"
     },
     {
+      "basename": "2024-01-19 CaS Study2",
+      "path": "2024/January 2024/2024-01-19 CaS Study2.md"
+    },
+    {
+      "basename": "Git-Drawing",
+      "path": "0.4. Excalidraw/Git-Drawing.md"
+    },
+    {
       "basename": "My Tips",
       "path": "0.0. MyThinkPad/My Tips.md"
     },
@@ -49,16 +57,8 @@
       "path": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
     },
     {
-      "basename": "Git-Drawing",
-      "path": "0.4. Excalidraw/Git-Drawing.md"
-    },
-    {
       "basename": "LEA",
       "path": "0.7. CSE/Intern/LEA.md"
-    },
-    {
-      "basename": "2024-01-19 CaS Study2",
-      "path": "2024/January 2024/2024-01-19 CaS Study2.md"
     },
     {
       "basename": "Github SSH Setup",
