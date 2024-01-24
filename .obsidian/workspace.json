@@ -31,32 +31,9 @@
                 "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
               }
             }
-          },
-          {
-            "id": "05c46749721f34cd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
-              }
-            }
-          },
-          {
-            "id": "18df493ed1e59b91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.1. AES/1.1.1.0. Key Expansion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
+                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
+                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
+                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
               }
             }
           },
@@ -213,19 +190,21 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "05c46749721f34cd",
+  "active": "7cdcb6718a04064e",
   "lastOpenFiles": [
-    "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
+    "0.4. Excalidraw/0.4.0 Metacognition.md",
+    "0.4. Excalidraw/0.4.1. bigint (excalidraw).md",
     "1.1. AES/1.1.1.0. Key Expansion.md",
+    "1.1. AES/1.1.1.3. Round Constant (RCON).md",
+    "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
+    "1.1. AES/1.1.1.2. SubWord.md",
+    "1.1. AES/1.1.1.1. RotWord.md",
     "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
     "0.1. C Programming/Crypto-coding.md",
     "0.4. Excalidraw/Drawing of AES.md",
     "1.1. AES/1.1.4.0. SubBytes and MixColumns.md",
     "1.1. AES/1.1.3. ShiftRows.md",
     "1.1. AES/1.1.2. AddRoundKey.md",
-    "1.1. AES/1.1.1.3. Round Constant (RCON).md",
-    "1.1. AES/1.1.1.2. SubWord.md",
-    "1.1. AES/1.1.1.1. RotWord.md",
     "1.1. AES/1.1.0. Overview of AES.md",
     "1.1. AES/1.1.0. AES - Galois Fields.md",
     "0.2. Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
@@ -239,8 +218,6 @@
     "0.0. MyThinkPad/0.0.1. Want.md",
     "0.0. MyThinkPad/E2EE vs O2EE.md",
     "0.0. MyThinkPad/My Computer.md",
-    "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
-    "0.1. C Programming/C-Core-NOTE/3. Functions in C/3.2. Stack Frame.md",
     "Mind Map/C - CraftCodeLab.canvas",
     "Mind Map/Pasted Image 20240108004108_047.png",
     "Mind Map/Pasted Image 20240108005332_323.png",
