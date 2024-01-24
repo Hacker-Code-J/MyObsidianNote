@@ -5,12 +5,12 @@
       "path": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
     },
     {
-      "basename": "1.1.1.0. Key Expansion",
-      "path": "1.1. AES/1.1.1.0. Key Expansion.md"
-    },
-    {
       "basename": "CSE-AES-Drawing",
       "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
+    },
+    {
+      "basename": "1.1.1.0. Key Expansion",
+      "path": "1.1. AES/1.1.1.0. Key Expansion.md"
     },
     {
       "basename": "Crypto-coding",

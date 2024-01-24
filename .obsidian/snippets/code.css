@@ -26,17 +26,17 @@
 
 .cm-s-obsidian .cm-builtin {
     color: #61afef;
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 .cm-s-obsidian .cm-string {
     color: #d19a66; /* Soft orange for strings */
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 .cm-s-obsidian .cm-number {
     color: #e06c75;
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 .cm-s-obsidian .cm-comment {
