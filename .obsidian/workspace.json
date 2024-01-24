@@ -23,33 +23,19 @@
             }
           },
           {
-            "id": "abedf2901ceceaa8",
+            "id": "8f79f4c385042eb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1. C Programming/IdeaThinkNote/rdtsc.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a57bd1576a1a36ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.0. MyThinkPad/0.0. HAVE TO.md",
+                "file": "0.0. MyThinkPad/0.0.1. Want.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. C Programming/IdeaThinkNote/rdtsc.md",
+                "file": "0.1. C Programming/Crypto-coding.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. C Programming/IdeaThinkNote/rdtsc.md",
+                "file": "0.1. C Programming/Crypto-coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. C Programming/IdeaThinkNote/rdtsc.md"
+                "file": "0.1. C Programming/Crypto-coding.md"
               }
             }
           },
@@ -197,54 +183,56 @@
       "graph:Open graph view": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "remotely-save:Remotely Save": false,
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "abedf2901ceceaa8",
+  "active": "23c75740c5405d70",
   "lastOpenFiles": [
-    "2024/January 2024/2024-01-19 CaS Study2.md",
-    "0.1. C Programming/IdeaThinkNote/rdtsc.md",
-    "excalibrain.md",
-    "0.0. MyThinkPad/0.0. HAVE TO.md",
-    "0.4. Excalidraw/Git-Drawing.md",
-    "0.0. MyThinkPad/My Tips.md",
-    "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
     "0.0. MyThinkPad/0.0.1. Want.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Untitled.md",
-    "2024/January 2024/2024-01-17 Implement MOVS for LEA.md",
-    "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
-    "Mind Map/Pasted Image 20240122220405_859.png",
-    "images/CSE/CBC_DEC.png",
-    "Mind Map/Pasted Image 20240122215140_767.png",
-    "images/CSE/cbc3.png",
-    "Mind Map/Pasted Image 20240122215005_755.png",
-    "Mind Map/Pasted Image 20240122214950_747.png",
-    "images/CSE/cbc2.png",
-    "images/CSE/cbc1.png",
-    "images/CSE/Screenshot from 2024-01-22 21-48-00.png",
-    "images/CSE/Screenshot from 2024-01-22 21-32-20.png",
-    "images/CSE",
-    "0.7. CSE/Intern/LEA.md",
-    "Github SSH Setup.md",
-    "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation/memset.md",
-    "Tips/Install Font in Debian.md",
-    "0.4. Excalidraw/CaS 240119.md",
-    "2024/January 2024/2024-01-12 CaS Study 1.md",
+    "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
+    "0.0. MyThinkPad/Callout Styles.md",
+    "0.0. MyThinkPad/0.0. HAVE TO.md",
     "0.1. C Programming/Crypto-coding.md",
-    "2024/January 2024/2024-01-12 Implement LEA.md",
-    "0.1. C Programming/IdeaThinkNote/Progess-Bar.md",
+    "1.2. OpenSSL/Check OpenSSL Version.md",
+    "1.2. OpenSSL/OpenSSL.md",
+    "32-bit AES.md",
+    "Question Prompt.md",
+    "README.md",
+    "String Operations.md",
+    "Untitled.md",
+    "JOB.md",
+    "Github SSH Setup.md",
+    "File and Terminal In-output Operations.md",
+    "excalibrain.md",
+    "Mind Map/C - CraftCodeLab.canvas",
+    "2024-01-24.md",
+    "Mind Map/Pasted Image 20240108004108_047.png",
+    "Mind Map/Pasted Image 20240108005332_323.png",
+    "Mind Map/Pasted Image 20240110130725_546.png",
+    "Mind Map/Pasted Image 20240110131122_116.png",
+    "Mind Map/Pasted Image 20240110131154_119.png",
+    "Mind Map/Pasted Image 20240110131444_135.png",
+    "Mind Map/Pasted Image 20240122212638_607.png",
+    "Mind Map/Pasted Image 20240122214950_747.png",
+    "Mind Map/Pasted Image 20240122215005_755.png",
+    "Mind Map/Pasted Image 20240122215140_767.png",
+    "Mind Map/The 2nd Brain.canvas",
+    "Tips/Install Font in Debian.md",
+    "0.0. MyThinkPad/My Computer.md",
+    "0.0. MyThinkPad/My Tips.md",
+    "0.0. MyThinkPad/Obsidian Test.md",
+    "0.1. C Programming/Assembly/Swap Aanlysis.md",
+    "0.1. C Programming/C-Core-NOTE/3. Functions in C/3.1. Parameters.md",
+    "0.1. C Programming/IdeaThinkNote/rdtsc.md",
+    "2024/January 2024/2024-01-19 CaS Study2.md",
+    "0.4. Excalidraw/Git-Drawing.md",
+    "images/CSE",
     "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation",
     "0.1. C Programming/C-Standard-Library/<string.h>/String Examination",
     "0.1. C Programming/C-Standard-Library/<string.h>",
@@ -254,8 +242,6 @@
     "0.1. C Programming/C-Core-NOTE/3. Functions in C",
     "0.1. C Programming/C-Core-NOTE/A. Pointer in C",
     "Tips",
-    "Mind Map/The 2nd Brain.canvas",
-    "Mind Map/C - CraftCodeLab.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

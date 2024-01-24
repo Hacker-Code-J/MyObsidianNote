@@ -19,6 +19,53 @@ int main() {
     return 0;
 }
 ```
+```assembly
+(gdb) disas /m main
+Dump of assembler code for function main:
+10	int main() {
+   0x00000000000011c0 <+0>:	endbr64 
+   0x00000000000011c4 <+4>:	push   %rbp
+   0x00000000000011c5 <+5>:	mov    %rsp,%rbp
+   0x00000000000011c8 <+8>:	sub    $0x10,%rsp
+   0x00000000000011cc <+12>:	mov    %fs:0x28,%rax
+   0x00000000000011d5 <+21>:	mov    %rax,-0x8(%rbp)
+   0x00000000000011d9 <+25>:	xor    %eax,%eax
+
+11	    int x = 10, y = 20;
+   0x00000000000011db <+27>:	movl   $0xa,-0x10(%rbp)
+   0x00000000000011e2 <+34>:	movl   $0x14,-0xc(%rbp)
+
+12	    swap(&x, &y); // passing addresses to simulate reference
+   0x00000000000011e9 <+41>:	lea    -0xc(%rbp),%rdx
+   0x00000000000011ed <+45>:	lea    -0x10(%rbp),%rax
+   0x00000000000011f1 <+49>:	mov    %rdx,%rsi
+   0x00000000000011f4 <+52>:	mov    %rax,%rdi
+   0x00000000000011f7 <+55>:	call   0x1169 <swap>
+
+13	    printf("In main: x = %d, y = %d\n", x, y); // x and y values are swapped
+   0x00000000000011fc <+60>:	mov    -0xc(%rbp),%edx
+   0x00000000000011ff <+63>:	mov    -0x10(%rbp),%eax
+   0x0000000000001202 <+66>:	mov    %eax,%esi
+--Type <RET> for more, q to quit, c to continue without paging--
+   0x0000000000001204 <+68>:	lea    0xe1e(%rip),%rax        # 0x2029
+   0x000000000000120b <+75>:	mov    %rax,%rdi
+   0x000000000000120e <+78>:	mov    $0x0,%eax
+   0x0000000000001213 <+83>:	call   0x1070 <printf@plt>
+
+14	    return 0;
+   0x0000000000001218 <+88>:	mov    $0x0,%eax
+
+15	}
+   0x000000000000121d <+93>:	mov    -0x8(%rbp),%rdx
+   0x0000000000001221 <+97>:	sub    %fs:0x28,%rdx
+   0x000000000000122a <+106>:	je     0x1231 <main+113>
+   0x000000000000122c <+108>:	call   0x1060 <__stack_chk_fail@plt>
+   0x0000000000001231 <+113>:	leave  
+   0x0000000000001232 <+114>:	ret    
+
+End of assembler dump.
+```
+
 ### Prologue
 
 - **`endbr64`**: This is an instruction used as a mitigation against certain types of exploits (like ROP and JOP). It's a feature of newer CPUs.

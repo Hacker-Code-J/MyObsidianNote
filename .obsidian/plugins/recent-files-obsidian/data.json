@@ -1,6 +1,130 @@
 {
   "recentFiles": [
     {
+      "basename": "Crypto-coding",
+      "path": "0.1. C Programming/Crypto-coding.md"
+    },
+    {
+      "basename": "0.0.1. Want",
+      "path": "0.0. MyThinkPad/0.0.1. Want.md"
+    },
+    {
+      "basename": "0.0.2. TO DO LIST",
+      "path": "0.0. MyThinkPad/0.0.2. TO DO LIST.md"
+    },
+    {
+      "basename": "Callout Styles",
+      "path": "0.0. MyThinkPad/Callout Styles.md"
+    },
+    {
+      "basename": "0.0. HAVE TO",
+      "path": "0.0. MyThinkPad/0.0. HAVE TO.md"
+    },
+    {
+      "basename": "Check OpenSSL Version",
+      "path": "1.2. OpenSSL/Check OpenSSL Version.md"
+    },
+    {
+      "basename": "OpenSSL",
+      "path": "1.2. OpenSSL/OpenSSL.md"
+    },
+    {
+      "basename": "32-bit AES",
+      "path": "32-bit AES.md"
+    },
+    {
+      "basename": "Question Prompt",
+      "path": "Question Prompt.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "JOB",
+      "path": "JOB.md"
+    },
+    {
+      "basename": "Github SSH Setup",
+      "path": "Github SSH Setup.md"
+    },
+    {
+      "basename": "C - CraftCodeLab",
+      "path": "Mind Map/C - CraftCodeLab.canvas"
+    },
+    {
+      "basename": "Pasted Image 20240108004108_047",
+      "path": "Mind Map/Pasted Image 20240108004108_047.png"
+    },
+    {
+      "basename": "Pasted Image 20240108005332_323",
+      "path": "Mind Map/Pasted Image 20240108005332_323.png"
+    },
+    {
+      "basename": "Pasted Image 20240110130725_546",
+      "path": "Mind Map/Pasted Image 20240110130725_546.png"
+    },
+    {
+      "basename": "Pasted Image 20240110131122_116",
+      "path": "Mind Map/Pasted Image 20240110131122_116.png"
+    },
+    {
+      "basename": "Pasted Image 20240110131154_119",
+      "path": "Mind Map/Pasted Image 20240110131154_119.png"
+    },
+    {
+      "basename": "Pasted Image 20240110131444_135",
+      "path": "Mind Map/Pasted Image 20240110131444_135.png"
+    },
+    {
+      "basename": "Pasted Image 20240122212638_607",
+      "path": "Mind Map/Pasted Image 20240122212638_607.png"
+    },
+    {
+      "basename": "Pasted Image 20240122214950_747",
+      "path": "Mind Map/Pasted Image 20240122214950_747.png"
+    },
+    {
+      "basename": "Pasted Image 20240122215005_755",
+      "path": "Mind Map/Pasted Image 20240122215005_755.png"
+    },
+    {
+      "basename": "Pasted Image 20240122215140_767",
+      "path": "Mind Map/Pasted Image 20240122215140_767.png"
+    },
+    {
+      "basename": "Pasted Image 20240122220405_859",
+      "path": "Mind Map/Pasted Image 20240122220405_859.png"
+    },
+    {
+      "basename": "The 2nd Brain",
+      "path": "Mind Map/The 2nd Brain.canvas"
+    },
+    {
+      "basename": "Install Font in Debian",
+      "path": "Tips/Install Font in Debian.md"
+    },
+    {
+      "basename": "My Computer",
+      "path": "0.0. MyThinkPad/My Computer.md"
+    },
+    {
+      "basename": "My Tips",
+      "path": "0.0. MyThinkPad/My Tips.md"
+    },
+    {
+      "basename": "Obsidian Test",
+      "path": "0.0. MyThinkPad/Obsidian Test.md"
+    },
+    {
+      "basename": "Swap Aanlysis",
+      "path": "0.1. C Programming/Assembly/Swap Aanlysis.md"
+    },
+    {
+      "basename": "3.1. Parameters",
+      "path": "0.1. C Programming/C-Core-NOTE/3. Functions in C/3.1. Parameters.md"
+    },
+    {
       "basename": "rdtsc",
       "path": "0.1. C Programming/IdeaThinkNote/rdtsc.md"
     },
@@ -9,28 +133,8 @@
       "path": "2024/January 2024/2024-01-19 CaS Study2.md"
     },
     {
-      "basename": "excalibrain",
-      "path": "excalibrain.md"
-    },
-    {
-      "basename": "0.0. HAVE TO",
-      "path": "0.0. MyThinkPad/0.0. HAVE TO.md"
-    },
-    {
       "basename": "Git-Drawing",
       "path": "0.4. Excalidraw/Git-Drawing.md"
-    },
-    {
-      "basename": "My Tips",
-      "path": "0.0. MyThinkPad/My Tips.md"
-    },
-    {
-      "basename": "0.0.2. TO DO LIST",
-      "path": "0.0. MyThinkPad/0.0.2. TO DO LIST.md"
-    },
-    {
-      "basename": "0.0.1. Want",
-      "path": "0.0. MyThinkPad/0.0.1. Want.md"
     },
     {
       "basename": "C-Note-Drawing",
@@ -69,16 +173,8 @@
       "path": "0.7. CSE/Intern/LEA.md"
     },
     {
-      "basename": "Github SSH Setup",
-      "path": "Github SSH Setup.md"
-    },
-    {
       "basename": "memset",
       "path": "0.1. C Programming/C-Standard-Library/<string.h>/Character Array Manipulation/memset.md"
-    },
-    {
-      "basename": "Install Font in Debian",
-      "path": "Tips/Install Font in Debian.md"
     },
     {
       "basename": "CaS 240119",
@@ -87,10 +183,6 @@
     {
       "basename": "2024-01-12 CaS Study 1",
       "path": "2024/January 2024/2024-01-12 CaS Study 1.md"
-    },
-    {
-      "basename": "Crypto-coding",
-      "path": "0.1. C Programming/Crypto-coding.md"
     },
     {
       "basename": "2024-01-12 Implement LEA",
@@ -107,98 +199,6 @@
     {
       "basename": "strncmp",
       "path": "0.1. C Programming/C-Standard-Library/<string.h>/String Examination/strncmp.md"
-    },
-    {
-      "basename": "<string.h>",
-      "path": "0.1. C Programming/C-Standard-Library/<string.h>/<string.h>.md"
-    },
-    {
-      "basename": "C-Standard-Library",
-      "path": "0.1. C Programming/C-Standard-Library/C-Standard-Library.md"
-    },
-    {
-      "basename": "C Version Detection",
-      "path": "0.1. C Programming/IdeaThinkNote/C Version Detection.md"
-    },
-    {
-      "basename": "define vs inline",
-      "path": "0.1. C Programming/IdeaThinkNote/define vs inline.md"
-    },
-    {
-      "basename": "Thread in C",
-      "path": "0.1. C Programming/IdeaThinkNote/Thread in C.md"
-    },
-    {
-      "basename": "0.1. C Programming",
-      "path": "0.1. C Programming/0.1. C Programming.md"
-    },
-    {
-      "basename": "0.1.0 ChatGPT Prompt (C)",
-      "path": "0.1. C Programming/0.1.0 ChatGPT Prompt (C).md"
-    },
-    {
-      "basename": "0.1.0. GDB",
-      "path": "0.1. C Programming/0.1.0. GDB.md"
-    },
-    {
-      "basename": "Random Numbers",
-      "path": "0.1. C Programming/Random Numbers.md"
-    },
-    {
-      "basename": "Pointer and Memory Management",
-      "path": "0.1. C Programming/Pointer and Memory Management.md"
-    },
-    {
-      "basename": "Memory and Array",
-      "path": "0.1. C Programming/IdeaThinkNote/Memory and Array.md"
-    },
-    {
-      "basename": "<stdio.h>",
-      "path": "0.1. C Programming/C-Standard-Library/<stdio.h>/<stdio.h>.md"
-    },
-    {
-      "basename": "fgetc",
-      "path": "0.1. C Programming/C-Standard-Library/<stdio.h>/fgetc.md"
-    },
-    {
-      "basename": "fgets",
-      "path": "0.1. C Programming/C-Standard-Library/<stdio.h>/fgets.md"
-    },
-    {
-      "basename": "JOB",
-      "path": "JOB.md"
-    },
-    {
-      "basename": "Question Prompt",
-      "path": "Question Prompt.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Callout Styles",
-      "path": "0.0. MyThinkPad/Callout Styles.md"
-    },
-    {
-      "basename": "OpenSSL",
-      "path": "1.2. OpenSSL/OpenSSL.md"
-    },
-    {
-      "basename": "Drawing of AES",
-      "path": "0.4. Excalidraw/Drawing of AES.md"
-    },
-    {
-      "basename": "C-Core-NOTE",
-      "path": "0.1. C Programming/C-Core-NOTE/C-Core-NOTE.md"
-    },
-    {
-      "basename": "3.2. Stack Frame",
-      "path": "0.1. C Programming/C-Core-NOTE/3. Functions in C/3.2. Stack Frame.md"
-    },
-    {
-      "basename": "Swap Aanlysis",
-      "path": "0.1. C Programming/Assembly/Swap Aanlysis.md"
     }
   ],
   "omittedPaths": [],

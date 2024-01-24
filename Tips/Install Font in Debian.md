@@ -1,11 +1,11 @@
 #font
 
 My favorite fonts
-- URW Gothic Book
+- URW Gothic Book ( * )
 - Hack
 - Noto Sans Mono
-- Comic Mono
-- Qarmic Sans
+- Comic Mono ( * )
+- Qarmic Sans ( * )
 - Georgia
 - BlinkMacSystemFont
 
