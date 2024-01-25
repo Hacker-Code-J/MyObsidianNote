@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "CSE-AES-Drawing",
-      "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
-    },
-    {
-      "basename": "1.1.3. ShiftRows",
-      "path": "1.1. AES/1.1.3. ShiftRows.md"
+      "basename": "Git-Drawing",
+      "path": "0.4. Excalidraw/Git-Drawing.md"
     },
     {
       "basename": "0.0. HAVE TO",
       "path": "0.0. MyThinkPad/0.0. HAVE TO.md"
     },
     {
-      "basename": "C-Note-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md"
+      "basename": "1.1.3. ShiftRows",
+      "path": "1.1. AES/1.1.3. ShiftRows.md"
     },
     {
-      "basename": "Git-Drawing",
-      "path": "0.4. Excalidraw/Git-Drawing.md"
+      "basename": "CO2",
+      "path": "0.7. CSE/CO2.md"
+    },
+    {
+      "basename": "CSE-AES-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
+    },
+    {
+      "basename": "C-Note-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md"
     },
     {
       "basename": "1.1.4.0. SubBytes and MixColumns",
@@ -195,10 +199,6 @@
     {
       "basename": "Chapter 2. Command",
       "path": "0.2. Computer Science/Part 1. Computer Structure/Chapter 2. Command.md"
-    },
-    {
-      "basename": "Learning Git",
-      "path": "0.6. Git/Learning Git.md"
     }
   ],
   "omittedPaths": [],
