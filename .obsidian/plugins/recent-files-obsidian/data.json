@@ -5,12 +5,16 @@
       "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
     },
     {
-      "basename": "C-Note-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md"
-    },
-    {
       "basename": "1.1.3. ShiftRows",
       "path": "1.1. AES/1.1.3. ShiftRows.md"
+    },
+    {
+      "basename": "0.0. HAVE TO",
+      "path": "0.0. MyThinkPad/0.0. HAVE TO.md"
+    },
+    {
+      "basename": "C-Note-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md"
     },
     {
       "basename": "Git-Drawing",
@@ -171,10 +175,6 @@
     {
       "basename": "Install Font in Debian",
       "path": "Tips/Install Font in Debian.md"
-    },
-    {
-      "basename": "0.0. HAVE TO",
-      "path": "0.0. MyThinkPad/0.0. HAVE TO.md"
     },
     {
       "basename": "Debian vs Red Hat",
