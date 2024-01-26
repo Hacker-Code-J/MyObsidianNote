@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "CaS 240119",
-      "path": "0.4. Excalidraw/CaS 240119.md"
+      "basename": "2024-01-26 CaS Study3",
+      "path": "2024/January 2024/2024-01-26 CaS Study3.md"
     },
     {
       "basename": "0.0. HAVE TO",
       "path": "0.0. MyThinkPad/0.0. HAVE TO.md"
+    },
+    {
+      "basename": "Git-Drawing",
+      "path": "0.4. Excalidraw/Git-Drawing.md"
+    },
+    {
+      "basename": "CaS 240119",
+      "path": "0.4. Excalidraw/CaS 240119.md"
     },
     {
       "basename": "1.1.1.0. Key Expansion",
@@ -23,10 +31,6 @@
     {
       "basename": "CO2",
       "path": "0.7. CSE/CO2.md"
-    },
-    {
-      "basename": "Git-Drawing",
-      "path": "0.4. Excalidraw/Git-Drawing.md"
     },
     {
       "basename": "CSE-AES-Drawing",
@@ -195,10 +199,6 @@
     {
       "basename": "Zero-Based Numbering",
       "path": "0.0. MyThinkPad/Zero-Based Numbering.md"
-    },
-    {
-      "basename": "Chapter 2. Command",
-      "path": "0.2. Computer Science/Part 1. Computer Structure/Chapter 2. Command.md"
     }
   ],
   "omittedPaths": [],
