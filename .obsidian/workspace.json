@@ -23,16 +23,6 @@
             }
           },
           {
-            "id": "d675a6d51c88c2ec",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/CaS 240119.md"
-              }
-            }
-          },
-          {
             "id": "22831317fa399103",
             "type": "leaf",
             "state": {
@@ -43,20 +33,16 @@
             }
           },
           {
-            "id": "c8e54787a3ed796b",
+            "id": "03268d2ba42acc6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2024/January 2024/2024-01-26 CaS Study3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "0.4. Excalidraw/Insite/Effort.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/CaS 240126.md",
+                "file": "0.1. C Programming/Crypto-coding.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/CaS 240126.md",
+                "file": "0.1. C Programming/Crypto-coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/CaS 240126.md"
+                "file": "0.1. C Programming/Crypto-coding.md"
               }
             }
           },
@@ -213,12 +199,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "22831317fa399103",
+  "active": "23c75740c5405d70",
   "lastOpenFiles": [
-    "0.0. MyThinkPad/0.0. HAVE TO.md",
-    "2024/January 2024/2024-01-26 CaS Study3.md",
-    "0.4. Excalidraw/CaS 240126.md",
     "0.4. Excalidraw/CaS 240119.md",
+    "0.4. Excalidraw/CaS 240126.md",
+    "0.4. Excalidraw/Insite/Effort.md",
+    "2024/January 2024/2024-01-26 CaS Study3.md",
+    "0.4. Excalidraw/Insite",
+    "0.0. MyThinkPad/0.0. HAVE TO.md",
     "0.6. Git/Git Command.md",
     "0.4. Excalidraw/Git-Drawing.md",
     "1.1. AES/1.1.1.0. Key Expansion.md",
@@ -240,7 +228,6 @@
     "1.1. AES/Bit-slicing AES.md",
     "0.1. C Programming/Crypto-coding.md",
     "2024/January 2024/2024-01-19 CaS Study2.md",
-    "0.4. Excalidraw/0.4.0 Metacognition.md",
     "Mind Map/C - CraftCodeLab.canvas",
     "Mind Map/Pasted Image 20240108004108_047.png",
     "Mind Map/Pasted Image 20240108005332_323.png",
@@ -262,7 +249,6 @@
     "0.1. C Programming/Assembly",
     "0.1. C Programming/C-Core-NOTE/3. Functions in C",
     "0.1. C Programming/C-Core-NOTE/A. Pointer in C",
-    "Tips",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
