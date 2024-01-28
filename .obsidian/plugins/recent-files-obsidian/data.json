@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Git-Drawing",
-      "path": "0.4. Excalidraw/Git-Drawing.md"
+      "basename": "CO2-HIGHT-Drawing",
+      "path": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
+    },
+    {
+      "basename": "CSE-AES-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
     },
     {
       "basename": "Crypto-coding",
@@ -11,6 +15,10 @@
     {
       "basename": "Learning Git",
       "path": "0.6. Git/Learning Git.md"
+    },
+    {
+      "basename": "Git-Drawing",
+      "path": "0.4. Excalidraw/Git-Drawing.md"
     },
     {
       "basename": "Auto Draw for Pen",
@@ -133,10 +141,6 @@
       "path": "0.7. CSE/CO2.md"
     },
     {
-      "basename": "CSE-AES-Drawing",
-      "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
-    },
-    {
       "basename": "C-Note-Drawing",
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "0.4.1. bigint (excalidraw)",
       "path": "0.4. Excalidraw/0.4.1. bigint (excalidraw).md"
-    },
-    {
-      "basename": "CSE-LEA-Drawing",
-      "path": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
     }
   ],
   "omittedPaths": [],
