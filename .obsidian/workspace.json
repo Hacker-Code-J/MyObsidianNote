@@ -28,12 +28,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
+                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
+              }
+            }
+          },
+          {
+            "id": "fc5af87ba7547756",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
                 "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,7 +200,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "175361f0d5a6adac",
+  "active": "fc5af87ba7547756",
   "lastOpenFiles": [
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
     "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
