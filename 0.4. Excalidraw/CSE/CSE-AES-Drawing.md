@@ -20996,8 +20996,8 @@ S-Box ^4zQdRfuT
 		},
 		{
 			"type": "text",
-			"version": 134,
-			"versionNonce": 975813805,
+			"version": 135,
+			"versionNonce": 424705965,
 			"isDeleted": false,
 			"id": "4zQdRfuT",
 			"fillStyle": "solid",
@@ -21010,8 +21010,8 @@ S-Box ^4zQdRfuT
 			"y": 1010.9616302406382,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#96f2d7",
-			"width": 160.96028217162683,
-			"height": 65.92933157749835,
+			"width": 157.23143005371094,
+			"height": 68.67638705989413,
 			"seed": 28947628,
 			"groupIds": [
 				"1OaDZMU9y-vfLSB_yY3km",
@@ -21020,7 +21020,7 @@ S-Box ^4zQdRfuT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706582828809,
+			"updated": 1706608287774,
 			"link": null,
 			"locked": false,
 			"fontSize": 54.9411096479153,
@@ -21032,7 +21032,7 @@ S-Box ^4zQdRfuT
 			"containerId": null,
 			"originalText": "S-Box",
 			"lineHeight": 1.25,
-			"baseline": 52
+			"baseline": 48
 		},
 		{
 			"type": "ellipse",

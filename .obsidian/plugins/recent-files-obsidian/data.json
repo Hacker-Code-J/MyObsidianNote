@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Quotient and Remainder",
+      "path": "0.4. Excalidraw/Insite/Quotient and Remainder.md"
+    },
+    {
+      "basename": "Effort",
+      "path": "0.4. Excalidraw/Insite/Effort.md"
+    },
+    {
       "basename": "CO2-HIGHT-Drawing",
       "path": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
     },
@@ -105,10 +113,6 @@
       "path": "images/CSE/CBC_DEC.png"
     },
     {
-      "basename": "Effort",
-      "path": "0.4. Excalidraw/Insite/Effort.md"
-    },
-    {
       "basename": "CaS 240126",
       "path": "0.4. Excalidraw/CaS 240126.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "0.4.0 Metacognition",
       "path": "0.4. Excalidraw/0.4.0 Metacognition.md"
-    },
-    {
-      "basename": "0.4.1. bigint (excalidraw)",
-      "path": "0.4. Excalidraw/0.4.1. bigint (excalidraw).md"
     }
   ],
   "omittedPaths": [],
