@@ -23,26 +23,6 @@
             }
           },
           {
-            "id": "175361f0d5a6adac",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
-              }
-            }
-          },
-          {
-            "id": "fc5af87ba7547756",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/Insite/Effort.md"
-              }
-            }
-          },
-          {
             "id": "766b3273da9fb847",
             "type": "leaf",
             "state": {
@@ -51,9 +31,19 @@
                 "file": "0.4. Excalidraw/Insite/Quotient and Remainder.md"
               }
             }
+          },
+          {
+            "id": "0009e1a944888249",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/Insite/Quotient and Remainder.md",
+                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/Insite/Quotient and Remainder.md",
+                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/Insite/Quotient and Remainder.md"
+                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
               }
             }
           },
@@ -210,13 +200,13 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "766b3273da9fb847",
+  "active": "0009e1a944888249",
   "lastOpenFiles": [
-    "0.4. Excalidraw/Insite/Effort.md",
     "0.4. Excalidraw/Insite/Quotient and Remainder.md",
-    "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
-    "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
     "0.1. C Programming/Crypto-coding.md",
+    "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
+    "0.4. Excalidraw/Insite/Effort.md",
+    "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
     "0.6. Git/Learning Git.md",
     "0.4. Excalidraw/Git-Drawing.md",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
