@@ -26,9 +26,12 @@
             "id": "f0969269b82d2363",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0.4. Excalidraw/CaS/CaS 240119.md"
+                "file": "0.4. Excalidraw/CaS/Toy-Cipher2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -125,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/CaS/CaS 240119.md",
+                "file": "0.4. Excalidraw/CaS/Toy-Cipher2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/CaS/CaS 240119.md",
+                "file": "0.4. Excalidraw/CaS/Toy-Cipher2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/CaS/CaS 240119.md"
+                "file": "0.4. Excalidraw/CaS/Toy-Cipher2.md"
               }
             }
           },
@@ -202,10 +205,10 @@
   },
   "active": "f0969269b82d2363",
   "lastOpenFiles": [
-    "0.4. Excalidraw/CaS/CaS 240119 1.md",
-    "0.4. Excalidraw/CaS/CaS 240119.md",
     "0.4. Excalidraw/CaS/CaS 240126.md",
     "0.4. Excalidraw/CaS/Toy-Cipher2.md",
+    "0.4. Excalidraw/CaS/CaS 240119.md",
+    "0.4. Excalidraw/CaS/CaS 240119 1.md",
     "2024/January 2024/2024-01-26 CaS Study3.md",
     "0.4. Excalidraw/CaS",
     "0.1. C Programming/Crypto-coding.md",
