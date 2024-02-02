@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "0.0. HAVE TO",
+      "path": "0.0. MyThinkPad/0.0. HAVE TO.md"
+    },
+    {
+      "basename": "0.0.2. TO DO LIST",
+      "path": "0.0. MyThinkPad/0.0.2. TO DO LIST.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -149,10 +157,6 @@
       "path": "images/CSE/CBC_DEC.png"
     },
     {
-      "basename": "0.0. HAVE TO",
-      "path": "0.0. MyThinkPad/0.0. HAVE TO.md"
-    },
-    {
       "basename": "1.1.1.0. Key Expansion",
       "path": "1.1. AES/1.1.1.0. Key Expansion.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "AES Visualization",
       "path": "Manim/AES Visualization.md"
-    },
-    {
-      "basename": "1.1.5. AES Encryption and Decryption",
-      "path": "1.1. AES/1.1.5. AES Encryption and Decryption.md"
     }
   ],
   "omittedPaths": [],
