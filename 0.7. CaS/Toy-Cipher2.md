@@ -8,11 +8,10 @@ static const u8 SBOX2[16] = {
 	0x5U, 0x1U, 0x3U, 0x7U
 };
 ```
-
+For input $x$ and output $S(x)$,
 $$
 (\alpha\cdot x)\oplus(\beta\cdot S(x))=0
 $$
-
 ### Bias Integer:
 ```text
      00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F 
