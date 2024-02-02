@@ -5,6 +5,14 @@
       "path": "0.7. CaS/Toy-Cipher2.md"
     },
     {
+      "basename": "CaS 240119",
+      "path": "0.4. Excalidraw/CaS/CaS 240119.md"
+    },
+    {
+      "basename": "2024-02-02 CaS Study 4",
+      "path": "2024/January 2024/2024-02-02 CaS Study 4.md"
+    },
+    {
       "basename": "CaS 240126",
       "path": "0.4. Excalidraw/CaS/CaS 240126.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "CO2",
       "path": "0.7. CSE/CO2.md"
-    },
-    {
-      "basename": "CaS 240119",
-      "path": "0.4. Excalidraw/CaS/CaS 240119.md"
     },
     {
       "basename": "Rust 101 Crash Course",
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing of AES",
       "path": "0.4. Excalidraw/Drawing of AES.md"
-    },
-    {
-      "basename": "AES Visualization",
-      "path": "Manim/AES Visualization.md"
     }
   ],
   "omittedPaths": [],
