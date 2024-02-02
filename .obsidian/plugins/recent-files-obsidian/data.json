@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Toy-Cipher2",
       "path": "0.7. CaS/Toy-Cipher2.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.1.5. AES Encryption and Decryption",
       "path": "1.1. AES/1.1.5. AES Encryption and Decryption.md"
-    },
-    {
-      "basename": "1.1.4.1. SubMix",
-      "path": "1.1. AES/1.1.4.1. SubMix.md"
     }
   ],
   "omittedPaths": [],
