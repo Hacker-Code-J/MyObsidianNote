@@ -6287,8 +6287,8 @@ s[1] ^TlQUOg1U
 		},
 		{
 			"type": "text",
-			"version": 124,
-			"versionNonce": 504685672,
+			"version": 125,
+			"versionNonce": 1895306776,
 			"isDeleted": false,
 			"id": "4Bezzzjq",
 			"fillStyle": "solid",
@@ -6301,14 +6301,14 @@ s[1] ^TlQUOg1U
 			"y": 1246.9964282897536,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 5.4799957275390625,
-			"height": 75,
+			"width": 11.71875,
+			"height": 72,
 			"seed": 678693235,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706800324662,
+			"updated": 1706839578632,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6320,7 +6320,7 @@ s[1] ^TlQUOg1U
 			"containerId": null,
 			"originalText": ".\n.\n.",
 			"lineHeight": 1.2,
-			"baseline": 68
+			"baseline": 67
 		},
 		{
 			"type": "text",

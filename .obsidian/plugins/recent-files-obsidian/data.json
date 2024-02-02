@@ -2,43 +2,55 @@
   "recentFiles": [
     {
       "basename": "Toy-Cipher2",
-      "path": "0.4. Excalidraw/CaS/Toy-Cipher2.md"
+      "path": "0.7. CaS/Toy-Cipher2.md"
     },
     {
       "basename": "CaS 240126",
       "path": "0.4. Excalidraw/CaS/CaS 240126.md"
     },
     {
-      "basename": "CaS 240119",
-      "path": "0.4. Excalidraw/CaS/CaS 240119.md"
-    },
-    {
-      "basename": "2024-01-26 CaS Study3",
-      "path": "2024/January 2024/2024-01-26 CaS Study3.md"
-    },
-    {
       "basename": "Crypto-coding",
       "path": "0.1. C Programming/Crypto-coding.md"
-    },
-    {
-      "basename": "2024-01-04 Side Channel I",
-      "path": "2024/January 2024/2024-01-04 Side Channel I.md"
-    },
-    {
-      "basename": "Quotient and Remainder",
-      "path": "0.4. Excalidraw/Insite/Quotient and Remainder.md"
     },
     {
       "basename": "CO2-HIGHT-Drawing",
       "path": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
     },
     {
-      "basename": "CSE-AES-Drawing",
-      "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
+      "basename": "LEA",
+      "path": "0.7. CSE/Intern/LEA.md"
+    },
+    {
+      "basename": "CO2",
+      "path": "0.7. CSE/CO2.md"
+    },
+    {
+      "basename": "CaS 240119",
+      "path": "0.4. Excalidraw/CaS/CaS 240119.md"
+    },
+    {
+      "basename": "Rust 101 Crash Course",
+      "path": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md"
     },
     {
       "basename": "Effort",
       "path": "0.4. Excalidraw/Insite/Effort.md"
+    },
+    {
+      "basename": "Quotient and Remainder",
+      "path": "0.4. Excalidraw/Insite/Quotient and Remainder.md"
+    },
+    {
+      "basename": "2024-01-26 CaS Study3",
+      "path": "2024/January 2024/2024-01-26 CaS Study3.md"
+    },
+    {
+      "basename": "2024-01-04 Side Channel I",
+      "path": "2024/January 2024/2024-01-04 Side Channel I.md"
+    },
+    {
+      "basename": "CSE-AES-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
     },
     {
       "basename": "Learning Git",
@@ -149,10 +161,6 @@
       "path": "1.1. AES/1.1.3. ShiftRows.md"
     },
     {
-      "basename": "CO2",
-      "path": "0.7. CSE/CO2.md"
-    },
-    {
       "basename": "C-Note-Drawing",
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md"
     },
@@ -175,10 +183,6 @@
     {
       "basename": "1.1.1.3. Round Constant (RCON)",
       "path": "1.1. AES/1.1.1.3. Round Constant (RCON).md"
-    },
-    {
-      "basename": "LEA",
-      "path": "0.7. CSE/Intern/LEA.md"
     },
     {
       "basename": "Drawing of AES",

@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "f0969269b82d2363",
+            "id": "dd609ac046bb77a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.4. Excalidraw/CaS/Toy-Cipher2.md",
+                "file": "0.7. CaS/Toy-Cipher2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "0009e1a944888249",
+            "id": "bfdc84560b390e59",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
+                "file": "0.4. Excalidraw/CaS/CaS 240126.md"
               }
             }
           }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/CaS/Toy-Cipher2.md",
+                "file": "0.7. CaS/Toy-Cipher2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/CaS/Toy-Cipher2.md",
+                "file": "0.7. CaS/Toy-Cipher2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/CaS/Toy-Cipher2.md"
+                "file": "0.7. CaS/Toy-Cipher2.md"
               }
             }
           },
@@ -203,20 +203,27 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "f0969269b82d2363",
+  "active": "dd609ac046bb77a3",
   "lastOpenFiles": [
     "0.4. Excalidraw/CaS/CaS 240126.md",
-    "0.4. Excalidraw/CaS/Toy-Cipher2.md",
+    "0.7. CaS/Toy-Cipher2.md",
+    "0.1. C Programming/Crypto-coding.md",
+    "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
+    "Mind Map/Pasted image 20240202111836.png",
+    "Mind Map/Pasted image 20240202111731.png",
+    "0.7. CSE/Intern/LEA.md",
+    "0.7. CSE/CO2.md",
     "0.4. Excalidraw/CaS/CaS 240119.md",
+    "Mind Map/Pasted image 20240202111642.png",
+    "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
+    "0.7. CaS",
+    "0.4. Excalidraw/Insite/Effort.md",
+    "0.4. Excalidraw/Insite/Quotient and Remainder.md",
     "0.4. Excalidraw/CaS/CaS 240119 1.md",
     "2024/January 2024/2024-01-26 CaS Study3.md",
     "0.4. Excalidraw/CaS",
-    "0.1. C Programming/Crypto-coding.md",
     "2024/January 2024/2024-01-04 Side Channel I.md",
-    "0.4. Excalidraw/Insite/Quotient and Remainder.md",
-    "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
-    "0.4. Excalidraw/Insite/Effort.md",
     "0.6. Git/Learning Git.md",
     "0.4. Excalidraw/Git-Drawing.md",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
@@ -234,15 +241,8 @@
     "Excalidraw/Scripts/Downloaded/Organic Line Legacy.md",
     "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
     "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
-    "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
     "0.6. Git/Git Command.md",
-    "Excalidraw/Scripts/Downloaded/Connect elements.md",
-    "images/CSE/Screenshot from 2024-01-22 21-32-20.png",
-    "images/CSE/cbc1.png",
     "0.4. Excalidraw/Insite",
-    "0.0. MyThinkPad/0.0. HAVE TO.md",
-    "1.1. AES/1.1.1.0. Key Expansion.md",
-    "1.1. AES/1.1.0. Overview of AES.md",
     "Mind Map/C - CraftCodeLab.canvas",
     "Mind Map/The 2nd Brain.canvas",
     "images/CSE",
@@ -252,7 +252,6 @@
     "0.1. C Programming/C-Standard-Library/<stdio.h>",
     "0.1. C Programming/C-Standard-Library",
     "0.1. C Programming/Assembly",
-    "0.1. C Programming/C-Core-NOTE/3. Functions in C",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
