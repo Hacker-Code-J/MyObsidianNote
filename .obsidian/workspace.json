@@ -57,9 +57,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40a7b3b7de94c852",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.4. Excalidraw/Insite/Efficiency.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/January 2024/2024-02-02 CaS Study 4.md",
+                "file": "0.4. Excalidraw/Insite/Efficiency.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/January 2024/2024-02-02 CaS Study 4.md",
+                "file": "0.4. Excalidraw/Insite/Efficiency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/January 2024/2024-02-02 CaS Study 4.md"
+                "file": "0.4. Excalidraw/Insite/Efficiency.md"
               }
             }
           },
@@ -216,11 +226,12 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "becf99b8399b9a0c",
+  "active": "40a7b3b7de94c852",
   "lastOpenFiles": [
+    "2024/January 2024/2024-02-02 CaS Study 4.md",
+    "0.4. Excalidraw/Insite/Efficiency.md",
     "0.4. Excalidraw/CaS/CaS 240126.md",
     "0.7. CaS/Toy-Cipher2.md",
-    "2024/January 2024/2024-02-02 CaS Study 4.md",
     "0.1. C Programming/Crypto-coding.md",
     "0.4. Excalidraw/CaS/CaS 240119.md",
     "0.0. MyThinkPad/0.0. HAVE TO.md",
@@ -253,7 +264,6 @@
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Modify background color opacity.md",
     "Excalidraw/Scripts/Downloaded/Modify background color opacity.svg",
-    "Excalidraw/Scripts/Downloaded/Organic Line.md",
     "Excalidraw/Scripts/Downloaded/Organic Line.svg",
     "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
     "0.4. Excalidraw/Insite",

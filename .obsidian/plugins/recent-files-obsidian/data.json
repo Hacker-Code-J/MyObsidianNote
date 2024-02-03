@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Efficiency",
+      "path": "0.4. Excalidraw/Insite/Efficiency.md"
+    },
+    {
       "basename": "2024-02-02 CaS Study 4",
       "path": "2024/January 2024/2024-02-02 CaS Study 4.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.1.1.3. Round Constant (RCON)",
       "path": "1.1. AES/1.1.1.3. Round Constant (RCON).md"
-    },
-    {
-      "basename": "Drawing of AES",
-      "path": "0.4. Excalidraw/Drawing of AES.md"
     }
   ],
   "omittedPaths": [],
