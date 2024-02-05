@@ -23,27 +23,17 @@
             }
           },
           {
-            "id": "32f165d85215c045",
+            "id": "151142763a19562f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "0.4. Excalidraw/Insite/Efficiency.md"
-              }
-            }
-          },
-          {
-            "id": "639b5c46226dfa7d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
+                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
+                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
+                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
+                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
               }
             }
           },
@@ -200,12 +190,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "639b5c46226dfa7d",
+  "active": "151142763a19562f",
   "lastOpenFiles": [
+    "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
-    "0.4. Excalidraw/Insite/Efficiency.md",
-    "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
     "0.1. C Programming/Crypto-coding.md",
+    "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
+    "0.4. Excalidraw/Insite/Efficiency.md",
     "2024/January 2024/2024-02-02 CaS Study 4.md",
     "0.7. CaS/Toy-Cipher2.md",
     "0.4. Excalidraw/CaS/CaS 240126.md",
@@ -213,7 +204,6 @@
     "0.0. MyThinkPad/0.0. HAVE TO.md",
     "README.md",
     "0.0. MyThinkPad/0.0.2. TO DO LIST.md",
-    "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
     "Mind Map/Pasted image 20240202111836.png",
     "Mind Map/Pasted image 20240202111731.png",
     "0.7. CSE/Intern/LEA.md",
