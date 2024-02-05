@@ -780,8 +780,6 @@ Te2 ^yMT8tNlT
 
 Te3 ^eDPU29Ht
 
-SubMix ^n5De2j9v
-
 SubMix ^v0H11qjh
 
 SubMix ^naP0Ln0G
@@ -67433,43 +67431,6 @@ SubMix ^S5E4xwUH
 			"endArrowhead": "arrow"
 		},
 		{
-			"type": "text",
-			"version": 504,
-			"versionNonce": 522086965,
-			"isDeleted": false,
-			"id": "n5De2j9v",
-			"fillStyle": "cross-hatch",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 5789.281666884114,
-			"y": 2196.6115144768523,
-			"strokeColor": "#c2255c",
-			"backgroundColor": "#96f2d7",
-			"width": 116.31605529785156,
-			"height": 45,
-			"seed": 1640870293,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707123553973,
-			"link": null,
-			"locked": false,
-			"fontSize": 36,
-			"fontFamily": 1,
-			"text": "SubMix",
-			"rawText": "SubMix",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "SubMix",
-			"lineHeight": 1.25,
-			"baseline": 32
-		},
-		{
 			"type": "rectangle",
 			"version": 1501,
 			"versionNonce": 1358361365,
@@ -69482,6 +69443,43 @@ SubMix ^S5E4xwUH
 					106.89118773498808
 				]
 			]
+		},
+		{
+			"type": "text",
+			"version": 505,
+			"versionNonce": 272905013,
+			"isDeleted": true,
+			"id": "n5De2j9v",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5789.281666884114,
+			"y": 2196.6115144768523,
+			"strokeColor": "#c2255c",
+			"backgroundColor": "#96f2d7",
+			"width": 116.31605529785156,
+			"height": 45,
+			"seed": 1640870293,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707125124123,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 1,
+			"text": "SubMix",
+			"rawText": "SubMix",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "SubMix",
+			"lineHeight": 1.25,
+			"baseline": 32
 		}
 	],
 	"appState": {
@@ -69499,8 +69497,8 @@ SubMix ^S5E4xwUH
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -3603.2443204280044,
-		"scrollY": 546.9250442274963,
+		"scrollX": -2939.772308982969,
+		"scrollY": -652.632352465125,
 		"zoom": {
 			"value": 0.37680564618770135
 		},
