@@ -21,8 +21,29 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "32f165d85215c045",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.4. Excalidraw/Insite/Efficiency.md"
+              }
+            }
+          },
+          {
+            "id": "639b5c46226dfa7d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. C Programming/Crypto-coding.md",
+                "file": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. C Programming/Crypto-coding.md",
+                "file": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. C Programming/Crypto-coding.md"
+                "file": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
               }
             }
           },
@@ -170,21 +191,23 @@
       "graph:Open graph view": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "remotely-save:Remotely Save": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23c75740c5405d70",
+  "active": "639b5c46226dfa7d",
   "lastOpenFiles": [
-    "2024/January 2024/2024-02-02 CaS Study 4.md",
-    "0.1. C Programming/Crypto-coding.md",
-    "0.7. CaS/Toy-Cipher2.md",
+    "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
     "0.4. Excalidraw/Insite/Efficiency.md",
+    "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
+    "0.1. C Programming/Crypto-coding.md",
+    "2024/January 2024/2024-02-02 CaS Study 4.md",
+    "0.7. CaS/Toy-Cipher2.md",
     "0.4. Excalidraw/CaS/CaS 240126.md",
     "0.4. Excalidraw/CaS/CaS 240119.md",
     "0.0. MyThinkPad/0.0. HAVE TO.md",
@@ -204,7 +227,6 @@
     "2024/January 2024/2024-01-26 CaS Study3.md",
     "0.4. Excalidraw/CaS",
     "2024/January 2024/2024-01-04 Side Channel I.md",
-    "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
     "0.6. Git/Learning Git.md",
     "0.4. Excalidraw/Git-Drawing.md",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
@@ -215,7 +237,6 @@
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
-    "Excalidraw/Scripts/Downloaded/Modify background color opacity.md",
     "Excalidraw/Scripts/Downloaded/Modify background color opacity.svg",
     "Excalidraw/Scripts/Downloaded/Organic Line.svg",
     "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
