@@ -21,8 +21,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a6962c90f6188db6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. C Programming/Crypto-coding.md",
+                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. C Programming/Crypto-coding.md",
+                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. C Programming/Crypto-coding.md"
+                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
               }
             }
           },
@@ -180,12 +191,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23c75740c5405d70",
+  "active": "a6962c90f6188db6",
   "lastOpenFiles": [
+    "0.1. C Programming/Crypto-coding.md",
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
     "Excalidraw/lib/presentation-templates.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 61605.crdownload",
-    "0.1. C Programming/Crypto-coding.md",
     "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
     "Excalidraw/lib/scrum-board.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 274785.crdownload",
