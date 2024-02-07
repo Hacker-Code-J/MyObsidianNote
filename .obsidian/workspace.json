@@ -23,30 +23,7 @@
             }
           },
           {
-            "id": "4c75a01cdc760940",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.7. CSE/CO2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5ec95d46dc7f78b0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
-              }
-            }
-          },
-          {
-            "id": "4dfc530b1362c052",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -56,7 +33,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
+                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
+                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
+                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
               }
             }
           },
@@ -215,11 +192,19 @@
   },
   "active": "5ec95d46dc7f78b0",
   "lastOpenFiles": [
-    "0.4. Excalidraw/Git-Drawing.md",
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
-    "0.7. CSE/CO2.md",
-    "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
     "0.1. C Programming/Crypto-coding.md",
+    "0.7. CSE/CO2.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md",
+    "0.2. Computer Science/Computer Language/Programming Language.md",
+    "0.2. Computer Science/Computer Language/Computer Language.md",
+    "0.2. Computer Science/Part 1. Computer Structure/Chapter 1. Computer Structure.md",
+    "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
+    "0.4. Excalidraw/Git-Drawing.md",
     "0.6. Git/Pull and Push.md",
     "0.6. Git/Git Command.md",
     "0.6. Git/Learning Git.md",
@@ -246,15 +231,7 @@
     "Mind Map/Pasted image 20240202111731.png",
     "0.7. CSE/Intern/LEA.md",
     "Mind Map/Pasted image 20240202111642.png",
-    "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
-    "0.4. Excalidraw/Insite/Effort.md",
-    "0.4. Excalidraw/Insite/Quotient and Remainder.md",
-    "0.4. Excalidraw/CaS/CaS 240119 1.md",
-    "2024/January 2024/2024-01-26 CaS Study3.md",
-    "2024/January 2024/2024-01-04 Side Channel I.md",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
-    "Excalidraw/Scripts/Downloaded/ExcaliAI.md",
     "Excalidraw/Scripts/Downloaded/ExcaliAI.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
