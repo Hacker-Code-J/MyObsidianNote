@@ -36,6 +36,16 @@
             }
           },
           {
+            "id": "5ec95d46dc7f78b0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
+              }
+            }
+          },
+          {
             "id": "4dfc530b1362c052",
             "type": "leaf",
             "state": {
@@ -112,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -129,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
+                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
+                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
+                "file": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
               }
             }
           },
@@ -204,15 +213,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4dfc530b1362c052",
+  "active": "5ec95d46dc7f78b0",
   "lastOpenFiles": [
-    "0.7. CSE/CO2.md",
-    "0.1. C Programming/Crypto-coding.md",
+    "0.4. Excalidraw/Git-Drawing.md",
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
+    "0.7. CSE/CO2.md",
+    "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
+    "0.1. C Programming/Crypto-coding.md",
     "0.6. Git/Pull and Push.md",
     "0.6. Git/Git Command.md",
     "0.6. Git/Learning Git.md",
-    "0.4. Excalidraw/Git-Drawing.md",
     "Excalidraw/lib/presentation-templates.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 61605.crdownload",
     "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
@@ -224,7 +234,6 @@
     "Excalidraw/lib/Unconfirmed 324134.crdownload",
     "Excalidraw/lib/algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 12182.crdownload",
-    "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
     "0.4. Excalidraw/Insite/Efficiency.md",
     "2024/January 2024/2024-02-02 CaS Study 4.md",
     "0.7. CaS/Toy-Cipher2.md",

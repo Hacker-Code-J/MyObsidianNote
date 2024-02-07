@@ -100,15 +100,16 @@ LSFR x^7+x^3+1 ^5G07cnB7
 
 s[134] ^In9MQJbI
 
-for (int i = 1; i <= 127; i++) {
-    
-    ...
+u8 s[134] = {0, 1, 0, 1, 1, 0, 1};
+u8 delta[128] = { 0x00, };
 
-    for (int j = 0; j < 7; j++) {
-        delta |= (u8)(s[i + j] << j);
-    }
+delta[0] = (s[6] << 6) | (s[5] << 5) | (s[4] << 4) |
+           (s[3] << 3) | (s[2] << 2) | (s[1] << 1) | s[0];
 
-   ...
+for (i = 1; i < 128; i++) {
+    s[i + 6] = s[i + 2] ^ s[i - 1]; // XOR operation
+    delta[i] = (s[i + 6] << 6) | (s[i + 5] << 5) | (s[i + 4] << 4) |
+               (s[i + 3] << 3) | (s[i + 2] << 2) | (s[i + 1] << 1) | s[i];
 } ^iEMfONfM
 
 δ0 = s6∥s5∥s4∥s3∥s2∥s1∥s0 ^8ZXNLvfM
@@ -165,20 +166,11 @@ SK1 ^BFHijCTN
 
 SK0 ^ri2dC9dV
 
-for (int i = 1; i <= 127; i++) {
-    
-    ...
-
-    for (int j = 0; j < 8; j++) {
-        int index = (16 * i + j) % 128;
-        if (j < 8) {
-            SK[index] = MK[(j - i) & 7] + delta;
-        } else {
-            SK[index] = MK[((j - i) & 7) + 8] + delta;
-        }
-    }
-
-    ...
+for (i = 0; i < 8; i++) {
+    for (j = 0; j < 8; j++)
+        SK[16 * i + j + 0] = MK[((j - i) & 7) + 0] + delta[16 * i + j + 0];
+    for (j = 0; j < 8; j++)
+        SK[16 * i + j + 8] = MK[((j - i) & 7) + 8] + delta[16 * i + j + 8];
 } ^TMyoRmvI
 
 SubKey Bytes SK ^FNy1Ts6W
@@ -5281,8 +5273,8 @@ s[1] ^TlQUOg1U
 		},
 		{
 			"type": "text",
-			"version": 310,
-			"versionNonce": 2093145410,
+			"version": 389,
+			"versionNonce": 262856649,
 			"isDeleted": false,
 			"id": "iEMfONfM",
 			"fillStyle": "solid",
@@ -5291,30 +5283,30 @@ s[1] ^TlQUOg1U
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 619.1836970787922,
-			"y": 318.5706579816298,
+			"x": 605.8503637454589,
+			"y": 273.5706579816297,
 			"strokeColor": "#12b886",
 			"backgroundColor": "transparent",
-			"width": 433.59375,
-			"height": 240,
+			"width": 867.1875,
+			"height": 264,
 			"seed": 1979831091,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706546939785,
+			"updated": 1707295937310,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "for (int i = 1; i <= 127; i++) {\n    \n    ...\n\n    for (int j = 0; j < 7; j++) {\n        delta |= (u8)(s[i + j] << j);\n    }\n\n   ...\n}",
-			"rawText": "for (int i = 1; i <= 127; i++) {\n    \n    ...\n\n    for (int j = 0; j < 7; j++) {\n        delta |= (u8)(s[i + j] << j);\n    }\n\n   ...\n}",
+			"text": "u8 s[134] = {0, 1, 0, 1, 1, 0, 1};\nu8 delta[128] = { 0x00, };\n\ndelta[0] = (s[6] << 6) | (s[5] << 5) | (s[4] << 4) |\n           (s[3] << 3) | (s[2] << 2) | (s[1] << 1) | s[0];\n\nfor (i = 1; i < 128; i++) {\n    s[i + 6] = s[i + 2] ^ s[i - 1]; // XOR operation\n    delta[i] = (s[i + 6] << 6) | (s[i + 5] << 5) | (s[i + 4] << 4) |\n               (s[i + 3] << 3) | (s[i + 2] << 2) | (s[i + 1] << 1) | s[i];\n}",
+			"rawText": "u8 s[134] = {0, 1, 0, 1, 1, 0, 1};\nu8 delta[128] = { 0x00, };\n\ndelta[0] = (s[6] << 6) | (s[5] << 5) | (s[4] << 4) |\n           (s[3] << 3) | (s[2] << 2) | (s[1] << 1) | s[0];\n\nfor (i = 1; i < 128; i++) {\n    s[i + 6] = s[i + 2] ^ s[i - 1]; // XOR operation\n    delta[i] = (s[i + 6] << 6) | (s[i + 5] << 5) | (s[i + 4] << 4) |\n               (s[i + 3] << 3) | (s[i + 2] << 2) | (s[i + 1] << 1) | s[i];\n}",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "for (int i = 1; i <= 127; i++) {\n    \n    ...\n\n    for (int j = 0; j < 7; j++) {\n        delta |= (u8)(s[i + j] << j);\n    }\n\n   ...\n}",
+			"originalText": "u8 s[134] = {0, 1, 0, 1, 1, 0, 1};\nu8 delta[128] = { 0x00, };\n\ndelta[0] = (s[6] << 6) | (s[5] << 5) | (s[4] << 4) |\n           (s[3] << 3) | (s[2] << 2) | (s[1] << 1) | s[0];\n\nfor (i = 1; i < 128; i++) {\n    s[i + 6] = s[i + 2] ^ s[i - 1]; // XOR operation\n    delta[i] = (s[i + 6] << 6) | (s[i + 5] << 5) | (s[i + 4] << 4) |\n               (s[i + 3] << 3) | (s[i + 2] << 2) | (s[i + 1] << 1) | s[i];\n}",
 			"lineHeight": 1.2,
-			"baseline": 235
+			"baseline": 259
 		},
 		{
 			"type": "text",
@@ -6682,8 +6674,8 @@ s[1] ^TlQUOg1U
 		},
 		{
 			"type": "text",
-			"version": 293,
-			"versionNonce": 1414316040,
+			"version": 344,
+			"versionNonce": 2004831655,
 			"isDeleted": false,
 			"id": "TMyoRmvI",
 			"fillStyle": "solid",
@@ -6692,30 +6684,30 @@ s[1] ^TlQUOg1U
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": -236.38035124593898,
-			"y": 1201.6630949564199,
+			"x": -459.71368457927224,
+			"y": 1263.3297616230866,
 			"strokeColor": "#12b886",
 			"backgroundColor": "transparent",
-			"width": 632.8125,
-			"height": 360,
+			"width": 878.90625,
+			"height": 144,
 			"seed": 718403219,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706535443494,
+			"updated": 1707296044833,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "for (int i = 1; i <= 127; i++) {\n    \n    ...\n\n    for (int j = 0; j < 8; j++) {\n        int index = (16 * i + j) % 128;\n        if (j < 8) {\n            SK[index] = MK[(j - i) & 7] + delta;\n        } else {\n            SK[index] = MK[((j - i) & 7) + 8] + delta;\n        }\n    }\n\n    ...\n}",
-			"rawText": "for (int i = 1; i <= 127; i++) {\n    \n    ...\n\n    for (int j = 0; j < 8; j++) {\n        int index = (16 * i + j) % 128;\n        if (j < 8) {\n            SK[index] = MK[(j - i) & 7] + delta;\n        } else {\n            SK[index] = MK[((j - i) & 7) + 8] + delta;\n        }\n    }\n\n    ...\n}",
+			"text": "for (i = 0; i < 8; i++) {\n    for (j = 0; j < 8; j++)\n        SK[16 * i + j + 0] = MK[((j - i) & 7) + 0] + delta[16 * i + j + 0];\n    for (j = 0; j < 8; j++)\n        SK[16 * i + j + 8] = MK[((j - i) & 7) + 8] + delta[16 * i + j + 8];\n}",
+			"rawText": "for (i = 0; i < 8; i++) {\n    for (j = 0; j < 8; j++)\n        SK[16 * i + j + 0] = MK[((j - i) & 7) + 0] + delta[16 * i + j + 0];\n    for (j = 0; j < 8; j++)\n        SK[16 * i + j + 8] = MK[((j - i) & 7) + 8] + delta[16 * i + j + 8];\n}",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "for (int i = 1; i <= 127; i++) {\n    \n    ...\n\n    for (int j = 0; j < 8; j++) {\n        int index = (16 * i + j) % 128;\n        if (j < 8) {\n            SK[index] = MK[(j - i) & 7] + delta;\n        } else {\n            SK[index] = MK[((j - i) & 7) + 8] + delta;\n        }\n    }\n\n    ...\n}",
+			"originalText": "for (i = 0; i < 8; i++) {\n    for (j = 0; j < 8; j++)\n        SK[16 * i + j + 0] = MK[((j - i) & 7) + 0] + delta[16 * i + j + 0];\n    for (j = 0; j < 8; j++)\n        SK[16 * i + j + 8] = MK[((j - i) & 7) + 8] + delta[16 * i + j + 8];\n}",
 			"lineHeight": 1.2,
-			"baseline": 355
+			"baseline": 139
 		},
 		{
 			"type": "text",
@@ -47784,10 +47776,10 @@ s[1] ^TlQUOg1U
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 805.0083943340628,
-		"scrollY": 593.5056564713589,
+		"scrollX": 903.8496641753326,
+		"scrollY": -901.4546609889603,
 		"zoom": {
-			"value": 0.44999999999999996
+			"value": 0.6
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
