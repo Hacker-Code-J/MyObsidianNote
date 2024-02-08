@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "3f6703c1d19fa816",
+            "id": "3da8dc92c1ee6820",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,6 +32,16 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f57a7cd4621f5617",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
               }
             }
           }
@@ -73,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#assembly",
+                "query": "tag:#CO2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,13 +203,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f6703c1d19fa816",
+  "active": "3da8dc92c1ee6820",
   "lastOpenFiles": [
-    "0.1. C Programming/Crypto-coding.md",
+    "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
     "2024/January 2024/2024-02-08 CO2 Meeting 1.md",
+    "0.1. C Programming/Crypto-coding.md",
     "0.4. Excalidraw/Git-Drawing.md",
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
-    "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
     "0.3. Artificial Intelligence/Ollama.md",
     "0.7. CSE/CO2.md",
