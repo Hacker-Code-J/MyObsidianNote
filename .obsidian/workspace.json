@@ -34,29 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "27a597ba9ce84227",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
-              }
-            }
-          },
-          {
-            "id": "f57a7cd4621f5617",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
+                "file": "2024/January 2024/2024-02-08 CO2 Meeting 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
+                "file": "2024/January 2024/2024-02-08 CO2 Meeting 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
+                "file": "2024/January 2024/2024-02-08 CO2 Meeting 1.md"
               }
             }
           },
@@ -214,12 +194,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27a597ba9ce84227",
+  "active": "3da8dc92c1ee6820",
   "lastOpenFiles": [
-    "0.4. Excalidraw/Git-Drawing.md",
-    "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
-    "2024/January 2024/2024-02-08 CO2 Meeting 1.md",
     "0.1. C Programming/Crypto-coding.md",
+    "2024/January 2024/2024-02-08 CO2 Meeting 1.md",
+    "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
+    "0.4. Excalidraw/Git-Drawing.md",
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
     "0.3. Artificial Intelligence/Ollama.md",
