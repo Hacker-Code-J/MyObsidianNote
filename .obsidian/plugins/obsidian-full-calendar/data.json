@@ -2,8 +2,8 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "#9104d2",
-      "directory": "2024/January 2024"
+      "color": "#00becc",
+      "directory": "2024/2 February 2024"
     }
   ],
   "defaultCalendar": 0,
