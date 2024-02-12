@@ -23,6 +23,16 @@
             }
           },
           {
+            "id": "bec19956b56beef1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
+              }
+            }
+          },
+          {
             "id": "6c81ed9c7e449591",
             "type": "leaf",
             "state": {
@@ -35,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. C Programming/Crypto-coding.md",
+                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. C Programming/Crypto-coding.md",
+                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. C Programming/Crypto-coding.md"
+                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
               }
             }
           },
@@ -192,14 +203,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23c75740c5405d70",
+  "active": "bec19956b56beef1",
   "lastOpenFiles": [
+    "0.1. C Programming/Crypto-coding.md",
     "2024/2 February 2024/2024-02-12 CO2 Meeting 2.md",
     "2024/1 January 2024/2024-01-12 Implement LEA.md",
     "2024-02-12.md",
     "2024/2 February 2024/2024-02-08 CO2 Meeting 1.md",
     "2024/2 February 2024",
-    "0.1. C Programming/Crypto-coding.md",
     "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
     "0.4. Excalidraw/Git-Drawing.md",
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
