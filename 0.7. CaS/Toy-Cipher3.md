@@ -73,11 +73,15 @@ $K_1=k_{1,3}||k_{1,2}||k_{1,1}||k_{1,0}$ with $k_{i,j}\in\set{0,1}$
 
 
 # Analysis:
-![[Pasted image 20240217161759.png]]
+![[Pasted image 20240217173336.png]]
 
 Consider $\texttt{0xDC -> 0xB3 | 0b 1101 1100 -> 0b 1011 0011}$
-A: $S(P_1\oplus K_1)=S(p_{1,3}\oplus k_{1,3}||p_{1,2}\oplus k_{1,2}||p_{1,1}\oplus k_{1,1}||p_{1,0}\oplus k_{1,0})$
--> $S(\overline{k_{1,3}}||\overline{k_{1,2}}||k_{1,1}||\overline{k_{1,0}})$
+M1: $S(P_1\oplus K_1)=S(p_{1,3}\oplus k_{1,3}||p_{1,2}\oplus k_{1,2}||p_{1,1}\oplus k_{1,1}||p_{1,0}\oplus k_{1,0})$
+-> $S(\overline{k_{1,3}}||\overline{k_{1,2}}||k_{1,1}||\overline{k_{1,0}})=:m_{1,3}||m_{1,2}||m_{1,1}||m_{1,0}$
 
-B: $S(P_2\oplus K_2)=S(p_{2,3}\oplus k_{2,3}||p_{2,2}\oplus k_{2,2}||p_{2,1}\oplus k_{2,1}||p_{2,0}\oplus k_{2,0})$
--> $S(\overline{k_{2,3}}||\overline{k_{2,2}}||k_{2,1}||k_{2,0})$
+M2: $S(P_2\oplus K_2)=S(p_{2,3}\oplus k_{2,3}||p_{2,2}\oplus k_{2,2}||p_{2,1}\oplus k_{2,1}||p_{2,0}\oplus k_{2,0})$
+-> $S(\overline{k_{2,3}}||\overline{k_{2,2}}||k_{2,1}||k_{2,0})=:m_{2,3}||m_{2,2}||m_{2,1}||m_{2,0}$
+
+N1: $S(m_{1,3}\oplus k_{2,3}||m_{1,2}\oplus k_{2,2}||m_{2,3}\oplus k_{2,1}||m_{2,2}\oplus k_{2,0})=k_{1,3}$
+
+N2: $S(m_{1,2}\oplus k_{1,3}||m_{1,1}\oplus k_{1,2}||m_{2,2}\oplus k_{1,1}||m_{2,1}\oplus k_{1,0})$
