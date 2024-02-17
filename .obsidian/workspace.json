@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "2f0bfd6e66006b99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.7. CaS/Toy-Cipher3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -104,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. C Programming/Crypto-coding.md",
+                "file": "0.7. CaS/Toy-Cipher3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. C Programming/Crypto-coding.md",
+                "file": "0.7. CaS/Toy-Cipher3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. C Programming/Crypto-coding.md"
+                "file": "0.7. CaS/Toy-Cipher3.md"
               }
             }
           },
@@ -179,10 +194,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23c75740c5405d70",
+  "active": "2f0bfd6e66006b99",
   "lastOpenFiles": [
-    "0.4. Excalidraw/Data-Structure/Data-Structure-Coding-Drawing.md",
+    "0.7. CaS/Toy-Cipher2.md",
+    "0.7. CaS/Toy-Cipher3.md",
     "0.1. C Programming/Crypto-coding.md",
+    "Pasted Image/Pasted Image 20240110131122_116.png",
+    "Pasted Image/Pasted Image 20240122212638_607.png",
+    "Pasted Image/Pasted Image 20240122215005_755.png",
+    "Pasted Image/Pasted Image 20240122215140_767.png",
+    "Pasted Image/Pasted Image 20240122220405_859.png",
+    "Pasted Image/Pasted image 20240202111642.png",
+    "Pasted Image/Pasted image 20240202111731.png",
+    "Pasted Image/Pasted image 20240202111836.png",
+    "Pasted Image/Pasted image 20240217151743.png",
+    "Pasted image 20240217152131.png",
+    "0.4. Excalidraw/CaS/CaS 240126.md",
+    "Pasted Image/Drawing 2024-02-17 15.20.58.excalidraw.md",
+    "Pasted Image/C - CraftCodeLab.canvas",
+    "Pasted Image/The 2nd Brain.canvas",
+    "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md",
+    "2024/1 January 2024/2024-01-19 CaS Study2.md",
+    "2024/1 January 2024/2024-01-26 CaS Study3.md",
+    "2024/1 January 2024/2024-02-02 CaS Study 4.md",
+    "2024/2 February 2024/2024-02-08 CO2 Meeting 1.md",
+    "2024/2 February 2024/2024-02-12 CO2 Meeting 2.md",
+    "0.4. Excalidraw/Data-Structure/Data-Structure-Coding-Drawing.md",
     "0.4. Excalidraw/Data-Structure/Drawing of Data Structure.md",
     "0.4. Excalidraw/Data-Structure",
     "0.4. Excalidraw/Drawing of CPU and GPU.md",
@@ -190,15 +227,7 @@
     "0.4. Excalidraw/Untitled.md",
     "0.4. Excalidraw/Insite/Efficiency.md",
     "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
-    "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md",
-    "0.7. CaS/Toy-Cipher2.md",
-    "2024/2 February 2024/2024-02-12 CO2 Meeting 2.md",
-    "2024/2 February 2024/2024-02-08 CO2 Meeting 1.md",
     "2024/1 January 2024/2024-01-12 CaS Study 1.md",
-    "2024/1 January 2024/2024-01-19 CaS Study2.md",
-    "2024/1 January 2024/2024-01-26 CaS Study3.md",
-    "2024/1 January 2024/2024-02-02 CaS Study 4.md",
-    "0.4. Excalidraw/CaS/CaS 240126.md",
     "0.4. Excalidraw/CaS/Untitled.md",
     "2024/1 January 2024/2024-01-12 Implement LEA.md",
     "2024-02-12.md",
@@ -206,9 +235,6 @@
     "0.4. Excalidraw/Git-Drawing.md",
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
-    "0.3. Artificial Intelligence/Ollama.md",
-    "0.7. CSE/CO2.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md",
     "Excalidraw/lib/presentation-templates.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 61605.crdownload",
     "Excalidraw/lib/scrum-board.excalidrawlib",
@@ -217,18 +243,6 @@
     "Excalidraw/lib/Unconfirmed 626656.crdownload",
     "Excalidraw/lib/github-icons.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 324134.crdownload",
-    "Mind Map/Pasted image 20240202111836.png",
-    "Mind Map/Pasted image 20240202111731.png",
-    "Mind Map/Pasted image 20240202111642.png",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
-    "Excalidraw/Scripts/Downloaded/ExcaliAI.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
-    "Excalidraw/Scripts/Downloaded/Modify background color opacity.svg",
-    "Excalidraw/Scripts/Downloaded/Organic Line.svg",
-    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
-    "Mind Map/C - CraftCodeLab.canvas",
-    "Mind Map/The 2nd Brain.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

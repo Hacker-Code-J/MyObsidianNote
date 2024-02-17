@@ -7,11 +7,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasImage",
       "SiGoogleanalytics",
       "SiSecurityscorecard",
       "TiMath",
-      "TiLockCog",
-      "SiLatex"
+      "TiLockCog"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,7 +32,6 @@
   "Implementation for AES": "BoBxCodeBlock",
   "Implementation for AES/I. Understanding": "FasBook",
   "Implementation for AES/II. Design and Architecture": "LiSquareDashedBottomCode",
-  "Mind Map": "FasMapLocation",
   "Implementation for AES/III. Implementing AES in C": "FasC",
   "Implementation for AES/IV. Optimization for AES in C": "LiCpu",
   "GCC": "SiCompilerexplorer",
@@ -53,5 +52,6 @@
   "2.1. Discrete Mathematics": "TiMath",
   "0.6. Git": "SiGit",
   "0.7. CSE": "SiSecurityscorecard",
-  "0.7. CaS": "SiGoogleanalytics"
+  "0.7. CaS": "SiGoogleanalytics",
+  "Pasted Image": "FasImage"
 }
