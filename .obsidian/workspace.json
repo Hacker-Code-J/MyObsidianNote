@@ -36,6 +36,19 @@
             }
           },
           {
+            "id": "9e0ab52ab9516922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.7. CaS/Toy-Cipher2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2a8af3f961727b9c",
             "type": "leaf",
             "state": {
@@ -112,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -206,10 +218,11 @@
   },
   "active": "2f0bfd6e66006b99",
   "lastOpenFiles": [
-    "Pasted image 20240217173336.png",
-    "0.4. Excalidraw/CaS/CaS 240126.md",
-    "0.7. CaS/Toy-Cipher3.md",
     "0.7. CaS/Toy-Cipher2.md",
+    "0.7. CaS/Toy-Cipher3.md",
+    "0.4. Excalidraw/CaS/CaS 240126.md",
+    "2024/1 January 2024/2024-02-02 CaS Study 4.md",
+    "Pasted image 20240217173336.png",
     "Pasted image 20240217173139.png",
     "Pasted image 20240217172509.png",
     "Pasted image 20240217172101.png",
@@ -230,13 +243,11 @@
     "Pasted Image/Pasted Image 20240122212638_607.png",
     "Pasted Image/Pasted Image 20240122215005_755.png",
     "Pasted Image/Pasted Image 20240122215140_767.png",
-    "Pasted Image/Pasted Image 20240122220405_859.png",
     "Pasted Image/Drawing 2024-02-17 15.20.58.excalidraw.md",
     "Pasted Image/C - CraftCodeLab.canvas",
     "Pasted Image/The 2nd Brain.canvas",
     "2024/1 January 2024/2024-01-19 CaS Study2.md",
     "2024/1 January 2024/2024-01-26 CaS Study3.md",
-    "2024/1 January 2024/2024-02-02 CaS Study 4.md",
     "2024/2 February 2024/2024-02-08 CO2 Meeting 1.md",
     "2024/2 February 2024/2024-02-12 CO2 Meeting 2.md",
     "0.4. Excalidraw/Data-Structure/Data-Structure-Coding-Drawing.md",
