@@ -16,6 +16,14 @@ $$
 \texttt{0x9B -> 0xD9 | 0b 1001 1011 -> 0b 1101 1001}
 $$
 3. Toy-Cipher Structure
+![[Pasted image 20240217155041.png]]
 
-![[Pasted image 20240217152131.png]]
+$P := P_1|| P_2$ with $P_i\in\set{0,1}^4$
+$P_1=p_{1,3}||p_{1,2}||p_{1,1}||p_{1,0}$ with $p_{i,j}\in\set{0,1}$
+
+$C := C_1|| C_2$ with $C_i\in\set{0,1}^4$
+$C_1=c_{1,3}||c_{1,2}||c_{1,1}||c_{1,0}$ with $c_{i,j}\in\set{0,1}$
+
+$K := K_1||K_2$ with $K_i\in\set{0,1}^4$
+$K_1=k_{1,3}||k_{1,2}||k_{1,1}||k_{1,0}$ with $k_{i,j}\in\set{0,1}$
 
