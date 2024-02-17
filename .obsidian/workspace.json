@@ -28,6 +28,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "0.7. CaS/Toy-Cipher3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c01c2e7005d6f6ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "0.7. CaS/Toy-Cipher2.md",
                 "mode": "source",
                 "backlinks": true,
@@ -46,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,12 +216,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f0bfd6e66006b99",
+  "active": "c01c2e7005d6f6ee",
   "lastOpenFiles": [
     "0.7. CaS/Toy-Cipher3.md",
-    "Pasted image 20240217161759.png",
-    "0.4. Excalidraw/CaS/CaS 240126.md",
     "0.7. CaS/Toy-Cipher2.md",
+    "0.4. Excalidraw/CaS/CaS 240126.md",
+    "Pasted image 20240217161759.png",
     "Pasted image 20240217155041.png",
     "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md",
     "0.1. C Programming/Crypto-coding.md",
