@@ -8,6 +8,50 @@ static const u8 SBOX_4BIT[16] = {
 	0xCU, 0xBU, 0x6U, 0x0U, 0x5U, 0x1U, 0x3U, 0x7U
 };
 ```
+
+For input $x$ and output $S(x)$, $(\alpha\cdot x)\oplus(\beta\cdot S(x))=0$
+```text
+   β 00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F 
+ α +------------------------------------------------
+00 |  8  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+01 |  0  2 -4 -2 -2  0 -2  0  0 -2  0 -2  2  0 -2  4 
+02 |  0  0  2 -2  4  0 -2 -2 -2 -2  0 -4 -2  2  0  0 
+03 |  0  2  2  0 -2  4 -4 -2  2  0  0  2  0  2  2  0 
+04 |  0  4  0  4  0  0  0  0 -2  2  2 -2 -2 -2  2  2 
+05 |  0 -2  0 -2 -2  0  2 -4 -2  0 -2  0  0 -2  4  2 
+06 |  0  0 -2  2  0  0 -2  2 -4 -4 -2  2  0  0  2 -2 
+07 |  0  2  2  0  2 -4  0 -2  0 -2  2  4  2  0  0  2 
+08 |  0  2  0 -2  0  2  0 -2 -4  2  0  2  0 -2 -4 -2 
+09 |  0  0 -4  0  2  2  2 -2  0  0  4  0  2  2  2 -2 
+0A |  0  2 -2  0  4  2  2  0  2  0 -4  2 -2  0  0  2 
+0B |  0  0 -2 -2  2 -2 -4  0  2  2  0  0  0 -4  2 -2 
+0C |  0 -2  0  2  0  2  0 -2  2 -4  2  0 -2 -4 -2  0 
+0D |  0 -4  0  0  2  2 -2  2 -2  2  2  2  0  0  0  4 
+0E |  0  2  2 -4  0  2  2  4  0 -2  2  0  0 -2  2  0 
+0F |  0  0 -2 -2 -2 -2  0  0  0  0  2  2 -6  2  0  0
+```
+$$
+(\texttt{0xF}\cdot x)\oplus(\texttt{0xC}\cdot S(x))=0
+$$
+$$
+(\texttt{0b1111}\cdot x)\oplus(\texttt{0b1100}\cdot S(x))=0
+$$
+For $y=S(x)$,
+$$
+(x_3\oplus x_2\oplus x_1\oplus x_0)\oplus (y_3\oplus y_2)=0
+$$
+$$
+x_3\oplus x_2\oplus x_1\oplus x_0=y_3\oplus y_2
+$$
+Note that $p=2/16=1/8=0.125$
+
+| α | β | bias | Expression | Probability |
+| ---- | ---- | ---- | ---- | ---- |
+| $\texttt{0xF=0b1111}$ | $\texttt{0xC=0b1100}$ | -6 | $x_3\oplus x_2\oplus x_1\oplus x_0=y_3\oplus y_2$ | $\frac{2}{16}=0.125$ |
+| $\texttt{0xD=0b1101}$ | $\texttt{0xF=0b1111}$ | 4 | $x_3\oplus x_2\oplus x_0=y_3\oplus y_2\oplus y_1\oplus y_0$ | $\frac{4}{16}=0.25$ |
+| $\texttt{0xC=0b1100}$ | $\texttt{0xD=0b1101}$ | -4 | $x_3\oplus x_2=y_3\oplus y_2\oplus y_0$ | $\frac{4}{16}=0.25$ |
+| $\texttt{0xA=0b1010}$ | $\texttt{0xA=0b1010}$ | -4 | $x_3\oplus x_1=y_3\oplus y_1$ | $\frac{4}{16}=0.25$ |
+
 2. Plaintext-Ciphertext Pairs
 $$
 \texttt{0xDC -> 0xB3 | 0b 1101 1100 -> 0b 1011 0011}
