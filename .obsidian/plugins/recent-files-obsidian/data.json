@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "CO2-HIGHT-Drawing",
-      "path": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
-    },
-    {
-      "basename": "CSE-LEA-Drawing",
-      "path": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
+      "basename": "CaS-GIFT-Drawing",
+      "path": "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md"
     },
     {
       "basename": "CSE-AES-Drawing",
       "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
     },
     {
-      "basename": "CaS-GIFT-Drawing",
-      "path": "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md"
+      "basename": "CO2-HIGHT-Drawing",
+      "path": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
+    },
+    {
+      "basename": "Quotient and Remainder",
+      "path": "0.4. Excalidraw/Insite/Quotient and Remainder.md"
+    },
+    {
+      "basename": "Effort",
+      "path": "0.4. Excalidraw/Insite/Effort.md"
+    },
+    {
+      "basename": "Efficiency",
+      "path": "0.4. Excalidraw/Insite/Efficiency.md"
+    },
+    {
+      "basename": "Data-Structure-Coding-Drawing",
+      "path": "0.4. Excalidraw/Data-Structure/Data-Structure-Coding-Drawing.md"
+    },
+    {
+      "basename": "Drawing of Data Structure",
+      "path": "0.4. Excalidraw/Data-Structure/Drawing of Data Structure.md"
+    },
+    {
+      "basename": "CaS 240119",
+      "path": "0.4. Excalidraw/CaS/CaS 240119.md"
+    },
+    {
+      "basename": "CaS 240126",
+      "path": "0.4. Excalidraw/CaS/CaS 240126.md"
+    },
+    {
+      "basename": "CSE-LEA-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
     },
     {
       "basename": "Toy-Cipher3",
@@ -23,10 +51,6 @@
     {
       "basename": "Toy-Cipher2",
       "path": "0.7. CaS/Toy-Cipher2.md"
-    },
-    {
-      "basename": "CaS 240126",
-      "path": "0.4. Excalidraw/CaS/CaS 240126.md"
     },
     {
       "basename": "2024-02-02 CaS Study 4",
@@ -153,24 +177,8 @@
       "path": "2024/2 February 2024/2024-02-12 CO2 Meeting 2.md"
     },
     {
-      "basename": "Data-Structure-Coding-Drawing",
-      "path": "0.4. Excalidraw/Data-Structure/Data-Structure-Coding-Drawing.md"
-    },
-    {
-      "basename": "Drawing of Data Structure",
-      "path": "0.4. Excalidraw/Data-Structure/Drawing of Data Structure.md"
-    },
-    {
       "basename": "Drawing of CPU and GPU",
       "path": "0.4. Excalidraw/Drawing of CPU and GPU.md"
-    },
-    {
-      "basename": "Quotient and Remainder",
-      "path": "0.4. Excalidraw/Insite/Quotient and Remainder.md"
-    },
-    {
-      "basename": "Efficiency",
-      "path": "0.4. Excalidraw/Insite/Efficiency.md"
     },
     {
       "basename": "2024-01-12 CaS Study 1",
@@ -191,14 +199,6 @@
     {
       "basename": "Ollama",
       "path": "0.3. Artificial Intelligence/Ollama.md"
-    },
-    {
-      "basename": "Functions-in-C-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md"
-    },
-    {
-      "basename": "Basic-C-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
     }
   ],
   "omittedPaths": [],
