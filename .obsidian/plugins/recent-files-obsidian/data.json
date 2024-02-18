@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "CO2-HIGHT-Drawing",
+      "path": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
+    },
+    {
+      "basename": "CSE-LEA-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
+    },
+    {
+      "basename": "CSE-AES-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
+    },
+    {
       "basename": "CaS-GIFT-Drawing",
       "path": "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md"
     },
@@ -161,10 +173,6 @@
       "path": "0.4. Excalidraw/Insite/Efficiency.md"
     },
     {
-      "basename": "CO2-HIGHT-Drawing",
-      "path": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
-    },
-    {
       "basename": "2024-01-12 CaS Study 1",
       "path": "2024/1 January 2024/2024-01-12 CaS Study 1.md"
     },
@@ -175,10 +183,6 @@
     {
       "basename": "Git-Drawing",
       "path": "0.4. Excalidraw/Git-Drawing.md"
-    },
-    {
-      "basename": "CSE-AES-Drawing",
-      "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
     },
     {
       "basename": "CS-Drawing",
@@ -195,10 +199,6 @@
     {
       "basename": "Basic-C-Drawing",
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
-    },
-    {
-      "basename": "Compiler-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
     }
   ],
   "omittedPaths": [],
