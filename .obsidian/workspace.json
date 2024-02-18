@@ -26,9 +26,12 @@
             "id": "2f0bfd6e66006b99",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md"
+                "file": "0.7. CaS/Toy-Cipher3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -138,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md",
+                "file": "0.7. CaS/Toy-Cipher3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md",
+                "file": "0.7. CaS/Toy-Cipher3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md"
+                "file": "0.7. CaS/Toy-Cipher3.md"
               }
             }
           },
@@ -215,6 +218,9 @@
   },
   "active": "2f0bfd6e66006b99",
   "lastOpenFiles": [
+    "0.7. CaS/Toy-Cipher2.md",
+    "0.7. CaS/Toy-Cipher3.md",
+    "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md",
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
     "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
     "0.4. Excalidraw/Insite/Quotient and Remainder.md",
@@ -225,9 +231,6 @@
     "0.4. Excalidraw/CaS/CaS 240119.md",
     "0.4. Excalidraw/CaS/CaS 240126.md",
     "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
-    "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md",
-    "0.7. CaS/Toy-Cipher3.md",
-    "0.7. CaS/Toy-Cipher2.md",
     "2024/1 January 2024/2024-02-02 CaS Study 4.md",
     "Pasted image 20240217173336.png",
     "Pasted image 20240217173139.png",
