@@ -33,6 +33,16 @@
             }
           },
           {
+            "id": "3bc15f19c518f953",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
+              }
+            }
+          },
+          {
             "id": "9e0ab52ab9516922",
             "type": "leaf",
             "state": {
@@ -56,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
+                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
+                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
+                "file": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
               }
             }
           },
@@ -214,8 +224,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a3c00af89f573f9",
+  "active": "3bc15f19c518f953",
   "lastOpenFiles": [
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
     "0.7. CaS/Toy-Cipher3.md",
     "0.7. CaS/Toy-Cipher2.md",
@@ -251,7 +262,6 @@
     "Pasted Image/Pasted Image 20240122212638_607.png",
     "Pasted Image/Pasted Image 20240122215005_755.png",
     "Pasted Image/Pasted Image 20240122215140_767.png",
-    "Pasted Image/Drawing 2024-02-17 15.20.58.excalidraw.md",
     "Pasted Image/C - CraftCodeLab.canvas",
     "Pasted Image/The 2nd Brain.canvas",
     "0.4. Excalidraw/Data-Structure",
