@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Basic-C-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
+    },
+    {
+      "basename": "Compiler-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
+    },
+    {
       "basename": "Toy-Cipher3",
       "path": "0.7. CaS/Toy-Cipher3.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Git-Drawing",
       "path": "0.4. Excalidraw/Git-Drawing.md"
-    },
-    {
-      "basename": "CS-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
-    },
-    {
-      "basename": "Ollama",
-      "path": "0.3. Artificial Intelligence/Ollama.md"
     }
   ],
   "omittedPaths": [],

@@ -26,12 +26,9 @@
             "id": "2f0bfd6e66006b99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "0.7. CaS/Toy-Cipher3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
               }
             }
           },
@@ -142,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.7. CaS/Toy-Cipher3.md",
+                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.7. CaS/Toy-Cipher3.md",
+                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.7. CaS/Toy-Cipher3.md"
+                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
               }
             }
           },
@@ -217,12 +214,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f0bfd6e66006b99",
+  "active": "9a3c00af89f573f9",
   "lastOpenFiles": [
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
+    "0.7. CaS/Toy-Cipher3.md",
     "0.7. CaS/Toy-Cipher2.md",
     "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md",
     "0.4. Excalidraw/CaS/CaS 240126.md",
-    "0.7. CaS/Toy-Cipher3.md",
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
     "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
     "0.4. Excalidraw/Insite/Quotient and Remainder.md",
@@ -256,7 +254,6 @@
     "Pasted Image/Drawing 2024-02-17 15.20.58.excalidraw.md",
     "Pasted Image/C - CraftCodeLab.canvas",
     "Pasted Image/The 2nd Brain.canvas",
-    "2024/1 January 2024/2024-01-19 CaS Study2.md",
     "0.4. Excalidraw/Data-Structure",
     "2024/2 February 2024",
     "Excalidraw/lib/presentation-templates.excalidrawlib",
