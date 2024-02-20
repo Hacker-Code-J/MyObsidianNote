@@ -21,19 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "2f0bfd6e66006b99",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
+                "file": "0.1. C Programming/Crypto-coding.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
+                "file": "0.1. C Programming/Crypto-coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
+                "file": "0.1. C Programming/Crypto-coding.md"
               }
             }
           },
@@ -190,11 +179,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f0bfd6e66006b99",
+  "active": "9a3c00af89f573f9",
   "lastOpenFiles": [
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
+    "0.1. C Programming/GCC Optimization.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
     "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md",
     "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
     "0.7. CaS/Toy-Cipher3.md",
@@ -221,7 +211,6 @@
     "0.7. CSE/Intern/LEA.md",
     "0.7. CSE/CO2.md",
     "0.4. Excalidraw/Drawing of AES.md",
-    "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md",
     "Pasted image 20240217161759.png",
     "Pasted image 20240217155041.png",
     "Pasted Image/Pasted Image 20240110131122_116.png",
