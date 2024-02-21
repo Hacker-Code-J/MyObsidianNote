@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "CSE-BIGINT-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
+    },
+    {
+      "basename": "LEA",
+      "path": "0.7. CSE/Intern/LEA.md"
+    },
+    {
+      "basename": "Pointer-in-C-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md"
+    },
+    {
       "basename": "GCC Optimization",
       "path": "0.1. C Programming/GCC Optimization.md"
     },
@@ -97,10 +109,6 @@
       "path": "1.1. AES/1.1.0. Overview of AES.md"
     },
     {
-      "basename": "LEA",
-      "path": "0.7. CSE/Intern/LEA.md"
-    },
-    {
       "basename": "Drawing of AES",
       "path": "0.4. Excalidraw/Drawing of AES.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2024-02-12 CO2 Meeting 2",
       "path": "2024/2 February 2024/2024-02-12 CO2 Meeting 2.md"
-    },
-    {
-      "basename": "Drawing of CPU and GPU",
-      "path": "0.4. Excalidraw/Drawing of CPU and GPU.md"
-    },
-    {
-      "basename": "2024-01-12 CaS Study 1",
-      "path": "2024/1 January 2024/2024-01-12 CaS Study 1.md"
     }
   ],
   "omittedPaths": [],
