@@ -5,6 +5,18 @@
       "path": "0.4. Excalidraw/CaS/CaS 240223.md"
     },
     {
+      "basename": "CaS-study-240223",
+      "path": "0.7. CaS/CaS-study-240223.md"
+    },
+    {
+      "basename": "CaS 240126",
+      "path": "0.4. Excalidraw/CaS/CaS 240126.md"
+    },
+    {
+      "basename": "CaS 240119",
+      "path": "0.4. Excalidraw/CaS/CaS 240119.md"
+    },
+    {
       "basename": "Toy-Cipher3",
       "path": "0.7. CaS/Toy-Cipher3.md"
     },
@@ -73,10 +85,6 @@
       "path": "0.7. CaS/Toy-Cipher2.md"
     },
     {
-      "basename": "CaS 240126",
-      "path": "0.4. Excalidraw/CaS/CaS 240126.md"
-    },
-    {
       "basename": "CSE-AES-Drawing",
       "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
     },
@@ -99,10 +107,6 @@
     {
       "basename": "Drawing of Data Structure",
       "path": "0.4. Excalidraw/Data-Structure/Drawing of Data Structure.md"
-    },
-    {
-      "basename": "CaS 240119",
-      "path": "0.4. Excalidraw/CaS/CaS 240119.md"
     },
     {
       "basename": "CSE-LEA-Drawing",
@@ -195,10 +199,6 @@
     {
       "basename": "The 2nd Brain",
       "path": "Pasted Image/The 2nd Brain.canvas"
-    },
-    {
-      "basename": "2024-01-19 CaS Study2",
-      "path": "2024/1 January 2024/2024-01-19 CaS Study2.md"
     }
   ],
   "omittedPaths": [],

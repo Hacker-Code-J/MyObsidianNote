@@ -28,15 +28,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.4. Excalidraw/CaS/CaS 240223.md",
+                "file": "0.7. CaS/CaS-study-240223.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "331eb58e58907110",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.4. Excalidraw/CaS/CaS 240223.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -193,10 +204,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd20fa55674d869a",
+  "active": "9a3c00af89f573f9",
   "lastOpenFiles": [
-    "0.7. CaS/Toy-Cipher3.md",
+    "0.7. CaS/CaS-study-240223.md",
     "0.4. Excalidraw/CaS/CaS 240223.md",
+    "0.4. Excalidraw/CaS/CaS 240126.md",
+    "0.4. Excalidraw/CaS/CaS 240119.md",
+    "0.7. CaS/Toy-Cipher3.md",
     "Tips/Install Font in Debian.md",
     "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
     "0.1. C Programming/Crypto-coding.md",
@@ -214,13 +228,10 @@
     "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md",
     "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
     "0.7. CaS/Toy-Cipher2.md",
-    "0.4. Excalidraw/CaS/CaS 240126.md",
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
     "0.4. Excalidraw/Insite/Quotient and Remainder.md",
     "0.4. Excalidraw/Insite/Effort.md",
     "0.4. Excalidraw/Insite/Efficiency.md",
-    "0.4. Excalidraw/Data-Structure/Data-Structure-Coding-Drawing.md",
-    "0.4. Excalidraw/Data-Structure/Drawing of Data Structure.md",
     "Pasted image 20240217173336.png",
     "Pasted image 20240217173139.png",
     "Pasted image 20240217172509.png",
