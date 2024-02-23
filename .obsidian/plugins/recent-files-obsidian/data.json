@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Install Font in Debian",
+      "path": "Tips/Install Font in Debian.md"
+    },
+    {
       "basename": "CSE-BIGINT-Drawing",
       "path": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-01-26 CaS Study3",
       "path": "2024/1 January 2024/2024-01-26 CaS Study3.md"
-    },
-    {
-      "basename": "2024-02-08 CO2 Meeting 1",
-      "path": "2024/2 February 2024/2024-02-08 CO2 Meeting 1.md"
     }
   ],
   "omittedPaths": [],
