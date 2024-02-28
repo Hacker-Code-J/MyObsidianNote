@@ -41,7 +41,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "0.4. Excalidraw/CaS/CaS 240223.md"
+                "file": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
               }
             }
           }
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/CaS/CaS 240223.md",
+                "file": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/CaS/CaS 240223.md",
+                "file": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/CaS/CaS 240223.md"
+                "file": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
               }
             }
           },
@@ -204,10 +203,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a3c00af89f573f9",
+  "active": "331eb58e58907110",
   "lastOpenFiles": [
-    "0.7. CaS/CaS-study-240223.md",
     "0.4. Excalidraw/CaS/CaS 240223.md",
+    "0.7. CaS/CaS-study-240223.md",
     "0.4. Excalidraw/CaS/CaS 240126.md",
     "0.4. Excalidraw/CaS/CaS 240119.md",
     "0.7. CaS/Toy-Cipher3.md",
