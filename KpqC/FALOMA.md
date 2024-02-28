@@ -20,13 +20,13 @@
 CODE (from coding theory) a.k.a. Error-Correcting Code
 
 Encoding $F_2^k\to F_2^n$
-Linear Code: $k$dim sub-space
+Linear Code: $k$-dim sub-space
 
 Linear Code $C = [n,k]$
 
 Distance between Two Vectors $d_H(x,y)=w_H(x-y)$
 
-
+SDP (Syndrome Decoding Problem)
 
 
 
