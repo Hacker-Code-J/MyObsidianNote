@@ -10,8 +10,12 @@
 
 ### Coding Theory
 
+- Hamming Code
+- Linear Code
 
 
+> [!theorem] Theorem
+> Any $[n,k,d]$ linear code can correct up to $t=\floor\set{(d-1)/2}$ errors (by the nearest neighbor decoding)
 
 
 
