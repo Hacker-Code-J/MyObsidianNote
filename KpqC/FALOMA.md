@@ -28,6 +28,17 @@ Distance between Two Vectors $d_H(x,y)=w_H(x-y)$
 
 SDP (Syndrome Decoding Problem)
 
+### Goppa Code
+
+Binary Goppa Code
+- Support Set
+- Goppa Polynomial
+
+### Goppa-SDP-based schemes
+
+
+
+
 
 
 
