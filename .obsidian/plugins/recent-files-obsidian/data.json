@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "REDOG",
+      "path": "KpqC/REDOG.md"
+    },
+    {
+      "basename": "1.1. Mathematical Induction",
+      "path": "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
+    },
+    {
+      "basename": "1.2. The Binomial Theorem",
+      "path": "2.0. Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md"
+    },
+    {
+      "basename": "2.3. The Euclidean Algorithm",
+      "path": "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md"
+    },
+    {
+      "basename": "2.1. The Division Algorithm",
+      "path": "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md"
+    },
+    {
+      "basename": "Install Font in Debian",
+      "path": "Tips/Install Font in Debian.md"
+    },
+    {
       "basename": "CSE-BIGINT-Drawing",
       "path": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
     },
@@ -23,10 +47,6 @@
     {
       "basename": "Toy-Cipher3",
       "path": "0.7. CaS/Toy-Cipher3.md"
-    },
-    {
-      "basename": "Install Font in Debian",
-      "path": "Tips/Install Font in Debian.md"
     },
     {
       "basename": "Crypto-coding",
@@ -179,26 +199,6 @@
     {
       "basename": "Pasted Image 20240108005332_323",
       "path": "Pasted Image/Pasted Image 20240108005332_323.png"
-    },
-    {
-      "basename": "Pasted Image 20240110130725_546",
-      "path": "Pasted Image/Pasted Image 20240110130725_546.png"
-    },
-    {
-      "basename": "Pasted Image 20240110131154_119",
-      "path": "Pasted Image/Pasted Image 20240110131154_119.png"
-    },
-    {
-      "basename": "Pasted Image 20240110131444_135",
-      "path": "Pasted Image/Pasted Image 20240110131444_135.png"
-    },
-    {
-      "basename": "Pasted Image 20240122214950_747",
-      "path": "Pasted Image/Pasted Image 20240122214950_747.png"
-    },
-    {
-      "basename": "The 2nd Brain",
-      "path": "Pasted Image/The 2nd Brain.canvas"
     }
   ],
   "omittedPaths": [],
