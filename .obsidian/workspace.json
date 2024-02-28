@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KpqC/REDOG.md",
+                "file": "KpqC/FALOMA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KpqC/REDOG.md",
+                "file": "KpqC/FALOMA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KpqC/REDOG.md",
+                "file": "KpqC/FALOMA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KpqC/REDOG.md"
+                "file": "KpqC/FALOMA.md"
               }
             }
           },
@@ -209,6 +209,7 @@
   "active": "331eb58e58907110",
   "lastOpenFiles": [
     "KpqC/REDOG.md",
+    "KpqC/FALOMA.md",
     "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
     "2.0. Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
     "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md",
@@ -234,7 +235,6 @@
     "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md",
     "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md",
-    "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
     "Pasted image 20240217173336.png",
     "Pasted image 20240217173139.png",
     "Pasted image 20240217172509.png",
