@@ -23,7 +23,28 @@
             }
           },
           {
-            "id": "af91c4948fda20ce",
+            "id": "a6d3b450cdae4cb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f12e70ea595e6c65",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1535a8b877320c6b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -33,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,36 +211,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af91c4948fda20ce",
+  "active": "1535a8b877320c6b",
   "lastOpenFiles": [
     "0.1. C Programming/Crypto-coding.md",
-    "1.0. ECC/Elliptic Curves.md",
-    "1.0. ECC/ECC.md",
-    "0.7. CaS/CaS-study-240223.md",
-    "KpqC/FALOMA.md",
-    "KpqC/REDOG.md",
-    "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
-    "2.0. Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
-    "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.3. The Euclidean Algorithm.md",
-    "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md",
-    "Tips/Install Font in Debian.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.1. Data Types.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.2. 'struct'.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md",
     "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
-    "KpqC",
-    "0.4. Excalidraw/CaS/CaS 240223.md",
-    "0.4. Excalidraw/CaS/CaS 240126.md",
-    "0.4. Excalidraw/CaS/CaS 240119.md",
-    "0.7. CaS/Toy-Cipher3.md",
-    "1.1. AES/1.1.3. ShiftRows.md",
-    "1.1. AES/1.1.0. Overview of AES.md",
-    "1.1. AES/1.1.1.2. SubWord.md",
-    "1.1. AES/1.1.1.1. RotWord.md",
-    "0.7. CSE/Intern/LEA.md",
-    "0.4. Excalidraw/CSE/CSE-BIGNUMBER_DRAWING.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md",
-    "0.1. C Programming/GCC Optimization.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.3. Vectors.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/2. Setup/2.1. Tool Installation.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.9. Intermediate Memory.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.7. Match.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.6. Repetition using Loops.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.4. 'println' Macro.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.2. Variables.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.1. 'enum'.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/B. Activity/B.2. Vectors.md",
+    "0.1. Rust Programming/Rust 101 Crash Course/B. Activity/B.1. 'impl'.md",
+    "0.1. Rust Programming/Rust-High-Performance/Rust-High-Performance.md",
+    "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md",
+    "0.4. Excalidraw/Drawing of Nested Loops.md",
+    "0.4. Excalidraw/Drawing of Hash.md",
+    "0.4. Excalidraw/Drawing of CPU and GPU.md",
+    "0.4. Excalidraw/Drawing of Computer Structure.md",
+    "0.4. Excalidraw/Drawing of AES.md",
+    "0.4. Excalidraw/0.4.0 Metacognition.md",
+    "0.4. Excalidraw/0.4.1. bigint (excalidraw).md",
+    "Pasted Image/Pasted image 20240217151743.png",
+    "Pasted Image/The 2nd Brain.canvas",
+    "Pasted Image/C - CraftCodeLab.canvas",
     "Pasted image 20240217173336.png",
+    "KpqC",
     "Pasted image 20240217173139.png",
     "Pasted image 20240217172509.png",
     "Pasted image 20240217172101.png",
@@ -228,9 +252,6 @@
     "Pasted Image/Pasted Image 20240110131122_116.png",
     "Pasted Image/Pasted Image 20240122212638_607.png",
     "Pasted Image/Pasted Image 20240122215005_755.png",
-    "Pasted Image/Pasted Image 20240122215140_767.png",
-    "Pasted Image/C - CraftCodeLab.canvas",
-    "Pasted Image/The 2nd Brain.canvas",
     "0.4. Excalidraw/Data-Structure",
     "2024/2 February 2024",
     "Excalidraw/lib/presentation-templates.excalidrawlib",
