@@ -7,11 +7,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiLetsencrypt",
       "FasImage",
       "SiGoogleanalytics",
       "SiSecurityscorecard",
-      "TiMath",
-      "TiLockCog"
+      "TiMath"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,5 +53,6 @@
   "0.6. Git": "SiGit",
   "0.7. CSE": "SiSecurityscorecard",
   "0.7. CaS": "SiGoogleanalytics",
-  "Pasted Image": "FasImage"
+  "Pasted Image": "FasImage",
+  "0.0. Cryptol": "SiLetsencrypt"
 }
