@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "LfC 240305",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240305.md"
+    },
+    {
+      "basename": "Rust 101 Crash Course",
+      "path": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md"
+    },
+    {
       "basename": "prompt",
       "path": "0.0. Cryptol/prompt.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Crypto-coding",
       "path": "0.1. C Programming/Crypto-coding.md"
-    },
-    {
-      "basename": "Rust 101 Crash Course",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md"
     },
     {
       "basename": "1.1. Data Types",
@@ -195,10 +199,6 @@
     {
       "basename": "CaS-study-240223",
       "path": "0.7. CaS/CaS-study-240223.md"
-    },
-    {
-      "basename": "REDOG",
-      "path": "KpqC/REDOG.md"
     }
   ],
   "omittedPaths": [],
