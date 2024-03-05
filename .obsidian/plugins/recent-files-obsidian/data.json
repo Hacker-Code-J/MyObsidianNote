@@ -5,6 +5,14 @@
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md"
     },
     {
+      "basename": "2.1. The Division Algorithm",
+      "path": "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md"
+    },
+    {
+      "basename": "Chapter 2. Divisibility Theory in the Integer",
+      "path": "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/Chapter 2. Divisibility Theory in the Integer.md"
+    },
+    {
       "basename": "ACP 240304",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240304.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "JOB",
       "path": "JOB.md"
-    },
-    {
-      "basename": "1.1. Endian and Two's Complement",
-      "path": "0.1. C Programming/C-Core-NOTE/1. Basic C/1.1. Endian and Two's Complement.md"
-    },
-    {
-      "basename": "Elliptic Curves",
-      "path": "1.0. ECC/Elliptic Curves.md"
     }
   ],
   "omittedPaths": [],
