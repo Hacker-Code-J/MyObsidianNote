@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240305.md",
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240305.md",
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240305.md",
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240305.md"
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md"
               }
             }
           },
@@ -196,13 +196,15 @@
   },
   "active": "a6d3b450cdae4cb8",
   "lastOpenFiles": [
+    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240304.md",
+    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
+    "0.0. Cryptol/Draft.md",
     "2024-Spring/Logic-for-Comunication/LfC 240305.md",
     "2024-Spring/Logic-for-Comunication",
     "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
     "0.0. Cryptol/prompt.md",
     "0.0. Cryptol/Drawing 2024-03-04 20.25.43.excalidraw.md",
     "0.0. Cryptol",
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240304.md",
     "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
     "2024-Spring/Advanced-Cryptology-and-Practice",
     "2024-Spring",
@@ -224,8 +226,6 @@
     "0.1. Rust Programming/Rust-High-Performance/Rust-High-Performance.md",
     "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md",
     "0.4. Excalidraw/Drawing of Nested Loops.md",
-    "0.4. Excalidraw/Drawing of Hash.md",
-    "0.4. Excalidraw/Drawing of CPU and GPU.md",
     "Pasted Image/Pasted image 20240217151743.png",
     "Pasted Image/The 2nd Brain.canvas",
     "Pasted Image/C - CraftCodeLab.canvas",
