@@ -40,7 +40,6 @@
   "0.0. MyThinkPad": "SiMusicbrainz",
   "0.3. Artificial Intelligence": "FasRobot",
   "0.1. C Programming": "SiC",
-  "0.1. Rust Programming": "SiRust",
   "0.2. Computer Science": "FasComputer",
   "0.4. Excalidraw": "FasPencil",
   "0.5. Editor": "SiNeovim",
@@ -54,5 +53,6 @@
   "0.7. CSE": "SiSecurityscorecard",
   "0.7. CaS": "SiGoogleanalytics",
   "Pasted Image": "FasImage",
-  "0.0. Cryptol": "SiLetsencrypt"
+  "0.0. Cryptol": "SiLetsencrypt",
+  "0.1 Rust Programming": "SiRust"
 }

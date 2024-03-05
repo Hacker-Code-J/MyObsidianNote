@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "KMU UnderGrad MOC",
+      "path": "0.0 KMU UnderGrad MOC/KMU UnderGrad MOC.md"
+    },
+    {
       "basename": "ACP 240305",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md"
     },
@@ -30,7 +34,7 @@
     },
     {
       "basename": "Rust 101 Crash Course",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md"
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md"
     },
     {
       "basename": "prompt",
@@ -50,63 +54,63 @@
     },
     {
       "basename": "1.1. Data Types",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.1. Data Types.md"
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.1. Data Types.md"
     },
     {
       "basename": "1.10. Ownership",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md"
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md"
     },
     {
       "basename": "3.2. 'struct'",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.2. 'struct'.md"
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/3. Working with Data/3.2. 'struct'.md"
     },
     {
       "basename": "3.3. Tuples",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md"
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md"
     },
     {
       "basename": "A.3. Vectors",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.3. Vectors.md"
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/A. Demo/A.3. Vectors.md"
     },
     {
       "basename": "2.1. Tool Installation",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/2. Setup/2.1. Tool Installation.md"
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/2. Setup/2.1. Tool Installation.md"
     },
     {
       "basename": "1.9. Intermediate Memory",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.9. Intermediate Memory.md"
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.9. Intermediate Memory.md"
     },
     {
       "basename": "1.7. Match",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.7. Match.md"
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.7. Match.md"
     },
     {
       "basename": "1.6. Repetition using Loops",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.6. Repetition using Loops.md"
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.6. Repetition using Loops.md"
     },
     {
       "basename": "1.4. 'println' Macro",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.4. 'println' Macro.md"
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.4. 'println' Macro.md"
     },
     {
       "basename": "1.2. Variables",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.2. Variables.md"
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.2. Variables.md"
     },
     {
       "basename": "3.1. 'enum'",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.1. 'enum'.md"
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/3. Working with Data/3.1. 'enum'.md"
     },
     {
       "basename": "B.2. Vectors",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/B. Activity/B.2. Vectors.md"
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/B. Activity/B.2. Vectors.md"
     },
     {
       "basename": "B.1. 'impl'",
-      "path": "0.1. Rust Programming/Rust 101 Crash Course/B. Activity/B.1. 'impl'.md"
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/B. Activity/B.1. 'impl'.md"
     },
     {
       "basename": "Rust-High-Performance",
-      "path": "0.1. Rust Programming/Rust-High-Performance/Rust-High-Performance.md"
+      "path": "0.1 Rust Programming/Rust-High-Performance/Rust-High-Performance.md"
     },
     {
       "basename": "Rust-101-Crash-Fundamentals-Draw",
@@ -195,10 +199,6 @@
     {
       "basename": "Question Prompt",
       "path": "Question Prompt.md"
-    },
-    {
-      "basename": "Github SSH Setup",
-      "path": "Github SSH Setup.md"
     }
   ],
   "omittedPaths": [],

@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
+                "file": "0.0 KMU UnderGrad MOC/KMU UnderGrad MOC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
+                "file": "0.0 KMU UnderGrad MOC/KMU UnderGrad MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
+                "file": "0.0 KMU UnderGrad MOC/KMU UnderGrad MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md"
+                "file": "0.0 KMU UnderGrad MOC/KMU UnderGrad MOC.md"
               }
             }
           },
@@ -208,15 +208,17 @@
   },
   "active": "a6d3b450cdae4cb8",
   "lastOpenFiles": [
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP-240305-Drawing.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
+    "0.0 KMU UnderGrad MOC/KMU UnderGrad MOC.md",
+    "0.0 KMU UnderGrad MOC",
+    "2024-Spring/Advanced-Cryptology-and-Practice/ACP-240305-Drawing.md",
     "0.0. Cryptol/Draft.md",
     "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md",
     "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/Chapter 2. Divisibility Theory in the Integer.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240304.md",
     "2024-Spring/Logic-for-Comunication/LfC 240305.md",
     "2024-Spring/Logic-for-Comunication",
-    "0.1. Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
+    "0.1 Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
     "0.0. Cryptol/prompt.md",
     "0.0. Cryptol/Drawing 2024-03-04 20.25.43.excalidraw.md",
     "0.0. Cryptol",
@@ -224,20 +226,19 @@
     "2024-Spring/Advanced-Cryptology-and-Practice",
     "2024-Spring",
     "0.1. C Programming/Crypto-coding.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.1. Data Types.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.2. 'struct'.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/A. Demo/A.3. Vectors.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/2. Setup/2.1. Tool Installation.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.9. Intermediate Memory.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.7. Match.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.6. Repetition using Loops.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.4. 'println' Macro.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.2. Variables.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.1. 'enum'.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/B. Activity/B.2. Vectors.md",
-    "0.1. Rust Programming/Rust 101 Crash Course/B. Activity/B.1. 'impl'.md",
+    "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.1. Data Types.md",
+    "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md",
+    "0.1 Rust Programming/Rust 101 Crash Course/3. Working with Data/3.2. 'struct'.md",
+    "0.1 Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md",
+    "0.1 Rust Programming/Rust 101 Crash Course/A. Demo/A.3. Vectors.md",
+    "0.1 Rust Programming/Rust 101 Crash Course/2. Setup/2.1. Tool Installation.md",
+    "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.9. Intermediate Memory.md",
+    "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.7. Match.md",
+    "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.6. Repetition using Loops.md",
+    "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.4. 'println' Macro.md",
+    "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.2. Variables.md",
+    "0.1 Rust Programming/Rust 101 Crash Course/3. Working with Data/3.1. 'enum'.md",
+    "0.1 Rust Programming/Rust 101 Crash Course/B. Activity/B.2. Vectors.md",
     "Pasted Image/Pasted image 20240217151743.png",
     "Pasted Image/The 2nd Brain.canvas",
     "Pasted Image/C - CraftCodeLab.canvas",
@@ -255,7 +256,6 @@
     "2024/2 February 2024",
     "Excalidraw/lib/presentation-templates.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 61605.crdownload",
-    "Excalidraw/lib/scrum-board.excalidrawlib",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
