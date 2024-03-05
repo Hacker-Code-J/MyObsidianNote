@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -209,8 +208,9 @@
   },
   "active": "a6d3b450cdae4cb8",
   "lastOpenFiles": [
-    "0.0. Cryptol/Draft.md",
+    "2024-Spring/Advanced-Cryptology-and-Practice/ACP-240305-Drawing.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
+    "0.0. Cryptol/Draft.md",
     "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md",
     "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/Chapter 2. Divisibility Theory in the Integer.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240304.md",
@@ -238,7 +238,6 @@
     "0.1. Rust Programming/Rust 101 Crash Course/3. Working with Data/3.1. 'enum'.md",
     "0.1. Rust Programming/Rust 101 Crash Course/B. Activity/B.2. Vectors.md",
     "0.1. Rust Programming/Rust 101 Crash Course/B. Activity/B.1. 'impl'.md",
-    "0.1. Rust Programming/Rust-High-Performance/Rust-High-Performance.md",
     "Pasted Image/Pasted image 20240217151743.png",
     "Pasted Image/The 2nd Brain.canvas",
     "Pasted Image/C - CraftCodeLab.canvas",
