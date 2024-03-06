@@ -39,12 +39,9 @@
             "id": "c494e70069500496",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "0.0. Cryptol/Draft.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
               }
             }
           }
@@ -131,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0. Cryptol/Draft.md",
+                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0. Cryptol/Draft.md",
+                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0. Cryptol/Draft.md"
+                "file": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
               }
             }
           },
@@ -208,11 +205,17 @@
   },
   "active": "c494e70069500496",
   "lastOpenFiles": [
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
+    "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md",
+    "0.4. Excalidraw/Drawing of AES.md",
+    "0.4. Excalidraw/Drawing of CPU and GPU.md",
+    "0.4. Excalidraw/Drawing of Computer Structure.md",
+    "0.0. Cryptol/Draft.md",
     "0.0 KMU UnderGrad MOC/KMU UnderGrad MOC.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
     "0.0 KMU UnderGrad MOC",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP-240305-Drawing.md",
-    "0.0. Cryptol/Draft.md",
     "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md",
     "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/Chapter 2. Divisibility Theory in the Integer.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240304.md",
@@ -233,12 +236,6 @@
     "0.1 Rust Programming/Rust 101 Crash Course/A. Demo/A.3. Vectors.md",
     "0.1 Rust Programming/Rust 101 Crash Course/2. Setup/2.1. Tool Installation.md",
     "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.9. Intermediate Memory.md",
-    "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.7. Match.md",
-    "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.6. Repetition using Loops.md",
-    "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.4. 'println' Macro.md",
-    "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.2. Variables.md",
-    "0.1 Rust Programming/Rust 101 Crash Course/3. Working with Data/3.1. 'enum'.md",
-    "0.1 Rust Programming/Rust 101 Crash Course/B. Activity/B.2. Vectors.md",
     "Pasted Image/Pasted image 20240217151743.png",
     "Pasted Image/The 2nd Brain.canvas",
     "Pasted Image/C - CraftCodeLab.canvas",
