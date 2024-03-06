@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0 KMU UnderGrad MOC/KMU UnderGrad MOC.md",
+                "file": "0.0. Cryptol/Draft.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0 KMU UnderGrad MOC/KMU UnderGrad MOC.md",
+                "file": "0.0. Cryptol/Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0 KMU UnderGrad MOC/KMU UnderGrad MOC.md"
+                "file": "0.0. Cryptol/Draft.md"
               }
             }
           },
@@ -206,10 +206,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6d3b450cdae4cb8",
+  "active": "c494e70069500496",
   "lastOpenFiles": [
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
     "0.0 KMU UnderGrad MOC/KMU UnderGrad MOC.md",
+    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
     "0.0 KMU UnderGrad MOC",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP-240305-Drawing.md",
     "0.0. Cryptol/Draft.md",
