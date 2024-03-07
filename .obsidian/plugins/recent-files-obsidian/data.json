@@ -5,6 +5,10 @@
       "path": "2024-Spring/Logic-for-Comunication/LfC 240307.md"
     },
     {
+      "basename": "CaS-study-240223",
+      "path": "0.7. CaS/CaS-study-240223.md"
+    },
+    {
       "basename": "Crypto-coding",
       "path": "0.1. C Programming/Crypto-coding.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "32-bit AES",
       "path": "32-bit AES.md"
-    },
-    {
-      "basename": "Pedantic Compilation in Linux",
-      "path": "GCC/Pedantic Compilation in Linux.md"
     }
   ],
   "omittedPaths": [],
