@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Math - Idea",
+      "path": "0.0. MyThinkPad/Math - Idea.md"
+    },
+    {
       "basename": "Crypto-coding",
       "path": "0.1. C Programming/Crypto-coding.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing of Hash",
       "path": "0.4. Excalidraw/Drawing of Hash.md"
-    },
-    {
-      "basename": "0.4.0 Metacognition",
-      "path": "0.4. Excalidraw/0.4.0 Metacognition.md"
     }
   ],
   "omittedPaths": [],
