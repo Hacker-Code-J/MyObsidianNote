@@ -12,3 +12,4 @@ Abstraction <-> Concretization
 - Assembly
 - C, C++, Rust
 - Java, Go
+- Python, Ruby
