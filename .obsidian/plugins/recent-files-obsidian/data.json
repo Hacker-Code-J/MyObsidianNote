@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "CD 240308",
+      "path": "2024-Spring/Capstone-Design/CD 240308.md"
+    },
+    {
+      "basename": "LfC 240305",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240305.md"
+    },
+    {
+      "basename": "LfC 240307",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240307.md"
+    },
+    {
+      "basename": "ACP 240305",
+      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md"
+    },
+    {
+      "basename": "ACP-240305-Drawing",
+      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP-240305-Drawing.md"
+    },
+    {
       "basename": "1.2. Variables",
       "path": "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.2. Variables.md"
     },
@@ -25,10 +45,6 @@
       "path": "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.3. Functions.md"
     },
     {
-      "basename": "LfC 240307",
-      "path": "2024-Spring/Logic-for-Comunication/LfC 240307.md"
-    },
-    {
       "basename": "CaS-study-240223",
       "path": "0.7. CaS/CaS-study-240223.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "KMU UnderGrad MOC",
       "path": "0.0 KMU UnderGrad MOC/KMU UnderGrad MOC.md"
-    },
-    {
-      "basename": "LfC 240305",
-      "path": "2024-Spring/Logic-for-Comunication/LfC 240305.md"
     },
     {
       "basename": "My Tips",
@@ -93,24 +105,12 @@
       "path": "0.0. Cryptol/Draft.md"
     },
     {
-      "basename": "ACP 240305",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md"
-    },
-    {
-      "basename": "ACP-240305-Drawing",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP-240305-Drawing.md"
-    },
-    {
       "basename": "2.1. The Division Algorithm",
       "path": "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md"
     },
     {
       "basename": "Chapter 2. Divisibility Theory in the Integer",
       "path": "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/Chapter 2. Divisibility Theory in the Integer.md"
-    },
-    {
-      "basename": "ACP 240304",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240304.md"
     },
     {
       "basename": "prompt",
@@ -191,14 +191,6 @@
     {
       "basename": "Drawing of Data Structure",
       "path": "0.4. Excalidraw/Data-Structure/Drawing of Data Structure.md"
-    },
-    {
-      "basename": "Data-Structure-Coding-Drawing",
-      "path": "0.4. Excalidraw/Data-Structure/Data-Structure-Coding-Drawing.md"
-    },
-    {
-      "basename": "I.1. AES Fundamentals",
-      "path": "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md"
     }
   ],
   "omittedPaths": [],
