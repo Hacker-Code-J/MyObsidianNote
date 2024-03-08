@@ -200,8 +200,8 @@ Weak Point ^IlSYlzTL
 		},
 		{
 			"type": "text",
-			"version": 286,
-			"versionNonce": 232663624,
+			"version": 287,
+			"versionNonce": 304082760,
 			"isDeleted": false,
 			"id": "IlSYlzTL",
 			"fillStyle": "solid",
@@ -214,8 +214,8 @@ Weak Point ^IlSYlzTL
 			"y": -91.61468047548517,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 153.1119842529297,
-			"height": 35.36468047548517,
+			"width": 153.086181640625,
+			"height": 35.364680475485166,
 			"seed": 1484250696,
 			"groupIds": [],
 			"frameId": null,
@@ -226,7 +226,7 @@ Weak Point ^IlSYlzTL
 					"type": "arrow"
 				}
 			],
-			"updated": 1709864941958,
+			"updated": 1709872507511,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.29174438038813,
@@ -238,7 +238,7 @@ Weak Point ^IlSYlzTL
 			"containerId": null,
 			"originalText": "Weak Point",
 			"lineHeight": 1.25,
-			"baseline": 25.000000000000007
+			"baseline": 24
 		},
 		{
 			"id": "-GgqvxfV1oFbLSydhotme",
@@ -324,7 +324,7 @@ Weak Point ^IlSYlzTL
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 937,
-		"scrollY": 240.75,
+		"scrollY": 840.75,
 		"zoom": {
 			"value": 1
 		},

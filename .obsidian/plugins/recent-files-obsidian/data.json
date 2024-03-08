@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "LC 24308",
+      "path": "2024-Spring/Leadership-Challenge/LC 24308.md"
+    },
+    {
+      "basename": "Capstone-Design-Drawing",
+      "path": "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md"
+    },
+    {
       "basename": "Set-up Haskell in Linux",
       "path": "0.1 Haskell Programming/Set-up Haskell in Linux.md"
     },
     {
       "basename": "CD 240308",
       "path": "2024-Spring/Capstone-Design/CD 240308.md"
-    },
-    {
-      "basename": "Capstone-Design-Drawing",
-      "path": "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md"
     },
     {
       "basename": "LfC 240305",
@@ -195,10 +199,6 @@
     {
       "basename": "CaS-GIFT-Drawing",
       "path": "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md"
-    },
-    {
-      "basename": "Drawing of Data Structure",
-      "path": "0.4. Excalidraw/Data-Structure/Drawing of Data Structure.md"
     }
   ],
   "omittedPaths": [],
