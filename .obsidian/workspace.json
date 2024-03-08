@@ -34,6 +34,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0430ac4c42243e0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -102,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -195,9 +206,10 @@
   },
   "active": "3f4d8f66189fdc2d",
   "lastOpenFiles": [
+    "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
+    "2024-Spring/Capstone-Design/CD 240308.md",
     "2024-Spring/Logic-for-Comunication/LfC 240305.md",
     "2024-Spring/Logic-for-Comunication/LfC 240307.md",
-    "2024-Spring/Capstone-Design/CD 240308.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240304.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP-240305-Drawing.md",
@@ -222,7 +234,6 @@
     "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md",
     "0.0 KMU UnderGrad MOC",
     "2024-Spring/Logic-for-Comunication",
     "0.0. Cryptol",
