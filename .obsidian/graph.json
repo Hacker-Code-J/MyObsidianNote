@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "LfC 240307",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3003387451171875,
+  "scale": 0.45050811767578125,
   "close": false
 }
