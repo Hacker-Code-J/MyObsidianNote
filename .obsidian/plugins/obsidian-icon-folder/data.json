@@ -7,11 +7,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiHaskell",
       "SiLetsencrypt",
       "FasImage",
       "SiGoogleanalytics",
-      "SiSecurityscorecard",
-      "TiMath"
+      "SiSecurityscorecard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -54,5 +54,6 @@
   "0.7. CaS": "SiGoogleanalytics",
   "Pasted Image": "FasImage",
   "0.0. Cryptol": "SiLetsencrypt",
-  "0.1 Rust Programming": "SiRust"
+  "0.1 Rust Programming": "SiRust",
+  "0.1 Haskell Programming": "SiHaskell"
 }
