@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Rust_Class_2 - Type Inferences",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md"
+    },
+    {
       "basename": "Rust_Class_2 - Types",
       "path": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md"
+    },
+    {
+      "basename": "assert_eq!(,)",
+      "path": "0.1 Rust Programming/Rust-Standard-Library/macro/assert_eq!(,).md"
+    },
+    {
+      "basename": "len()",
+      "path": "0.1 Rust Programming/Rust-Standard-Library/len().md"
     },
     {
       "basename": "Rust_Class_1_2",
@@ -187,18 +199,6 @@
     {
       "basename": "A.3. Vectors",
       "path": "0.1 Rust Programming/Rust 101 Crash Course/A. Demo/A.3. Vectors.md"
-    },
-    {
-      "basename": "2.1. Tool Installation",
-      "path": "0.1 Rust Programming/Rust 101 Crash Course/2. Setup/2.1. Tool Installation.md"
-    },
-    {
-      "basename": "1.9. Intermediate Memory",
-      "path": "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.9. Intermediate Memory.md"
-    },
-    {
-      "basename": "1.4. 'println' Macro",
-      "path": "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.4. 'println' Macro.md"
     }
   ],
   "omittedPaths": [],

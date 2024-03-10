@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md",
+                "file": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md",
+                "file": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md",
+                "file": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md"
+                "file": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md"
               }
             }
           },
@@ -203,9 +203,16 @@
   },
   "active": "ded8eaec3036072c",
   "lastOpenFiles": [
+    "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md",
+    "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md",
+    "0.1 Rust Programming/Rust-Standard-Library/macro/assert_eq!(,).md",
+    "0.1 Rust Programming/Rust-Standard-Library/macro",
+    "0.1 Rust Programming/Rust-Standard-Library/len().md",
+    "0.1 Rust Programming/Rust-Standard-Library/mem",
+    "0.1 Rust Programming/Rust-Standard-Library",
+    "0.1 Rust Programming/Untitled.canvas",
     "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_2.md",
     "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_1.md",
-    "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md",
     "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_4.md",
     "0.1 Rust Programming/Rust-Core-Note/Basic I",
     "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_3.md",
@@ -233,13 +240,7 @@
     "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.1. Data Types.md",
     "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.6. Repetition using Loops.md",
     "0.1 Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
-    "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.7. Match.md",
-    "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.3. Functions.md",
-    "0.7. CaS/CaS-study-240223.md",
     "0.0 KMU UnderGrad MOC",
-    "2024-Spring/Logic-for-Comunication",
-    "0.0. Cryptol",
-    "2024-Spring/Advanced-Cryptology-and-Practice",
     "Pasted Image/Pasted image 20240217151743.png",
     "Pasted Image/The 2nd Brain.canvas",
     "Pasted Image/C - CraftCodeLab.canvas",
