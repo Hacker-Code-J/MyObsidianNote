@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,15 +197,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ded8eaec3036072c",
+  "active": "e201d615dfa5db82",
   "lastOpenFiles": [
-    "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_2.md",
     "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_3.md",
+    "0.1. C Programming/Crypto-coding.md",
+    "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_2.md",
     "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_1.md",
     "0.1 Rust Programming/Rust-Core-Note/Intermediate I",
     "0.1 Rust Programming/Rust-High-Performance/Rust-High-Performance.md",
     "0.1 Rust Programming/0.1. Rust Programming.md",
-    "0.1. C Programming/Crypto-coding.md",
     "0.1 Rust Programming/Rust-Core-Note",
     "0.0. MyThinkPad/Math - Idea.md",
     "0.1. C Programming/0.1.0. GDB.md",
