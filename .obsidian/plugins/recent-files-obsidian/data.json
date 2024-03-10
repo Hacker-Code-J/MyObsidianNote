@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Rust_Class_1_3",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_3.md"
-    },
-    {
-      "basename": "Crypto-coding",
-      "path": "0.1. C Programming/Crypto-coding.md"
+      "basename": "Rust_Class_2 - Types",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md"
     },
     {
       "basename": "Rust_Class_1_2",
@@ -15,6 +11,18 @@
     {
       "basename": "Rust_Class_1_1",
       "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_1.md"
+    },
+    {
+      "basename": "Rust_Class_1_4",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_4.md"
+    },
+    {
+      "basename": "Rust_Class_1_3",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_3.md"
+    },
+    {
+      "basename": "Crypto-coding",
+      "path": "0.1. C Programming/Crypto-coding.md"
     },
     {
       "basename": "Rust-High-Performance",
@@ -191,14 +199,6 @@
     {
       "basename": "1.4. 'println' Macro",
       "path": "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.4. 'println' Macro.md"
-    },
-    {
-      "basename": "3.1. 'enum'",
-      "path": "0.1 Rust Programming/Rust 101 Crash Course/3. Working with Data/3.1. 'enum'.md"
-    },
-    {
-      "basename": "B.2. Vectors",
-      "path": "0.1 Rust Programming/Rust 101 Crash Course/B. Activity/B.2. Vectors.md"
     }
   ],
   "omittedPaths": [],

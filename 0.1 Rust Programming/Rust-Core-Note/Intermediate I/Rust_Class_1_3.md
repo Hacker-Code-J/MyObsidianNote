@@ -8,12 +8,6 @@ Static -> Data Type을 순전히 Complier가 결정 + 개발자가 보조
 
 # Mission Critical Language
 
-사용자 <-> 스마트폰 <-> 웹서버
-
-사용자 <-> 스마트폰 Front end Language: JS/TS
-스마트폰 <-> 웹서버 Back end: 
-Hight level: Pyhton, Ruby, Elixir
-Lower level: C, C++, Rust
-
-컴퓨터가 실수하거나 다운되거나 해서는 안되는 일
+Rust -> 사람이 실수하는 것을 원천적으로 봉쇄 -> 컴파일러가 경고 + 컴파일을 차단하도록 설계
+=> Safety First
 
