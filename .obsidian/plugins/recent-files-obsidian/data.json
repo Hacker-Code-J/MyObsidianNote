@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "chars()",
+      "path": "0.1 Rust Programming/Rust-Standard-Library/chars().md"
+    },
+    {
       "basename": "ItC 240311",
       "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.2. 'struct'",
       "path": "0.1 Rust Programming/Rust 101 Crash Course/3. Working with Data/3.2. 'struct'.md"
-    },
-    {
-      "basename": "3.3. Tuples",
-      "path": "0.1 Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md"
     }
   ],
   "omittedPaths": [],
