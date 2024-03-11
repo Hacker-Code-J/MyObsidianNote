@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ItC 240311",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md"
+    },
+    {
       "basename": "Rust_Class_2 - Type Inferences",
       "path": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.3. Tuples",
       "path": "0.1 Rust Programming/Rust 101 Crash Course/3. Working with Data/3.3. Tuples.md"
-    },
-    {
-      "basename": "A.3. Vectors",
-      "path": "0.1 Rust Programming/Rust 101 Crash Course/A. Demo/A.3. Vectors.md"
     }
   ],
   "omittedPaths": [],
