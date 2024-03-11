@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md",
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240311.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09fd01344f6eecaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md",
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md",
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md"
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md"
               }
             }
           },
@@ -193,14 +206,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ded8eaec3036072c",
+  "active": "09fd01344f6eecaa",
   "lastOpenFiles": [
+    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240311.md",
+    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md",
     "0.1 Rust Programming/Rust-Standard-Library/collect().md",
     "0.1 Rust Programming/Rust-Standard-Library/chars().md",
     "0.1 Rust Programming/Rust-Standard-Library/macro/assert_eq!(,).md",
     "0.1 Rust Programming/Rust-Standard-Library/len().md",
     "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md",
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md",
     "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md",
     "2024-Spring/Introduction-to-Cryptanalysis",
     "0.1 Rust Programming/Rust-Standard-Library/macro",
@@ -232,7 +246,6 @@
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP-240305-Drawing.md",
     "2024-Spring/Capstone-Design",
     "2024-Spring/Untitled.canvas",
-    "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.2. Variables.md",
     "Pasted Image/Pasted image 20240217151743.png",
     "Pasted Image/The 2nd Brain.canvas",
     "Pasted Image/C - CraftCodeLab.canvas",

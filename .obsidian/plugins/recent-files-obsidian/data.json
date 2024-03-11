@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ACP 240305",
+      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md"
+    },
+    {
+      "basename": "ACP 240311",
+      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240311.md"
+    },
+    {
       "basename": "ItC 240311",
       "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "LfC 240307",
       "path": "2024-Spring/Logic-for-Comunication/LfC 240307.md"
-    },
-    {
-      "basename": "ACP 240305",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md"
     },
     {
       "basename": "ACP-240305-Drawing",
@@ -195,10 +199,6 @@
     {
       "basename": "CSE-BIGINT-Drawing",
       "path": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
-    },
-    {
-      "basename": "1.10. Ownership",
-      "path": "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md"
     }
   ],
   "omittedPaths": [],
