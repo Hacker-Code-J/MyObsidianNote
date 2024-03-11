@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "collect()",
+      "path": "0.1 Rust Programming/Rust-Standard-Library/collect().md"
+    },
+    {
       "basename": "chars()",
       "path": "0.1 Rust Programming/Rust-Standard-Library/chars().md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.10. Ownership",
       "path": "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.10. Ownership.md"
-    },
-    {
-      "basename": "3.2. 'struct'",
-      "path": "0.1 Rust Programming/Rust 101 Crash Course/3. Working with Data/3.2. 'struct'.md"
     }
   ],
   "omittedPaths": [],

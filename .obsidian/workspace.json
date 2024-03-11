@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1 Rust Programming/Rust-Standard-Library/chars().md",
+                "file": "0.1 Rust Programming/Rust-Standard-Library/collect().md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1 Rust Programming/Rust-Standard-Library/chars().md",
+                "file": "0.1 Rust Programming/Rust-Standard-Library/collect().md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1 Rust Programming/Rust-Standard-Library/chars().md",
+                "file": "0.1 Rust Programming/Rust-Standard-Library/collect().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1 Rust Programming/Rust-Standard-Library/chars().md"
+                "file": "0.1 Rust Programming/Rust-Standard-Library/collect().md"
               }
             }
           },
@@ -203,8 +203,9 @@
   },
   "active": "ded8eaec3036072c",
   "lastOpenFiles": [
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md",
     "0.1 Rust Programming/Rust-Standard-Library/chars().md",
+    "0.1 Rust Programming/Rust-Standard-Library/collect().md",
+    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md",
     "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md",
     "2024-Spring/Introduction-to-Cryptanalysis",
     "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md",
@@ -240,7 +241,6 @@
     "2024-Spring/Capstone-Design",
     "2024-Spring/Untitled.canvas",
     "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.2. Variables.md",
-    "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.1. Data Types.md",
     "Pasted Image/Pasted image 20240217151743.png",
     "Pasted Image/The 2nd Brain.canvas",
     "Pasted Image/C - CraftCodeLab.canvas",
