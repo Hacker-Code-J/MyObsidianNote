@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ItC 240311",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md"
+    },
+    {
       "basename": "collect()",
       "path": "0.1 Rust Programming/Rust-Standard-Library/collect().md"
     },
@@ -9,24 +13,20 @@
       "path": "0.1 Rust Programming/Rust-Standard-Library/chars().md"
     },
     {
-      "basename": "ItC 240311",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md"
-    },
-    {
-      "basename": "Rust_Class_2 - Type Inferences",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md"
-    },
-    {
-      "basename": "Rust_Class_2 - Types",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md"
-    },
-    {
       "basename": "assert_eq!(,)",
       "path": "0.1 Rust Programming/Rust-Standard-Library/macro/assert_eq!(,).md"
     },
     {
       "basename": "len()",
       "path": "0.1 Rust Programming/Rust-Standard-Library/len().md"
+    },
+    {
+      "basename": "Rust_Class_2 - Types",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md"
+    },
+    {
+      "basename": "Rust_Class_2 - Type Inferences",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md"
     },
     {
       "basename": "Rust_Class_1_2",
