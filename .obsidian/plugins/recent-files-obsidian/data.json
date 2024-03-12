@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "attribute",
+      "path": "0.1 Rust Programming/Rust-Core-Note/attribute.md"
+    },
+    {
       "basename": "ACP 240312",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240312.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Chapter 2. Divisibility Theory in the Integer",
       "path": "2.0. Number Theory/Chapter 2. Divisibility Theory in the Integer/Chapter 2. Divisibility Theory in the Integer.md"
-    },
-    {
-      "basename": "prompt",
-      "path": "0.0. Cryptol/prompt.md"
     }
   ],
   "omittedPaths": [],
