@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "CSE-BIGINT-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
+    },
+    {
+      "basename": "Crypto-coding",
+      "path": "0.1. C Programming/Crypto-coding.md"
+    },
+    {
+      "basename": "Procedural vs OOP vs Functional",
+      "path": "0.1 Haskell Programming/Procedural vs OOP vs Functional.md"
+    },
+    {
+      "basename": "CD 240313",
+      "path": "2024-Spring/Capstone-Design/CD 240313.md"
+    },
+    {
       "basename": "Github SSH Setup",
       "path": "Github SSH Setup.md"
     },
@@ -33,18 +49,6 @@
       "path": "Pasted image 20240217152131.png"
     },
     {
-      "basename": "CSE-BIGINT-Drawing",
-      "path": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
-    },
-    {
-      "basename": "CD 240313",
-      "path": "2024-Spring/Capstone-Design/CD 240313.md"
-    },
-    {
-      "basename": "Procedural vs OOP vs Functional",
-      "path": "0.1 Haskell Programming/Procedural vs OOP vs Functional.md"
-    },
-    {
       "basename": "(Cryptographic) OOP vs Functional",
       "path": "0.1 Haskell Programming/(Cryptographic) OOP vs Functional.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "ACP 240305",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md"
-    },
-    {
-      "basename": "Crypto-coding",
-      "path": "0.1. C Programming/Crypto-coding.md"
     },
     {
       "basename": "LfC 240312",
