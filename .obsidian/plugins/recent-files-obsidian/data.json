@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Procedural vs OOP vs Functional",
+      "path": "0.1 Haskell Programming/Procedural vs OOP vs Functional.md"
+    },
+    {
       "basename": "CD 240313",
       "path": "2024-Spring/Capstone-Design/CD 240313.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing of AES",
       "path": "0.4. Excalidraw/Drawing of AES.md"
-    },
-    {
-      "basename": "Drawing of CPU and GPU",
-      "path": "0.4. Excalidraw/Drawing of CPU and GPU.md"
     }
   ],
   "omittedPaths": [],
