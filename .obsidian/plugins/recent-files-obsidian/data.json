@@ -5,6 +5,10 @@
       "path": "0.1 Haskell Programming/Procedural vs OOP vs Functional.md"
     },
     {
+      "basename": "(Cryptographic) OOP vs Functional",
+      "path": "0.1 Haskell Programming/(Cryptographic) OOP vs Functional.md"
+    },
+    {
       "basename": "CD 240313",
       "path": "2024-Spring/Capstone-Design/CD 240313.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "C-Note-Drawing",
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md"
-    },
-    {
-      "basename": "Drawing of AES",
-      "path": "0.4. Excalidraw/Drawing of AES.md"
     }
   ],
   "omittedPaths": [],

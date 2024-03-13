@@ -46,11 +46,16 @@
             }
           },
           {
-            "id": "abfc4c232ec151f4",
+            "id": "20b00c13062fac15",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-Spring/Capstone-Design/CD 240313.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -213,9 +218,10 @@
   },
   "active": "09fd01344f6eecaa",
   "lastOpenFiles": [
+    "0.1 Haskell Programming/(Cryptographic) OOP vs Functional.md",
     "2024-Spring/Capstone-Design/CD 240313.md",
-    "0.1 Haskell Programming/Procedural vs OOP vs Functional.md",
     "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
+    "0.1 Haskell Programming/Procedural vs OOP vs Functional.md",
     "2024-Spring/Capstone-Design/CD 240308.md",
     "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
     "2024/2024-03-15 ACP - Assignment.md",
@@ -243,7 +249,6 @@
     "0.1 Rust Programming/Untitled.canvas",
     "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_2.md",
     "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_1.md",
-    "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_4.md",
     "0.1 Rust Programming/Rust-Core-Note/Basic I",
     "0.1 Rust Programming/Rust-Core-Note/Intermediate I",
     "0.1 Rust Programming/Rust-Core-Note",
