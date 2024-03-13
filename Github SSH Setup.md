@@ -57,3 +57,15 @@ $ git remote set-url origin git@github.com:Hacker-Code-J/MyObsidianMemo.git
 origin	git@github.com:MyObsidianMemo.git (fetch)
 origin	git@github.com:MyObsidianMemo.git (push)
 ```
+
+# Blocking Port
+
+**Alternate Ports**: If your network is blocking port 22, GitHub also supports SSH connections through port 443. You can modify your SSH configuration to use this alternative port by adding the following lines to your `~/.ssh/config` file:
+
+```vim
+Host github.com
+  Hostname ssh.github.com
+  Port 443
+  User git
+```
+
