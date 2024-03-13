@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
+                "file": "2024-Spring/Capstone-Design/CD 240313.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
+                "file": "2024-Spring/Capstone-Design/CD 240313.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
+                "file": "2024-Spring/Capstone-Design/CD 240313.md"
               }
             }
           },
@@ -216,11 +216,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d59dcc8b3460898c",
+  "active": "20b00c13062fac15",
   "lastOpenFiles": [
+    "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
     "2024-Spring/Capstone-Design/CD 240313.md",
     "0.1 Haskell Programming/Procedural vs OOP vs Functional.md",
-    "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
     "0.1 Haskell Programming/(Cryptographic) OOP vs Functional.md",
     "2024-Spring/Capstone-Design/CD 240308.md",
     "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
