@@ -23,25 +23,25 @@
             }
           },
           {
-            "id": "09fd01344f6eecaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.1 Haskell Programming/Procedural vs OOP vs Functional.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7409e849bc091cfd",
+            "id": "2d1baeea552b242e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
+              }
+            }
+          },
+          {
+            "id": "fabb297bc04a5934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Github SSH Setup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -108,13 +108,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -130,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
+                "file": "Github SSH Setup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
+                "file": "Github SSH Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
+                "file": "Github SSH Setup.md"
               }
             }
           },
@@ -205,12 +203,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7409e849bc091cfd",
+  "active": "fabb297bc04a5934",
   "lastOpenFiles": [
-    "0.1. C Programming/Crypto-coding.md",
-    "0.1 Haskell Programming/Procedural vs OOP vs Functional.md",
+    "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
+    "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
     "2024-Spring/Capstone-Design/CD 240313.md",
+    "0.1. C Programming/Crypto-coding.md",
     "Github SSH Setup.md",
+    "0.1 Haskell Programming/Procedural vs OOP vs Functional.md",
     "32-bit AES.md",
     "JOB.md",
     "Pasted image 20240217173139.png",
@@ -219,7 +219,6 @@
     "Pasted image 20240217172101.png",
     "Pasted image 20240217155041.png",
     "Pasted image 20240217152131.png",
-    "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
     "0.1 Haskell Programming/(Cryptographic) OOP vs Functional.md",
     "2024-Spring/Capstone-Design/CD 240308.md",
     "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
@@ -238,7 +237,6 @@
     "0.1 Rust Programming/Rust-Standard-Library/chars().md",
     "0.1 Rust Programming/Rust-Standard-Library/macro/assert_eq!(,).md",
     "0.1 Rust Programming/Rust-Standard-Library/len().md",
-    "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md",
     "2024-Spring/Introduction-to-Cryptanalysis",
     "0.1 Rust Programming/Rust-Standard-Library/macro",
     "0.1 Rust Programming/Rust-Standard-Library/mem",

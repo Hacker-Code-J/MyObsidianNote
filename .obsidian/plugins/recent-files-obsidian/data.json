@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Github SSH Setup",
+      "path": "Github SSH Setup.md"
+    },
+    {
       "basename": "CSE-BIGINT-Drawing",
       "path": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
+    },
+    {
+      "basename": "CSE-AES-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
+    },
+    {
+      "basename": "CD 240313",
+      "path": "2024-Spring/Capstone-Design/CD 240313.md"
     },
     {
       "basename": "Crypto-coding",
@@ -11,14 +23,6 @@
     {
       "basename": "Procedural vs OOP vs Functional",
       "path": "0.1 Haskell Programming/Procedural vs OOP vs Functional.md"
-    },
-    {
-      "basename": "CD 240313",
-      "path": "2024-Spring/Capstone-Design/CD 240313.md"
-    },
-    {
-      "basename": "Github SSH Setup",
-      "path": "Github SSH Setup.md"
     },
     {
       "basename": "JOB",
