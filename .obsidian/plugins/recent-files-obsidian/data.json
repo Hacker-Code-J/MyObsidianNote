@@ -5,6 +5,10 @@
       "path": "2024-Spring/Capstone-Design/CD 240313.md"
     },
     {
+      "basename": "CSE-BIGINT-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
+    },
+    {
       "basename": "CD 240308",
       "path": "2024-Spring/Capstone-Design/CD 240308.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing of CPU and GPU",
       "path": "0.4. Excalidraw/Drawing of CPU and GPU.md"
-    },
-    {
-      "basename": "Drawing of Computer Structure",
-      "path": "0.4. Excalidraw/Drawing of Computer Structure.md"
     }
   ],
   "omittedPaths": [],
