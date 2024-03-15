@@ -26,9 +26,12 @@
             "id": "2d1baeea552b242e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
+                "file": "Github SSH Setup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -38,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.0. MyThinkPad/Ji - Bookmark.md",
+                "file": "Github SSH Setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0. MyThinkPad/Ji - Bookmark.md",
+                "file": "Github SSH Setup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0. MyThinkPad/Ji - Bookmark.md",
+                "file": "Github SSH Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0. MyThinkPad/Ji - Bookmark.md"
+                "file": "Github SSH Setup.md"
               }
             }
           },
@@ -203,16 +206,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "fabb297bc04a5934",
+  "active": "2d1baeea552b242e",
   "lastOpenFiles": [
+    "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
+    "Github SSH Setup.md",
+    "0.0. MyThinkPad/Ji - Bookmark.md",
     "0.4. Excalidraw/2024-spring-Drawing.md",
     "2024/2 February 2024/2024-02-08 CO2 Meeting 1.md",
-    "0.0. MyThinkPad/Ji - Bookmark.md",
     "0.0 KMU UnderGrad MOC/KMU UnderGrad MOC.md",
     "2024-Spring/Logic-for-Comunication/LfC 240314.md",
     "Pasted image 20240314111318.png",
-    "Github SSH Setup.md",
-    "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
     "2024-Spring/Capstone-Design/CD 240313.md",
     "0.1. C Programming/Crypto-coding.md",

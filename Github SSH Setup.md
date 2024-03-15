@@ -62,10 +62,19 @@ origin	git@github.com:MyObsidianMemo.git (push)
 
 **Alternate Ports**: If your network is blocking port 22, GitHub also supports SSH connections through port 443. You can modify your SSH configuration to use this alternative port by adding the following lines to your `~/.ssh/config` file:
 
-```vim
+```zsh
+$ ~/.ssh
+$ touch config
+$ nvim config
+```
+
+```text
 Host github.com
   Hostname ssh.github.com
   Port 443
   User git
 ```
 
+```zsh
+$ cat config
+```
