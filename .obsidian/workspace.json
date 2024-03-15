@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github SSH Setup.md",
+                "file": "0.1. C Programming/Crypto-coding.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github SSH Setup.md",
+                "file": "0.1. C Programming/Crypto-coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github SSH Setup.md"
+                "file": "0.1. C Programming/Crypto-coding.md"
               }
             }
           },
@@ -206,10 +206,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2d1baeea552b242e",
+  "active": "23c75740c5405d70",
   "lastOpenFiles": [
-    "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
     "Github SSH Setup.md",
+    "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
     "0.0. MyThinkPad/Ji - Bookmark.md",
     "0.4. Excalidraw/2024-spring-Drawing.md",
     "2024/2 February 2024/2024-02-08 CO2 Meeting 1.md",

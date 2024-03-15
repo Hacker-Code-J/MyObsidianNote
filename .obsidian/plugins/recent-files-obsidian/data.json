@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Crypto-coding",
+      "path": "0.1. C Programming/Crypto-coding.md"
+    },
+    {
       "basename": "Github SSH Setup",
       "path": "Github SSH Setup.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "CD 240313",
       "path": "2024-Spring/Capstone-Design/CD 240313.md"
-    },
-    {
-      "basename": "Crypto-coding",
-      "path": "0.1. C Programming/Crypto-coding.md"
     },
     {
       "basename": "Procedural vs OOP vs Functional",
