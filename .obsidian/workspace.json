@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips/Set-Up-Rust.md",
+                "file": "Tips/Setup-zsh-for-Rust.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips/Set-Up-Rust.md",
+                "file": "Tips/Setup-zsh-for-Rust.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips/Set-Up-Rust.md",
+                "file": "Tips/Setup-zsh-for-Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips/Set-Up-Rust.md"
+                "file": "Tips/Setup-zsh-for-Rust.md"
               }
             }
           },
@@ -209,7 +209,7 @@
   "active": "1e19446027d7da61",
   "lastOpenFiles": [
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240311.md",
-    "Tips/Set-Up-Rust.md",
+    "Tips/Setup-zsh-for-Rust.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240312.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md",
     "Pasted image 20240315204502.png",
