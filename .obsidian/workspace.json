@@ -26,9 +26,14 @@
             "id": "1e19446027d7da61",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+                "viewState": {
+                  "x": -1431.4109997263456,
+                  "y": -458.0042359217548,
+                  "zoom": -0.8000000000000002
+                }
               }
             }
           },
@@ -125,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
               }
             }
           },
@@ -202,10 +207,11 @@
   },
   "active": "1e19446027d7da61",
   "lastOpenFiles": [
+    "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
+    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
     "0.4. Excalidraw/Git-Drawing.md",
     "0.1. C Programming/Crypto-coding.md",
-    "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md",
     "0.4. Excalidraw/Drawing of CPU and GPU.md",
     "0.4. Excalidraw/Drawing of Computer Structure.md",
@@ -229,7 +235,6 @@
     "0.0. MyThinkPad/Callout Styles.md",
     "0.0. MyThinkPad/Ji - Bookmark.md",
     "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
-    "JOB.md",
     "Pasted image 20240217152131.png",
     "Pasted image 20240314111318.png",
     "Pasted image 20240217173139.png",
@@ -252,7 +257,6 @@
     "Pasted Image/Pasted image 20240217151743.png",
     "Pasted Image/The 2nd Brain.canvas",
     "Pasted Image/C - CraftCodeLab.canvas",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }

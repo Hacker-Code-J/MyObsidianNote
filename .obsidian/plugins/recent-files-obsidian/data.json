@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+    },
+    {
       "basename": "CSE-BIGINT-Drawing",
       "path": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "collect()",
       "path": "0.1 Rust Programming/Rust-Standard-Library/collect().md"
-    },
-    {
-      "basename": "chars()",
-      "path": "0.1 Rust Programming/Rust-Standard-Library/chars().md"
     }
   ],
   "omittedPaths": [],
