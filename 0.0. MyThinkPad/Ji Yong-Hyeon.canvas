@@ -12,7 +12,6 @@
 		{"id":"a1c4e9376d1186df","type":"text","text":"Abstract Algebra","x":-880,"y":9,"width":285,"height":50},
 		{"id":"be72881cff3b042e","type":"text","text":"Probablitiy Theory","x":-943,"y":-71,"width":298,"height":50},
 		{"id":"62a4be4a32741118","type":"text","text":"Logic and Set Theroy","x":-975,"y":-141,"width":330,"height":41},
-		{"id":"1b29737d385a3fd1","type":"text","text":"Haskell","x":405,"y":125,"width":160,"height":50,"color":"#5e5184"},
 		{"id":"de07aad8eb6ef9f9","type":"link","url":"https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%94%94%EB%B2%84%EA%B9%85","x":880,"y":-655,"width":514,"height":50},
 		{"id":"b710f23923a70288","type":"text","text":"System Programming","x":485,"y":-705,"width":345,"height":50},
 		{"id":"a100da7017c35cd8","type":"link","url":"https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D","x":880,"y":-764,"width":434,"height":50},
@@ -22,16 +21,17 @@
 		{"id":"e81220510746d2be","type":"text","text":"Computer Sicence","x":105,"y":-890,"width":315,"height":50},
 		{"id":"8375f0164213980e","type":"text","text":"Cryptography","x":-662,"y":-991,"width":250,"height":41},
 		{"id":"3ff14b84d507bef8","type":"text","text":"Implementation","x":-1166,"y":-1240,"width":250,"height":41},
-		{"id":"4b85cea962c838c8","type":"text","text":"Formal Proof","x":-645,"y":-376,"width":250,"height":41},
 		{"id":"7964b471f6baa45b","type":"text","text":"Cryptol","x":-1540,"y":-970,"width":158,"height":41},
 		{"id":"2d7996c16c15a50e","type":"text","text":"Provable Security","x":-1041,"y":-995,"width":285,"height":50},
 		{"id":"fe7cc4a0d8887a1a","type":"text","text":"EasyCrypt","x":-1006,"y":-865,"width":216,"height":50},
-		{"id":"bca0cd24a1ffb360","type":"text","text":"Theory","x":-1164,"y":-380,"width":158,"height":50},
-		{"id":"7df44d768ffeacb7","type":"text","text":"SAT","x":-1380,"y":-375,"width":158,"height":41},
-		{"id":"3109ae16dcfe7828","type":"text","text":"SMT","x":-1617,"y":-375,"width":158,"height":41},
-		{"id":"fbb7b781613e44e1","type":"text","text":"Z3","x":-1617,"y":-494,"width":158,"height":41},
-		{"id":"4ae91e77856edfb2","type":"text","text":"Coq","x":-1619,"y":-605,"width":158,"height":50},
-		{"id":"2d33016216358f84","type":"text","text":"Tool","x":-957,"y":-499,"width":118,"height":50}
+		{"id":"fbb7b781613e44e1","type":"text","text":"Z3","x":-1540,"y":-740,"width":158,"height":41},
+		{"id":"4b85cea962c838c8","type":"text","text":"Formal Proof","x":-645,"y":-617,"width":250,"height":41},
+		{"id":"2d33016216358f84","type":"text","text":"Tool","x":-1008,"y":-605,"width":118,"height":50},
+		{"id":"4ae91e77856edfb2","type":"text","text":"Coq","x":-1341,"y":-555,"width":158,"height":50},
+		{"id":"bca0cd24a1ffb360","type":"text","text":"Theory","x":-1048,"y":-505,"width":158,"height":50},
+		{"id":"3109ae16dcfe7828","type":"text","text":"SMT","x":-1540,"y":-420,"width":158,"height":41},
+		{"id":"7df44d768ffeacb7","type":"text","text":"SAT","x":-1341,"y":-420,"width":158,"height":41},
+		{"id":"1b29737d385a3fd1","type":"text","text":"Haskell","x":380,"y":-21,"width":160,"height":50,"color":"#5e5184"}
 	],
 	"edges":[
 		{"id":"3869d58a7979167b","fromNode":"2ebae8aa5ea81027","fromSide":"right","toNode":"7f39108531db0414","toSide":"left"},
@@ -71,10 +71,11 @@
 		{"id":"36715e922571f843","fromNode":"0db5eaf288c9c0ff","fromSide":"right","toNode":"f943277f6eeed738","toSide":"left"},
 		{"id":"2fbfb517a8d3430e","fromNode":"62a4be4a32741118","fromSide":"top","toNode":"4b85cea962c838c8","toSide":"bottom"},
 		{"id":"42a4cfcfd323b58e","fromNode":"4b85cea962c838c8","fromSide":"bottom","toNode":"62a4be4a32741118","toSide":"top"},
-		{"id":"11efaf9c7a3f490a","fromNode":"2d33016216358f84","fromSide":"left","toNode":"fbb7b781613e44e1","toSide":"right"},
 		{"id":"73c958ae166b201a","fromNode":"2d7996c16c15a50e","fromSide":"bottom","toNode":"fe7cc4a0d8887a1a","toSide":"top"},
 		{"id":"21c093b897392228","fromNode":"fe7cc4a0d8887a1a","fromSide":"top","toNode":"2d7996c16c15a50e","toSide":"bottom"},
 		{"id":"e5952924550a80c4","fromNode":"3109ae16dcfe7828","fromSide":"top","toNode":"fbb7b781613e44e1","toSide":"bottom"},
-		{"id":"c5bcc1a680640e13","fromNode":"fbb7b781613e44e1","fromSide":"bottom","toNode":"3109ae16dcfe7828","toSide":"top"}
+		{"id":"c5bcc1a680640e13","fromNode":"fbb7b781613e44e1","fromSide":"bottom","toNode":"3109ae16dcfe7828","toSide":"top"},
+		{"id":"da8d94b4fe7ed4ca","fromNode":"fbb7b781613e44e1","fromSide":"top","toNode":"7964b471f6baa45b","toSide":"bottom"},
+		{"id":"fe4e291ae3a0132f","fromNode":"7964b471f6baa45b","fromSide":"bottom","toNode":"fbb7b781613e44e1","toSide":"top"}
 	]
 }
