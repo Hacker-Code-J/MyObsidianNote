@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Rust-Core-Drawing",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
+    },
+    {
+      "basename": "Rust 101 Crash Course",
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md"
+    },
+    {
       "basename": "Ji Yong-Hyeon",
       "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
@@ -154,7 +162,7 @@
     },
     {
       "basename": "Procedural vs OOP vs Functional",
-      "path": "0.1 Haskell Programming/Procedural vs OOP vs Functional.md"
+      "path": "0.1. Haskell Programming/Procedural vs OOP vs Functional.md"
     },
     {
       "basename": "Pasted image 20240217173336",
@@ -166,7 +174,7 @@
     },
     {
       "basename": "(Cryptographic) OOP vs Functional",
-      "path": "0.1 Haskell Programming/(Cryptographic) OOP vs Functional.md"
+      "path": "0.1. Haskell Programming/(Cryptographic) OOP vs Functional.md"
     },
     {
       "basename": "CD 240308",
@@ -187,18 +195,6 @@
     {
       "basename": "ACP 240305",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md"
-    },
-    {
-      "basename": "LfC 240312",
-      "path": "2024-Spring/Logic-for-Comunication/LfC 240312.md"
-    },
-    {
-      "basename": "ItC 240311",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md"
-    },
-    {
-      "basename": "collect()",
-      "path": "0.1 Rust Programming/Rust-Standard-Library/collect().md"
     }
   ],
   "omittedPaths": [],

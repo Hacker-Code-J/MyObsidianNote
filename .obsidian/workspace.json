@@ -26,14 +26,22 @@
             "id": "1e19446027d7da61",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
-                "viewState": {
-                  "x": -1005.5428589349557,
-                  "y": -904.9268691915527,
-                  "zoom": -1.2000000000000002
-                }
+                "file": "0.1 Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4e5643769f490b8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
               }
             }
           },
@@ -48,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -131,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+                "file": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+                "file": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+                "file": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
               }
             }
           },
@@ -206,13 +213,24 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "1e19446027d7da61",
+  "active": "d4e5643769f490b8",
   "lastOpenFiles": [
-    "0.1 Rust Programming/Rust-Core-Note/rust-core-image/rust-stackmem.png",
+    "0.1 Rust Programming/Rust-Core-Note/rust-core-image/rust-borrow2.png",
+    "Mind Map/Pasted Image 20240317233120_789.png",
+    "Mind Map/Pasted Image 20240317233045_784.png",
+    "0.1 Rust Programming/Rust-Core-Note/rust-core-image/rust-clone.png",
+    "0.1 Rust Programming/Rust-Core-Note/rust-core-image/rust-borrow.png",
+    "Mind Map/Pasted Image 20240317231339_696.png",
     "0.1 Rust Programming/Rust-Core-Note/rust-core-image/rust-ownership.png",
+    "0.1 Rust Programming/Rust-Core-Note/rust-core-image/rust-stackmem.png",
+    "0.1 Rust Programming/Rust-Core-Note/rust-core-image/rust-stackmem1.png",
+    "0.1 Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
+    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md",
+    "Mind Map/Pasted Image 20240317224109_546.png",
+    "Mind Map",
+    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "0.1 Rust Programming/Rust-Core-Note/rust-core-image",
     "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
-    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
     "0.4. Excalidraw/Git-Drawing.md",
     "0.1. C Programming/Crypto-coding.md",
@@ -234,18 +252,8 @@
     "Tips/Setup-zsh-for-Rust.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240312.md",
     "Pasted image 20240315204502.png",
-    "Pasted image 20240315204501.png",
     "0.6. Git/Git Command.md",
     "0.0. MyThinkPad/Callout Styles.md",
-    "0.0. MyThinkPad/Ji - Bookmark.md",
-    "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
-    "Pasted image 20240217152131.png",
-    "Pasted image 20240314111318.png",
-    "Pasted image 20240217173139.png",
-    "Pasted image 20240217173336.png",
-    "Pasted image 20240217172509.png",
-    "Pasted image 20240217172101.png",
-    "Pasted image 20240217155041.png",
     "2024-Spring/Introduction-to-Cryptanalysis",
     "0.1 Rust Programming/Rust-Standard-Library/macro",
     "0.1 Rust Programming/Rust-Standard-Library/mem",
@@ -255,7 +263,6 @@
     "0.1 Rust Programming/Rust-Core-Note/Intermediate I",
     "0.1 Rust Programming/Rust-Core-Note",
     "2024-Spring/Leadership-Challenge",
-    "0.1 Haskell Programming",
     "2024-Spring/Untitled.canvas",
     "Pasted Image/The 2nd Brain.canvas",
     "Pasted Image/C - CraftCodeLab.canvas",
