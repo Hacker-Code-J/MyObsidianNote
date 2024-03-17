@@ -1,20 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "Setup-zsh-for-Rust",
-      "path": "Tips/Setup-zsh-for-Rust.md"
+      "basename": "CSE-BIGINT-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
+    },
+    {
+      "basename": "CSE-AES-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
+    },
+    {
+      "basename": "Git-Drawing",
+      "path": "0.4. Excalidraw/Git-Drawing.md"
+    },
+    {
+      "basename": "Crypto-coding",
+      "path": "0.1. C Programming/Crypto-coding.md"
+    },
+    {
+      "basename": "Pointer-in-C-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md"
+    },
+    {
+      "basename": "Drawing of CPU and GPU",
+      "path": "0.4. Excalidraw/Drawing of CPU and GPU.md"
+    },
+    {
+      "basename": "Drawing of Computer Structure",
+      "path": "0.4. Excalidraw/Drawing of Computer Structure.md"
+    },
+    {
+      "basename": "0.4.0 Metacognition",
+      "path": "0.4. Excalidraw/0.4.0 Metacognition.md"
+    },
+    {
+      "basename": "2024-spring-Drawing",
+      "path": "0.4. Excalidraw/2024-spring-Drawing.md"
+    },
+    {
+      "basename": "Functions-in-C-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md"
+    },
+    {
+      "basename": "CS-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
+    },
+    {
+      "basename": "Basic-C-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
+    },
+    {
+      "basename": "prompt",
+      "path": "0.0. Cryptol/prompt.md"
+    },
+    {
+      "basename": "C-Note-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md"
+    },
+    {
+      "basename": "Compiler-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
+    },
+    {
+      "basename": "ACP-Asgnmt-Drawing",
+      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md"
     },
     {
       "basename": "ACP 240311",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240311.md"
     },
     {
-      "basename": "ACP 240312",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240312.md"
+      "basename": "3.2. 'struct'",
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/3. Working with Data/3.2. 'struct'.md"
     },
     {
-      "basename": "ACP-Asgnmt-Drawing",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md"
+      "basename": "1.1. Data Types",
+      "path": "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.1. Data Types.md"
+    },
+    {
+      "basename": "Setup-zsh-for-Rust",
+      "path": "Tips/Setup-zsh-for-Rust.md"
+    },
+    {
+      "basename": "ACP 240312",
+      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240312.md"
     },
     {
       "basename": "Git Command",
@@ -31,14 +99,6 @@
     {
       "basename": "Capstone-Design-Drawing",
       "path": "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md"
-    },
-    {
-      "basename": "prompt",
-      "path": "0.0. Cryptol/prompt.md"
-    },
-    {
-      "basename": "Crypto-coding",
-      "path": "0.1. C Programming/Crypto-coding.md"
     },
     {
       "basename": "JOB",
@@ -77,24 +137,12 @@
       "path": "0.2. Computer Science/Computer Language/Programming Language.md"
     },
     {
-      "basename": "CSE-BIGINT-Drawing",
-      "path": "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md"
-    },
-    {
-      "basename": "2024-spring-Drawing",
-      "path": "0.4. Excalidraw/2024-spring-Drawing.md"
-    },
-    {
       "basename": "2024-02-08 CO2 Meeting 1",
       "path": "2024/2 February 2024/2024-02-08 CO2 Meeting 1.md"
     },
     {
       "basename": "LfC 240314",
       "path": "2024-Spring/Logic-for-Comunication/LfC 240314.md"
-    },
-    {
-      "basename": "CSE-AES-Drawing",
-      "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
     },
     {
       "basename": "CD 240313",
@@ -151,50 +199,6 @@
     {
       "basename": "chars()",
       "path": "0.1 Rust Programming/Rust-Standard-Library/chars().md"
-    },
-    {
-      "basename": "assert_eq!(,)",
-      "path": "0.1 Rust Programming/Rust-Standard-Library/macro/assert_eq!(,).md"
-    },
-    {
-      "basename": "len()",
-      "path": "0.1 Rust Programming/Rust-Standard-Library/len().md"
-    },
-    {
-      "basename": "Rust_Class_2 - Types",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md"
-    },
-    {
-      "basename": "Rust_Class_2 - Type Inferences",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md"
-    },
-    {
-      "basename": "Rust_Class_1_2",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_2.md"
-    },
-    {
-      "basename": "Rust_Class_1_1",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_1.md"
-    },
-    {
-      "basename": "Rust_Class_1_4",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_4.md"
-    },
-    {
-      "basename": "Rust_Class_1_3",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_3.md"
-    },
-    {
-      "basename": "Rust-High-Performance",
-      "path": "0.1 Rust Programming/Rust-High-Performance/Rust-High-Performance.md"
-    },
-    {
-      "basename": "0.1. Rust Programming",
-      "path": "0.1 Rust Programming/0.1. Rust Programming.md"
-    },
-    {
-      "basename": "Math - Idea",
-      "path": "0.0. MyThinkPad/Math - Idea.md"
     }
   ],
   "omittedPaths": [],
