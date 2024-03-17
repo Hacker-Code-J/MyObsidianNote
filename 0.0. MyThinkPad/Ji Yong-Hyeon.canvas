@@ -39,7 +39,8 @@
 		{"id":"fe7cc4a0d8887a1a","type":"text","text":"EasyCrypt","x":-1479,"y":200,"width":216,"height":115},
 		{"id":"3109ae16dcfe7828","type":"text","text":"SMT","x":-1719,"y":-592,"width":158,"height":50},
 		{"id":"7df44d768ffeacb7","type":"text","text":"SAT","x":-1479,"y":-588,"width":158,"height":41},
-		{"id":"9d4f869fafa3c19b","x":-1182,"y":-1120,"width":480,"height":50,"type":"link","url":"https://www.youtube.com/@meichlseder/playlists"}
+		{"id":"9d4f869fafa3c19b","x":-2447,"y":-1335,"width":576,"height":50,"type":"link","url":"https://www.youtube.com/@meichlseder/playlists"},
+		{"id":"111008337723b20a","x":-2447,"y":-1199,"width":591,"height":50,"type":"link","url":"https://www.youtube.com/@introductiontocryptography4223/videos"}
 	],
 	"edges":[
 		{"id":"3869d58a7979167b","fromNode":"2ebae8aa5ea81027","fromSide":"right","toNode":"7f39108531db0414","toSide":"left"},
@@ -92,6 +93,7 @@
 		{"id":"dd3f0a2026e84ae6","fromNode":"1b29737d385a3fd1","fromSide":"bottom","toNode":"fe7cc4a0d8887a1a","toSide":"bottom","color":"#ca95c3"},
 		{"id":"f3dd24932d237290","fromNode":"4b85cea962c838c8","fromSide":"bottom","toNode":"62a4be4a32741118","toSide":"top","color":"1"},
 		{"id":"f616b6e7daabef46","fromNode":"7f39108531db0414","fromSide":"right","toNode":"1b29737d385a3fd1","toSide":"top","color":"#ca95c3","label":"interesting"},
-		{"id":"4164fbd1ece13246","fromNode":"8375f0164213980e","fromSide":"top","toNode":"9d4f869fafa3c19b","toSide":"bottom","color":"#d68ffd"}
+		{"id":"4164fbd1ece13246","fromNode":"8375f0164213980e","fromSide":"top","toNode":"9d4f869fafa3c19b","toSide":"right","color":"#d68ffd"},
+		{"id":"82ea13cdb68a4770","fromNode":"8375f0164213980e","fromSide":"top","toNode":"111008337723b20a","toSide":"right","color":"#d68ffd"}
 	]
 }
