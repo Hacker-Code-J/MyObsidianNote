@@ -4,7 +4,7 @@
 		{"id":"de07aad8eb6ef9f9","type":"link","url":"https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%94%94%EB%B2%84%EA%B9%85","x":1155,"y":-642,"width":514,"height":50},
 		{"id":"b710f23923a70288","type":"text","text":"System Programming","x":760,"y":-692,"width":345,"height":50},
 		{"id":"f943277f6eeed738","type":"text","text":"Kernel Programming","x":760,"y":-505,"width":345,"height":50},
-		{"id":"2ebae8aa5ea81027","type":"text","text":"Ji Yong-Hyeon","x":-220,"y":-751,"width":250,"height":109},
+		{"id":"2ebae8aa5ea81027","type":"text","text":"Ji Yong-Hyeon","x":-220,"y":-751,"width":250,"height":109,"color":"#348e60"},
 		{"id":"eee0815a448d58df","type":"text","text":"Computer Structure","x":1100,"y":-995,"width":315,"height":50},
 		{"id":"ed3713ca5a314a0d","type":"text","text":"Operating System","x":1100,"y":-905,"width":315,"height":50},
 		{"id":"e81220510746d2be","type":"text","text":"Computer Sicence","x":720,"y":-955,"width":315,"height":50},
@@ -42,7 +42,8 @@
 		{"id":"9d4f869fafa3c19b","type":"link","url":"https://www.youtube.com/@meichlseder/playlists","x":-2447,"y":-1335,"width":576,"height":50},
 		{"id":"111008337723b20a","type":"link","url":"https://www.youtube.com/@introductiontocryptography4223/videos","x":-2447,"y":-1199,"width":591,"height":50},
 		{"id":"7d66460936fb38ca","type":"link","url":"https://google.github.io/comprehensive-rust/ko/running-the-course.html","x":760,"y":-376,"width":570,"height":50},
-		{"id":"b6b55bb33bbd294d","type":"link","url":"https://tourofrust.com/TOC_ko.html","x":760,"y":-266,"width":570,"height":50}
+		{"id":"b6b55bb33bbd294d","type":"link","url":"https://tourofrust.com/TOC_ko.html","x":760,"y":-266,"width":570,"height":50},
+		{"id":"afb6b4e12486ea35","x":-2392,"y":-973,"width":467,"height":50,"type":"link","url":"https://weaversa.github.io/cryptol-course/labs/Language/Basics.html"}
 	],
 	"edges":[
 		{"id":"3869d58a7979167b","fromNode":"2ebae8aa5ea81027","fromSide":"right","toNode":"7f39108531db0414","toSide":"left"},
@@ -98,6 +99,7 @@
 		{"id":"4164fbd1ece13246","fromNode":"8375f0164213980e","fromSide":"top","toNode":"9d4f869fafa3c19b","toSide":"right","color":"#d68ffd"},
 		{"id":"82ea13cdb68a4770","fromNode":"8375f0164213980e","fromSide":"top","toNode":"111008337723b20a","toSide":"right","color":"#d68ffd"},
 		{"id":"8d42873a7180de77","fromNode":"1366e0f9a29cf2e9","fromSide":"right","toNode":"7d66460936fb38ca","toSide":"left","color":"#fb9b7c"},
-		{"id":"e65af077db5024ff","fromNode":"1366e0f9a29cf2e9","fromSide":"right","toNode":"b6b55bb33bbd294d","toSide":"left","color":"#fb9b7c"}
+		{"id":"e65af077db5024ff","fromNode":"1366e0f9a29cf2e9","fromSide":"right","toNode":"b6b55bb33bbd294d","toSide":"left","color":"#fb9b7c"},
+		{"id":"69642d6f884e3824","fromNode":"7964b471f6baa45b","fromSide":"left","toNode":"afb6b4e12486ea35","toSide":"right"}
 	]
 }
