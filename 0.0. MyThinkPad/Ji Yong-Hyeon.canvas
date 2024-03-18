@@ -31,7 +31,7 @@
 		{"id":"b00e193d328a050e","type":"text","text":"C","x":857,"y":40,"width":80,"height":50},
 		{"id":"59a5a5ce1481ec8f","type":"link","url":"https://www.inflearn.com/course/%EA%B8%B0%EC%B4%88-c-%EC%96%B8%EC%96%B4#curriculum","x":1082,"y":-10,"width":580,"height":50},
 		{"id":"f5e8826b1390fd65","type":"link","url":"https://www.inflearn.com/course/%EA%B3%A0%EA%B8%89-c-%EC%96%B8%EC%96%B4","x":1082,"y":90,"width":580,"height":50},
-		{"id":"2d7996c16c15a50e","type":"text","text":"Provable Security","x":-1513,"y":-376,"width":285,"height":93,"color":"#d07ffd"},
+		{"id":"2d7996c16c15a50e","type":"text","text":"Provable Security","x":-1513,"y":-376,"width":285,"height":93,"color":"#d280fe"},
 		{"id":"fbb7b781613e44e1","type":"text","text":"Z3","x":-1720,"y":-771,"width":158,"height":41},
 		{"id":"7964b471f6baa45b","type":"text","text":"Cryptol","x":-1787,"y":-992,"width":293,"height":87,"color":"5"},
 		{"id":"42394f00419de4ef","type":"text","text":"Category Theory","x":-606,"y":40,"width":285,"height":50},
@@ -42,7 +42,7 @@
 		{"id":"9d4f869fafa3c19b","type":"link","url":"https://www.youtube.com/@meichlseder/playlists","x":-2447,"y":-1335,"width":576,"height":50},
 		{"id":"111008337723b20a","type":"link","url":"https://www.youtube.com/@introductiontocryptography4223/videos","x":-2447,"y":-1199,"width":591,"height":50},
 		{"id":"7d66460936fb38ca","type":"link","url":"https://google.github.io/comprehensive-rust/ko/running-the-course.html","x":760,"y":-376,"width":570,"height":50},
-		{"id":"b6b55bb33bbd294d","x":760,"y":-266,"width":570,"height":50,"type":"link","url":"https://tourofrust.com/TOC_ko.html"}
+		{"id":"b6b55bb33bbd294d","type":"link","url":"https://tourofrust.com/TOC_ko.html","x":760,"y":-266,"width":570,"height":50}
 	],
 	"edges":[
 		{"id":"3869d58a7979167b","fromNode":"2ebae8aa5ea81027","fromSide":"right","toNode":"7f39108531db0414","toSide":"left"},
