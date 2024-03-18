@@ -8,6 +8,23 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d4e5643769f490b8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+                "viewState": {
+                  "x": -439.5399480919459,
+                  "y": -260.7797331862472,
+                  "zoom": -0.4407094248951562
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "23c75740c5405d70",
             "type": "leaf",
             "pinned": true,
@@ -36,16 +53,6 @@
             }
           },
           {
-            "id": "d4e5643769f490b8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
-              }
-            }
-          },
-          {
             "id": "425a7bebd5bfa48e",
             "type": "leaf",
             "state": {
@@ -55,8 +62,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md",
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md",
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
               }
             }
           },
@@ -215,6 +221,7 @@
   },
   "active": "d4e5643769f490b8",
   "lastOpenFiles": [
+    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md",
     "0.1 Rust Programming/Rust-Core-Note/rust-core-image/rust-borrow2.png",
     "Mind Map/Pasted Image 20240317233120_789.png",
     "Mind Map/Pasted Image 20240317233045_784.png",
@@ -225,7 +232,6 @@
     "0.1 Rust Programming/Rust-Core-Note/rust-core-image/rust-stackmem.png",
     "0.1 Rust Programming/Rust-Core-Note/rust-core-image/rust-stackmem1.png",
     "0.1 Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
-    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md",
     "Mind Map/Pasted Image 20240317224109_546.png",
     "Mind Map",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
@@ -251,7 +257,6 @@
     "0.1 Rust Programming/Rust 101 Crash Course/1. Fundamentals/1.1. Data Types.md",
     "Tips/Setup-zsh-for-Rust.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240312.md",
-    "Pasted image 20240315204502.png",
     "0.6. Git/Git Command.md",
     "0.0. MyThinkPad/Callout Styles.md",
     "2024-Spring/Introduction-to-Cryptanalysis",
