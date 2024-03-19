@@ -51,7 +51,8 @@
 		{"id":"2d7996c16c15a50e","type":"text","text":"Provable Security","x":-1676,"y":-376,"width":285,"height":93,"color":"#d280fe"},
 		{"id":"fe7cc4a0d8887a1a","type":"text","text":"EasyCrypt","x":-1642,"y":200,"width":216,"height":115},
 		{"id":"9d4f869fafa3c19b","type":"link","url":"https://www.youtube.com/@meichlseder/playlists","x":-1714,"y":-1184,"width":576,"height":50},
-		{"id":"111008337723b20a","type":"link","url":"https://www.youtube.com/@introductiontocryptography4223/videos","x":-1714,"y":-1048,"width":591,"height":50}
+		{"id":"f8f2d4ca2441d92c","x":-1714,"y":-937,"width":569,"height":50,"type":"link","url":"https://www.youtube.com/@JacksonInfoSec/videos"},
+		{"id":"111008337723b20a","type":"link","url":"https://www.youtube.com/@introductiontocryptography4223/videos","x":-1714,"y":-1080,"width":591,"height":50}
 	],
 	"edges":[
 		{"id":"3869d58a7979167b","fromNode":"2ebae8aa5ea81027","fromSide":"right","toNode":"7f39108531db0414","toSide":"left"},
@@ -116,6 +117,7 @@
 		{"id":"709766ba34b8e0dc","fromNode":"3089de39ac2ad1d7","fromSide":"right","toNode":"9eb26bffb6df2159","toSide":"left","color":"#fb9b7c"},
 		{"id":"ffcd3def1e6358d6","fromNode":"4ae91e77856edfb2","fromSide":"right","toNode":"bdc21f605faa27fd","toSide":"left","color":"4"},
 		{"id":"152ec0f005088c53","fromNode":"4ae91e77856edfb2","fromSide":"right","toNode":"21dc1bda06fb63cb","toSide":"left","color":"4"},
-		{"id":"56c8138e6b9f9a35","fromNode":"4b85cea962c838c8","fromSide":"left","toNode":"8a51d7ed571d7546","toSide":"right","color":"1"}
+		{"id":"56c8138e6b9f9a35","fromNode":"4b85cea962c838c8","fromSide":"left","toNode":"8a51d7ed571d7546","toSide":"right","color":"1"},
+		{"id":"c24cdc15cdbf4344","fromNode":"8375f0164213980e","fromSide":"top","toNode":"f8f2d4ca2441d92c","toSide":"right","color":"#d68ffd"}
 	]
 }
