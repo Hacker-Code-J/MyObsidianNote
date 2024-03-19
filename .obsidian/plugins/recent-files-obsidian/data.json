@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Coq - Study1",
+      "path": "Coq/Coq - Study1.md"
+    },
+    {
       "basename": "Ji Yong-Hyeon",
       "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "LC 240315",
       "path": "2024-Spring/Leadership-Challenge/LC 240315.md"
-    },
-    {
-      "basename": "Github SSH Setup",
-      "path": "Github SSH Setup.md"
     }
   ],
   "omittedPaths": [],
