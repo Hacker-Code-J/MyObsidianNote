@@ -57,25 +57,15 @@
             }
           },
           {
-            "id": "c9db68c121987ec6",
+            "id": "1f98fc4027d5a97a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240319.md",
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e416902e74b23586",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.4. Excalidraw/2024-spring-Drawing.md"
               }
             }
           }
@@ -162,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240319.md",
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240319.md",
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240319.md"
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md"
               }
             }
           },
@@ -237,13 +227,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9db68c121987ec6",
+  "active": "1f98fc4027d5a97a",
   "lastOpenFiles": [
+    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240318.md",
+    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md",
+    "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md",
+    "0.1. C Programming/Crypto-coding.md",
     "0.4. Excalidraw/2024-spring-Drawing.md",
     "2024-Spring/Logic-for-Comunication/LfC 240319.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
-    "0.1. C Programming/Crypto-coding.md",
     "2024-Spring/Logic-for-Comunication/LfC 240305.md",
     "2024-Spring/Logic-for-Comunication/LfC 240314.md",
     "2024-Spring/Logic-for-Comunication/LfC 240312.md",
@@ -257,7 +250,6 @@
     "Mind Map/Pasted Image 20240318175558_322.png",
     "Mind Map/Pasted Image 20240318165656_009.png",
     "Mind Map/Pasted Image 20240318154849_985.png",
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240318.md",
     "images/complier2.png",
     "Implementation for AES/Questions.md",
     "images/CSE/CBC_DEC.png",
@@ -278,7 +270,6 @@
     "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
-    "0.0. Cryptol/prompt.md",
     "2024-Spring/Introduction-to-Cryptanalysis",
     "0.1 Rust Programming/Rust-Standard-Library/macro",
     "0.1 Rust Programming/Rust-Standard-Library/mem",
