@@ -16,9 +16,9 @@
               "state": {
                 "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "viewState": {
-                  "x": -1754.5334742151517,
-                  "y": -857.878833647233,
-                  "zoom": -0.4407094248951562
+                  "x": -79.09108975056614,
+                  "y": -548.3779870929875,
+                  "zoom": -0.44070942489515663
                 }
               },
               "pinned": true
@@ -37,18 +37,6 @@
                   "y": -102.39999999999999,
                   "zoom": 0
                 }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6a0940050b623727",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
               },
               "pinned": true
             }
@@ -74,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Tip.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240319.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -82,20 +70,17 @@
             }
           },
           {
-            "id": "c65fb49dae406d2f",
+            "id": "e416902e74b23586",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Coq/Coq - Study1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "0.4. Excalidraw/2024-spring-Drawing.md"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -178,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coq/Coq - Study1.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240319.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coq/Coq - Study1.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240319.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coq/Coq - Study1.md"
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240319.md"
               }
             }
           },
@@ -249,31 +233,37 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c65fb49dae406d2f",
+  "active": "c9db68c121987ec6",
   "lastOpenFiles": [
+    "0.4. Excalidraw/2024-spring-Drawing.md",
+    "2024-Spring/Logic-for-Comunication/LfC 240319.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
+    "0.1. C Programming/Crypto-coding.md",
+    "2024-Spring/Logic-for-Comunication/LfC 240305.md",
+    "2024-Spring/Logic-for-Comunication/LfC 240314.md",
+    "2024-Spring/Logic-for-Comunication/LfC 240312.md",
+    "2024-Spring/Logic-for-Comunication/LfC 240307.md",
+    "Mind Map/Pasted image 20240319103359.png",
+    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Tip.md",
     "Coq/Coq - Study1.md",
     "Coq",
-    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md",
     "Mind Map/Pasted Image 20240318182924_453.png",
     "Mind Map/Pasted Image 20240318175558_322.png",
     "Mind Map/Pasted Image 20240318165656_009.png",
     "Mind Map/Pasted Image 20240318154849_985.png",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240318.md",
-    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Tip.md",
-    "0.1. C Programming/Crypto-coding.md",
     "images/complier2.png",
     "Implementation for AES/Questions.md",
     "images/CSE/CBC_DEC.png",
     "images/CSE/CBC_ENC.png",
     "images/CSE/cbc2.png",
     "images/CSE/cbc3.png",
-    "images/CSE/Screenshot from 2024-01-22 21-48-00.png",
     "0.0. MyThinkPad/Callout Styles.md",
     "0.4. Excalidraw/Git-Drawing.md",
     "0.1 Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
@@ -285,16 +275,10 @@
     "0.4. Excalidraw/Drawing of CPU and GPU.md",
     "0.4. Excalidraw/Drawing of Computer Structure.md",
     "0.4. Excalidraw/0.4.0 Metacognition.md",
-    "0.4. Excalidraw/2024-spring-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md",
     "0.0. Cryptol/prompt.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md",
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240311.md",
-    "0.1 Rust Programming/Rust 101 Crash Course/3. Working with Data/3.2. 'struct'.md",
     "2024-Spring/Introduction-to-Cryptanalysis",
     "0.1 Rust Programming/Rust-Standard-Library/macro",
     "0.1 Rust Programming/Rust-Standard-Library/mem",
