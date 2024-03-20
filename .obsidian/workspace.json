@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0. Linux/Command.md",
+                "file": "2024-Spring/Capstone-Design/CD 240320.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0. Linux/Command.md",
+                "file": "2024-Spring/Capstone-Design/CD 240320.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0. Linux/Command.md"
+                "file": "2024-Spring/Capstone-Design/CD 240320.md"
               }
             }
           },
@@ -250,7 +250,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e93e47ee0a5aac2",
+  "active": "bda5dac423281426",
   "lastOpenFiles": [
     "0.0. Linux/Command.md",
     "0.0. Linux",
