@@ -5,6 +5,14 @@
       "path": "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md"
     },
     {
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+    },
+    {
+      "basename": "Rust-Core-CANVAS",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
+    },
+    {
       "basename": "CO2-HIGHT-Drawing",
       "path": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "LEA",
       "path": "0.7. CSE/Intern/LEA.md"
-    },
-    {
-      "basename": "Ji Yong-Hyeon",
-      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
     {
       "basename": "CSE-AES-Drawing",
@@ -107,10 +111,6 @@
     {
       "basename": "LfC 240319",
       "path": "2024-Spring/Logic-for-Comunication/LfC 240319.md"
-    },
-    {
-      "basename": "Rust-Core-CANVAS",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
     },
     {
       "basename": "Rust-Core-Tip",

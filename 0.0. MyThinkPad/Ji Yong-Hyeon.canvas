@@ -1,22 +1,15 @@
 {
 	"nodes":[
-		{"id":"a100da7017c35cd8","type":"link","url":"https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D","x":1155,"y":-751,"width":434,"height":50},
-		{"id":"de07aad8eb6ef9f9","type":"link","url":"https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%94%94%EB%B2%84%EA%B9%85","x":1155,"y":-642,"width":514,"height":50},
-		{"id":"b710f23923a70288","type":"text","text":"System Programming","x":760,"y":-692,"width":345,"height":50},
-		{"id":"f943277f6eeed738","type":"text","text":"Kernel Programming","x":760,"y":-505,"width":345,"height":50},
-		{"id":"2ebae8aa5ea81027","type":"text","text":"Ji Yong-Hyeon\n\n- Mathematics\n- Cryptography\n- Rust\n- Coq","x":-287,"y":-780,"width":372,"height":300,"color":"5"},
+		{"id":"2ebae8aa5ea81027","type":"text","text":"Ji Yong-Hyeon\n\n- Mathematics\n- Formal Proof\n- Cryptography\n- Rust\n- Coq","x":-287,"y":-780,"width":372,"height":300,"color":"5"},
 		{"id":"eee0815a448d58df","type":"text","text":"Computer Structure","x":1100,"y":-995,"width":315,"height":50},
 		{"id":"ed3713ca5a314a0d","type":"text","text":"Operating System","x":1100,"y":-905,"width":315,"height":50},
 		{"id":"e81220510746d2be","type":"text","text":"Computer Sicence","x":720,"y":-955,"width":315,"height":50},
-		{"id":"0db5eaf288c9c0ff","type":"text","text":"Linux","x":294,"y":-576,"width":130,"height":50},
 		{"id":"718638a878574bd4","type":"text","text":"Research","x":-275,"y":-1199,"width":360,"height":129,"color":"1"},
 		{"id":"8375f0164213980e","type":"text","text":"Cryptography","x":-1068,"y":-887,"width":250,"height":75,"color":"#b62eff"},
 		{"id":"a1c4e9376d1186df","type":"text","text":"Abstract Algebra","x":-1200,"y":-91,"width":285,"height":50},
 		{"id":"517cf2f541bfd219","type":"text","text":"Undergraduate (B. S)","x":-615,"y":-1360,"width":340,"height":50,"color":"5"},
 		{"id":"5c18403de317220b","type":"text","text":"Graduate (M. S)","x":138,"y":-1360,"width":284,"height":50,"color":"5"},
 		{"id":"9a66f10698d97178","type":"text","text":"CSE - CO2","x":-1479,"y":-1370,"width":250,"height":60,"color":"5"},
-		{"id":"7f39108531db0414","type":"text","text":"Language","x":234,"y":40,"width":190,"height":50},
-		{"id":"1366e0f9a29cf2e9","type":"text","text":"Rust","x":329,"y":-376,"width":251,"height":135,"color":"#ff6801"},
 		{"id":"4992c95839a0ef54","type":"text","text":"Mathematics","x":-640,"y":-191,"width":353,"height":100,"color":"6"},
 		{"id":"42394f00419de4ef","type":"text","text":"Category Theory","x":-606,"y":40,"width":285,"height":50},
 		{"id":"3089de39ac2ad1d7","type":"text","text":"Lectures","x":772,"y":-329,"width":252,"height":41},
@@ -39,7 +32,7 @@
 		{"id":"a4d02ec47fc9c9f4","type":"text","text":"ECC","x":-1256,"y":-1680,"width":148,"height":63},
 		{"id":"1b29737d385a3fd1","type":"text","text":"Haskell","x":424,"y":440,"width":260,"height":120,"color":"#9e358f"},
 		{"id":"4ae91e77856edfb2","type":"text","text":"Coq","x":34,"y":-980,"width":200,"height":93,"color":"4"},
-		{"id":"8a51d7ed571d7546","x":-2300,"y":-333,"width":427,"height":50,"type":"link","url":"https://www.lesswrong.com/tag/formal-proof"},
+		{"id":"8a51d7ed571d7546","type":"link","url":"https://www.lesswrong.com/tag/formal-proof","x":-2300,"y":-333,"width":427,"height":50},
 		{"id":"7df44d768ffeacb7","type":"text","text":"SAT","x":-2086,"y":-588,"width":158,"height":41},
 		{"id":"afb6b4e12486ea35","type":"link","url":"https://weaversa.github.io/cryptol-course/labs/Language/Basics.html","x":-2999,"y":-973,"width":467,"height":50},
 		{"id":"7964b471f6baa45b","type":"text","text":"Cryptol","x":-2394,"y":-992,"width":293,"height":87,"color":"5"},
@@ -48,11 +41,19 @@
 		{"id":"4b85cea962c838c8","type":"text","text":"Formal Proof","x":-1676,"y":-617,"width":288,"height":91,"color":"1"},
 		{"id":"fe7cc4a0d8887a1a","type":"text","text":"EasyCrypt","x":-1642,"y":200,"width":216,"height":115},
 		{"id":"9d4f869fafa3c19b","type":"link","url":"https://www.youtube.com/@meichlseder/playlists","x":-1714,"y":-1184,"width":576,"height":50},
-		{"id":"f8f2d4ca2441d92c","x":-1714,"y":-937,"width":569,"height":50,"type":"link","url":"https://www.youtube.com/@JacksonInfoSec/videos"},
+		{"id":"f8f2d4ca2441d92c","type":"link","url":"https://www.youtube.com/@JacksonInfoSec/videos","x":-1714,"y":-937,"width":569,"height":50},
 		{"id":"111008337723b20a","type":"link","url":"https://www.youtube.com/@introductiontocryptography4223/videos","x":-1714,"y":-1080,"width":591,"height":50},
 		{"id":"be72881cff3b042e","type":"text","text":"Probablitiy Theory","x":-1213,"y":-166,"width":298,"height":50},
 		{"id":"62a4be4a32741118","type":"text","text":"Logic and Set Theroy","x":-1245,"y":-232,"width":330,"height":41},
-		{"id":"2d7996c16c15a50e","type":"text","text":"Provable Security","x":-1676,"y":-333,"width":285,"height":93,"color":"#d280fe"}
+		{"id":"2d7996c16c15a50e","type":"text","text":"Provable Security","x":-1676,"y":-333,"width":285,"height":93,"color":"#d280fe"},
+		{"id":"3a90aeb364281a86","x":-823,"y":-400,"width":435,"height":50,"type":"link","url":"https://www.youtube.com/@12math/videos"},
+		{"id":"7f39108531db0414","type":"text","text":"Language","x":232,"y":-35,"width":190,"height":50},
+		{"id":"1366e0f9a29cf2e9","type":"text","text":"Rust","x":424,"y":-375,"width":251,"height":135,"color":"#ff6801"},
+		{"id":"0db5eaf288c9c0ff","type":"text","text":"Linux","x":518,"y":-667,"width":130,"height":50},
+		{"id":"a100da7017c35cd8","type":"link","url":"https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D","x":1379,"y":-801,"width":434,"height":50},
+		{"id":"de07aad8eb6ef9f9","type":"link","url":"https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%94%94%EB%B2%84%EA%B9%85","x":1379,"y":-692,"width":514,"height":50},
+		{"id":"b710f23923a70288","type":"text","text":"System Programming","x":984,"y":-742,"width":345,"height":50},
+		{"id":"f943277f6eeed738","type":"text","text":"Kernel Programming","x":984,"y":-580,"width":345,"height":50}
 	],
 	"edges":[
 		{"id":"3869d58a7979167b","fromNode":"2ebae8aa5ea81027","fromSide":"right","toNode":"7f39108531db0414","toSide":"left"},
@@ -87,7 +88,7 @@
 		{"id":"c5bcc1a680640e13","fromNode":"fbb7b781613e44e1","fromSide":"bottom","toNode":"3109ae16dcfe7828","toSide":"top"},
 		{"id":"da8d94b4fe7ed4ca","fromNode":"fbb7b781613e44e1","fromSide":"top","toNode":"7964b471f6baa45b","toSide":"bottom"},
 		{"id":"fe4e291ae3a0132f","fromNode":"7964b471f6baa45b","fromSide":"bottom","toNode":"fbb7b781613e44e1","toSide":"top"},
-		{"id":"b1fb4322bc480f43","fromNode":"7f39108531db0414","fromSide":"left","toNode":"4ae91e77856edfb2","toSide":"bottom","label":"interesting"},
+		{"id":"b1fb4322bc480f43","fromNode":"7f39108531db0414","fromSide":"top","toNode":"4ae91e77856edfb2","toSide":"bottom"},
 		{"id":"6f70fe2f59b873cd","fromNode":"4ae91e77856edfb2","fromSide":"left","toNode":"4b85cea962c838c8","toSide":"right"},
 		{"id":"0fb5bcfe33516e6e","fromNode":"2ebae8aa5ea81027","fromSide":"top","toNode":"718638a878574bd4","toSide":"bottom","color":"1"},
 		{"id":"a918d4b2ac2efd22","fromNode":"517cf2f541bfd219","fromSide":"left","toNode":"af700d283ccdd1b1","toSide":"bottom","color":"5"},
@@ -118,6 +119,7 @@
 		{"id":"ffcd3def1e6358d6","fromNode":"4ae91e77856edfb2","fromSide":"right","toNode":"bdc21f605faa27fd","toSide":"left","color":"4"},
 		{"id":"152ec0f005088c53","fromNode":"4ae91e77856edfb2","fromSide":"right","toNode":"21dc1bda06fb63cb","toSide":"left","color":"4"},
 		{"id":"56c8138e6b9f9a35","fromNode":"4b85cea962c838c8","fromSide":"left","toNode":"8a51d7ed571d7546","toSide":"right","color":"1"},
-		{"id":"c24cdc15cdbf4344","fromNode":"8375f0164213980e","fromSide":"top","toNode":"f8f2d4ca2441d92c","toSide":"right","color":"#d68ffd"}
+		{"id":"c24cdc15cdbf4344","fromNode":"8375f0164213980e","fromSide":"top","toNode":"f8f2d4ca2441d92c","toSide":"right","color":"#d68ffd"},
+		{"id":"f5772a67cc34a541","fromNode":"4992c95839a0ef54","fromSide":"top","toNode":"3a90aeb364281a86","toSide":"bottom","color":"#7852ee"}
 	]
 }
