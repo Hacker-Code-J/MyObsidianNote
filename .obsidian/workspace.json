@@ -83,9 +83,12 @@
             "id": "0e93e47ee0a5aac2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "0.0. Linux/Command.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -172,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240320.md",
+                "file": "0.0. Linux/Command.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240320.md",
+                "file": "0.0. Linux/Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240320.md"
+                "file": "0.0. Linux/Command.md"
               }
             }
           },
@@ -249,6 +252,8 @@
   },
   "active": "0e93e47ee0a5aac2",
   "lastOpenFiles": [
+    "0.0. Linux/Command.md",
+    "0.0. Linux",
     "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md",
     "2024-Spring/Capstone-Design/CD 240320.md",
     "Excalidraw/lib/domainstorytelling.excalidrawlib",
@@ -278,7 +283,6 @@
     "0.0. Cryptol/prompt.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240318.md",
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md",
     "Mind Map/Pasted image 20240319103359.png",
     "Coq",
     "Mind Map/Pasted Image 20240318182924_453.png",
@@ -297,7 +301,6 @@
     "0.1 Rust Programming/Rust-Standard-Library/mem",
     "0.1 Rust Programming/Rust-Standard-Library",
     "0.1 Rust Programming/Untitled.canvas",
-    "0.1 Rust Programming/Rust-Core-Note/Basic I",
     "2024-Spring/Untitled.canvas",
     "Pasted Image/The 2nd Brain.canvas",
     "Pasted Image/C - CraftCodeLab.canvas",

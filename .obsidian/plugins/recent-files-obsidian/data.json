@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Command",
+      "path": "0.0. Linux/Command.md"
+    },
+    {
       "basename": "CD 240320",
       "path": "2024-Spring/Capstone-Design/CD 240320.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pointer-in-C-Drawing",
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md"
-    },
-    {
-      "basename": "Drawing of Computer Structure",
-      "path": "0.4. Excalidraw/Drawing of Computer Structure.md"
     }
   ],
   "omittedPaths": [],
