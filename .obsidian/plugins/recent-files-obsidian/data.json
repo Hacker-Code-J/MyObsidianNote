@@ -5,6 +5,18 @@
       "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
     {
+      "basename": "Command",
+      "path": "0.0. Linux/Command.md"
+    },
+    {
+      "basename": "Crypto-coding",
+      "path": "0.1. C Programming/Crypto-coding.md"
+    },
+    {
+      "basename": "CO2-HIGHT-Drawing",
+      "path": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
+    },
+    {
       "basename": "Rust-Core-CANVAS",
       "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
     },
@@ -13,16 +25,8 @@
       "path": "2024-Spring/Capstone-Design/CD 240320.md"
     },
     {
-      "basename": "Command",
-      "path": "0.0. Linux/Command.md"
-    },
-    {
       "basename": "CO2-Cryptol-Drawing",
       "path": "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md"
-    },
-    {
-      "basename": "CO2-HIGHT-Drawing",
-      "path": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
     },
     {
       "basename": "CSE-LEA-Drawing",
@@ -111,10 +115,6 @@
     {
       "basename": "ACP-Asgnmt-Drawing",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md"
-    },
-    {
-      "basename": "Crypto-coding",
-      "path": "0.1. C Programming/Crypto-coding.md"
     },
     {
       "basename": "LfC 240319",
