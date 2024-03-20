@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Ji Yong-Hyeon",
-      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+      "basename": "CaS-DES-Drawing",
+      "path": "0.4. Excalidraw/CaS/CaS-DES-Drawing.md"
+    },
+    {
+      "basename": "Crypto-coding",
+      "path": "0.1. C Programming/Crypto-coding.md"
+    },
+    {
+      "basename": "CaS 240119",
+      "path": "0.4. Excalidraw/CaS/CaS 240119.md"
     },
     {
       "basename": "Command",
       "path": "0.0. Linux/Command.md"
     },
     {
-      "basename": "Crypto-coding",
-      "path": "0.1. C Programming/Crypto-coding.md"
+      "basename": "CO2-Cryptol-Drawing",
+      "path": "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md"
+    },
+    {
+      "basename": "CaS 240126",
+      "path": "0.4. Excalidraw/CaS/CaS 240126.md"
+    },
+    {
+      "basename": "CaS 240223",
+      "path": "0.4. Excalidraw/CaS/CaS 240223.md"
+    },
+    {
+      "basename": "CaS-GIFT-Drawing",
+      "path": "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md"
+    },
+    {
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
     {
       "basename": "CO2-HIGHT-Drawing",
@@ -23,10 +47,6 @@
     {
       "basename": "CD 240320",
       "path": "2024-Spring/Capstone-Design/CD 240320.md"
-    },
-    {
-      "basename": "CO2-Cryptol-Drawing",
-      "path": "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md"
     },
     {
       "basename": "CSE-LEA-Drawing",
@@ -179,26 +199,6 @@
     {
       "basename": "Pasted image 20240217173336",
       "path": "Pasted image 20240217173336.png"
-    },
-    {
-      "basename": "Pasted image 20240217155041",
-      "path": "Pasted image 20240217155041.png"
-    },
-    {
-      "basename": "Callout Styles",
-      "path": "0.0. MyThinkPad/Callout Styles.md"
-    },
-    {
-      "basename": "Git-Drawing",
-      "path": "0.4. Excalidraw/Git-Drawing.md"
-    },
-    {
-      "basename": "Rust 101 Crash Course",
-      "path": "0.1 Rust Programming/Rust 101 Crash Course/Rust 101 Crash Course.md"
-    },
-    {
-      "basename": "Pointer-in-C-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md"
     }
   ],
   "omittedPaths": [],
