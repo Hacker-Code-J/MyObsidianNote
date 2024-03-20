@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CD 240320",
+      "path": "2024-Spring/Capstone-Design/CD 240320.md"
+    },
+    {
       "basename": "CO2-Cryptol-Drawing",
       "path": "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing of Computer Structure",
       "path": "0.4. Excalidraw/Drawing of Computer Structure.md"
-    },
-    {
-      "basename": "Functions-in-C-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md"
     }
   ],
   "omittedPaths": [],

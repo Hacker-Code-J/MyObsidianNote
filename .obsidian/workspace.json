@@ -70,14 +70,27 @@
             "id": "bda5dac423281426",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md"
+                "file": "2024-Spring/Capstone-Design/CD 240320.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e93e47ee0a5aac2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -143,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md",
+                "file": "2024-Spring/Capstone-Design/CD 240320.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md",
+                "file": "2024-Spring/Capstone-Design/CD 240320.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md"
+                "file": "2024-Spring/Capstone-Design/CD 240320.md"
               }
             }
           },
@@ -235,13 +247,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bda5dac423281426",
+  "active": "0e93e47ee0a5aac2",
   "lastOpenFiles": [
+    "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md",
+    "2024-Spring/Capstone-Design/CD 240320.md",
     "Excalidraw/lib/domainstorytelling.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 150830.crdownload",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
-    "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md",
     "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
     "0.4. Excalidraw/CSE/Untitled.md",
     "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
@@ -285,7 +298,6 @@
     "0.1 Rust Programming/Rust-Standard-Library",
     "0.1 Rust Programming/Untitled.canvas",
     "0.1 Rust Programming/Rust-Core-Note/Basic I",
-    "0.1 Rust Programming/Rust-Core-Note/Intermediate I",
     "2024-Spring/Untitled.canvas",
     "Pasted Image/The 2nd Brain.canvas",
     "Pasted Image/C - CraftCodeLab.canvas",
