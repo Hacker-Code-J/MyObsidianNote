@@ -5,6 +5,14 @@
       "path": "0.4. Excalidraw/CaS/CaS-DES-Drawing.md"
     },
     {
+      "basename": "CaS 240321",
+      "path": "0.7. CaS/CaS 240321.md"
+    },
+    {
+      "basename": "CO2-Cryptol-Drawing",
+      "path": "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md"
+    },
+    {
       "basename": "Crypto-coding",
       "path": "0.1. C Programming/Crypto-coding.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Command",
       "path": "0.0. Linux/Command.md"
-    },
-    {
-      "basename": "CO2-Cryptol-Drawing",
-      "path": "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md"
     },
     {
       "basename": "CaS 240126",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240315204501",
       "path": "Pasted image 20240315204501.png"
-    },
-    {
-      "basename": "Pasted image 20240217173336",
-      "path": "Pasted image 20240217173336.png"
     }
   ],
   "omittedPaths": [],
