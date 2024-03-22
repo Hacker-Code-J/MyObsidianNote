@@ -16,8 +16,8 @@
               "state": {
                 "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "viewState": {
-                  "x": -1936.309999392049,
-                  "y": -744.6751807457122,
+                  "x": 447.71746846242377,
+                  "y": -263.64364229927185,
                   "zoom": -0.8000000000000006
                 }
               },
@@ -57,20 +57,19 @@
             }
           },
           {
-            "id": "f18125fb2b34c9b8",
+            "id": "d4e3309864c8e0a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240322.md",
+                "file": "2024-Spring/Leadership-Challenge/LC 240322.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240322.md",
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240322.md",
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240322.md"
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
               }
             }
           },
@@ -227,11 +226,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f18125fb2b34c9b8",
+  "active": "d4e5643769f490b8",
   "lastOpenFiles": [
+    "2024-Spring/Leadership-Challenge/LC 240322.md",
+    "0.1. C Programming/Crypto-coding.md",
     "2024-Spring/Capstone-Design/CD 240322.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
-    "0.1. C Programming/Crypto-coding.md",
     "0.4. Excalidraw/CaS/CaS-DES-Drawing.md",
     "0.7. CaS/CaS 240321.md",
     "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md",
@@ -259,7 +259,6 @@
     "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md",
     "0.4. Excalidraw/0.4.0 Metacognition.md",
     "0.4. Excalidraw/2024-spring-Drawing.md",
-    "0.4. Excalidraw/Drawing of AES.md",
     "Mind Map/Pasted image 20240319103359.png",
     "Coq",
     "Mind Map/Pasted Image 20240318182924_453.png",

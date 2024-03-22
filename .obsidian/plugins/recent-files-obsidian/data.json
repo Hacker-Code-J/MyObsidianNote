@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "LC 240322",
+      "path": "2024-Spring/Leadership-Challenge/LC 240322.md"
+    },
+    {
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+    },
+    {
       "basename": "Crypto-coding",
       "path": "0.1. C Programming/Crypto-coding.md"
     },
     {
       "basename": "CD 240322",
       "path": "2024-Spring/Capstone-Design/CD 240322.md"
-    },
-    {
-      "basename": "Ji Yong-Hyeon",
-      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
     {
       "basename": "CaS-DES-Drawing",
@@ -195,10 +199,6 @@
     {
       "basename": "complier1",
       "path": "images/complier1.png"
-    },
-    {
-      "basename": "Pasted image 20240315204502",
-      "path": "Pasted image 20240315204502.png"
     }
   ],
   "omittedPaths": [],
