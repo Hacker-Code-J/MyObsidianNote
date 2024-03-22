@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"972bfceb91780227","type":"text","text":"Coq","x":-60,"y":-230,"width":121,"height":50,"color":"5"},
+		{"id":"91455d500dba71e7","type":"text","text":"VsCoq","x":-79,"y":-400,"width":160,"height":50},
+		{"id":"b7f5415d41f9795e","type":"text","text":"Check","x":-300,"y":89,"width":141,"height":41},
+		{"id":"bb76e15ee1db900f","type":"text","text":"Print","x":-69,"y":229,"width":141,"height":41},
+		{"id":"38c99f3199be433f","type":"text","text":"Compute","x":160,"y":80,"width":180,"height":50}
+	],
+	"edges":[
+		{"id":"038a534f3a91d051","fromNode":"972bfceb91780227","fromSide":"top","toNode":"91455d500dba71e7","toSide":"bottom"},
+		{"id":"5535ef38a45cf98a","fromNode":"972bfceb91780227","fromSide":"bottom","toNode":"b7f5415d41f9795e","toSide":"top","label":"Name : Type\n(Type of Name)"},
+		{"id":"69424bee1cc1d3bb","fromNode":"972bfceb91780227","fromSide":"bottom","toNode":"38c99f3199be433f","toSide":"top","label":"= Value : Type\n(Value of Name)"},
+		{"id":"cc50ff35754ddfe7","fromNode":"38c99f3199be433f","fromSide":"bottom","toNode":"bb76e15ee1db900f","toSide":"top"},
+		{"id":"50c23e4a6f5bb6f1","fromNode":"b7f5415d41f9795e","fromSide":"bottom","toNode":"bb76e15ee1db900f","toSide":"top"},
+		{"id":"fbbbb0d3cdcb5745","fromNode":"972bfceb91780227","fromSide":"bottom","toNode":"bb76e15ee1db900f","toSide":"top","label":"Name = Value : Type\n(Definition of Name)"}
+	]
+}
