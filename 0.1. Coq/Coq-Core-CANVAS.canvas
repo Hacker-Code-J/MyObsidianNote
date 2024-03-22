@@ -1,19 +1,36 @@
 {
 	"nodes":[
-		{"id":"91455d500dba71e7","type":"text","text":"VsCoq","x":-479,"y":-420,"width":160,"height":50},
-		{"id":"b7f5415d41f9795e","type":"text","text":"Check","x":-700,"y":69,"width":141,"height":41,"color":"6"},
-		{"id":"bb76e15ee1db900f","type":"text","text":"Print","x":-469,"y":209,"width":141,"height":41,"color":"6"},
-		{"id":"38c99f3199be433f","type":"text","text":"Compute","x":-240,"y":60,"width":180,"height":50,"color":"6"},
-		{"id":"972bfceb91780227","type":"text","text":"Coq","x":-460,"y":-250,"width":121,"height":50,"color":"5"},
-		{"id":"a18900eab61db6d3","x":0,"y":-250,"width":188,"height":50,"color":"6","type":"text","text":"Inductive"}
+		{"id":"a18900eab61db6d3","type":"text","text":"Inductive","x":260,"y":-340,"width":188,"height":50,"color":"6"},
+		{"id":"dad9b4e45b550913","type":"text","text":"Definition","x":260,"y":-110,"width":188,"height":50,"color":"6"},
+		{"id":"86b7b4ce43285040","type":"text","text":"```Coq\nInductive day : Type :=\n | monday\n | tuesday\n | wednesday\n | thursday\n | friday\n | saturday\n | sunday.\n```","x":620,"y":-680,"width":360,"height":310},
+		{"id":"55e224a32fdf21c7","type":"text","text":"Constructor\n- Constant\n- Nullary\n- Element","x":620,"y":-340,"width":280,"height":205,"color":"3"},
+		{"id":"66c9d416976e0ed1","type":"text","text":"```Coq\nDefinition a: day := monday.\nDefinition b: day := friday.\n```","x":520,"y":-12,"width":413,"height":100},
+		{"id":"019182de45e11f20","type":"text","text":"- Well-Formed Expresstion\n- Ill-typed Expresstion","x":1162,"y":-23,"width":440,"height":123},
+		{"id":"bb76e15ee1db900f","type":"text","text":"Print","x":1312,"y":509,"width":141,"height":41,"color":"6"},
+		{"id":"38c99f3199be433f","type":"text","text":"Compute","x":1602,"y":200,"width":180,"height":50,"color":"6"},
+		{"id":"b7f5415d41f9795e","type":"text","text":"Check","x":980,"y":209,"width":141,"height":41,"color":"6"},
+		{"id":"f008dc69efca2bbd","type":"text","text":"Types","x":-181,"y":-225,"width":155,"height":50},
+		{"id":"e2ca9f54bf6d5752","type":"text","text":"Set","x":40,"y":200,"width":155,"height":50},
+		{"id":"91455d500dba71e7","type":"text","text":"VsCoq","x":-680,"y":-395,"width":160,"height":50},
+		{"id":"972bfceb91780227","type":"text","text":"Coq","x":-661,"y":-225,"width":121,"height":50,"color":"5"},
+		{"id":"54d66a99a480f300","type":"text","text":"Prop","x":-440,"y":200,"width":155,"height":50}
 	],
 	"edges":[
 		{"id":"038a534f3a91d051","fromNode":"972bfceb91780227","fromSide":"top","toNode":"91455d500dba71e7","toSide":"bottom"},
-		{"id":"5535ef38a45cf98a","fromNode":"972bfceb91780227","fromSide":"bottom","toNode":"b7f5415d41f9795e","toSide":"top","label":"Name : Type\n(Type of Name)"},
-		{"id":"69424bee1cc1d3bb","fromNode":"972bfceb91780227","fromSide":"bottom","toNode":"38c99f3199be433f","toSide":"top","label":"= Value : Type\n(Value of Name)"},
+		{"id":"5535ef38a45cf98a","fromNode":"019182de45e11f20","fromSide":"bottom","toNode":"b7f5415d41f9795e","toSide":"top","label":"Name : Type\n(Type of Name)"},
 		{"id":"cc50ff35754ddfe7","fromNode":"38c99f3199be433f","fromSide":"bottom","toNode":"bb76e15ee1db900f","toSide":"top"},
+		{"id":"771d2a858f085e78","fromNode":"972bfceb91780227","fromSide":"right","toNode":"f008dc69efca2bbd","toSide":"left","label":"(Finite) Data Type"},
+		{"id":"acfae1e88dc01c7d","fromNode":"f008dc69efca2bbd","fromSide":"right","toNode":"a18900eab61db6d3","toSide":"left","label":"Enumeration"},
+		{"id":"8697f22e2c1ac7c0","fromNode":"f008dc69efca2bbd","fromSide":"right","toNode":"dad9b4e45b550913","toSide":"left","label":"Identifier\n(Constant)"},
+		{"id":"5fcbfe895e2de40e","fromNode":"a18900eab61db6d3","fromSide":"right","toNode":"86b7b4ce43285040","toSide":"left"},
+		{"id":"71676e7c75397680","fromNode":"dad9b4e45b550913","fromSide":"right","toNode":"66c9d416976e0ed1","toSide":"left"},
+		{"id":"69424bee1cc1d3bb","fromNode":"019182de45e11f20","fromSide":"bottom","toNode":"38c99f3199be433f","toSide":"top","label":"= Value : Type\n(Value of Name)"},
+		{"id":"e779a2004aa42495","fromNode":"55e224a32fdf21c7","fromSide":"right","toNode":"019182de45e11f20","toSide":"top"},
+		{"id":"f3533d7e56c2b16f","fromNode":"a18900eab61db6d3","fromSide":"right","toNode":"55e224a32fdf21c7","toSide":"left","label":"element"},
+		{"id":"2859bdf26d3d9be4","fromNode":"f008dc69efca2bbd","fromSide":"bottom","toNode":"e2ca9f54bf6d5752","toSide":"top","label":"Computability"},
+		{"id":"5011bec0d933b6b4","fromNode":"66c9d416976e0ed1","fromSide":"right","toNode":"019182de45e11f20","toSide":"left"},
+		{"id":"fbbbb0d3cdcb5745","fromNode":"019182de45e11f20","fromSide":"bottom","toNode":"bb76e15ee1db900f","toSide":"top","label":"Name = Value : Type\n(Definition of Name)"},
 		{"id":"50c23e4a6f5bb6f1","fromNode":"b7f5415d41f9795e","fromSide":"bottom","toNode":"bb76e15ee1db900f","toSide":"top"},
-		{"id":"fbbbb0d3cdcb5745","fromNode":"972bfceb91780227","fromSide":"bottom","toNode":"bb76e15ee1db900f","toSide":"top","label":"Name = Value : Type\n(Definition of Name)"},
-		{"id":"771d2a858f085e78","fromNode":"972bfceb91780227","fromSide":"right","toNode":"a18900eab61db6d3","toSide":"left","label":"(Finite) Data Type"}
+		{"id":"5da4be8f08cf3c7c","fromNode":"f008dc69efca2bbd","fromSide":"bottom","toNode":"54d66a99a480f300","toSide":"top","label":"Specification"}
 	]
 }
