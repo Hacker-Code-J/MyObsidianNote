@@ -54,9 +54,10 @@
 		{"id":"2d7996c16c15a50e","type":"text","text":"Provable Security","x":-1342,"y":-505,"width":285,"height":93,"color":"#d280fe"},
 		{"id":"fe7cc4a0d8887a1a","type":"text","text":"EasyCrypt","x":-1640,"y":-98,"width":216,"height":115},
 		{"id":"24570379f5cbf662","type":"text","text":"OCmal","x":-170,"y":40,"width":151,"height":50},
-		{"id":"2bafa7ceed6b1fe6","x":709,"y":-1249,"width":458,"height":50,"type":"link","url":"https://github.com/formal-land/coq-of-rust?tab=readme-ov-file"},
+		{"id":"2bafa7ceed6b1fe6","type":"link","url":"https://github.com/formal-land/coq-of-rust?tab=readme-ov-file","x":709,"y":-1249,"width":458,"height":50},
 		{"id":"1b29737d385a3fd1","type":"text","text":"Haskell","x":-1388,"y":560,"width":260,"height":120,"color":"#9e358f"},
-		{"id":"0b9e902e0d53f3d3","x":709,"y":-1360,"width":400,"height":50,"type":"link","url":"https://www.youtube.com/@introductiontocomputationa8415/videos"}
+		{"id":"0b9e902e0d53f3d3","type":"link","url":"https://www.youtube.com/@introductiontocomputationa8415/videos","x":709,"y":-1360,"width":400,"height":50},
+		{"id":"2e2cdba609f10bf7","x":1122,"y":-166,"width":423,"height":50,"type":"link","url":"https://docs.rs/"}
 	],
 	"edges":[
 		{"id":"3869d58a7979167b","fromNode":"2ebae8aa5ea81027","fromSide":"right","toNode":"7f39108531db0414","toSide":"top"},
@@ -127,6 +128,7 @@
 		{"id":"e3b1608f73684f72","fromNode":"7f39108531db0414","fromSide":"left","toNode":"24570379f5cbf662","toSide":"right"},
 		{"id":"69e22c50f0aabeb2","fromNode":"24570379f5cbf662","fromSide":"bottom","toNode":"fe7cc4a0d8887a1a","toSide":"bottom"},
 		{"id":"5bc7b565a4fbccff","fromNode":"24570379f5cbf662","fromSide":"top","toNode":"4ae91e77856edfb2","toSide":"bottom"},
-		{"id":"906e20098a12133b","fromNode":"4ae91e77856edfb2","fromSide":"right","toNode":"0b9e902e0d53f3d3","toSide":"left","color":"4"}
+		{"id":"906e20098a12133b","fromNode":"4ae91e77856edfb2","fromSide":"right","toNode":"0b9e902e0d53f3d3","toSide":"left","color":"4"},
+		{"id":"6330c783dc3d51af","fromNode":"bc8202b7c2f2080d","fromSide":"right","toNode":"2e2cdba609f10bf7","toSide":"left","color":"#fb9b7c"}
 	]
 }

@@ -16,8 +16,8 @@
               "state": {
                 "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "viewState": {
-                  "x": 447.71746846242377,
-                  "y": -263.64364229927185,
+                  "x": -390.5207320552502,
+                  "y": -1043.2078893373382,
                   "zoom": -0.8000000000000006
                 }
               },
@@ -84,8 +84,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LC 240322.md",
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LC 240322.md",
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LC 240322.md"
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
               }
             }
           },
@@ -243,7 +242,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7047755c79cf09b1",
+  "active": "d4e5643769f490b8",
   "lastOpenFiles": [
     "0.1. Coq/Coq-Core-CANVAS.canvas",
     "2024-Spring/Leadership-Challenge/LC 240322.md",
