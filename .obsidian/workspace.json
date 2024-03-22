@@ -60,11 +60,17 @@
             "id": "f18125fb2b34c9b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-Spring/Capstone-Design/CD 240322.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+                "file": "2024-Spring/Capstone-Design/CD 240322.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+                "file": "2024-Spring/Capstone-Design/CD 240322.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+                "file": "2024-Spring/Capstone-Design/CD 240322.md"
               }
             }
           },
@@ -221,8 +227,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4e5643769f490b8",
+  "active": "f18125fb2b34c9b8",
   "lastOpenFiles": [
+    "2024-Spring/Capstone-Design/CD 240322.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "0.1. C Programming/Crypto-coding.md",
     "0.4. Excalidraw/CaS/CaS-DES-Drawing.md",
