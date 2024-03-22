@@ -1,10 +1,11 @@
 {
 	"nodes":[
-		{"id":"972bfceb91780227","type":"text","text":"Coq","x":-60,"y":-230,"width":121,"height":50,"color":"5"},
-		{"id":"91455d500dba71e7","type":"text","text":"VsCoq","x":-79,"y":-400,"width":160,"height":50},
-		{"id":"b7f5415d41f9795e","type":"text","text":"Check","x":-300,"y":89,"width":141,"height":41},
-		{"id":"bb76e15ee1db900f","type":"text","text":"Print","x":-69,"y":229,"width":141,"height":41},
-		{"id":"38c99f3199be433f","type":"text","text":"Compute","x":160,"y":80,"width":180,"height":50}
+		{"id":"91455d500dba71e7","type":"text","text":"VsCoq","x":-479,"y":-420,"width":160,"height":50},
+		{"id":"b7f5415d41f9795e","type":"text","text":"Check","x":-700,"y":69,"width":141,"height":41,"color":"6"},
+		{"id":"bb76e15ee1db900f","type":"text","text":"Print","x":-469,"y":209,"width":141,"height":41,"color":"6"},
+		{"id":"38c99f3199be433f","type":"text","text":"Compute","x":-240,"y":60,"width":180,"height":50,"color":"6"},
+		{"id":"972bfceb91780227","type":"text","text":"Coq","x":-460,"y":-250,"width":121,"height":50,"color":"5"},
+		{"id":"a18900eab61db6d3","x":0,"y":-250,"width":188,"height":50,"color":"6","type":"text","text":"Inductive"}
 	],
 	"edges":[
 		{"id":"038a534f3a91d051","fromNode":"972bfceb91780227","fromSide":"top","toNode":"91455d500dba71e7","toSide":"bottom"},
@@ -12,6 +13,7 @@
 		{"id":"69424bee1cc1d3bb","fromNode":"972bfceb91780227","fromSide":"bottom","toNode":"38c99f3199be433f","toSide":"top","label":"= Value : Type\n(Value of Name)"},
 		{"id":"cc50ff35754ddfe7","fromNode":"38c99f3199be433f","fromSide":"bottom","toNode":"bb76e15ee1db900f","toSide":"top"},
 		{"id":"50c23e4a6f5bb6f1","fromNode":"b7f5415d41f9795e","fromSide":"bottom","toNode":"bb76e15ee1db900f","toSide":"top"},
-		{"id":"fbbbb0d3cdcb5745","fromNode":"972bfceb91780227","fromSide":"bottom","toNode":"bb76e15ee1db900f","toSide":"top","label":"Name = Value : Type\n(Definition of Name)"}
+		{"id":"fbbbb0d3cdcb5745","fromNode":"972bfceb91780227","fromSide":"bottom","toNode":"bb76e15ee1db900f","toSide":"top","label":"Name = Value : Type\n(Definition of Name)"},
+		{"id":"771d2a858f085e78","fromNode":"972bfceb91780227","fromSide":"right","toNode":"a18900eab61db6d3","toSide":"left","label":"(Finite) Data Type"}
 	]
 }

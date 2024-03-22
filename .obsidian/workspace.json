@@ -77,14 +77,15 @@
               "state": {
                 "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
                 "viewState": {
-                  "x": -81,
-                  "y": 0,
+                  "x": -54,
+                  "y": -101.70000000000002,
                   "zoom": 0
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+                "file": "0.1. Coq/Coq-Core-CANVAS.canvas"
               }
             }
           },
@@ -242,15 +243,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4e5643769f490b8",
+  "active": "9e591fc6789ba62e",
   "lastOpenFiles": [
-    "0.1. Coq/Coq-Core-CANVAS.canvas",
-    "2024-Spring/Leadership-Challenge/LC 240322.md",
     "0.1. C Programming/Crypto-coding.md",
-    "0.1. Coq/Coq - Study1.md",
-    "2024-Spring/Leadership-Challenge/LC 240315.md",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+    "0.1. Coq/Coq-Core-CANVAS.canvas",
+    "2024-Spring/Leadership-Challenge/LC 240322.md",
+    "0.1. Coq/Coq - Study1.md",
+    "2024-Spring/Leadership-Challenge/LC 240315.md",
     "0.1. Coq/Drawing 2024-03-22 14.18.41.excalidraw.md",
     "2024-Spring/Capstone-Design/CD 240322.md",
     "0.4. Excalidraw/CaS/CaS-DES-Drawing.md",

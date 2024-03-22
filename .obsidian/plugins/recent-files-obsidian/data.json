@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Ji Yong-Hyeon",
-      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
-    },
-    {
       "basename": "Coq-Core-CANVAS",
       "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
     },
     {
-      "basename": "LC 240322",
-      "path": "2024-Spring/Leadership-Challenge/LC 240322.md"
-    },
-    {
       "basename": "Crypto-coding",
       "path": "0.1. C Programming/Crypto-coding.md"
+    },
+    {
+      "basename": "Rust-Core-CANVAS",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
+    },
+    {
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+    },
+    {
+      "basename": "LC 240322",
+      "path": "2024-Spring/Leadership-Challenge/LC 240322.md"
     },
     {
       "basename": "Coq - Study1",
@@ -23,10 +27,6 @@
     {
       "basename": "LC 240315",
       "path": "2024-Spring/Leadership-Challenge/LC 240315.md"
-    },
-    {
-      "basename": "Rust-Core-CANVAS",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
     },
     {
       "basename": "Drawing 2024-03-22 14.18.41.excalidraw",
