@@ -62,14 +62,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LC 240322.md",
+                "file": "0.1. Coq/Coq - Study1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e591fc6789ba62e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.1. Coq/Drawing 2024-03-22 14.18.41.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "32c2e81b1c017ad0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-Spring/Leadership-Challenge/LC 240315.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+                "file": "0.1. Coq/Drawing 2024-03-22 14.18.41.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+                "file": "0.1. Coq/Drawing 2024-03-22 14.18.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+                "file": "0.1. Coq/Drawing 2024-03-22 14.18.41.excalidraw.md"
               }
             }
           },
@@ -226,12 +250,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4e5643769f490b8",
+  "active": "9e591fc6789ba62e",
   "lastOpenFiles": [
+    "0.1. Coq/Coq - Study1.md",
+    "0.1. Coq/Drawing 2024-03-22 14.18.41.excalidraw.md",
     "2024-Spring/Leadership-Challenge/LC 240322.md",
+    "2024-Spring/Leadership-Challenge/LC 240315.md",
+    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "0.1. C Programming/Crypto-coding.md",
     "2024-Spring/Capstone-Design/CD 240322.md",
-    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "0.4. Excalidraw/CaS/CaS-DES-Drawing.md",
     "0.7. CaS/CaS 240321.md",
     "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md",
@@ -256,11 +283,8 @@
     "0.4. Excalidraw/Insite/Quotient and Remainder.md",
     "0.4. Excalidraw/Insite/Effort.md",
     "0.4. Excalidraw/Insite/Efficiency.md",
-    "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md",
-    "0.4. Excalidraw/0.4.0 Metacognition.md",
-    "0.4. Excalidraw/2024-spring-Drawing.md",
     "Mind Map/Pasted image 20240319103359.png",
-    "Coq",
+    "0.1. Coq",
     "Mind Map/Pasted Image 20240318182924_453.png",
     "Mind Map/Pasted Image 20240318175558_322.png",
     "Mind Map/Pasted Image 20240318165656_009.png",

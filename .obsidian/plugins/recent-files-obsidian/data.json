@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2024-03-22 14.18.41.excalidraw",
+      "path": "0.1. Coq/Drawing 2024-03-22 14.18.41.excalidraw.md"
+    },
+    {
+      "basename": "Coq - Study1",
+      "path": "0.1. Coq/Coq - Study1.md"
+    },
+    {
       "basename": "LC 240322",
       "path": "2024-Spring/Leadership-Challenge/LC 240322.md"
+    },
+    {
+      "basename": "LC 240315",
+      "path": "2024-Spring/Leadership-Challenge/LC 240315.md"
     },
     {
       "basename": "Ji Yong-Hyeon",
@@ -157,10 +169,6 @@
       "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Tip.md"
     },
     {
-      "basename": "Coq - Study1",
-      "path": "Coq/Coq - Study1.md"
-    },
-    {
       "basename": "Rust-Core-Drawing",
       "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Screenshot from 2024-01-22 21-48-00",
       "path": "images/CSE/Screenshot from 2024-01-22 21-48-00.png"
-    },
-    {
-      "basename": "Screenshot from 2024-01-22 21-32-20",
-      "path": "images/CSE/Screenshot from 2024-01-22 21-32-20.png"
-    },
-    {
-      "basename": "complier1",
-      "path": "images/complier1.png"
     }
   ],
   "omittedPaths": [],
