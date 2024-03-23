@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "zsh",
+      "path": "0.5. Editor/zsh.md"
+    },
+    {
+      "basename": "NVIM Command",
+      "path": "0.5. Editor/NVIM Command.md"
+    },
+    {
       "basename": "0.5.0 NeoVim Setup",
       "path": "0.5. Editor/0.5.0 NeoVim Setup.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "complier2",
       "path": "images/complier2.png"
-    },
-    {
-      "basename": "Questions",
-      "path": "Implementation for AES/Questions.md"
-    },
-    {
-      "basename": "CBC_DEC",
-      "path": "images/CSE/CBC_DEC.png"
     }
   ],
   "omittedPaths": [],

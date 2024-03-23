@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.5. Editor/0.5.0 NeoVim Setup.md",
+                "file": "0.5. Editor/zsh.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -163,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.5. Editor/0.5.0 NeoVim Setup.md",
+                "file": "0.5. Editor/zsh.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.5. Editor/0.5.0 NeoVim Setup.md",
+                "file": "0.5. Editor/zsh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.5. Editor/0.5.0 NeoVim Setup.md"
+                "file": "0.5. Editor/zsh.md"
               }
             }
           },
@@ -240,6 +239,9 @@
   },
   "active": "31b2b73103981d5b",
   "lastOpenFiles": [
+    "0.5. Editor/NVIM Command.md",
+    "0.5. Editor/zsh.md",
+    "0.5. Editor/0.5.0 NeoVim Setup.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "0.1. Coq/Coq-Core-Drawing.md",
@@ -270,8 +272,6 @@
     "0.4. Excalidraw/CSE/Untitled.md",
     "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
     "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
-    "0.7. CSE/Intern/LEA.md",
-    "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
     "Mind Map/Pasted image 20240319103359.png",
     "0.1. Coq",
     "Mind Map/Pasted Image 20240318182924_453.png",
