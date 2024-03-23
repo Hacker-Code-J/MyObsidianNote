@@ -65,22 +65,9 @@
                 "file": "0.1. Coq/Coq-Core-Drawing.md"
               }
             }
-          },
-          {
-            "id": "31b2b73103981d5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.5. Editor/zsh.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.5. Editor/zsh.md",
+                "file": "0.1. Coq/Coq-Core-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.5. Editor/zsh.md",
+                "file": "0.1. Coq/Coq-Core-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.5. Editor/zsh.md"
+                "file": "0.1. Coq/Coq-Core-Drawing.md"
               }
             }
           },
@@ -237,11 +224,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31b2b73103981d5b",
+  "active": "9e591fc6789ba62e",
   "lastOpenFiles": [
+    "Tips/Install Font in Debian.md",
+    "Tips/Nerd Fonts.md",
+    "Tips/Setup-zsh-for-Rust.md",
+    "0.5. Editor/Neovim for Rust.md",
+    "0.5. Editor/Bash_and_PowerShell.md",
+    "0.5. Editor/Dev Tip.md",
     "0.5. Editor/NVIM Command.md",
-    "0.5. Editor/zsh.md",
+    "0.5. Editor/NeoVim.md",
     "0.5. Editor/0.5.0 NeoVim Setup.md",
+    "0.5. Editor/zsh.md",
+    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "0.1. Coq/Coq-Core-Drawing.md",
@@ -261,17 +256,9 @@
     "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md",
     "0.4. Excalidraw/CaS/CaS 240119.md",
     "0.0. Linux/Command.md",
-    "0.4. Excalidraw/CaS/CaS 240126.md",
-    "0.4. Excalidraw/CaS/CaS 240223.md",
-    "0.4. Excalidraw/CaS/CaS-GIFT-Drawing.md",
-    "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md",
-    "2024-Spring/Capstone-Design/CD 240320.md",
     "0.0. Linux",
     "Excalidraw/lib/domainstorytelling.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 150830.crdownload",
-    "0.4. Excalidraw/CSE/Untitled.md",
-    "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md",
-    "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
     "Mind Map/Pasted image 20240319103359.png",
     "0.1. Coq",
     "Mind Map/Pasted Image 20240318182924_453.png",

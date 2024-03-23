@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "zsh",
-      "path": "0.5. Editor/zsh.md"
+      "basename": "Coq-Core-Drawing",
+      "path": "0.1. Coq/Coq-Core-Drawing.md"
     },
     {
-      "basename": "NVIM Command",
-      "path": "0.5. Editor/NVIM Command.md"
+      "basename": "Install Font in Debian",
+      "path": "Tips/Install Font in Debian.md"
+    },
+    {
+      "basename": "Nerd Fonts",
+      "path": "Tips/Nerd Fonts.md"
+    },
+    {
+      "basename": "Neovim for Rust",
+      "path": "0.5. Editor/Neovim for Rust.md"
+    },
+    {
+      "basename": "Bash_and_PowerShell",
+      "path": "0.5. Editor/Bash_and_PowerShell.md"
+    },
+    {
+      "basename": "Dev Tip",
+      "path": "0.5. Editor/Dev Tip.md"
     },
     {
       "basename": "0.5.0 NeoVim Setup",
       "path": "0.5. Editor/0.5.0 NeoVim Setup.md"
+    },
+    {
+      "basename": "zsh",
+      "path": "0.5. Editor/zsh.md"
+    },
+    {
+      "basename": "Rust-Core-Drawing",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
     },
     {
       "basename": "Coq-Core-CANVAS",
@@ -19,10 +43,6 @@
     {
       "basename": "Ji Yong-Hyeon",
       "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
-    },
-    {
-      "basename": "Coq-Core-Drawing",
-      "path": "0.1. Coq/Coq-Core-Drawing.md"
     },
     {
       "basename": "Ollama",
@@ -179,26 +199,6 @@
     {
       "basename": "ACP 240318",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240318.md"
-    },
-    {
-      "basename": "ACP-Asgnmt-Drawing",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md"
-    },
-    {
-      "basename": "LfC 240319",
-      "path": "2024-Spring/Logic-for-Comunication/LfC 240319.md"
-    },
-    {
-      "basename": "Rust-Core-Tip",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Tip.md"
-    },
-    {
-      "basename": "Rust-Core-Drawing",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
-    },
-    {
-      "basename": "complier2",
-      "path": "images/complier2.png"
     }
   ],
   "omittedPaths": [],
