@@ -16,9 +16,9 @@
               "state": {
                 "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "viewState": {
-                  "x": -101.83818794932483,
-                  "y": 176.87505189152836,
-                  "zoom": -1.2153149512087955
+                  "x": -46,
+                  "y": -680,
+                  "zoom": -1.7920250523685126
                 }
               },
               "pinned": true
@@ -70,18 +70,17 @@
             "id": "31b2b73103981d5b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
-                "viewState": {
-                  "x": 540.4391692721962,
-                  "y": -6.513713669665094,
-                  "zoom": -0.6513647932793102
-                }
+                "file": "0.5. Editor/0.5.0 NeoVim Setup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -164,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+                "file": "0.5. Editor/0.5.0 NeoVim Setup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+                "file": "0.5. Editor/0.5.0 NeoVim Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+                "file": "0.5. Editor/0.5.0 NeoVim Setup.md"
               }
             }
           },
@@ -239,11 +237,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4e5643769f490b8",
+  "active": "31b2b73103981d5b",
   "lastOpenFiles": [
     "0.1. Coq/Coq-Core-CANVAS.canvas",
-    "0.1. Coq/Coq-Core-Drawing.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+    "0.1. Coq/Coq-Core-Drawing.md",
     "0.3. Artificial Intelligence/Ollama.md",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
     "0.0. MyThinkPad/Drawing 2024-03-22 20.19.50.excalidraw.md",

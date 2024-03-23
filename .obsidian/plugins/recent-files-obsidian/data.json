@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Ji Yong-Hyeon",
-      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+      "basename": "0.5.0 NeoVim Setup",
+      "path": "0.5. Editor/0.5.0 NeoVim Setup.md"
     },
     {
       "basename": "Coq-Core-CANVAS",
       "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
+    },
+    {
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
     {
       "basename": "Coq-Core-Drawing",
@@ -195,10 +199,6 @@
     {
       "basename": "CBC_DEC",
       "path": "images/CSE/CBC_DEC.png"
-    },
-    {
-      "basename": "CBC_ENC",
-      "path": "images/CSE/CBC_ENC.png"
     }
   ],
   "omittedPaths": [],
