@@ -16,9 +16,9 @@
               "state": {
                 "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "viewState": {
-                  "x": -46,
-                  "y": -680,
-                  "zoom": -1.7920250523685126
+                  "x": -62.95935532547011,
+                  "y": 26.465821790230166,
+                  "zoom": -2.1920250523685123
                 }
               },
               "pinned": true
@@ -81,8 +81,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas"
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
               }
             }
           },
@@ -240,10 +239,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2d1645e61a400c6",
+  "active": "d4e5643769f490b8",
   "lastOpenFiles": [
-    "0.1. Coq/Coq-Core-Drawing.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
+    "0.1. Coq/Coq-Core-Drawing.md",
     "Tips/Install Font in Debian.md",
     "Tips/Nerd Fonts.md",
     "Tips/Setup-zsh-for-Rust.md",
