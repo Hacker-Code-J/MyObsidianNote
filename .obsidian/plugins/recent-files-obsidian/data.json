@@ -5,16 +5,20 @@
       "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
     },
     {
+      "basename": "Coq-Core-Drawing",
+      "path": "0.1. Coq/Coq-Core-Drawing.md"
+    },
+    {
       "basename": "Ji Yong-Hyeon",
       "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
     {
-      "basename": "Rust-Core-CANVAS",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
+      "basename": "Ollama",
+      "path": "0.3. Artificial Intelligence/Ollama.md"
     },
     {
-      "basename": "Coq-Core-Drawing",
-      "path": "0.1. Coq/Coq-Core-Drawing.md"
+      "basename": "Rust-Core-CANVAS",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
     },
     {
       "basename": "Drawing 2024-03-22 20.19.50.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "CBC_ENC",
       "path": "images/CSE/CBC_ENC.png"
-    },
-    {
-      "basename": "cbc2",
-      "path": "images/CSE/cbc2.png"
     }
   ],
   "omittedPaths": [],

@@ -17,7 +17,7 @@
                 "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "viewState": {
                   "x": -101.83818794932483,
-                  "y": -600.5019779258605,
+                  "y": 176.87505189152836,
                   "zoom": -1.2153149512087955
                 }
               },
@@ -242,10 +242,11 @@
   },
   "active": "31b2b73103981d5b",
   "lastOpenFiles": [
-    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
-    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
-    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.1. Coq/Coq-Core-Drawing.md",
+    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+    "0.1. Coq/Coq-Core-CANVAS.canvas",
+    "0.3. Artificial Intelligence/Ollama.md",
+    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
     "0.0. MyThinkPad/Drawing 2024-03-22 20.19.50.excalidraw.md",
     "0.1. C Programming/Crypto-coding.md",
     "0.1. Coq/Drawing 2024-03-22 20.10.49.excalidraw.md",
@@ -273,7 +274,6 @@
     "0.4. Excalidraw/CSE/CSE-BIGINT-Drawing.md",
     "0.7. CSE/Intern/LEA.md",
     "0.4. Excalidraw/CSE/CSE-AES-Drawing.md",
-    "0.4. Excalidraw/Data-Structure/Drawing of Data Structure.md",
     "Mind Map/Pasted image 20240319103359.png",
     "0.1. Coq",
     "Mind Map/Pasted Image 20240318182924_453.png",
