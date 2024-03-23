@@ -65,9 +65,24 @@
                 "file": "0.1. Coq/Coq-Core-Drawing.md"
               }
             }
+          },
+          {
+            "id": "f2d1645e61a400c6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
+                "viewState": {
+                  "x": 587.2893274352989,
+                  "y": 55.22684229611231,
+                  "zoom": -1.2654966682418851
+                }
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -149,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. Coq/Coq-Core-Drawing.md",
+                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. Coq/Coq-Core-Drawing.md",
+                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. Coq/Coq-Core-Drawing.md"
+                "file": "0.1. Coq/Coq-Core-CANVAS.canvas"
               }
             }
           },
@@ -224,8 +240,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e591fc6789ba62e",
+  "active": "f2d1645e61a400c6",
   "lastOpenFiles": [
+    "0.1. Coq/Coq-Core-Drawing.md",
+    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "Tips/Install Font in Debian.md",
     "Tips/Nerd Fonts.md",
     "Tips/Setup-zsh-for-Rust.md",
@@ -237,9 +255,7 @@
     "0.5. Editor/0.5.0 NeoVim Setup.md",
     "0.5. Editor/zsh.md",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md",
-    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
-    "0.1. Coq/Coq-Core-Drawing.md",
     "0.3. Artificial Intelligence/Ollama.md",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
     "0.0. MyThinkPad/Drawing 2024-03-22 20.19.50.excalidraw.md",
@@ -255,7 +271,6 @@
     "0.7. CaS/CaS 240321.md",
     "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md",
     "0.4. Excalidraw/CaS/CaS 240119.md",
-    "0.0. Linux/Command.md",
     "0.0. Linux",
     "Excalidraw/lib/domainstorytelling.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 150830.crdownload",

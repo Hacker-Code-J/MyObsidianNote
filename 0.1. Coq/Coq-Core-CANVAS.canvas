@@ -13,7 +13,8 @@
 		{"id":"e2ca9f54bf6d5752","type":"text","text":"Set","x":40,"y":200,"width":155,"height":50},
 		{"id":"91455d500dba71e7","type":"text","text":"VsCoq","x":-680,"y":-395,"width":160,"height":50},
 		{"id":"972bfceb91780227","type":"text","text":"Coq","x":-661,"y":-225,"width":121,"height":50,"color":"5"},
-		{"id":"54d66a99a480f300","type":"text","text":"Prop","x":-440,"y":200,"width":155,"height":50}
+		{"id":"54d66a99a480f300","type":"text","text":"Prop","x":-440,"y":200,"width":155,"height":50},
+		{"id":"795d876fb11a7773","x":-471,"y":509,"width":290,"height":116,"type":"text","text":"- Proof\n- Evidence"}
 	],
 	"edges":[
 		{"id":"038a534f3a91d051","fromNode":"972bfceb91780227","fromSide":"top","toNode":"91455d500dba71e7","toSide":"bottom"},
@@ -31,6 +32,7 @@
 		{"id":"5011bec0d933b6b4","fromNode":"66c9d416976e0ed1","fromSide":"right","toNode":"019182de45e11f20","toSide":"left"},
 		{"id":"fbbbb0d3cdcb5745","fromNode":"019182de45e11f20","fromSide":"bottom","toNode":"bb76e15ee1db900f","toSide":"top","label":"Name = Value : Type\n(Definition of Name)"},
 		{"id":"50c23e4a6f5bb6f1","fromNode":"b7f5415d41f9795e","fromSide":"bottom","toNode":"bb76e15ee1db900f","toSide":"top"},
-		{"id":"5da4be8f08cf3c7c","fromNode":"f008dc69efca2bbd","fromSide":"bottom","toNode":"54d66a99a480f300","toSide":"top","label":"Specification"}
+		{"id":"5da4be8f08cf3c7c","fromNode":"f008dc69efca2bbd","fromSide":"bottom","toNode":"54d66a99a480f300","toSide":"top","label":"Specification"},
+		{"id":"e36776fbe9e5a42b","fromNode":"54d66a99a480f300","fromSide":"bottom","toNode":"795d876fb11a7773","toSide":"top","label":"Inhabitant"}
 	]
 }
