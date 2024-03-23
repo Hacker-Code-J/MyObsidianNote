@@ -81,8 +81,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas"
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
               }
             }
           },
@@ -240,11 +239,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31b2b73103981d5b",
+  "active": "d4e5643769f490b8",
   "lastOpenFiles": [
+    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.1. Coq/Coq-Core-Drawing.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
-    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.3. Artificial Intelligence/Ollama.md",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
     "0.0. MyThinkPad/Drawing 2024-03-22 20.19.50.excalidraw.md",
