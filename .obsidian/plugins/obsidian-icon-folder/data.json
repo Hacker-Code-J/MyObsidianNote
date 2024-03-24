@@ -7,11 +7,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiSourceCode",
+      "BoBxsTerminal",
+      "TiSettingsAutomation",
       "BoBxTerminal",
-      "LiTerminal",
-      "TiBrandRust",
-      "SiHaskell",
-      "SiLetsencrypt"
+      "LiTerminal"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -57,5 +57,6 @@
   "0.1 Rust Programming": "SiRust",
   "0.1 Rust Programming/Rust-Core-Note": "TiBrandRust",
   "0.1. Haskell Programming": "SiHaskell",
-  "0.0. Linux": "BoBxTerminal"
+  "0.0. Linux": "BoBxsTerminal",
+  "0.1. Coq": "TiSourceCode"
 }

@@ -16,72 +16,44 @@
               "state": {
                 "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "viewState": {
-                  "x": -62.95935532547011,
-                  "y": 26.465821790230166,
-                  "zoom": -2.1920250523685123
+                  "x": 198.36778174065824,
+                  "y": -53.86449917670882,
+                  "zoom": -1.3920250523685125
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "d7294c3ff7a4628f",
+            "id": "255447fa2db8110a",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
-                "viewState": {
-                  "x": 110,
-                  "y": -175.34754196167,
-                  "zoom": 0
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "23c75740c5405d70",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1. C Programming/Crypto-coding.md",
+                "file": "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "9e591fc6789ba62e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.1. Coq/Coq-Core-Drawing.md"
               }
             }
           },
           {
-            "id": "f2d1645e61a400c6",
+            "id": "0197a27c9ba00d75",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
                 "viewState": {
-                  "x": 587.2893274352989,
-                  "y": 55.22684229611231,
-                  "zoom": -1.2654966682418851
+                  "x": 274.9920482369639,
+                  "y": -930.7891628451792,
+                  "zoom": -0.644618667631858
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+                "file": "0.1. Coq/Coq-Core-CANVAS.canvas"
               }
             }
           },
@@ -239,51 +211,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4e5643769f490b8",
+  "active": "0197a27c9ba00d75",
   "lastOpenFiles": [
     "0.1. Coq/Coq-Core-CANVAS.canvas",
+    "0.1. Coq/Gödel's Completeness Theorem.md",
     "0.1. Coq/Coq-Core-Drawing.md",
+    "0.1. Coq/Coq - Study1.md",
+    "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
+    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
+    "1.0. ECC/ECC.md",
+    "1.0. ECC/Elliptic Curves.md",
+    "3.0. LaTex/LaTex Tips.md",
+    "2024/2024-03-15 ACP - Assignment.md",
+    "BAEKJOON/0. Fundamentals/(16563) Advanced Factorization.md",
+    "BAEKJOON/Setup.md",
+    "BAEKJOON/0. Fundamentals/(11653) Factorization.md",
+    "BAEKJOON/0. Fundamentals/(8222).md",
+    "Daily Tasks/2024-01-04.md",
+    "Daily Tasks/2023-12-23.md",
+    "Daily Tasks/2023-12-16.md",
+    "Daily Tasks/2023-12-15.md",
+    "0.0. Linux/Debian vs Red Hat.md",
+    "Mind Map/Pasted image 20240319103359.png",
+    "Mind Map/Pasted Image 20240318175558_322.png",
+    "Mind Map/Pasted Image 20240318154849_985.png",
+    "Mind Map/Pasted Image 20240317233120_789.png",
+    "Mind Map/Pasted Image 20240317224109_546.png",
+    "My Language Training/Rust Note/sources.md",
+    "My Language Training/Rust Note/Simple Multi-Chat.md",
+    "My Language Training/C Note/static vs const vs static const.md",
+    "Pasted Image/Pasted Image 20240108004108_047.png",
+    "Pasted Image/Pasted Image 20240110130725_546.png",
+    "Pasted Image/Pasted Image 20240110131154_119.png",
+    "Pasted Image/Pasted Image 20240122214950_747.png",
+    "Pasted Image/Pasted image 20240202111731.png",
+    "Pasted Image/The 2nd Brain.canvas",
+    "0.1. C Programming/Crypto-coding.md",
     "Tips/Install Font in Debian.md",
     "Tips/Nerd Fonts.md",
     "Tips/Setup-zsh-for-Rust.md",
     "0.5. Editor/Neovim for Rust.md",
-    "0.5. Editor/Bash_and_PowerShell.md",
-    "0.5. Editor/Dev Tip.md",
-    "0.5. Editor/NVIM Command.md",
-    "0.5. Editor/NeoVim.md",
-    "0.5. Editor/0.5.0 NeoVim Setup.md",
-    "0.5. Editor/zsh.md",
-    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md",
-    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
-    "0.3. Artificial Intelligence/Ollama.md",
-    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
-    "0.0. MyThinkPad/Drawing 2024-03-22 20.19.50.excalidraw.md",
-    "0.1. C Programming/Crypto-coding.md",
-    "0.1. Coq/Drawing 2024-03-22 20.10.49.excalidraw.md",
-    "0.1. Coq/Untitled.md",
     "0.1. Coq/Untitled",
-    "2024-Spring/Leadership-Challenge/LC 240322.md",
-    "0.1. Coq/Coq - Study1.md",
-    "2024-Spring/Leadership-Challenge/LC 240315.md",
-    "2024-Spring/Capstone-Design/CD 240322.md",
-    "0.4. Excalidraw/CaS/CaS-DES-Drawing.md",
-    "0.7. CaS/CaS 240321.md",
-    "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md",
-    "0.4. Excalidraw/CaS/CaS 240119.md",
     "0.0. Linux",
     "Excalidraw/lib/domainstorytelling.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 150830.crdownload",
-    "Mind Map/Pasted image 20240319103359.png",
     "0.1. Coq",
-    "Mind Map/Pasted Image 20240318182924_453.png",
-    "Mind Map/Pasted Image 20240318175558_322.png",
-    "Mind Map/Pasted Image 20240318165656_009.png",
-    "Mind Map/Pasted Image 20240318154849_985.png",
-    "images/complier2.png",
-    "images/CSE/CBC_DEC.png",
-    "images/CSE/CBC_ENC.png",
-    "images/CSE/cbc2.png",
-    "images/CSE/cbc3.png",
     "Mind Map",
     "0.1 Rust Programming/Rust-Core-Note/rust-core-image",
     "2024-Spring/Introduction-to-Cryptanalysis",
@@ -291,7 +264,6 @@
     "0.1 Rust Programming/Rust-Standard-Library/mem",
     "0.1 Rust Programming/Untitled.canvas",
     "2024-Spring/Untitled.canvas",
-    "Pasted Image/The 2nd Brain.canvas",
     "Pasted Image/C - CraftCodeLab.canvas",
     "Untitled 1.canvas"
   ]
