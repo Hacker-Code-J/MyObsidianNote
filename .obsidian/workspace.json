@@ -16,9 +16,9 @@
               "state": {
                 "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "viewState": {
-                  "x": 198.36778174065824,
-                  "y": -53.86449917670882,
-                  "zoom": -1.3920250523685125
+                  "x": -459.5478354185052,
+                  "y": 73.55789593162137,
+                  "zoom": -1.2000000000000002
                 }
               },
               "pinned": true
@@ -42,9 +42,9 @@
               "state": {
                 "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
                 "viewState": {
-                  "x": -356.9100716120853,
-                  "y": -581.4233875566628,
-                  "zoom": -0.8000000000000002
+                  "x": -117.54093884325152,
+                  "y": -1158.9106210745163,
+                  "zoom": -1.6
                 }
               }
             }
@@ -211,8 +211,8 @@
   "lastOpenFiles": [
     "0.1. Coq/Coq-Core-Drawing.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
-    "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
+    "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
     "0.1. Coq/Gödel's Completeness Theorem.md",
     "0.1. Coq/Coq - Study1.md",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
