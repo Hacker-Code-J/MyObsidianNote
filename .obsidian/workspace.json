@@ -42,9 +42,9 @@
               "state": {
                 "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
                 "viewState": {
-                  "x": -117.54093884325152,
-                  "y": -1158.9106210745163,
-                  "zoom": -1.6
+                  "x": -655.3836470836405,
+                  "y": 953.2793731780218,
+                  "zoom": -1.2000000000000002
                 }
               }
             }
@@ -210,8 +210,8 @@
   "active": "e038151aa4b7e3ae",
   "lastOpenFiles": [
     "0.1. Coq/Coq-Core-Drawing.md",
-    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
+    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
     "0.1. Coq/Gödel's Completeness Theorem.md",
     "0.1. Coq/Coq - Study1.md",
