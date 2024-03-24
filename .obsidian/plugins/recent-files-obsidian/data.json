@@ -5,12 +5,52 @@
       "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
     },
     {
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+    },
+    {
+      "basename": "Effort",
+      "path": "0.4. Excalidraw/Insite/Effort.md"
+    },
+    {
+      "basename": "Quotient and Remainder",
+      "path": "0.4. Excalidraw/Insite/Quotient and Remainder.md"
+    },
+    {
+      "basename": "Efficiency",
+      "path": "0.4. Excalidraw/Insite/Efficiency.md"
+    },
+    {
       "basename": "Coq-Core-Drawing",
       "path": "0.1. Coq/Coq-Core-Drawing.md"
     },
     {
-      "basename": "Ji Yong-Hyeon",
-      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+      "basename": "CSE-LEA-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
+    },
+    {
+      "basename": "CO2-HIGHT-Drawing",
+      "path": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
+    },
+    {
+      "basename": "CSE-AES-Drawing",
+      "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
+    },
+    {
+      "basename": "LEA",
+      "path": "0.7. CSE/Intern/LEA.md"
+    },
+    {
+      "basename": "(Cryptographic) OOP vs Functional",
+      "path": "0.1. Haskell Programming/(Cryptographic) OOP vs Functional.md"
+    },
+    {
+      "basename": "Procedural vs OOP vs Functional",
+      "path": "0.1. Haskell Programming/Procedural vs OOP vs Functional.md"
+    },
+    {
+      "basename": "Set-up Haskell in Linux",
+      "path": "0.1. Haskell Programming/Set-up Haskell in Linux.md"
     },
     {
       "basename": "1.1. Mathematical Induction",
@@ -159,46 +199,6 @@
     {
       "basename": "Ollama",
       "path": "0.3. Artificial Intelligence/Ollama.md"
-    },
-    {
-      "basename": "Drawing 2024-03-22 20.19.50.excalidraw",
-      "path": "0.0. MyThinkPad/Drawing 2024-03-22 20.19.50.excalidraw.md"
-    },
-    {
-      "basename": "LC 240322",
-      "path": "2024-Spring/Leadership-Challenge/LC 240322.md"
-    },
-    {
-      "basename": "LC 240315",
-      "path": "2024-Spring/Leadership-Challenge/LC 240315.md"
-    },
-    {
-      "basename": "CD 240322",
-      "path": "2024-Spring/Capstone-Design/CD 240322.md"
-    },
-    {
-      "basename": "CaS-DES-Drawing",
-      "path": "0.4. Excalidraw/CaS/CaS-DES-Drawing.md"
-    },
-    {
-      "basename": "CaS 240321",
-      "path": "0.7. CaS/CaS 240321.md"
-    },
-    {
-      "basename": "CO2-Cryptol-Drawing",
-      "path": "0.4. Excalidraw/CSE/CO2-Cryptol-Drawing.md"
-    },
-    {
-      "basename": "CaS 240119",
-      "path": "0.4. Excalidraw/CaS/CaS 240119.md"
-    },
-    {
-      "basename": "Command",
-      "path": "0.0. Linux/Command.md"
-    },
-    {
-      "basename": "CaS 240126",
-      "path": "0.4. Excalidraw/CaS/CaS 240126.md"
     }
   ],
   "omittedPaths": [],
