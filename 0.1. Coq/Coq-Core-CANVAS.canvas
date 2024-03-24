@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"287beac84c4e14c3","x":-1560,"y":-2040,"width":3162,"height":1060,"type":"group","label":"Meta-Coq"},
-		{"id":"07b3ae474fb8d003","type":"group","x":-360,"y":-1840,"width":1400,"height":460,"label":"Mathematical Logic ( Seperation -> Clarity, Rigor )"},
-		{"id":"936e522836ccd9fc","type":"group","x":-360,"y":-1280,"width":1220,"height":260,"label":"Intutitionistic Type Theory (Non-Separation -> Expressive Power, Construction)"},
+		{"id":"07b3ae474fb8d003","type":"group","x":-415,"y":-1840,"width":1455,"height":460,"label":"Mathematical Logic ( Seperation -> Clarity, Rigor )"},
+		{"id":"936e522836ccd9fc","type":"group","x":-360,"y":-1280,"width":1380,"height":260,"label":"Intutitionistic Type Theory (Non-Separation -> Expressive Power, Construction)"},
 		{"id":"f008dc69efca2bbd","type":"text","text":"# Types","x":-181,"y":-237,"width":155,"height":63},
 		{"id":"a18900eab61db6d3","type":"text","text":"Inductive","x":260,"y":-340,"width":188,"height":50,"color":"6"},
 		{"id":"019182de45e11f20","type":"text","text":"- Well-Formed Expresstion\n- Ill-typed Expresstion","x":1162,"y":-23,"width":440,"height":123},
