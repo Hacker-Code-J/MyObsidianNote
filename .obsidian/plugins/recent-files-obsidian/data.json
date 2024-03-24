@@ -5,20 +5,20 @@
       "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
     },
     {
-      "basename": "Gödel's Completeness Theorem",
-      "path": "0.1. Coq/Gödel's Completeness Theorem.md"
-    },
-    {
       "basename": "Coq-Core-Drawing",
       "path": "0.1. Coq/Coq-Core-Drawing.md"
+    },
+    {
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
     {
       "basename": "1.1. Mathematical Induction",
       "path": "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
     },
     {
-      "basename": "Ji Yong-Hyeon",
-      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+      "basename": "Gödel's Completeness Theorem",
+      "path": "0.1. Coq/Gödel's Completeness Theorem.md"
     },
     {
       "basename": "Rust-Core-CANVAS",
