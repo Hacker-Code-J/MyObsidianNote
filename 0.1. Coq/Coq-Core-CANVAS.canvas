@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"287beac84c4e14c3","x":-1560,"y":-2040,"width":3162,"height":1060,"type":"group","label":"Meta-Coq"},
-		{"id":"07b3ae474fb8d003","type":"group","x":-415,"y":-1840,"width":1455,"height":460,"label":"Mathematical Logic ( Seperation -> Clarity, Rigor )"},
+		{"id":"07b3ae474fb8d003","type":"group","x":-415,"y":-1840,"width":1975,"height":460,"label":"Mathematical Logic ( Seperation -> Clarity, Rigor )"},
 		{"id":"936e522836ccd9fc","type":"group","x":-360,"y":-1280,"width":1380,"height":260,"label":"Intutitionistic Type Theory (Non-Separation -> Expressive Power, Construction)"},
 		{"id":"f008dc69efca2bbd","type":"text","text":"# Types","x":-181,"y":-237,"width":155,"height":63},
 		{"id":"a18900eab61db6d3","type":"text","text":"Inductive","x":260,"y":-340,"width":188,"height":50,"color":"6"},
@@ -33,7 +33,8 @@
 		{"id":"240eeddba285ce82","x":-694,"y":61,"width":250,"height":60,"color":"1","type":"text","text":"# Theorem"},
 		{"id":"8c6a17b372a27a90","x":-1239,"y":359,"width":250,"height":60,"color":"6","type":"text","text":"Theorem"},
 		{"id":"1a2efae342d53e77","type":"text","text":"Show Proof","x":-880,"y":998,"width":232,"height":71,"color":"6"},
-		{"id":"727788aebe5b52d1","x":-892,"y":1160,"width":257,"height":52,"type":"text","text":"eq_refl"}
+		{"id":"727788aebe5b52d1","x":-892,"y":1260,"width":257,"height":52,"type":"text","text":"eq_refl\n"},
+		{"id":"da04e9a049d30a04","x":720,"y":-1649,"width":800,"height":53,"type":"link","url":"https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem"}
 	],
 	"edges":[
 		{"id":"5535ef38a45cf98a","fromNode":"019182de45e11f20","fromSide":"bottom","toNode":"b7f5415d41f9795e","toSide":"top","label":"name : type\n(Type of Name)"},
@@ -72,6 +73,7 @@
 		{"id":"cb8beabdc6687197","fromNode":"dad9b4e45b550913","fromSide":"left","toNode":"79b7e9f999f71c44","toSide":"right"},
 		{"id":"bbf7d7fa9be8ab4c","fromNode":"f008dc69efca2bbd","fromSide":"left","toNode":"240eeddba285ce82","toSide":"top"},
 		{"id":"cafaef0b9b0a5cf3","fromNode":"240eeddba285ce82","fromSide":"bottom","toNode":"8c6a17b372a27a90","toSide":"top","color":"1","label":"Theorem + Proof Script"},
-		{"id":"41c8a2e39511cf31","fromNode":"1a2efae342d53e77","fromSide":"bottom","toNode":"727788aebe5b52d1","toSide":"top"}
+		{"id":"41c8a2e39511cf31","fromNode":"1a2efae342d53e77","fromSide":"bottom","toNode":"727788aebe5b52d1","toSide":"top","label":"Axiom of Reflexivity\nfor Equality"},
+		{"id":"e55c2a20ef58ca82","fromNode":"b0032a1c7cda2076","fromSide":"right","toNode":"da04e9a049d30a04","toSide":"bottom"}
 	]
 }
