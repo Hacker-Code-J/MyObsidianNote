@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "826f779fa76d25e5",
+            "id": "c271011e61dfc880",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,12 +194,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "826f779fa76d25e5",
+  "active": "c271011e61dfc880",
   "lastOpenFiles": [
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md",
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240325.md",
-    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240325.md",
+    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md",
+    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.4. Excalidraw/Insite/Effort.md",
     "0.4. Excalidraw/Insite/Quotient and Remainder.md",
     "0.4. Excalidraw/Insite/Efficiency.md",
@@ -224,7 +224,6 @@
     "BAEKJOON/0. Fundamentals/(11653) Factorization.md",
     "BAEKJOON/0. Fundamentals/(8222).md",
     "Daily Tasks/2024-01-04.md",
-    "Daily Tasks/2023-12-23.md",
     "Mind Map/Pasted image 20240319103359.png",
     "Mind Map/Pasted Image 20240318175558_322.png",
     "Mind Map/Pasted Image 20240318154849_985.png",
