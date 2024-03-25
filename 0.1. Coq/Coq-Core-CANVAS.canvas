@@ -52,7 +52,8 @@
 		{"id":"6fe398a7cc540104","x":827,"y":-1363,"width":555,"height":313,"type":"text","text":"```Coq\nInductive nat : Type :=\n| O\n| S (n : nat). (* _ instead of n is ok *)\n```\n\n- `O` : Nullary Constructor\n- `S` : Unary Constructor\n\n- $n\\triangleq\\overbrace{\\texttt{S} \\cdots \\texttt{S}}^{n\\ \\text{times}} \\texttt{O}$"},
 		{"id":"16d756e5d84e7867","x":827,"y":-943,"width":514,"height":213,"type":"text","text":"```Coq\nDefinition pred (n : nat) : nat :=\n match n with\n | O => O\n | S n' => n'\n end.\n```"},
 		{"id":"d6c9b7a12ed1c741","x":1642,"y":-1449,"width":478,"height":243,"type":"text","text":"```Coq\nFixpoint even (n:nat) : bool :=\nmatch n with\n| O => true\n| S O => false\n| S (S n') => even n'\nend.\n```"},
-		{"id":"92619ded3dd7f0c5","x":1642,"y":-1166,"width":478,"height":236,"type":"text","text":"```Coq\nFixpoint odd (n:nat) : bool :=\nmatch n with\n| O => false\n| S O => true\n| S (S n') => odd n'\nend.\n```"}
+		{"id":"92619ded3dd7f0c5","x":1642,"y":-1166,"width":478,"height":236,"type":"text","text":"```Coq\nFixpoint odd (n:nat) : bool :=\nmatch n with\n| O => false\n| S O => true\n| S (S n') => odd n'\nend.\n```"},
+		{"id":"3fc32c6fca3bd29e","x":2215,"y":-1255,"width":745,"height":312,"type":"text","text":"**Currying**\n\n`plus 2 3`\n\n- `plus (2 3)` (x)\n- `plus (2, 3)` (x)\n- `(plus 2) 3`\n\t- Function Application- Left Associativity"}
 	],
 	"edges":[
 		{"id":"5535ef38a45cf98a","fromNode":"019182de45e11f20","fromSide":"bottom","toNode":"b7f5415d41f9795e","toSide":"top","label":"name : type\n(Type of Name)"},
