@@ -32,9 +32,9 @@
               "state": {
                 "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
                 "viewState": {
-                  "x": -1274.4539093419794,
-                  "y": 811.2861177722382,
-                  "zoom": -1.3314922857160738
+                  "x": 1597.5473408082614,
+                  "y": -1069.1328943476663,
+                  "zoom": -0.9314922857160738
                 }
               }
             }
@@ -199,8 +199,8 @@
   },
   "active": "452fba8347d53b20",
   "lastOpenFiles": [
-    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240325.md",
+    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md",
     "0.4. Excalidraw/Insite/Effort.md",
