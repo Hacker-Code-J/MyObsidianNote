@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ItC 240325",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240325.md"
+    },
+    {
+      "basename": "ItC 240311",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md"
+    },
+    {
       "basename": "Coq-Core-CANVAS",
       "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "zsh",
       "path": "0.5. Editor/zsh.md"
-    },
-    {
-      "basename": "Rust-Core-Drawing",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
-    },
-    {
-      "basename": "Ollama",
-      "path": "0.3. Artificial Intelligence/Ollama.md"
     }
   ],
   "omittedPaths": [],

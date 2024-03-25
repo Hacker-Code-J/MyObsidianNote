@@ -16,8 +16,8 @@
               "state": {
                 "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "viewState": {
-                  "x": -459.5478354185052,
-                  "y": 73.55789593162137,
+                  "x": -763.5325791933443,
+                  "y": -208.075028448009,
                   "zoom": -1.2000000000000002
                 }
               },
@@ -25,17 +25,15 @@
             }
           },
           {
-            "id": "d85604bbd7eaeee3",
+            "id": "826f779fa76d25e5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
-                "viewState": {
-                  "x": -127.00995502834576,
-                  "y": -1757.124401711405,
-                  "zoom": -0.7384168736792448
-                }
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240325.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240325.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240325.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas"
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240325.md"
               }
             }
           },
@@ -196,8 +194,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d85604bbd7eaeee3",
+  "active": "826f779fa76d25e5",
   "lastOpenFiles": [
+    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md",
+    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240325.md",
+    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "0.4. Excalidraw/Insite/Effort.md",
     "0.4. Excalidraw/Insite/Quotient and Remainder.md",
@@ -210,7 +211,6 @@
     "0.1. Haskell Programming/(Cryptographic) OOP vs Functional.md",
     "0.1. Haskell Programming/Procedural vs OOP vs Functional.md",
     "0.1. Haskell Programming/Set-up Haskell in Linux.md",
-    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
     "0.1. Coq/Gödel's Completeness Theorem.md",
     "0.1. Coq/Coq - Study1.md",
@@ -225,7 +225,6 @@
     "BAEKJOON/0. Fundamentals/(8222).md",
     "Daily Tasks/2024-01-04.md",
     "Daily Tasks/2023-12-23.md",
-    "Daily Tasks/2023-12-16.md",
     "Mind Map/Pasted image 20240319103359.png",
     "Mind Map/Pasted Image 20240318175558_322.png",
     "Mind Map/Pasted Image 20240318154849_985.png",
