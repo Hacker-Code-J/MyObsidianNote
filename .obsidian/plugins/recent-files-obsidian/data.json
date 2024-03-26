@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "ACP 240325",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240325.md"
+      "basename": "LfC 240326",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240326.md"
+    },
+    {
+      "basename": "Drawing 2024-03-26 11.30.42.excalidraw",
+      "path": "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md"
+    },
+    {
+      "basename": "LfC - CANVAS",
+      "path": "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas"
+    },
+    {
+      "basename": "Coq-Core-CANVAS",
+      "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
+    },
+    {
+      "basename": "Gödel's Completeness Theorem",
+      "path": "0.1. Coq/Gödel's Completeness Theorem.md"
     },
     {
       "basename": "Ji Yong-Hyeon",
       "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+    },
+    {
+      "basename": "ACP 240325",
+      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240325.md"
     },
     {
       "basename": "ACP-Asgnmt-Drawing",
@@ -15,10 +35,6 @@
     {
       "basename": "ACP 240319",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md"
-    },
-    {
-      "basename": "Coq-Core-CANVAS",
-      "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
     },
     {
       "basename": "ItC 240325",
@@ -75,10 +91,6 @@
     {
       "basename": "1.1. Mathematical Induction",
       "path": "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
-    },
-    {
-      "basename": "Gödel's Completeness Theorem",
-      "path": "0.1. Coq/Gödel's Completeness Theorem.md"
     },
     {
       "basename": "Rust-Core-CANVAS",
@@ -187,18 +199,6 @@
     {
       "basename": "Install Font in Debian",
       "path": "Tips/Install Font in Debian.md"
-    },
-    {
-      "basename": "Nerd Fonts",
-      "path": "Tips/Nerd Fonts.md"
-    },
-    {
-      "basename": "Neovim for Rust",
-      "path": "0.5. Editor/Neovim for Rust.md"
-    },
-    {
-      "basename": "Bash_and_PowerShell",
-      "path": "0.5. Editor/Bash_and_PowerShell.md"
     }
   ],
   "omittedPaths": [],

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"44e1fdb4f3ddcef1","x":-300,"y":-500,"width":280,"height":52,"type":"text","text":"Categorical Logic"},
+		{"id":"b3b726e6f7c2eddf","x":120,"y":-207,"width":250,"height":60,"type":"text","text":"Semantic"},
+		{"id":"80af4699e2aea78e","type":"text","text":"Semantic","x":120,"y":0,"width":250,"height":60},
+		{"id":"ed151dc89724e048","x":-252,"y":-100,"width":250,"height":60,"type":"text","text":"Syntax"},
+		{"id":"33b9de6708939882","x":-180,"y":60,"width":266,"height":50,"type":"text","text":"Counterexample"}
+	],
+	"edges":[
+		{"id":"35a3a1c1b11c981e","fromNode":"ed151dc89724e048","fromSide":"right","toNode":"b3b726e6f7c2eddf","toSide":"bottom"},
+		{"id":"e102f2eb543b1c75","fromNode":"ed151dc89724e048","fromSide":"right","toNode":"80af4699e2aea78e","toSide":"top"},
+		{"id":"a2d0770c67942e83","fromNode":"33b9de6708939882","fromSide":"top","toNode":"ed151dc89724e048","toSide":"bottom"}
+	]
+}
