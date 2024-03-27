@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "CD 240327",
-      "path": "2024-Spring/Capstone-Design/CD 240327.md"
+      "basename": "CO2-Cryptol-Drawing",
+      "path": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
     },
     {
       "basename": "Ji Yong-Hyeon",
@@ -11,6 +11,18 @@
     {
       "basename": "Capstone-Degisn-CANVAS",
       "path": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas"
+    },
+    {
+      "basename": "CD 240327",
+      "path": "2024-Spring/Capstone-Design/CD 240327.md"
+    },
+    {
+      "basename": "Rust-Core-Drawing",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
+    },
+    {
+      "basename": "Rust-Core-CANVAS",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
     },
     {
       "basename": "ACP 240319",
@@ -70,15 +82,15 @@
     },
     {
       "basename": "CSE-LEA-Drawing",
-      "path": "0.4. Excalidraw/CSE/CSE-LEA-Drawing.md"
+      "path": "0.7. CSE/CSE/CSE-LEA-Drawing.md"
     },
     {
       "basename": "CO2-HIGHT-Drawing",
-      "path": "0.4. Excalidraw/CSE/CO2-HIGHT-Drawing.md"
+      "path": "0.7. CSE/CSE/CO2-HIGHT-Drawing.md"
     },
     {
       "basename": "CSE-AES-Drawing",
-      "path": "0.4. Excalidraw/CSE/CSE-AES-Drawing.md"
+      "path": "0.7. CSE/CSE/CSE-AES-Drawing.md"
     },
     {
       "basename": "LEA",
@@ -99,10 +111,6 @@
     {
       "basename": "1.1. Mathematical Induction",
       "path": "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
-    },
-    {
-      "basename": "Rust-Core-CANVAS",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
     },
     {
       "basename": "ECC",
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20240202111836",
       "path": "Pasted Image/Pasted image 20240202111836.png"
-    },
-    {
-      "basename": "Pasted image 20240217151743",
-      "path": "Pasted Image/Pasted image 20240217151743.png"
-    },
-    {
-      "basename": "The 2nd Brain",
-      "path": "Pasted Image/The 2nd Brain.canvas"
     }
   ],
   "omittedPaths": [],
