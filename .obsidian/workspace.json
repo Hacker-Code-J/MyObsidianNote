@@ -40,12 +40,15 @@
             }
           },
           {
-            "id": "a12400f00ae85873",
+            "id": "14b57d706189f059",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0.7. CaS/CaS-DES-Drawing.md"
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240328.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -133,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.7. CaS/CaS-DES-Drawing.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240328.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.7. CaS/CaS-DES-Drawing.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240328.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.7. CaS/CaS-DES-Drawing.md"
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240328.md"
               }
             }
           },
@@ -207,14 +210,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a12400f00ae85873",
+  "active": "14b57d706189f059",
   "lastOpenFiles": [
+    "2024-Spring/Logic-for-Comunication/LfC 240319.md",
+    "2024-Spring/Logic-for-Comunication/LfC 240328.md",
+    "0.1. Coq/Coq-Core-CANVAS.canvas",
+    "2024-Spring/Logic-for-Comunication/LfC 240326.md",
+    "0.7. CaS/CaS-DES-Drawing.md",
     "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
     "0.1. Haskell Programming/Set-up Haskell in Linux.md",
     "0.1. Haskell Programming/Procedural vs OOP vs Functional.md",
     "0.1. Haskell Programming/(Cryptographic) OOP vs Functional.md",
     "0.1 Rust Programming/Rust 101 Crash Course/2. Setup/2.1. Tool Installation.md",
-    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md",
     "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md",
@@ -232,15 +239,10 @@
     "0.7. CSE/CO2",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240325.md",
-    "2024-Spring/Logic-for-Comunication/LfC 240326.md",
     "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md",
     "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
     "0.1. Coq/Gödel's Completeness Theorem.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md",
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240325.md",
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md",
-    "0.4. Excalidraw/Insite/Effort.md",
-    "0.4. Excalidraw/Insite/Quotient and Remainder.md",
     "Mind Map/Pasted image 20240319103359.png",
     "Mind Map/Pasted Image 20240318175558_322.png",
     "Mind Map/Pasted Image 20240318154849_985.png",
