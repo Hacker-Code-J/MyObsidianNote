@@ -1,20 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "LfC 240328",
-      "path": "2024-Spring/Logic-for-Comunication/LfC 240328.md"
+      "basename": "Rust_Class_2 - Types",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md"
+    },
+    {
+      "basename": "Rust_Class_2 - Type Inferences",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md"
+    },
+    {
+      "basename": "Rust_Class_1_4",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_4.md"
+    },
+    {
+      "basename": "Rust_Class_1_3",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_3.md"
+    },
+    {
+      "basename": "Rust_Class_1_2",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_2.md"
+    },
+    {
+      "basename": "Idiomatic Rust design",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Idiomatic Rust design.md"
+    },
+    {
+      "basename": "trait",
+      "path": "0.1 Rust Programming/Rust-Core-Note/trait.md"
+    },
+    {
+      "basename": "Rust-Core-Tip",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Tip.md"
+    },
+    {
+      "basename": "CO2-Cryptol-Drawing",
+      "path": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
     },
     {
       "basename": "Coq-Core-CANVAS",
       "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
     },
     {
-      "basename": "CaS-DES-Drawing",
-      "path": "0.7. CaS/CaS-DES-Drawing.md"
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
     {
-      "basename": "CO2-Cryptol-Drawing",
-      "path": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
+      "basename": "LfC 240328",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240328.md"
+    },
+    {
+      "basename": "CaS-DES-Drawing",
+      "path": "0.7. CaS/CaS-DES-Drawing.md"
     },
     {
       "basename": "Set-up Haskell in Linux",
@@ -37,28 +73,8 @@
       "path": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas"
     },
     {
-      "basename": "Rust_Class_2 - Types",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md"
-    },
-    {
-      "basename": "Rust_Class_2 - Type Inferences",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md"
-    },
-    {
       "basename": "Rust_Class_1_1",
       "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_1.md"
-    },
-    {
-      "basename": "Rust_Class_1_3",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_3.md"
-    },
-    {
-      "basename": "Rust_Class_1_4",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_4.md"
-    },
-    {
-      "basename": "Rust-Core-Tip",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Tip.md"
     },
     {
       "basename": "Rust-Core-Drawing",
@@ -69,24 +85,12 @@
       "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
     },
     {
-      "basename": "Idiomatic Rust design",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Idiomatic Rust design.md"
-    },
-    {
       "basename": "attribute",
       "path": "0.1 Rust Programming/Rust-Core-Note/attribute.md"
     },
     {
-      "basename": "trait",
-      "path": "0.1 Rust Programming/Rust-Core-Note/trait.md"
-    },
-    {
       "basename": "CD 240327",
       "path": "2024-Spring/Capstone-Design/CD 240327.md"
-    },
-    {
-      "basename": "Ji Yong-Hyeon",
-      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
     {
       "basename": "ACP 240319",

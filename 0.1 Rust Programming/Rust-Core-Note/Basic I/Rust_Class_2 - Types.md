@@ -66,6 +66,7 @@ fn main() {
 
 - Rust is a language for mission critical tasks.
 - Rust is different from all other languages is fast and safety first.
+- Fast => Optimization = Resource(cpu, memory)
 
 - CPU with Verb -> Process, Thread, Blocking, Non-Blocking, Asynchronous, Synchronous, Parallel, Concurrency
 - Memory with Noun -> Data Type, Lifetime(CPU and Memory)
