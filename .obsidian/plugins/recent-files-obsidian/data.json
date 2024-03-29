@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "LC 240322",
+      "path": "2024-Spring/Leadership-Challenge/LC 240322.md"
+    },
+    {
       "basename": "Capstone-Degisn-CANVAS",
       "path": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-12-15",
       "path": "Daily Tasks/2023-12-15.md"
-    },
-    {
-      "basename": "Debian vs Red Hat",
-      "path": "0.0. Linux/Debian vs Red Hat.md"
     }
   ],
   "omittedPaths": [],
