@@ -16,9 +16,9 @@
               "state": {
                 "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "viewState": {
-                  "x": -2626.0711472794133,
-                  "y": -904.8226885994007,
-                  "zoom": -0.40000000000000013
+                  "x": 861.6030587689891,
+                  "y": -365.0940432510746,
+                  "zoom": -2.4
                 }
               },
               "pinned": true
@@ -32,24 +32,9 @@
               "state": {
                 "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
                 "viewState": {
-                  "x": 2057.83187795553,
-                  "y": -1622.4909738361957,
-                  "zoom": 0.6
-                }
-              }
-            }
-          },
-          {
-            "id": "cb01c4512a7e536f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
-                "viewState": {
-                  "x": -267.6163039456012,
-                  "y": -283.13446995812933,
-                  "zoom": -0.40000000000000013
+                  "x": -1183.1225007240412,
+                  "y": -1921.3435646140242,
+                  "zoom": -0.19999999999999984
                 }
               }
             }
@@ -214,11 +199,13 @@
   },
   "active": "d960728699ffceda",
   "lastOpenFiles": [
+    "0.1. Coq/Gödel's Completeness Theorem.md",
+    "0.1. Coq/Coq-Core-CANVAS.canvas",
+    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "2024-Spring/Leadership-Challenge/LC 240329.md",
     "2024-Spring/Leadership-Challenge/LC 240322.md",
     "2024-Spring/Leadership-Challenge/LC 240315.md",
-    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
     "2024-Spring/Capstone-Design/CD 240327.md",
     "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md",
@@ -231,7 +218,6 @@
     "0.1 Rust Programming/Rust-Core-Note/trait.md",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Tip.md",
     "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
-    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Logic-for-Comunication/LfC 240319.md",
     "2024-Spring/Logic-for-Comunication/LfC 240326.md",
     "0.7. CaS/CaS-DES-Drawing.md",

@@ -5,6 +5,14 @@
       "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
     },
     {
+      "basename": "Gödel's Completeness Theorem",
+      "path": "0.1. Coq/Gödel's Completeness Theorem.md"
+    },
+    {
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+    },
+    {
       "basename": "Capstone-Degisn-CANVAS",
       "path": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas"
     },
@@ -61,10 +69,6 @@
       "path": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
     },
     {
-      "basename": "Ji Yong-Hyeon",
-      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
-    },
-    {
       "basename": "CaS-DES-Drawing",
       "path": "0.7. CaS/CaS-DES-Drawing.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "LfC - CANVAS",
       "path": "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas"
-    },
-    {
-      "basename": "Gödel's Completeness Theorem",
-      "path": "0.1. Coq/Gödel's Completeness Theorem.md"
     },
     {
       "basename": "ACP-Asgnmt-Drawing",
