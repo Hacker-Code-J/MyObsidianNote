@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "CD 240327",
-      "path": "2024-Spring/Capstone-Design/CD 240327.md"
+      "basename": "Capstone-Degisn-CANVAS",
+      "path": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas"
     },
     {
       "basename": "Coq-Core-CANVAS",
       "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
+    },
+    {
+      "basename": "Capstone-Design-Drawing",
+      "path": "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md"
+    },
+    {
+      "basename": "CD 240327",
+      "path": "2024-Spring/Capstone-Design/CD 240327.md"
     },
     {
       "basename": "Rust_Class_2 - Types",
@@ -71,10 +79,6 @@
     {
       "basename": "2.1. Tool Installation",
       "path": "0.1 Rust Programming/Rust 101 Crash Course/2. Setup/2.1. Tool Installation.md"
-    },
-    {
-      "basename": "Capstone-Degisn-CANVAS",
-      "path": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas"
     },
     {
       "basename": "Rust_Class_1_1",
@@ -195,10 +199,6 @@
     {
       "basename": "Debian vs Red Hat",
       "path": "0.0. Linux/Debian vs Red Hat.md"
-    },
-    {
-      "basename": "Pasted image 20240319103359",
-      "path": "Mind Map/Pasted image 20240319103359.png"
     }
   ],
   "omittedPaths": [],
