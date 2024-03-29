@@ -32,23 +32,10 @@
               "state": {
                 "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
                 "viewState": {
-                  "x": 1792.1403950548709,
-                  "y": -2025.2029779298334,
-                  "zoom": 0.602886098140084
+                  "x": 1694.2983478590625,
+                  "y": 94.53861758076846,
+                  "zoom": -0.5971139018599161
                 }
-              }
-            }
-          },
-          {
-            "id": "30fb0926d5902e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
               }
             }
           }
@@ -119,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -213,6 +199,7 @@
   "active": "d960728699ffceda",
   "lastOpenFiles": [
     "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md",
+    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "2024-Spring/Logic-for-Comunication/LfC 240328.md",
     "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md",
     "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_4.md",
@@ -222,7 +209,6 @@
     "0.1 Rust Programming/Rust-Core-Note/trait.md",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Tip.md",
     "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
-    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Logic-for-Comunication/LfC 240319.md",
     "2024-Spring/Logic-for-Comunication/LfC 240326.md",
@@ -243,7 +229,6 @@
     "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md",
     "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
     "0.1. Coq/Gödel's Completeness Theorem.md",
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md",
     "Mind Map/Pasted image 20240319103359.png",
     "Mind Map/Pasted Image 20240318175558_322.png",
     "Mind Map/Pasted Image 20240318154849_985.png",
