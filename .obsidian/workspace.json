@@ -38,9 +38,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "21bdd31a1a6c1056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-Spring/Capstone-Design/CD 240327.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
+                "file": "2024-Spring/Capstone-Design/CD 240327.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
+                "file": "2024-Spring/Capstone-Design/CD 240327.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas"
+                "file": "2024-Spring/Capstone-Design/CD 240327.md"
               }
             }
           },
@@ -196,10 +209,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d960728699ffceda",
+  "active": "21bdd31a1a6c1056",
   "lastOpenFiles": [
-    "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
+    "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Types.md",
     "2024-Spring/Logic-for-Comunication/LfC 240328.md",
     "0.1 Rust Programming/Rust-Core-Note/Basic I/Rust_Class_2 - Type Inferences.md",
     "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_4.md",
