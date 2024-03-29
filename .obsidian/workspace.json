@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LC 240322.md",
+                "file": "2024-Spring/Leadership-Challenge/LC 240329.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LC 240322.md",
+                "file": "2024-Spring/Leadership-Challenge/LC 240329.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LC 240322.md",
+                "file": "2024-Spring/Leadership-Challenge/LC 240329.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LC 240322.md"
+                "file": "2024-Spring/Leadership-Challenge/LC 240329.md"
               }
             }
           },
@@ -226,8 +227,10 @@
   },
   "active": "8dad4a17feca4ef1",
   "lastOpenFiles": [
-    "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "2024-Spring/Leadership-Challenge/LC 240322.md",
+    "2024-Spring/Leadership-Challenge/LC 240329.md",
+    "2024-Spring/Leadership-Challenge/LC 240315.md",
+    "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
     "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
     "2024-Spring/Capstone-Design/CD 240327.md",
@@ -255,7 +258,6 @@
     "0.1 Rust Programming/Rust-Core-Note/attribute.md",
     "0.7. CSE/CO2",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md",
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240325.md",
     "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
     "Mind Map/Pasted image 20240319103359.png",
     "Mind Map/Pasted Image 20240318175558_322.png",
