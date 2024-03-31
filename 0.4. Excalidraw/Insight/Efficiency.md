@@ -266,8 +266,8 @@ Non-Solvable ^wdFklbUC
 		},
 		{
 			"type": "arrow",
-			"version": 262,
-			"versionNonce": 1928841569,
+			"version": 266,
+			"versionNonce": 1763291724,
 			"isDeleted": false,
 			"id": "61kdaTdVOT8V46a_2VLSM",
 			"fillStyle": "solid",
@@ -276,12 +276,12 @@ Non-Solvable ^wdFklbUC
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -78.32647413706516,
-			"y": -158.8192423961018,
+			"x": -78.32627344110104,
+			"y": -158.81905650146837,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 29.025088117496466,
-			"height": 55.76253202128238,
+			"width": 29.025175507095526,
+			"height": 55.76245753667317,
 			"seed": 1497522956,
 			"groupIds": [],
 			"frameId": null,
@@ -289,7 +289,7 @@ Non-Solvable ^wdFklbUC
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1711282846143,
+			"updated": 1711705126320,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -311,15 +311,15 @@ Non-Solvable ^wdFklbUC
 					0
 				],
 				[
-					-29.025088117496466,
-					55.76253202128238
+					-29.025175507095526,
+					55.76245753667317
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 258,
-			"versionNonce": 1900782881,
+			"version": 262,
+			"versionNonce": 2033879372,
 			"isDeleted": false,
 			"id": "ZCCXkusZerJP6_XxdUnb5",
 			"fillStyle": "solid",
@@ -328,12 +328,12 @@ Non-Solvable ^wdFklbUC
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 49.924611825958856,
-			"y": -154.20725612647033,
+			"x": 49.92357155884862,
+			"y": -154.20640740958365,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 22.831291506289013,
-			"height": 44.79290628854403,
+			"width": 22.831702735369163,
+			"height": 44.79267608185431,
 			"seed": 1173491380,
 			"groupIds": [],
 			"frameId": null,
@@ -341,7 +341,7 @@ Non-Solvable ^wdFklbUC
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1711282846144,
+			"updated": 1711705126320,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -363,15 +363,15 @@ Non-Solvable ^wdFklbUC
 					0
 				],
 				[
-					22.831291506289013,
-					44.79290628854403
+					22.831702735369163,
+					44.79267608185431
 				]
 			]
 		},
 		{
 			"type": "diamond",
-			"version": 358,
-			"versionNonce": 382872972,
+			"version": 414,
+			"versionNonce": 1519408716,
 			"isDeleted": false,
 			"id": "DL1DCvMy-caJbxrGndI8B",
 			"fillStyle": "solid",
@@ -380,8 +380,8 @@ Non-Solvable ^wdFklbUC
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -418.40383098645594,
-			"y": 70.39852877075703,
+			"x": -416.57849668334455,
+			"y": 78.61253313475822,
 			"strokeColor": "#6741d9",
 			"backgroundColor": "transparent",
 			"width": 239,
@@ -402,14 +402,14 @@ Non-Solvable ^wdFklbUC
 					"type": "arrow"
 				}
 			],
-			"updated": 1706978501740,
+			"updated": 1711705242156,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 334,
-			"versionNonce": 701275148,
+			"version": 390,
+			"versionNonce": 1296542924,
 			"isDeleted": false,
 			"id": "4lrsy1sv",
 			"fillStyle": "solid",
@@ -418,8 +418,8 @@ Non-Solvable ^wdFklbUC
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -337.98378704114344,
-			"y": 175.64852877075703,
+			"x": -336.15845273803205,
+			"y": 183.86253313475822,
 			"strokeColor": "#6741d9",
 			"backgroundColor": "transparent",
 			"width": 78.659912109375,
@@ -429,7 +429,7 @@ Non-Solvable ^wdFklbUC
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706978501740,
+			"updated": 1711705242156,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -520,8 +520,8 @@ Non-Solvable ^wdFklbUC
 		},
 		{
 			"type": "arrow",
-			"version": 289,
-			"versionNonce": 1469808577,
+			"version": 405,
+			"versionNonce": 612624844,
 			"isDeleted": false,
 			"id": "C1OiBBvpx7HmWnFcR1EDk",
 			"fillStyle": "solid",
@@ -530,12 +530,12 @@ Non-Solvable ^wdFklbUC
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -218.66813160545982,
-			"y": 28.462517945942032,
+			"x": -217.9422271562647,
+			"y": 29.176273366698723,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 16.6373348028512,
-			"height": 102.25396095547066,
+			"width": 16.231087301449634,
+			"height": 109.07262892448523,
 			"seed": 523176372,
 			"groupIds": [],
 			"frameId": null,
@@ -543,7 +543,7 @@ Non-Solvable ^wdFklbUC
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1711282828942,
+			"updated": 1711705242156,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -565,15 +565,15 @@ Non-Solvable ^wdFklbUC
 					0
 				],
 				[
-					-16.6373348028512,
-					102.25396095547066
+					-16.231087301449634,
+					109.07262892448523
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 193,
-			"versionNonce": 1182614401,
+			"version": 197,
+			"versionNonce": 620069708,
 			"isDeleted": false,
 			"id": "LuXFN8Co-ct4elvnPYDD2",
 			"fillStyle": "solid",
@@ -582,12 +582,12 @@ Non-Solvable ^wdFklbUC
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -93.92429489115784,
-			"y": 37.222261687061476,
+			"x": -93.93222303472206,
+			"y": 37.23005714203046,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 11.389486155908116,
-			"height": 92.03531150321679,
+			"width": 11.394129903757133,
+			"height": 92.0307454749971,
 			"seed": 1926317452,
 			"groupIds": [],
 			"frameId": null,
@@ -595,7 +595,7 @@ Non-Solvable ^wdFklbUC
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1711282828943,
+			"updated": 1711705126321,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -617,8 +617,8 @@ Non-Solvable ^wdFklbUC
 					0
 				],
 				[
-					11.389486155908116,
-					92.03531150321679
+					11.394129903757133,
+					92.0307454749971
 				]
 			]
 		}
@@ -638,10 +638,10 @@ Non-Solvable ^wdFklbUC
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 645.1105006882447,
-		"scrollY": 334.25090951956497,
+		"scrollX": 742.9012535419672,
+		"scrollY": 409.3356789707902,
 		"zoom": {
-			"value": 1.4500000000000002
+			"value": 1.0956897027524708
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

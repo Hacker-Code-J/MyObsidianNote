@@ -1,16 +1,108 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-spring-Drawing",
+      "path": "0.4. Excalidraw/2024-spring-Drawing.md"
+    },
+    {
+      "basename": "Drawing of AES",
+      "path": "0.4. Excalidraw/Drawing of AES.md"
+    },
+    {
+      "basename": "0.4.0 Metacognition",
+      "path": "0.4. Excalidraw/0.4.0 Metacognition.md"
+    },
+    {
+      "basename": "Rust-101-Crash-Fundamentals-Draw",
+      "path": "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md"
+    },
+    {
+      "basename": "Quotient and Remainder",
+      "path": "0.4. Excalidraw/Insight/Quotient and Remainder.md"
+    },
+    {
+      "basename": "Effort",
+      "path": "0.4. Excalidraw/Insight/Effort.md"
+    },
+    {
+      "basename": "Efficiency",
+      "path": "0.4. Excalidraw/Insight/Efficiency.md"
+    },
+    {
+      "basename": "Drawing of Data Structure",
+      "path": "0.4. Excalidraw/Data-Structure/Drawing of Data Structure.md"
+    },
+    {
+      "basename": "Data-Structure-Coding-Drawing",
+      "path": "0.4. Excalidraw/Data-Structure/Data-Structure-Coding-Drawing.md"
+    },
+    {
+      "basename": "Pointer-in-C-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md"
+    },
+    {
+      "basename": "Functions-in-C-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md"
+    },
+    {
+      "basename": "CS-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
+    },
+    {
+      "basename": "Compiler-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md"
+    },
+    {
+      "basename": "C-Note-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md"
+    },
+    {
+      "basename": "Basic-C-Drawing",
+      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
+    },
+    {
+      "basename": "Git-Drawing",
+      "path": "0.4. Excalidraw/Git-Drawing.md"
+    },
+    {
+      "basename": "CSE-LEA-Drawing",
+      "path": "0.7. CSE/CSE/CSE-LEA-Drawing.md"
+    },
+    {
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+    },
+    {
+      "basename": "attribute",
+      "path": "0.1 Rust Programming/Rust-Core-Note/attribute.md"
+    },
+    {
+      "basename": "Idiomatic Rust design",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Idiomatic Rust design.md"
+    },
+    {
+      "basename": "Rust-Core-Drawing",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
+    },
+    {
+      "basename": "CSE-BIGINT-Drawing",
+      "path": "0.7. CSE/CSE/CSE-BIGINT-Drawing.md"
+    },
+    {
+      "basename": "CSE-AES-Drawing",
+      "path": "0.7. CSE/CSE/CSE-AES-Drawing.md"
+    },
+    {
+      "basename": "CO2-Cryptol-Drawing",
+      "path": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
+    },
+    {
       "basename": "Coq-Core-CANVAS",
       "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
     },
     {
       "basename": "Gödel's Completeness Theorem",
       "path": "0.1. Coq/Gödel's Completeness Theorem.md"
-    },
-    {
-      "basename": "Ji Yong-Hyeon",
-      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
     {
       "basename": "Capstone-Degisn-CANVAS",
@@ -53,20 +145,12 @@
       "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_2.md"
     },
     {
-      "basename": "Idiomatic Rust design",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Idiomatic Rust design.md"
-    },
-    {
       "basename": "trait",
       "path": "0.1 Rust Programming/Rust-Core-Note/trait.md"
     },
     {
       "basename": "Rust-Core-Tip",
       "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Tip.md"
-    },
-    {
-      "basename": "CO2-Cryptol-Drawing",
-      "path": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
     },
     {
       "basename": "CaS-DES-Drawing",
@@ -93,16 +177,8 @@
       "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_1.md"
     },
     {
-      "basename": "Rust-Core-Drawing",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
-    },
-    {
       "basename": "Rust-Core-CANVAS",
       "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
-    },
-    {
-      "basename": "attribute",
-      "path": "0.1 Rust Programming/Rust-Core-Note/attribute.md"
     },
     {
       "basename": "ACP 240319",
@@ -123,74 +199,6 @@
     {
       "basename": "ACP-Asgnmt-Drawing",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md"
-    },
-    {
-      "basename": "ItC 240325",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240325.md"
-    },
-    {
-      "basename": "ItC 240311",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240311.md"
-    },
-    {
-      "basename": "Effort",
-      "path": "0.4. Excalidraw/Insite/Effort.md"
-    },
-    {
-      "basename": "Quotient and Remainder",
-      "path": "0.4. Excalidraw/Insite/Quotient and Remainder.md"
-    },
-    {
-      "basename": "Efficiency",
-      "path": "0.4. Excalidraw/Insite/Efficiency.md"
-    },
-    {
-      "basename": "Coq-Core-Drawing",
-      "path": "0.1. Coq/Coq-Core-Drawing.md"
-    },
-    {
-      "basename": "CSE-LEA-Drawing",
-      "path": "0.7. CSE/CSE/CSE-LEA-Drawing.md"
-    },
-    {
-      "basename": "CO2-HIGHT-Drawing",
-      "path": "0.7. CSE/CSE/CO2-HIGHT-Drawing.md"
-    },
-    {
-      "basename": "CSE-AES-Drawing",
-      "path": "0.7. CSE/CSE/CSE-AES-Drawing.md"
-    },
-    {
-      "basename": "LEA",
-      "path": "0.7. CSE/Intern/LEA.md"
-    },
-    {
-      "basename": "1.1. Mathematical Induction",
-      "path": "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
-    },
-    {
-      "basename": "ECC",
-      "path": "1.0. ECC/ECC.md"
-    },
-    {
-      "basename": "Elliptic Curves",
-      "path": "1.0. ECC/Elliptic Curves.md"
-    },
-    {
-      "basename": "LaTex Tips",
-      "path": "3.0. LaTex/LaTex Tips.md"
-    },
-    {
-      "basename": "2024-03-15 ACP - Assignment",
-      "path": "2024/2024-03-15 ACP - Assignment.md"
-    },
-    {
-      "basename": "2024-01-04",
-      "path": "Daily Tasks/2024-01-04.md"
-    },
-    {
-      "basename": "2023-12-23",
-      "path": "Daily Tasks/2023-12-23.md"
     }
   ],
   "omittedPaths": [],
