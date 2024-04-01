@@ -127,8 +127,8 @@ contain(9) -> 000000010 != 0000000000 -> 1
 
 [contain(1), contain(2), ..., contain(9)] = 10...1 ^GtdyTBQb
 
-check group = [ contain x | x <- [1..9] ]
- where contain x = [ x == y | y <- group ] ^UALQrb7C
+check group = [ contain x | x <- [1..9] ] == ~zero
+ where contain x = [ x == y | y <- group ] != zero ^UALQrb7C
 
 %%
 # Drawing
@@ -34329,8 +34329,8 @@ check group = [ contain x | x <- [1..9] ]
 		},
 		{
 			"type": "text",
-			"version": 149,
-			"versionNonce": 480045310,
+			"version": 179,
+			"versionNonce": 153828350,
 			"isDeleted": false,
 			"id": "UALQrb7C",
 			"fillStyle": "solid",
@@ -34339,28 +34339,28 @@ check group = [ contain x | x <- [1..9] ]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -537.2432576725193,
+			"x": -539.9099243391859,
 			"y": 1639.1205194626866,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 492.1875,
+			"width": 585.9375,
 			"height": 48,
 			"seed": 1483513841,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711970273111,
+			"updated": 1711978235281,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "check group = [ contain x | x <- [1..9] ]\n where contain x = [ x == y | y <- group ]",
-			"rawText": "check group = [ contain x | x <- [1..9] ]\n where contain x = [ x == y | y <- group ]",
+			"text": "check group = [ contain x | x <- [1..9] ] == ~zero\n where contain x = [ x == y | y <- group ] != zero",
+			"rawText": "check group = [ contain x | x <- [1..9] ] == ~zero\n where contain x = [ x == y | y <- group ] != zero",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "check group = [ contain x | x <- [1..9] ]\n where contain x = [ x == y | y <- group ]",
+			"originalText": "check group = [ contain x | x <- [1..9] ] == ~zero\n where contain x = [ x == y | y <- group ] != zero",
 			"lineHeight": 1.2
 		}
 	],
