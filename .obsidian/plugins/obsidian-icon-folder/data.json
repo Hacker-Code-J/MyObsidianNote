@@ -26,7 +26,8 @@
     "iconInFrontmatterEnabled": true,
     "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "iconsInLinksEnabled": true
   },
   "Daily Tasks": "FasCalendarDay",
   "Implementation for AES": "BoBxCodeBlock",
