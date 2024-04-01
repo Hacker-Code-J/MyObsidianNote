@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "ItC 240401",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240401.md"
+    },
+    {
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+    },
+    {
+      "basename": "ACP 240319",
+      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md"
+    },
+    {
+      "basename": "ACP 240325",
+      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240325.md"
+    },
+    {
       "basename": "2024-spring-Drawing",
       "path": "0.4. Excalidraw/2024-spring-Drawing.md"
     },
@@ -67,10 +83,6 @@
     {
       "basename": "CSE-LEA-Drawing",
       "path": "0.7. CSE/CSE/CSE-LEA-Drawing.md"
-    },
-    {
-      "basename": "Ji Yong-Hyeon",
-      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
     {
       "basename": "attribute",
@@ -181,24 +193,12 @@
       "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
     },
     {
-      "basename": "ACP 240319",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md"
-    },
-    {
-      "basename": "ACP 240325",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240325.md"
-    },
-    {
       "basename": "Drawing 2024-03-26 11.30.42.excalidraw",
       "path": "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md"
     },
     {
       "basename": "LfC - CANVAS",
       "path": "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas"
-    },
-    {
-      "basename": "ACP-Asgnmt-Drawing",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md"
     }
   ],
   "omittedPaths": [],
