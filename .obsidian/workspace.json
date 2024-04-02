@@ -36,9 +36,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "33b9ea0f36a88461",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -194,7 +205,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ef39b699d946ffeb",
+  "active": "33b9ea0f36a88461",
   "lastOpenFiles": [
     "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md",
     "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
