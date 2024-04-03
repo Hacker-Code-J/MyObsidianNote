@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CD 240403",
+      "path": "2024-Spring/Capstone-Design/CD 240403.md"
+    },
+    {
       "basename": "Capstone-Degisn-CANVAS",
       "path": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Procedural vs OOP vs Functional",
       "path": "0.1. Haskell Programming/Procedural vs OOP vs Functional.md"
-    },
-    {
-      "basename": "(Cryptographic) OOP vs Functional",
-      "path": "0.1. Haskell Programming/(Cryptographic) OOP vs Functional.md"
     }
   ],
   "omittedPaths": [],
