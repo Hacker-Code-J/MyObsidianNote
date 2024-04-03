@@ -1,24 +1,24 @@
 {
 	"nodes":[
-		{"id":"02d711b5698f2224","x":20,"y":-419,"width":630,"height":254,"type":"group","label":"Output"},
-		{"id":"8b152c3dcf8d91f4","x":-1180,"y":-420,"width":630,"height":250,"type":"group","label":"Input"},
-		{"id":"aff512de50d3aa02","type":"text","text":"Formal Proof with Cryptol","x":-480,"y":-345,"width":420,"height":100,"color":"5"},
-		{"id":"6fe672942715cd06","x":-1160,"y":-335,"width":250,"height":80,"type":"text","text":"Specification\n(Document)"},
-		{"id":"6645f300d4810cc1","x":40,"y":-325,"width":250,"height":60,"type":"text","text":"..."},
-		{"id":"d07968ce7ae20457","x":40,"y":-399,"width":250,"height":60,"type":"text","text":"Open Source"},
+		{"id":"8b152c3dcf8d91f4","type":"group","x":-1340,"y":-480,"width":790,"height":360,"color":"3","label":"Input"},
+		{"id":"02d711b5698f2224","type":"group","x":20,"y":-480,"width":630,"height":360,"color":"2","label":"Output"},
+		{"id":"6645f300d4810cc1","type":"text","text":"...","x":40,"y":-325,"width":250,"height":60},
+		{"id":"d07968ce7ae20457","type":"text","text":"Open Source","x":40,"y":-399,"width":250,"height":60},
 		{"id":"175f67c453528d5c","type":"text","text":"...","x":40,"y":-245,"width":250,"height":60},
-		{"id":"206099aacad17965","x":380,"y":-315,"width":250,"height":41,"type":"text","text":"Data (Valid)"},
-		{"id":"93a4bc0ce5b338c7","x":-820,"y":-400,"width":250,"height":210,"type":"text","text":"Cryptol Code\n- Add\n- Rotation\n- Xor"}
+		{"id":"206099aacad17965","type":"text","text":"Data (Valid)","x":380,"y":-315,"width":250,"height":41},
+		{"id":"aff512de50d3aa02","type":"text","text":"Formal Verification\nwith Cryptol","x":-480,"y":-345,"width":420,"height":100,"color":"5"},
+		{"id":"93a4bc0ce5b338c7","type":"text","text":"Write Cryptol Code for\n- Add\n- Rotation\n- Xor","x":-840,"y":-412,"width":250,"height":235},
+		{"id":"6fe672942715cd06","type":"text","text":"Specification\n(Document)","x":-1300,"y":-339,"width":250,"height":80}
 	],
 	"edges":[
-		{"id":"96f1501f4d471ea6","fromNode":"6fe672942715cd06","fromSide":"right","toNode":"93a4bc0ce5b338c7","toSide":"left"},
-		{"id":"3694d3357a92a437","fromNode":"93a4bc0ce5b338c7","fromSide":"right","toNode":"aff512de50d3aa02","toSide":"left"},
-		{"id":"5e9f0a7ebfe2857e","fromNode":"aff512de50d3aa02","fromSide":"right","toNode":"d07968ce7ae20457","toSide":"left"},
-		{"id":"21c6184463ea1dd0","fromNode":"aff512de50d3aa02","fromSide":"right","toNode":"6645f300d4810cc1","toSide":"left"},
+		{"id":"96f1501f4d471ea6","fromNode":"6fe672942715cd06","fromSide":"right","toNode":"93a4bc0ce5b338c7","toSide":"left","label":"Analysis"},
+		{"id":"3694d3357a92a437","fromNode":"93a4bc0ce5b338c7","fromSide":"right","toNode":"aff512de50d3aa02","toSide":"left","color":"5"},
+		{"id":"5e9f0a7ebfe2857e","fromNode":"aff512de50d3aa02","fromSide":"right","toNode":"d07968ce7ae20457","toSide":"left","color":"5"},
+		{"id":"21c6184463ea1dd0","fromNode":"aff512de50d3aa02","fromSide":"right","toNode":"6645f300d4810cc1","toSide":"left","color":"5"},
 		{"id":"5288f3b89e81ba74","fromNode":"d07968ce7ae20457","fromSide":"right","toNode":"206099aacad17965","toSide":"left"},
 		{"id":"d2eed010444cc95b","fromNode":"6645f300d4810cc1","fromSide":"right","toNode":"206099aacad17965","toSide":"left"},
-		{"id":"af1c7693dc9a10ff","fromNode":"93a4bc0ce5b338c7","fromSide":"bottom","toNode":"206099aacad17965","toSide":"bottom"},
-		{"id":"2ed535bfc2a3484a","fromNode":"aff512de50d3aa02","fromSide":"right","toNode":"175f67c453528d5c","toSide":"left"},
+		{"id":"af1c7693dc9a10ff","fromNode":"93a4bc0ce5b338c7","fromSide":"bottom","toNode":"206099aacad17965","toSide":"bottom","color":"1"},
+		{"id":"2ed535bfc2a3484a","fromNode":"aff512de50d3aa02","fromSide":"right","toNode":"175f67c453528d5c","toSide":"left","color":"5"},
 		{"id":"1be3d50961268fd2","fromNode":"175f67c453528d5c","fromSide":"right","toNode":"206099aacad17965","toSide":"left"}
 	]
 }

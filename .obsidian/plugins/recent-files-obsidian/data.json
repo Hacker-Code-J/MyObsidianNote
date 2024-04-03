@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Capstone-Degisn-CANVAS",
+      "path": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas"
+    },
+    {
       "basename": "ACP 240402",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240402.md"
     },
@@ -139,10 +143,6 @@
     {
       "basename": "Gödel's Completeness Theorem",
       "path": "0.1. Coq/Gödel's Completeness Theorem.md"
-    },
-    {
-      "basename": "Capstone-Degisn-CANVAS",
-      "path": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas"
     },
     {
       "basename": "LC 240329",
