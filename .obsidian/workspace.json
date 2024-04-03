@@ -16,9 +16,9 @@
               "state": {
                 "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "viewState": {
-                  "x": -652.404879083614,
-                  "y": -167.6386346008518,
-                  "zoom": -1.2000000000000002
+                  "x": -2233.690144216357,
+                  "y": 385.1133401548859,
+                  "zoom": -0.8000000000000002
                 }
               },
               "pinned": true
@@ -26,6 +26,21 @@
           },
           {
             "id": "ef39b699d946ffeb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
+                "viewState": {
+                  "x": -345,
+                  "y": -300,
+                  "zoom": -0.2226121266655696
+                }
+              }
+            }
+          },
+          {
+            "id": "7a570f6dc996da72",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,12 +210,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ef39b699d946ffeb",
+  "active": "7a570f6dc996da72",
   "lastOpenFiles": [
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "2024-Spring/Capstone-Design/CD 240403.md",
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240402.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240402.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240325.md",
     "2024-Spring/Logic-for-Comunication/LfC 240402.md",
