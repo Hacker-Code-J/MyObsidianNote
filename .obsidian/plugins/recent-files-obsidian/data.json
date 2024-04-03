@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Rust-Core-Drawing",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
+    },
+    {
+      "basename": "Rust-Core-CANVAS",
+      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
+    },
+    {
       "basename": "CO2-Cryptol-Drawing",
       "path": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
     },
@@ -129,10 +137,6 @@
       "path": "0.1 Rust Programming/Rust-Core-Note/Idiomatic Rust design.md"
     },
     {
-      "basename": "Rust-Core-Drawing",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
-    },
-    {
       "basename": "CSE-BIGINT-Drawing",
       "path": "0.7. CSE/CSE/CSE-BIGINT-Drawing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Set-up Haskell in Linux",
       "path": "0.1. Haskell Programming/Set-up Haskell in Linux.md"
-    },
-    {
-      "basename": "Procedural vs OOP vs Functional",
-      "path": "0.1. Haskell Programming/Procedural vs OOP vs Functional.md"
     }
   ],
   "omittedPaths": [],
