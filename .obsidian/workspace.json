@@ -28,14 +28,9 @@
             "id": "ef39b699d946ffeb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
-                "viewState": {
-                  "x": -474.0530617459158,
-                  "y": 307.3199005575935,
-                  "zoom": -1.0226121266655697
-                }
+                "file": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
               }
             }
           },
@@ -135,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
+                "file": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
+                "file": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas"
+                "file": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
               }
             }
           },
@@ -211,8 +206,8 @@
   },
   "active": "ef39b699d946ffeb",
   "lastOpenFiles": [
-    "2024-Spring/Capstone-Design/CD 240403.md",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
+    "2024-Spring/Capstone-Design/CD 240403.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240402.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md",
