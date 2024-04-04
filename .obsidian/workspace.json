@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240403.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240404.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240403.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240404.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240403.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240404.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240403.md"
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240404.md"
               }
             }
           },
@@ -206,16 +207,17 @@
   },
   "active": "7a570f6dc996da72",
   "lastOpenFiles": [
+    "2024-Spring/Logic-for-Comunication/LfC 240402.md",
+    "2024-Spring/Logic-for-Comunication/LfC 240404.md",
+    "2024-Spring/Capstone-Design/CD 240403.md",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
     "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
-    "2024-Spring/Capstone-Design/CD 240403.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240402.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240325.md",
-    "2024-Spring/Logic-for-Comunication/LfC 240402.md",
     "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md",
     "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
     "2024-Spring/Logic-for-Comunication/LfC 240328.md",
@@ -235,7 +237,6 @@
     "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
     "0.4. Excalidraw/C-Core-NOTE-Draw/Compiler-Drawing.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/C-Note-Drawing.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.7. CSE/CO2",
     "Mind Map/Pasted image 20240319103359.png",

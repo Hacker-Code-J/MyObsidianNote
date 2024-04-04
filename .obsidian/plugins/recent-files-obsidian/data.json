@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "LfC 240404",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240404.md"
+    },
+    {
+      "basename": "LfC 240402",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240402.md"
+    },
+    {
       "basename": "CD 240403",
       "path": "2024-Spring/Capstone-Design/CD 240403.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "ACP 240325",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240325.md"
-    },
-    {
-      "basename": "LfC 240402",
-      "path": "2024-Spring/Logic-for-Comunication/LfC 240402.md"
     },
     {
       "basename": "Drawing 2024-03-26 11.30.42.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "CaS-DES-Drawing",
       "path": "0.7. CaS/CaS-DES-Drawing.md"
-    },
-    {
-      "basename": "Set-up Haskell in Linux",
-      "path": "0.1. Haskell Programming/Set-up Haskell in Linux.md"
     }
   ],
   "omittedPaths": [],
