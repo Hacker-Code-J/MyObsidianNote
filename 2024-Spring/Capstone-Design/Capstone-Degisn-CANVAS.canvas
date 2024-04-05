@@ -2,12 +2,8 @@
 	"nodes":[
 		{"id":"8b152c3dcf8d91f4","type":"group","x":-1340,"y":-480,"width":790,"height":360,"color":"3","label":"Input"},
 		{"id":"02d711b5698f2224","type":"group","x":20,"y":-480,"width":630,"height":360,"color":"2","label":"Output"},
-		{"id":"6645f300d4810cc1","type":"text","text":"...","x":40,"y":-325,"width":250,"height":60},
-		{"id":"d07968ce7ae20457","type":"text","text":"Open Source","x":40,"y":-399,"width":250,"height":60},
-		{"id":"175f67c453528d5c","type":"text","text":"...","x":40,"y":-245,"width":250,"height":60},
 		{"id":"aff512de50d3aa02","type":"text","text":"Formal Verification\nwith Cryptol","x":-480,"y":-345,"width":420,"height":100,"color":"5"},
 		{"id":"93a4bc0ce5b338c7","type":"text","text":"Write Cryptol Code for\n- Add\n- Rotation\n- Xor","x":-840,"y":-412,"width":250,"height":235},
-		{"id":"206099aacad17965","type":"text","text":"Data (Valid)","x":380,"y":-315,"width":250,"height":41},
 		{"id":"6fe672942715cd06","type":"text","text":"Specification\n(Document)","x":-1300,"y":-339,"width":250,"height":80},
 		{"id":"830ed9a0cf763128","type":"text","text":"Cryptol","x":-987,"y":297,"width":250,"height":60},
 		{"id":"04bbc4fc8c0dd2ea","type":"text","text":"Specification\n(Document)","x":-1425,"y":287,"width":250,"height":80},
@@ -15,7 +11,18 @@
 		{"id":"365db579b131a325","type":"text","text":"...","x":-987,"y":654,"width":250,"height":60},
 		{"id":"a77fba026503554c","type":"text","text":"Open Source","x":-987,"y":500,"width":250,"height":60},
 		{"id":"1587682c177ced0f","type":"text","text":"SAW","x":-537,"y":297,"width":250,"height":60},
-		{"id":"eaba4c9d27b8e1a7","x":-85,"y":297,"width":250,"height":60,"type":"text","text":"Data"}
+		{"id":"6645f300d4810cc1","type":"text","text":"...","x":40,"y":-325,"width":250,"height":60},
+		{"id":"d07968ce7ae20457","type":"text","text":"Open Source","x":40,"y":-399,"width":250,"height":60},
+		{"id":"175f67c453528d5c","type":"text","text":"...","x":40,"y":-245,"width":250,"height":60},
+		{"id":"206099aacad17965","type":"text","text":"Data (Valid)","x":380,"y":-315,"width":250,"height":41},
+		{"id":"eaba4c9d27b8e1a7","type":"text","text":"Data","x":-85,"y":297,"width":250,"height":60},
+		{"id":"bbcbbaa386401154","x":-1229,"y":-1252,"width":469,"height":292,"type":"text","text":"# Subject\n- User\n- Process"},
+		{"id":"5d7b64fb36cec5ce","type":"text","text":"# Object\n- File (document, execute file)\n- Database\n- Program\n- Network","x":-179,"y":-1252,"width":469,"height":292},
+		{"id":"5f7385d401e8300f","x":-1182,"y":-1872,"width":250,"height":60,"type":"text","text":"# Subject"},
+		{"id":"60acd8356fcace2a","x":-1224,"y":-1560,"width":335,"height":50,"type":"text","text":"### Access Control  Policy"},
+		{"id":"9d05cf96d2a7bc34","type":"text","text":"### Access Control  Mechanism","x":-346,"y":-1560,"width":335,"height":50},
+		{"id":"5b93450280b1f040","type":"text","text":"### Access Control  Model","x":-764,"y":-1560,"width":335,"height":50},
+		{"id":"70c5ee44bb8474af","type":"text","text":"# Object","x":-304,"y":-1872,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"3694d3357a92a437","fromNode":"93a4bc0ce5b338c7","fromSide":"right","toNode":"aff512de50d3aa02","toSide":"left","color":"5"},
@@ -32,6 +39,12 @@
 		{"id":"3b3e1b75ac9c45c7","fromNode":"365db579b131a325","fromSide":"right","toNode":"1587682c177ced0f","toSide":"left"},
 		{"id":"96f1501f4d471ea6","fromNode":"6fe672942715cd06","fromSide":"right","toNode":"93a4bc0ce5b338c7","toSide":"left","label":"Analysis"},
 		{"id":"5741139d2e3f48a9","fromNode":"04bbc4fc8c0dd2ea","fromSide":"right","toNode":"830ed9a0cf763128","toSide":"left"},
-		{"id":"e09cb2f0a4816665","fromNode":"1587682c177ced0f","fromSide":"right","toNode":"eaba4c9d27b8e1a7","toSide":"left"}
+		{"id":"e09cb2f0a4816665","fromNode":"1587682c177ced0f","fromSide":"right","toNode":"eaba4c9d27b8e1a7","toSide":"left"},
+		{"id":"0a088a943cb5ab03","fromNode":"bbcbbaa386401154","fromSide":"right","toNode":"5d7b64fb36cec5ce","toSide":"left","label":"Access\n(read, write, update,\ndelete, modify, execute)"},
+		{"id":"b0ec56558bb3505b","fromNode":"5f7385d401e8300f","fromSide":"right","toNode":"70c5ee44bb8474af","toSide":"left","label":"Access\n(Read/Write/Delete)"},
+		{"id":"cc34aafdc2591058","fromNode":"5f7385d401e8300f","fromSide":"bottom","toNode":"60acd8356fcace2a","toSide":"top"},
+		{"id":"296f8c78588c2f09","fromNode":"60acd8356fcace2a","fromSide":"right","toNode":"5b93450280b1f040","toSide":"left"},
+		{"id":"375be92583ee98eb","fromNode":"5b93450280b1f040","fromSide":"right","toNode":"9d05cf96d2a7bc34","toSide":"left"},
+		{"id":"1bdfb2a5946a2ab2","fromNode":"9d05cf96d2a7bc34","fromSide":"top","toNode":"70c5ee44bb8474af","toSide":"bottom"}
 	]
 }

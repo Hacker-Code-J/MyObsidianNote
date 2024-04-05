@@ -25,76 +25,35 @@
             }
           },
           {
-            "id": "ef39b699d946ffeb",
+            "id": "7a570f6dc996da72",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
+                "file": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
+                "viewState": {
+                  "x": -520.3758549651102,
+                  "y": -1680.7947811799868,
+                  "zoom": -1.018777242879077
+                }
               }
             }
           },
           {
-            "id": "238f7dd0ea8fa4d1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7a570f6dc996da72",
+            "id": "92d18a359a1ba0d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240401.md",
+                "file": "2024-Spring/Capstone-Design/CD 240405.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "27957fdb64495721",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ef2d0dd80569eec5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
-              }
-            }
-          },
-          {
-            "id": "75c7f22cfb37bc00",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.7. CSE/CSE/CSE-AES-Drawing.md"
-              }
-            }
-          },
-          {
-            "id": "a930448179ad6671",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.7. CSE/CSE/CSE-LEA-Drawing.md"
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -176,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.7. CSE/CSE/CSE-LEA-Drawing.md",
+                "file": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.7. CSE/CSE/CSE-LEA-Drawing.md",
+                "file": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.7. CSE/CSE/CSE-LEA-Drawing.md"
+                "file": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas"
               }
             }
           },
@@ -250,19 +210,22 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a930448179ad6671",
+  "active": "7a570f6dc996da72",
   "lastOpenFiles": [
-    "0.7. CSE/CSE/CSE-AES-Drawing.md",
-    "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
+    "2024-Spring/Capstone-Design/CD 240405.md",
+    "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
+    "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240401.md",
+    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md",
+    "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
+    "0.7. CSE/CSE/CSE-AES-Drawing.md",
+    "0.7. CSE/CSE/CSE-LEA-Drawing.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240402.md",
     "2024-Spring/Logic-for-Comunication/LfC 240404.md",
     "2024-Spring/Logic-for-Comunication/LfC 240402.md",
     "2024-Spring/Capstone-Design/CD 240403.md",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
-    "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
-    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240325.md",
     "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md",
@@ -278,10 +241,6 @@
     "0.4. Excalidraw/Insight/Effort.md",
     "0.4. Excalidraw/Insight/Efficiency.md",
     "0.4. Excalidraw/Data-Structure/Drawing of Data Structure.md",
-    "0.4. Excalidraw/Data-Structure/Data-Structure-Coding-Drawing.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md",
-    "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.7. CSE/CO2",
     "Mind Map/Pasted image 20240319103359.png",

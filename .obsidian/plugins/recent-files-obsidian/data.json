@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "CSE-LEA-Drawing",
-      "path": "0.7. CSE/CSE/CSE-LEA-Drawing.md"
+      "basename": "Capstone-Degisn-CANVAS",
+      "path": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas"
     },
     {
-      "basename": "CSE-AES-Drawing",
-      "path": "0.7. CSE/CSE/CSE-AES-Drawing.md"
+      "basename": "CD 240405",
+      "path": "2024-Spring/Capstone-Design/CD 240405.md"
     },
     {
-      "basename": "CO2-Cryptol-Drawing",
-      "path": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
+      "basename": "Capstone-Design-Drawing",
+      "path": "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md"
     },
     {
       "basename": "ACP 240401",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240401.md"
     },
     {
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+    },
+    {
       "basename": "Rust-Core-Drawing",
       "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
+    },
+    {
+      "basename": "CO2-Cryptol-Drawing",
+      "path": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
+    },
+    {
+      "basename": "CSE-AES-Drawing",
+      "path": "0.7. CSE/CSE/CSE-AES-Drawing.md"
+    },
+    {
+      "basename": "CSE-LEA-Drawing",
+      "path": "0.7. CSE/CSE/CSE-LEA-Drawing.md"
     },
     {
       "basename": "ACP 240402",
@@ -39,14 +55,6 @@
     {
       "basename": "Rust-Core-CANVAS",
       "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
-    },
-    {
-      "basename": "Capstone-Degisn-CANVAS",
-      "path": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas"
-    },
-    {
-      "basename": "Ji Yong-Hyeon",
-      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
     {
       "basename": "ACP 240319",
@@ -161,10 +169,6 @@
       "path": "2024-Spring/Leadership-Challenge/LC 240329.md"
     },
     {
-      "basename": "Capstone-Design-Drawing",
-      "path": "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md"
-    },
-    {
       "basename": "CD 240327",
       "path": "2024-Spring/Capstone-Design/CD 240327.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Rust-Core-Tip",
       "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Tip.md"
-    },
-    {
-      "basename": "CaS-DES-Drawing",
-      "path": "0.7. CaS/CaS-DES-Drawing.md"
     }
   ],
   "omittedPaths": [],
