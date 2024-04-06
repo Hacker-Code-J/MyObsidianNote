@@ -22,7 +22,8 @@
 		{"id":"60acd8356fcace2a","x":-1224,"y":-1560,"width":335,"height":50,"type":"text","text":"### Access Control  Policy"},
 		{"id":"9d05cf96d2a7bc34","type":"text","text":"### Access Control  Mechanism","x":-346,"y":-1560,"width":335,"height":50},
 		{"id":"5b93450280b1f040","type":"text","text":"### Access Control  Model","x":-764,"y":-1560,"width":335,"height":50},
-		{"id":"70c5ee44bb8474af","type":"text","text":"# Object","x":-304,"y":-1872,"width":250,"height":60}
+		{"id":"70c5ee44bb8474af","type":"text","text":"# Object","x":-304,"y":-1872,"width":250,"height":60},
+		{"id":"268c2402b415850e","x":-1300,"y":0,"width":355,"height":50,"type":"text","text":"What is GOAL?"}
 	],
 	"edges":[
 		{"id":"3694d3357a92a437","fromNode":"93a4bc0ce5b338c7","fromSide":"right","toNode":"aff512de50d3aa02","toSide":"left","color":"5"},
