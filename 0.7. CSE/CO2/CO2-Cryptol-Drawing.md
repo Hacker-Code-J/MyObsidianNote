@@ -304,7 +304,7 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 실제 구현 모델
 (*.bc by clang) ^IBFnqb1r
 
-보안 속성 검증
+자동화 검증
 (.saw) ^DBC4QKYf
 
 %%
@@ -49244,8 +49244,8 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 		},
 		{
 			"type": "ellipse",
-			"version": 2494,
-			"versionNonce": 670572617,
+			"version": 2509,
+			"versionNonce": 1668572585,
 			"isDeleted": false,
 			"id": "uJ3aitt-cTXm9n79JnR2z",
 			"fillStyle": "solid",
@@ -49254,7 +49254,7 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 			"roughness": 1,
 			"opacity": 0,
 			"angle": 0,
-			"x": 1186.2493200310162,
+			"x": 1178.0584279703348,
 			"y": 3217.433757776087,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -49273,14 +49273,14 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 					"type": "arrow"
 				}
 			],
-			"updated": 1712478499306,
+			"updated": 1712480053600,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2158,
-			"versionNonce": 1929470473,
+			"version": 2171,
+			"versionNonce": 614778345,
 			"isDeleted": false,
 			"id": "TxJjr_NNZ1VAjqlnF6S8Q",
 			"fillStyle": "solid",
@@ -49289,7 +49289,7 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1242.502386624454,
+			"x": 1234.3114945637726,
 			"y": 3258.0229591864672,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -49305,7 +49305,7 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1712478499306,
+			"updated": 1712480040044,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -49426,8 +49426,8 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 		},
 		{
 			"type": "line",
-			"version": 1986,
-			"versionNonce": 1920612585,
+			"version": 1999,
+			"versionNonce": 96870601,
 			"isDeleted": false,
 			"id": "wokw_B8s4MpSFufhgwH5_",
 			"fillStyle": "solid",
@@ -49436,7 +49436,7 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1243.9256630816767,
+			"x": 1235.7347710209954,
 			"y": 3222.915473241641,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -49452,7 +49452,7 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1712478499306,
+			"updated": 1712480040044,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -49617,8 +49617,8 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 		},
 		{
 			"type": "text",
-			"version": 3303,
-			"versionNonce": 2121610185,
+			"version": 3318,
+			"versionNonce": 1493489097,
 			"isDeleted": false,
 			"id": "X1a0HaQq",
 			"fillStyle": "solid",
@@ -49627,7 +49627,7 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1178.0960032081014,
+			"x": 1169.90511114742,
 			"y": 3295.852447325383,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -49646,7 +49646,7 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 					"type": "arrow"
 				}
 			],
-			"updated": 1712478499306,
+			"updated": 1712480044293,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -49718,8 +49718,8 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 		},
 		{
 			"type": "arrow",
-			"version": 728,
-			"versionNonce": 1316957993,
+			"version": 798,
+			"versionNonce": 888666697,
 			"isDeleted": false,
 			"id": "xqxpEZ8qEZMH7b6nq_d94",
 			"fillStyle": "solid",
@@ -49733,24 +49733,24 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 183.47598215926087,
-			"height": 102.7257323318463,
+			"height": 89.62030503475626,
 			"seed": 588794889,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1712478499306,
+			"updated": 1712480053950,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "H5CO-gTL8IzdtY8UwNsQj",
-				"focus": -0.23894218979176965,
+				"focus": -0.2389421897917697,
 				"gap": 22.18298052215559
 			},
 			"endBinding": {
 				"elementId": "uJ3aitt-cTXm9n79JnR2z",
-				"focus": -0.11224501334891268,
-				"gap": 1.9763894117818168
+				"focus": 0.028061253337234016,
+				"gap": 14.743402696228578
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -49766,7 +49766,7 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 				],
 				[
 					183.47598215926087,
-					102.7257323318463
+					89.62030503475626
 				]
 			]
 		},
@@ -50437,9 +50437,9 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 			"id": "NNnyxh1cmXjefQpo6CJg0",
 			"type": "arrow",
 			"x": 1237.3588098514745,
-			"y": 3353.145723213385,
+			"y": 3349.050277183044,
 			"width": 0.005199762491429283,
-			"height": 80.54570001241063,
+			"height": 84.64114604275164,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -50452,11 +50452,11 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 			"frameId": null,
 			"roundness": null,
 			"seed": 510371367,
-			"version": 906,
-			"versionNonce": 185455273,
+			"version": 973,
+			"versionNonce": 1190877193,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712478499306,
+			"updated": 1712480061790,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50466,11 +50466,11 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 				],
 				[
 					0,
-					24.848074601537064
+					28.943520631878073
 				],
 				[
 					-0.005199762491429283,
-					80.54570001241063
+					84.64114604275164
 				]
 			],
 			"lastCommittedPoint": [
@@ -50479,8 +50479,8 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 			],
 			"startBinding": {
 				"elementId": "X1a0HaQq",
-				"focus": 0.04347877686070906,
-				"gap": 11.293275888001972
+				"focus": -0.08872491945816784,
+				"gap": 7.197829857660963
 			},
 			"endBinding": {
 				"elementId": "RbzD-DtBI2L06LKNMRhe2",
@@ -50495,8 +50495,8 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 			"type": "arrow",
 			"x": 739.2249966450763,
 			"y": 3487.0828032411723,
-			"width": 425.94901715120704,
-			"height": 5.5305201955106895,
+			"width": 431.6826415936837,
+			"height": 0.6159849591022066,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -50509,8 +50509,8 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 			"frameId": null,
 			"roundness": null,
 			"seed": 679569897,
-			"version": 616,
-			"versionNonce": 377909607,
+			"version": 679,
+			"versionNonce": 1058341705,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -50518,7 +50518,7 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 					"id": "DBC4QKYf"
 				}
 			],
-			"updated": 1712478178151,
+			"updated": 1712480091525,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50527,8 +50527,8 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 					0
 				],
 				[
-					425.94901715120704,
-					5.5305201955106895
+					431.6826415936837,
+					0.6159849591022066
 				]
 			],
 			"lastCommittedPoint": [
@@ -50537,13 +50537,13 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 			],
 			"startBinding": {
 				"elementId": "KxNiMpEI0wUtEjXK6D3kN",
-				"focus": 0.02458174969948741,
+				"focus": 0.039334742906290104,
 				"gap": 16.172237647370366
 			},
 			"endBinding": {
 				"elementId": "RbzD-DtBI2L06LKNMRhe2",
-				"focus": -0.010522970001463633,
-				"gap": 8.789462633086423
+				"focus": 0.08709694347664554,
+				"gap": 3.272691931238228
 			},
 			"startArrowhead": "arrow",
 			"endArrowhead": "arrow"
@@ -50551,9 +50551,9 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 		{
 			"id": "DBC4QKYf",
 			"type": "text",
-			"x": 859.9502304181026,
-			"y": 3522.9070850588882,
-			"width": 123.9132080078125,
+			"x": 902.421215425758,
+			"y": 3466.8480633389277,
+			"width": 99.55657958984375,
 			"height": 46,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -50567,21 +50567,21 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 			"frameId": null,
 			"roundness": null,
 			"seed": 68115145,
-			"version": 53,
-			"versionNonce": 1868793353,
+			"version": 72,
+			"versionNonce": 384811113,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712478149633,
+			"updated": 1712480078113,
 			"link": null,
 			"locked": false,
-			"text": "보안 속성 검증\n(.saw)",
-			"rawText": "보안 속성 검증\n(.saw)",
+			"text": "자동화 검증\n(.saw)",
+			"rawText": "자동화 검증\n(.saw)",
 			"fontSize": 20,
 			"fontFamily": 2,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "ICZWYLTHN7ntOulADPMUL",
-			"originalText": "보안 속성 검증\n(.saw)",
+			"originalText": "자동화 검증\n(.saw)",
 			"lineHeight": 1.15
 		},
 		{
