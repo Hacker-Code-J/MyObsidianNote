@@ -304,7 +304,7 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 실제 구현 모델
 (*.bc by clang) ^IBFnqb1r
 
-자동화 검증
+기호 실행을 통한 자동화 검증
 (.saw) ^DBC4QKYf
 
 %%
@@ -50509,8 +50509,8 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 			"frameId": null,
 			"roundness": null,
 			"seed": 679569897,
-			"version": 679,
-			"versionNonce": 1058341705,
+			"version": 680,
+			"versionNonce": 1608393353,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -50518,7 +50518,7 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 					"id": "DBC4QKYf"
 				}
 			],
-			"updated": 1712480091525,
+			"updated": 1712481685712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50551,9 +50551,9 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 		{
 			"id": "DBC4QKYf",
 			"type": "text",
-			"x": 902.421215425758,
-			"y": 3466.8480633389277,
-			"width": 99.55657958984375,
+			"x": 831.1531094341057,
+			"y": 3464.3907957207234,
+			"width": 247.826416015625,
 			"height": 46,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -50567,21 +50567,21 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 			"frameId": null,
 			"roundness": null,
 			"seed": 68115145,
-			"version": 72,
-			"versionNonce": 384811113,
+			"version": 117,
+			"versionNonce": 604635049,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712480078113,
+			"updated": 1712481684281,
 			"link": null,
 			"locked": false,
-			"text": "자동화 검증\n(.saw)",
-			"rawText": "자동화 검증\n(.saw)",
+			"text": "기호 실행을 통한 자동화 검증\n(.saw)",
+			"rawText": "기호 실행을 통한 자동화 검증\n(.saw)",
 			"fontSize": 20,
 			"fontFamily": 2,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "ICZWYLTHN7ntOulADPMUL",
-			"originalText": "자동화 검증\n(.saw)",
+			"originalText": "기호 실행을 통한 자동화 검증\n(.saw)",
 			"lineHeight": 1.15
 		},
 		{
@@ -50617,6 +50617,42 @@ Conduct equivalence check using saw-script ^HCyeLNvd
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "ICZWYLTHN7ntOulADPMUL",
+			"originalText": "",
+			"lineHeight": 1.15
+		},
+		{
+			"id": "2pJHHEZF",
+			"type": "text",
+			"x": 903.8868718885099,
+			"y": 3470.55087810062,
+			"width": 5.556640625,
+			"height": 23,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 168553479,
+			"version": 4,
+			"versionNonce": 264648841,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1712481674687,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
 			"originalText": "",
 			"lineHeight": 1.15
 		}
