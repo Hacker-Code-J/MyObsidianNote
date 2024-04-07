@@ -48,22 +48,9 @@
                 "file": "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md"
               }
             }
-          },
-          {
-            "id": "92d18a359a1ba0d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240405.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -146,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240405.md",
+                "file": "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240405.md",
+                "file": "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240405.md"
+                "file": "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md"
               }
             }
           },
@@ -220,13 +206,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "92d18a359a1ba0d4",
+  "active": "5fed785391097fe6",
   "lastOpenFiles": [
-    "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
+    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+    "0 Enjoying Math",
+    "0.0. Cryptol/Draft.md",
+    "0.0. Cryptol/prompt.md",
+    "0.0. Cryptol/Setup.md",
     "2024-Spring/Capstone-Design/CD 240405.md",
+    "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240401.md",
-    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md",
     "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
     "0.7. CSE/CSE/CSE-AES-Drawing.md",
@@ -248,9 +238,6 @@
     "0.4. Excalidraw/0.4.0 Metacognition.md",
     "0.4. Excalidraw/Rust-101-Crash-Draw/Rust-101-Crash-Fundamentals-Draw.md",
     "0.4. Excalidraw/Insight/Quotient and Remainder.md",
-    "0.4. Excalidraw/Insight/Effort.md",
-    "0.4. Excalidraw/Insight/Efficiency.md",
-    "0.4. Excalidraw/Data-Structure/Drawing of Data Structure.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.7. CSE/CO2",
     "Mind Map/Pasted image 20240319103359.png",
@@ -272,7 +259,6 @@
     "Mind Map",
     "0.1 Rust Programming/Rust-Core-Note/rust-core-image",
     "2024-Spring/Introduction-to-Cryptanalysis",
-    "0.1 Rust Programming/Rust-Standard-Library/macro",
     "0.1 Rust Programming/Untitled.canvas",
     "2024-Spring/Untitled.canvas",
     "Pasted Image/C - CraftCodeLab.canvas",

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "CD 240405",
-      "path": "2024-Spring/Capstone-Design/CD 240405.md"
-    },
-    {
       "basename": "Capstone-Design-Drawing",
       "path": "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md"
+    },
+    {
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+    },
+    {
+      "basename": "CD 240405",
+      "path": "2024-Spring/Capstone-Design/CD 240405.md"
     },
     {
       "basename": "Capstone-Degisn-CANVAS",
@@ -15,10 +19,6 @@
     {
       "basename": "ACP 240401",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240401.md"
-    },
-    {
-      "basename": "Ji Yong-Hyeon",
-      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
     {
       "basename": "Rust-Core-Drawing",
@@ -187,18 +187,6 @@
     {
       "basename": "Rust_Class_1_3",
       "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_3.md"
-    },
-    {
-      "basename": "Rust_Class_1_2",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Intermediate I/Rust_Class_1_2.md"
-    },
-    {
-      "basename": "trait",
-      "path": "0.1 Rust Programming/Rust-Core-Note/trait.md"
-    },
-    {
-      "basename": "Rust-Core-Tip",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Tip.md"
     }
   ],
   "omittedPaths": [],
