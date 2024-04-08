@@ -1,18 +1,24 @@
 {
 	"nodes":[
-		{"id":"3c75728597f43593","x":-460,"y":-340,"width":890,"height":591,"color":"5","type":"group","label":"Static Verification"},
-		{"id":"e55cc76d4df6125d","x":-180,"y":-320,"width":280,"height":60,"color":"6","type":"text","text":"# Formal Method"},
+		{"id":"3c75728597f43593","type":"group","x":-460,"y":-340,"width":890,"height":591,"color":"5","label":"Static Verification"},
+		{"id":"e55cc76d4df6125d","type":"text","text":"# Formal Method","x":-180,"y":-320,"width":280,"height":60,"color":"6"},
 		{"id":"fd99e34a50e3a077","type":"text","text":"# Formal Verification","x":-440,"y":-120,"width":240,"height":100,"color":"3"},
 		{"id":"a3fcdd77f3119e81","type":"text","text":"# Formal Specification","x":-440,"y":104,"width":240,"height":100,"color":"3"},
 		{"id":"a51076bb4ce432f8","type":"text","text":"# Formal Specification Based","x":-80,"y":104,"width":260,"height":127,"color":"4"},
 		{"id":"bac6199a471073cf","type":"text","text":"# Model Checking","x":100,"y":-120,"width":240,"height":100,"color":"4"},
-		{"id":"3d104836ec9eb027","type":"text","text":"# Code Based","x":220,"y":104,"width":190,"height":127,"color":"4"}
+		{"id":"3d104836ec9eb027","type":"text","text":"# Code Based","x":220,"y":104,"width":190,"height":127,"color":"4"},
+		{"id":"88b43227222bc207","type":"text","text":"# Formal Verification","x":-420,"y":560,"width":240,"height":100,"color":"3"},
+		{"id":"2756d979879d2be5","type":"text","text":"Syntactic Proof\n- Step by Step\n- Rule-Based","x":220,"y":660,"width":330,"height":160},
+		{"id":"a7cf33afc741c27f","x":220,"y":420,"width":330,"height":160,"type":"text","text":"Semantic Proof\n- Automation\n- Model-Based"},
+		{"id":"3be4b76bf1037e7f","type":"text","text":"# Formal Specification","x":640,"y":-310,"width":240,"height":100,"color":"3"}
 	],
 	"edges":[
 		{"id":"a1e0a9082e10504d","fromNode":"e55cc76d4df6125d","fromSide":"bottom","toNode":"fd99e34a50e3a077","toSide":"top","color":"6"},
 		{"id":"2c3ffe2711271035","fromNode":"fd99e34a50e3a077","fromSide":"bottom","toNode":"a3fcdd77f3119e81","toSide":"top","color":"3"},
 		{"id":"9c9b537616bcecec","fromNode":"e55cc76d4df6125d","fromSide":"bottom","toNode":"bac6199a471073cf","toSide":"top","color":"6"},
 		{"id":"8dc64d691a49bd0d","fromNode":"bac6199a471073cf","fromSide":"bottom","toNode":"a51076bb4ce432f8","toSide":"top","color":"4"},
-		{"id":"a7e0496030653c18","fromNode":"bac6199a471073cf","fromSide":"bottom","toNode":"3d104836ec9eb027","toSide":"top","color":"4"}
+		{"id":"a7e0496030653c18","fromNode":"bac6199a471073cf","fromSide":"bottom","toNode":"3d104836ec9eb027","toSide":"top","color":"4"},
+		{"id":"1ab43124b2c5cc66","fromNode":"88b43227222bc207","fromSide":"right","toNode":"a7cf33afc741c27f","toSide":"left","label":"Automata-Based\nSpecification"},
+		{"id":"5615725a86487810","fromNode":"88b43227222bc207","fromSide":"right","toNode":"2756d979879d2be5","toSide":"left","label":"Logic-Based\nSpecification"}
 	]
 }
