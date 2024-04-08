@@ -38,22 +38,32 @@
             }
           },
           {
-            "id": "7a63d64bb3521e1b",
+            "id": "797588cd16b30159",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
                 "viewState": {
-                  "x": 1325.0152374366442,
-                  "y": 9.903208996232536,
-                  "zoom": -0.6547674559065787
+                  "x": 966.5,
+                  "y": 131,
+                  "zoom": -0.742323442816278
                 }
+              }
+            }
+          },
+          {
+            "id": "b1fc67a76eb85fa4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.7. CSE/CSE/CSE-FV-Drawing.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240408.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240408.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas"
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240408.md"
               }
             }
           },
@@ -210,10 +220,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7a63d64bb3521e1b",
+  "active": "a0248f2342e1e73c",
   "lastOpenFiles": [
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240408.md",
     "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
+    "0.7. CSE/CSE/CSE-FV-Drawing.md",
+    "Mind Map/Pasted image 20240408151009.png",
+    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240408.md",
+    "0.7. CSE/CSE/F.md",
+    "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC-Drawing.md",
     "2024-Spring/Introduction-to-Cryptanalysis/Untitled.md",
@@ -221,7 +235,6 @@
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240408.md",
     "0.7. CSE/CO2/Untitled.md",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
-    "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
     "Excalidraw/lib/deep-learning.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 301043.crdownload",
     "Excalidraw/lib/wardley-mapping-canvas.excalidrawlib",
@@ -246,8 +259,6 @@
     "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md",
     "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
     "2024-Spring/Logic-for-Comunication/LfC 240328.md",
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md",
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240401.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.7. CSE/CO2",
     "Mind Map/Pasted image 20240319103359.png",
@@ -259,7 +270,6 @@
     "Pasted Image/Pasted Image 20240110130725_546.png",
     "Pasted Image/Pasted Image 20240110131154_119.png",
     "Pasted Image/Pasted Image 20240122214950_747.png",
-    "Pasted Image/Pasted image 20240202111731.png",
     "Pasted Image/The 2nd Brain.canvas",
     "0.1. Coq/Untitled",
     "0.0. Linux",
