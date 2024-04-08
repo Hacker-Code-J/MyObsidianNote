@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "SEMINAR - 240408",
-      "path": "0.7. CSE/SEMINAR - 240408.md"
-    },
-    {
-      "basename": "Formal-Verification-CANVAS",
-      "path": "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas"
+      "basename": "Algebraic Structure of Turing-Machine and Lambda-Algebra",
+      "path": "0 Enjoying Math/Algebraic Structure of Turing-Machine and Lambda-Algebra.md"
     },
     {
       "basename": "ACP 240408",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240408.md"
     },
     {
+      "basename": "Coq-Core-Drawing",
+      "path": "0.1. Coq/Coq-Core-Drawing.md"
+    },
+    {
+      "basename": "Coq-Core-CANVAS",
+      "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
+    },
+    {
       "basename": "CSE-FV-Drawing",
       "path": "0.7. CSE/CSE/CSE-FV-Drawing.md"
+    },
+    {
+      "basename": "SEMINAR - 240408",
+      "path": "0.7. CSE/SEMINAR - 240408.md"
+    },
+    {
+      "basename": "Formal-Verification-CANVAS",
+      "path": "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas"
     },
     {
       "basename": "Pasted image 20240408151009",
@@ -187,18 +199,6 @@
     {
       "basename": "CSE-BIGINT-Drawing",
       "path": "0.7. CSE/CSE/CSE-BIGINT-Drawing.md"
-    },
-    {
-      "basename": "Coq-Core-CANVAS",
-      "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
-    },
-    {
-      "basename": "Gödel's Completeness Theorem",
-      "path": "0.1. Coq/Gödel's Completeness Theorem.md"
-    },
-    {
-      "basename": "LC 240329",
-      "path": "2024-Spring/Leadership-Challenge/LC 240329.md"
     }
   ],
   "omittedPaths": [],
