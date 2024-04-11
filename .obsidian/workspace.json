@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md",
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240409.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md",
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240409.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md"
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240409.md"
               }
             }
           },
@@ -215,10 +215,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "78aefb67cfdc29ee",
+  "active": "1ba9543dd91dcddd",
   "lastOpenFiles": [
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240409.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md",
+    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240409.md",
     "2024-Spring/Logic-for-Comunication/LfC 240409.md",
     "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md",
     "2024-Spring/Logic-for-Comunication/LfC 240404.md",
