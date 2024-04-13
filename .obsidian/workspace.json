@@ -30,7 +30,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LC 240412.md",
+                "file": "0 Enjoying Math/240413.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2161e1aaa2fc438a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Enjoying Math/Algebraic Structure of Turing-Machine and Lambda-Algebra.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LC 240412.md",
+                "file": "0 Enjoying Math/240413.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LC 240412.md",
+                "file": "0 Enjoying Math/240413.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LC 240412.md"
+                "file": "0 Enjoying Math/240413.md"
               }
             }
           },
@@ -197,8 +210,10 @@
   },
   "active": "bcc0093becaa8dbf",
   "lastOpenFiles": [
-    "2024-Spring/Capstone-Design/CD 240412.md",
+    "0 Enjoying Math/Algebraic Structure of Turing-Machine and Lambda-Algebra.md",
+    "0 Enjoying Math/240413.md",
     "2024-Spring/Leadership-Challenge/LC 240412.md",
+    "2024-Spring/Capstone-Design/CD 240412.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240409.md",
@@ -207,7 +222,6 @@
     "2024-Spring/Logic-for-Comunication/LfC 240409.md",
     "2024-Spring/Logic-for-Comunication/LfC 240404.md",
     "2024-Spring/Logic-for-Comunication/LfC 240402.md",
-    "0 Enjoying Math/Algebraic Structure of Turing-Machine and Lambda-Algebra.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240408.md",
     "0.1. Coq/Coq-Core-Drawing.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
@@ -233,7 +247,6 @@
     "0.0. Cryptol/prompt.md",
     "0.0. Cryptol/Setup.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240401.md",
-    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
     "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
     "0.7. CSE/CO2",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "240413",
+      "path": "0 Enjoying Math/240413.md"
+    },
+    {
+      "basename": "Algebraic Structure of Turing-Machine and Lambda-Algebra",
+      "path": "0 Enjoying Math/Algebraic Structure of Turing-Machine and Lambda-Algebra.md"
+    },
+    {
       "basename": "LC 240412",
       "path": "2024-Spring/Leadership-Challenge/LC 240412.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "LfC 240409",
       "path": "2024-Spring/Logic-for-Comunication/LfC 240409.md"
-    },
-    {
-      "basename": "Algebraic Structure of Turing-Machine and Lambda-Algebra",
-      "path": "0 Enjoying Math/Algebraic Structure of Turing-Machine and Lambda-Algebra.md"
     },
     {
       "basename": "ACP 240408",
@@ -195,10 +199,6 @@
     {
       "basename": "Git-Drawing",
       "path": "0.4. Excalidraw/Git-Drawing.md"
-    },
-    {
-      "basename": "attribute",
-      "path": "0.1 Rust Programming/Rust-Core-Note/attribute.md"
     }
   ],
   "omittedPaths": [],
