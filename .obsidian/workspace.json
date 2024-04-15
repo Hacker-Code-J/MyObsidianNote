@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Enjoying Math/Geometric Algebra.md",
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Enjoying Math/Geometric Algebra.md",
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Enjoying Math/Geometric Algebra.md"
+                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
               }
             }
           },
@@ -194,7 +195,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "49373b29d09e5670",
+  "active": "c8a72cf71f426fe9",
   "lastOpenFiles": [
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240415.md",
     "0 Enjoying Math/Geometric Algebra.md",
