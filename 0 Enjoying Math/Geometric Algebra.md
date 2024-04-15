@@ -1,9 +1,13 @@
 
-# #1 Gene Algebra from a Genetic Code Algebraic Structure
+# #1 
 
-$(\mathbb{Z}_{64},+)$
+대수적인 구조를 들여본다는 것
+- 군, 환, 체, 벡터공간, 모듈
 
-Central Dogma:
-DNA(ACGT) -> RNA(ACGU) -> Protein
+대수적인 구조를 공부한다는 것 = SES
 
-Codon -> 4개의 정보로 20개를 만드는 것
+Ring : Function Spaces from 'Spec'
+
+$X = spec R = \set{prime\ ideals\ in\ R}$
+$Y = spec I = \set{prime\ ideals\ in\ I}$
+: top spaces equipped with zariski top
