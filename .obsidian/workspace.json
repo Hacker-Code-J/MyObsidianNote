@@ -6,7 +6,6 @@
       {
         "id": "056a1d684e1f8bf5",
         "type": "tabs",
-        "dimension": 55.437100213219615,
         "children": [
           {
             "id": "d4e5643769f490b8",
@@ -35,39 +34,6 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "fe4faec953512396",
-        "type": "tabs",
-        "dimension": 44.562899786780385,
-        "children": [
-          {
-            "id": "bcc0093becaa8dbf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC-Drawing.md"
-              }
-            }
-          },
-          {
-            "id": "cf70a7f4302608d7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",
-                "viewState": {
-                  "x": 147.0749528143213,
-                  "y": 82.08682383976418,
-                  "zoom": -1.2000000000000002
-                }
               }
             }
           }
