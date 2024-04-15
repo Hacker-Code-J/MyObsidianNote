@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "240413",
-      "path": "0 Enjoying Math/240413.md"
+      "basename": "ItC 240415",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md"
+    },
+    {
+      "basename": "ItC-CANVAS",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas"
+    },
+    {
+      "basename": "ItC-Drawing",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC-Drawing.md"
     },
     {
       "basename": "Algebraic Structure of Turing-Machine and Lambda-Algebra",
       "path": "0 Enjoying Math/Algebraic Structure of Turing-Machine and Lambda-Algebra.md"
+    },
+    {
+      "basename": "240413",
+      "path": "0 Enjoying Math/240413.md"
     },
     {
       "basename": "LC 240412",
@@ -71,14 +83,6 @@
     {
       "basename": "CO2-Cryptol-Drawing",
       "path": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
-    },
-    {
-      "basename": "ItC-Drawing",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC-Drawing.md"
-    },
-    {
-      "basename": "ItC-CANVAS",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas"
     },
     {
       "basename": "ItC 240408",
@@ -195,10 +199,6 @@
     {
       "basename": "Basic-C-Drawing",
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Basic-C-Drawing.md"
-    },
-    {
-      "basename": "Git-Drawing",
-      "path": "0.4. Excalidraw/Git-Drawing.md"
     }
   ],
   "omittedPaths": [],

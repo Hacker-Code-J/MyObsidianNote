@@ -6,6 +6,7 @@
       {
         "id": "056a1d684e1f8bf5",
         "type": "tabs",
+        "dimension": 55.437100213219615,
         "children": [
           {
             "id": "d4e5643769f490b8",
@@ -25,28 +26,48 @@
             }
           },
           {
-            "id": "bcc0093becaa8dbf",
+            "id": "49373b29d09e5670",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Enjoying Math/240413.md",
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "fe4faec953512396",
+        "type": "tabs",
+        "dimension": 44.562899786780385,
+        "children": [
           {
-            "id": "2161e1aaa2fc438a",
+            "id": "bcc0093becaa8dbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "0 Enjoying Math/Algebraic Structure of Turing-Machine and Lambda-Algebra.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC-Drawing.md"
+              }
+            }
+          },
+          {
+            "id": "cf70a7f4302608d7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",
+                "viewState": {
+                  "x": 147.0749528143213,
+                  "y": 82.08682383976418,
+                  "zoom": -1.2000000000000002
+                }
               }
             }
           }
@@ -134,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Enjoying Math/240413.md",
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Enjoying Math/240413.md",
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Enjoying Math/240413.md"
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md"
               }
             }
           },
@@ -208,8 +229,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "bcc0093becaa8dbf",
+  "active": "49373b29d09e5670",
   "lastOpenFiles": [
+    "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",
+    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
+    "2024-Spring/Introduction-to-Cryptanalysis/ItC-Drawing.md",
     "0 Enjoying Math/Algebraic Structure of Turing-Machine and Lambda-Algebra.md",
     "0 Enjoying Math/240413.md",
     "2024-Spring/Leadership-Challenge/LC 240412.md",
@@ -231,9 +255,6 @@
     "Mind Map/Pasted image 20240408151009.png",
     "0.7. CSE/CSE/F.md",
     "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC-Drawing.md",
-    "2024-Spring/Introduction-to-Cryptanalysis/Untitled.md",
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240408.md",
     "0.7. CSE/CO2/Untitled.md",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
@@ -246,7 +267,6 @@
     "0.0. Cryptol/Draft.md",
     "0.0. Cryptol/prompt.md",
     "0.0. Cryptol/Setup.md",
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240401.md",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
     "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
     "0.7. CSE/CO2",
