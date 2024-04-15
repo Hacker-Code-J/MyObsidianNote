@@ -6,10 +6,7 @@
 
 대수적인 구조를 공부한다는 것 = SES
 
-Ring : Function Spaces from 'Spec'
+# #2
 
-$X = spec R = \set{prime\ ideals\ in\ R}$
-$Y = spec I = \set{prime\ ideals\ in\ I}$
-: top spaces equipped with zariski top
+Reference: Introduction to Commutative Algebra (Atiyah) - Chap 4.
 
-$R=\mathbb{Z}$

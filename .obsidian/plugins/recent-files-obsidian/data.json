@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Geometric Algebra",
+      "path": "0 Enjoying Math/Geometric Algebra.md"
+    },
+    {
       "basename": "Ji Yong-Hyeon",
       "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
     {
-      "basename": "Geometric Algebra",
-      "path": "0 Enjoying Math/Geometric Algebra.md"
+      "basename": "Github SSH Setup",
+      "path": "Github SSH Setup.md"
     },
     {
       "basename": "ACP 240415",
@@ -195,10 +199,6 @@
     {
       "basename": "Functions-in-C-Drawing",
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md"
-    },
-    {
-      "basename": "CS-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/CS-Drawing.md"
     }
   ],
   "omittedPaths": [],
