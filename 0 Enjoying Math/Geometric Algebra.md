@@ -11,3 +11,5 @@ Ring : Function Spaces from 'Spec'
 $X = spec R = \set{prime\ ideals\ in\ R}$
 $Y = spec I = \set{prime\ ideals\ in\ I}$
 : top spaces equipped with zariski top
+
+$R=\mathbb{Z}$
