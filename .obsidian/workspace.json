@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240415.md",
+                "file": "0 Enjoying Math/Geometric Algebra.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240415.md",
+                "file": "0 Enjoying Math/Geometric Algebra.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240415.md",
+                "file": "0 Enjoying Math/Geometric Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240415.md"
+                "file": "0 Enjoying Math/Geometric Algebra.md"
               }
             }
           },
@@ -197,8 +197,9 @@
   },
   "active": "49373b29d09e5670",
   "lastOpenFiles": [
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240415.md",
+    "0 Enjoying Math/Geometric Algebra.md",
+    "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",
@@ -233,7 +234,6 @@
     "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
     "0 Enjoying Math",
     "0.0. Cryptol/Draft.md",
-    "0.0. Cryptol/prompt.md",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
     "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
     "0.7. CSE/CO2",
