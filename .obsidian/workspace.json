@@ -30,10 +30,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Enjoying Math/Geometric Algebra.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240416.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "68bd2b5993904a29",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md"
               }
             }
           }
@@ -121,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Enjoying Math/Geometric Algebra.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240416.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Enjoying Math/Geometric Algebra.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240416.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Enjoying Math/Geometric Algebra.md"
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240416.md"
               }
             }
           },
@@ -197,10 +207,13 @@
   },
   "active": "936836de0b6d2492",
   "lastOpenFiles": [
+    "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
+    "2024-Spring/Logic-for-Comunication/LfC 240416.md",
+    "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md",
+    "0 Enjoying Math/Geometric Algebra.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "Github SSH Setup.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240415.md",
-    "0 Enjoying Math/Geometric Algebra.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
@@ -210,7 +223,6 @@
     "0 Enjoying Math/240413.md",
     "2024-Spring/Leadership-Challenge/LC 240412.md",
     "2024-Spring/Capstone-Design/CD 240412.md",
-    "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240409.md",
     "2024-Spring/Capstone-Design/CD 240405.md",
     "2024-Spring/Logic-for-Comunication/LfC 240409.md",
@@ -226,7 +238,6 @@
     "0.7. CSE/CSE/F.md",
     "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240408.md",
-    "0.7. CSE/CO2/Untitled.md",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "Excalidraw/lib/deep-learning.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 301043.crdownload",
@@ -234,7 +245,6 @@
     "Excalidraw/lib/Unconfirmed 728169.crdownload",
     "0 Enjoying Math",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
-    "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
     "0.7. CSE/CO2",
     "Mind Map/Pasted image 20240319103359.png",
     "Mind Map/Pasted Image 20240318175558_322.png",

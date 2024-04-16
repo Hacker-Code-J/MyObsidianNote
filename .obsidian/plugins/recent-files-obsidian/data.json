@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "LfC 240416",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240416.md"
+    },
+    {
+      "basename": "LfC - CANVAS",
+      "path": "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas"
+    },
+    {
+      "basename": "Drawing 2024-03-26 11.30.42.excalidraw",
+      "path": "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md"
+    },
+    {
       "basename": "Geometric Algebra",
       "path": "0 Enjoying Math/Geometric Algebra.md"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "CD 240412",
       "path": "2024-Spring/Capstone-Design/CD 240412.md"
-    },
-    {
-      "basename": "Drawing 2024-03-26 11.30.42.excalidraw",
-      "path": "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md"
     },
     {
       "basename": "ACP 240409",
@@ -149,10 +157,6 @@
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240325.md"
     },
     {
-      "basename": "LfC - CANVAS",
-      "path": "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas"
-    },
-    {
       "basename": "ItC 240401",
       "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240401.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pointer-in-C-Drawing",
       "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Pointer-in-C-Drawing.md"
-    },
-    {
-      "basename": "Functions-in-C-Drawing",
-      "path": "0.4. Excalidraw/C-Core-NOTE-Draw/Functions-in-C-Drawing.md"
     }
   ],
   "omittedPaths": [],
