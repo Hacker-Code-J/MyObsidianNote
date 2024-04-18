@@ -25,12 +25,12 @@
             }
           },
           {
-            "id": "bb9658639c0652a4",
+            "id": "0699099eae15e8fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240416.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240418.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,12 +38,12 @@
             }
           },
           {
-            "id": "0699099eae15e8fa",
+            "id": "0dfdfd34685497a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240417.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240416.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -51,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240417.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240418.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240417.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240418.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240417.md"
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240418.md"
               }
             }
           },
@@ -210,14 +210,15 @@
   },
   "active": "0699099eae15e8fa",
   "lastOpenFiles": [
+    "2024-Spring/Logic-for-Comunication/LfC 240416.md",
+    "2024-Spring/Logic-for-Comunication/LfC 240418.md",
+    "2024-Spring/Capstone-Design/CD 240417.md",
+    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240416.md",
     "0.7. CSE/Research/FV for HIGHT.md",
-    "2024-Spring/Capstone-Design/CD 240417.md",
     "0.7. CSE/Research",
     "0.7. CSE/SEMINAR - 240408.md",
-    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240415.md",
-    "2024-Spring/Logic-for-Comunication/LfC 240416.md",
     "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
     "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md",
     "0 Enjoying Math/Geometric Algebra.md",
@@ -242,7 +243,6 @@
     "0.7. CSE/CSE/CSE-FV-Drawing.md",
     "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
     "Mind Map/Pasted image 20240408151009.png",
-    "0.7. CSE/CSE/F.md",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "Excalidraw/lib/deep-learning.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 301043.crdownload",
