@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
+                "file": "2024-Spring/Capstone-Design/CD 240419.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
+                "file": "2024-Spring/Capstone-Design/CD 240419.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
+                "file": "2024-Spring/Capstone-Design/CD 240419.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md"
+                "file": "2024-Spring/Capstone-Design/CD 240419.md"
               }
             }
           },
@@ -196,8 +196,9 @@
   },
   "active": "0699099eae15e8fa",
   "lastOpenFiles": [
-    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
+    "2024-Spring/Capstone-Design/CD 240419.md",
+    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",
     "2024-Spring/Logic-for-Comunication/LfC 240416.md",
     "2024-Spring/Logic-for-Comunication/LfC 240418.md",
