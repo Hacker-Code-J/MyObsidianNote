@@ -16,8 +16,8 @@
               "state": {
                 "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
                 "viewState": {
-                  "x": -178.97305962637347,
-                  "y": 1568.64260375069,
+                  "x": -659.8844318907585,
+                  "y": -283.83556825381595,
                   "zoom": -1.2000000000000002
                 }
               },
@@ -28,9 +28,24 @@
             "id": "0699099eae15e8fa",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
+                "viewState": {
+                  "x": 1086.560839741521,
+                  "y": 264.5142498449129,
+                  "zoom": -0.965613341656561
+                }
+              }
+            }
+          },
+          {
+            "id": "f8d9e1cd47c882ae",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240419.md",
+                "file": "2024-Spring/Leadership-Challenge/LC 240419.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240419.md",
+                "file": "2024-Spring/Leadership-Challenge/LC 240419.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240419.md",
+                "file": "2024-Spring/Leadership-Challenge/LC 240419.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Capstone-Design/CD 240419.md"
+                "file": "2024-Spring/Leadership-Challenge/LC 240419.md"
               }
             }
           },
@@ -194,11 +209,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0699099eae15e8fa",
+  "active": "f8d9e1cd47c882ae",
   "lastOpenFiles": [
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
-    "2024-Spring/Capstone-Design/CD 240419.md",
+    "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
+    "2024-Spring/Leadership-Challenge/LC 240419.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+    "2024-Spring/Capstone-Design/CD 240419.md",
+    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",
     "2024-Spring/Logic-for-Comunication/LfC 240416.md",
     "2024-Spring/Logic-for-Comunication/LfC 240418.md",
@@ -224,10 +241,7 @@
     "2024-Spring/Leadership-Challenge/LC 240412.md",
     "2024-Spring/Capstone-Design/CD 240412.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240409.md",
-    "2024-Spring/Capstone-Design/CD 240405.md",
-    "2024-Spring/Logic-for-Comunication/LfC 240409.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
-    "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
     "Mind Map/Pasted image 20240408151009.png",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "Excalidraw/lib/deep-learning.excalidrawlib",
