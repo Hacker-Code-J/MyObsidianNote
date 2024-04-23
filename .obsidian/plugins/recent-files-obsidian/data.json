@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "LC 240419",
-      "path": "2024-Spring/Leadership-Challenge/LC 240419.md"
+      "basename": "ItC 240415",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md"
+    },
+    {
+      "basename": "ItC-CANVAS",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas"
+    },
+    {
+      "basename": "ItC-Drawing",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC-Drawing.md"
     },
     {
       "basename": "Formal-Verification-CANVAS",
       "path": "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas"
+    },
+    {
+      "basename": "LC 240419",
+      "path": "2024-Spring/Leadership-Challenge/LC 240419.md"
     },
     {
       "basename": "Ji Yong-Hyeon",
@@ -15,14 +27,6 @@
     {
       "basename": "CD 240419",
       "path": "2024-Spring/Capstone-Design/CD 240419.md"
-    },
-    {
-      "basename": "ItC 240415",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md"
-    },
-    {
-      "basename": "ItC-CANVAS",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas"
     },
     {
       "basename": "LfC 240416",
@@ -71,10 +75,6 @@
     {
       "basename": "ACP 240305",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md"
-    },
-    {
-      "basename": "ItC-Drawing",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC-Drawing.md"
     },
     {
       "basename": "Algebraic Structure of Turing-Machine and Lambda-Algebra",
