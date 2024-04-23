@@ -32,10 +32,20 @@
               "state": {
                 "file": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
                 "viewState": {
-                  "x": -277.31202815656025,
-                  "y": 46.60805498428766,
-                  "zoom": -0.8775843793664556
+                  "x": -375,
+                  "y": 137,
+                  "zoom": -0.06666524765485538
                 }
+              }
+            }
+          },
+          {
+            "id": "98a8b8d32de43d0e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
               }
             }
           },
@@ -211,10 +221,10 @@
   },
   "active": "0699099eae15e8fa",
   "lastOpenFiles": [
-    "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
-    "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
     "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
+    "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
+    "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC-Drawing.md",
