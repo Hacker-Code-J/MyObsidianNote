@@ -13,6 +13,10 @@
       "path": "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas"
     },
     {
+      "basename": "CO2-Cryptol-Drawing",
+      "path": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
+    },
+    {
       "basename": "ItC 240415",
       "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md"
     },
@@ -131,10 +135,6 @@
     {
       "basename": "Pasted image 20240408151009",
       "path": "Mind Map/Pasted image 20240408151009.png"
-    },
-    {
-      "basename": "CO2-Cryptol-Drawing",
-      "path": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
     },
     {
       "basename": "ACP 240401",

@@ -32,9 +32,9 @@
               "state": {
                 "file": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
                 "viewState": {
-                  "x": -249.429700609037,
-                  "y": 314.6557901709029,
-                  "zoom": -0.7581307047244165
+                  "x": -277.31202815656025,
+                  "y": 46.60805498428766,
+                  "zoom": -0.8775843793664556
                 }
               }
             }
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -214,6 +213,8 @@
   "lastOpenFiles": [
     "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
     "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
+    "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
+    "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC-Drawing.md",
@@ -241,11 +242,8 @@
     "0 Enjoying Math/Algebraic Structure of Turing-Machine and Lambda-Algebra.md",
     "0 Enjoying Math/240413.md",
     "2024-Spring/Leadership-Challenge/LC 240412.md",
-    "2024-Spring/Capstone-Design/CD 240412.md",
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240409.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
     "Mind Map/Pasted image 20240408151009.png",
-    "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "Excalidraw/lib/deep-learning.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 301043.crdownload",
     "Excalidraw/lib/wardley-mapping-canvas.excalidrawlib",
