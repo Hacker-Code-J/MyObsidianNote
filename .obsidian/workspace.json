@@ -28,9 +28,12 @@
             "id": "98a8b8d32de43d0e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
+                "file": "2024-Spring/Leadership-Challenge/LC 240329.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -130,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
+                "file": "2024-Spring/Leadership-Challenge/LC 240329.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
+                "file": "2024-Spring/Leadership-Challenge/LC 240329.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
+                "file": "2024-Spring/Leadership-Challenge/LC 240329.md"
               }
             }
           },
@@ -206,18 +209,20 @@
   },
   "active": "98a8b8d32de43d0e",
   "lastOpenFiles": [
+    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
+    "2024-Spring/Leadership-Challenge/LC 240419.md",
+    "2024-Spring/Leadership-Challenge/LC 240412.md",
+    "2024-Spring/Leadership-Challenge/LC 240329.md",
+    "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Logic-for-Comunication/LfC 240409.md",
     "2024-Spring/Logic-for-Comunication/LfC 240418.md",
     "2024-Spring/Logic-for-Comunication/LfC 240416.md",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
-    "0.7. CSE/CO2/CO2-Cryptol-Drawing.md",
     "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md",
     "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC-Drawing.md",
-    "2024-Spring/Leadership-Challenge/LC 240419.md",
     "2024-Spring/Capstone-Design/CD 240419.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240408.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240401.md",
@@ -236,7 +241,6 @@
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
     "0 Enjoying Math/Algebraic Structure of Turing-Machine and Lambda-Algebra.md",
-    "0 Enjoying Math/240413.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
     "Mind Map/Pasted image 20240408151009.png",
     "Excalidraw/lib/deep-learning.excalidrawlib",
