@@ -5,6 +5,14 @@
       "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240429.md"
     },
     {
+      "basename": "CSE-LEA-Drawing",
+      "path": "0.7. CSE/CSE/CSE-LEA-Drawing.md"
+    },
+    {
+      "basename": "CSE-AES-Drawing",
+      "path": "0.7. CSE/CSE/CSE-AES-Drawing.md"
+    },
+    {
       "basename": "Ji Yong-Hyeon",
       "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
@@ -13,16 +21,8 @@
       "path": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
     },
     {
-      "basename": "CSE-AES-Drawing",
-      "path": "0.7. CSE/CSE/CSE-AES-Drawing.md"
-    },
-    {
       "basename": "CSE-FV-Drawing",
       "path": "0.7. CSE/CSE/CSE-FV-Drawing.md"
-    },
-    {
-      "basename": "CSE-LEA-Drawing",
-      "path": "0.7. CSE/CSE/CSE-LEA-Drawing.md"
     },
     {
       "basename": "Capstone-Design-Drawing",
