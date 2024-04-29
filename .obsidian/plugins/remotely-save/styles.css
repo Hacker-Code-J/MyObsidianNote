@@ -61,6 +61,13 @@
   display: none;
 }
 
+.webdis-disclaimer {
+  font-weight: bold;
+}
+.webdis-hide {
+  display: none;
+}
+
 .qrcode-img {
   width: 350px;
   height: 350px;
@@ -73,4 +80,8 @@
 .logtohttpserver-warning {
   color: red;
   font-weight: bolder;
+}
+
+.setting-need-wrapping-mobile .setting-item-control {
+  flex-wrap: wrap;
 }

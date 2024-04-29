@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ItC 240429",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240429.md"
+    },
+    {
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+    },
+    {
       "basename": "CO2-Cryptol-Drawing",
       "path": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "LC 240419",
       "path": "2024-Spring/Leadership-Challenge/LC 240419.md"
-    },
-    {
-      "basename": "Ji Yong-Hyeon",
-      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
     },
     {
       "basename": "1.1.1.3. Round Constant (RCON)",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-spring-Drawing",
       "path": "0.4. Excalidraw/2024-spring-Drawing.md"
-    },
-    {
-      "basename": "Drawing of AES",
-      "path": "0.4. Excalidraw/Drawing of AES.md"
     }
   ],
   "omittedPaths": [],
