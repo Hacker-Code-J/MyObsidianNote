@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "LfC 240430",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240430.md"
+    },
+    {
       "basename": "ACP 240429",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240429.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ACP 240319",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md"
-    },
-    {
-      "basename": "ACP 240325",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240325.md"
     }
   ],
   "omittedPaths": [],
