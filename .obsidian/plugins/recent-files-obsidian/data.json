@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Gödel's Completeness Theorem",
+      "path": "0.1. Coq/Gödel's Completeness Theorem.md"
+    },
+    {
+      "basename": "CSE-LEA-Drawing",
+      "path": "0.7. CSE/CSE/CSE-LEA-Drawing.md"
+    },
+    {
+      "basename": "Coq-Core-Drawing",
+      "path": "0.1. Coq/Coq-Core-Drawing.md"
+    },
+    {
+      "basename": "Coq-Core-CANVAS",
+      "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
+    },
+    {
+      "basename": "Algebraic Structure of Turing-Machine and Lambda-Algebra",
+      "path": "0 Enjoying Math/Algebraic Structure of Turing-Machine and Lambda-Algebra.md"
+    },
+    {
+      "basename": "Geometric Algebra",
+      "path": "0 Enjoying Math/Geometric Algebra.md"
+    },
+    {
       "basename": "ACP 240430",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240430.md"
     },
@@ -15,10 +39,6 @@
     {
       "basename": "ItC 240429",
       "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240429.md"
-    },
-    {
-      "basename": "CSE-LEA-Drawing",
-      "path": "0.7. CSE/CSE/CSE-LEA-Drawing.md"
     },
     {
       "basename": "CSE-AES-Drawing",
@@ -133,10 +153,6 @@
       "path": "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md"
     },
     {
-      "basename": "Geometric Algebra",
-      "path": "0 Enjoying Math/Geometric Algebra.md"
-    },
-    {
       "basename": "Github SSH Setup",
       "path": "Github SSH Setup.md"
     },
@@ -147,10 +163,6 @@
     {
       "basename": "ACP 240305",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md"
-    },
-    {
-      "basename": "Algebraic Structure of Turing-Machine and Lambda-Algebra",
-      "path": "0 Enjoying Math/Algebraic Structure of Turing-Machine and Lambda-Algebra.md"
     },
     {
       "basename": "240413",
@@ -173,14 +185,6 @@
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240408.md"
     },
     {
-      "basename": "Coq-Core-Drawing",
-      "path": "0.1. Coq/Coq-Core-Drawing.md"
-    },
-    {
-      "basename": "Coq-Core-CANVAS",
-      "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
-    },
-    {
       "basename": "Pasted image 20240408151009",
       "path": "Mind Map/Pasted image 20240408151009.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ACP 240402",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240402.md"
-    },
-    {
-      "basename": "Rust-Core-CANVAS",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
     }
   ],
   "omittedPaths": [],
