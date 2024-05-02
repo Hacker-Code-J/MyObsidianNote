@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "LfC 240502",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240502.md"
+    },
+    {
+      "basename": "LfC 240430",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240430.md"
+    },
+    {
       "basename": "Gödel's Completeness Theorem",
       "path": "0.1. Coq/Gödel's Completeness Theorem.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "ACP 240430",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240430.md"
-    },
-    {
-      "basename": "LfC 240430",
-      "path": "2024-Spring/Logic-for-Comunication/LfC 240430.md"
     },
     {
       "basename": "ACP 240429",
@@ -195,10 +199,6 @@
     {
       "basename": "Rust-Core-Drawing",
       "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
-    },
-    {
-      "basename": "ACP 240402",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240402.md"
     }
   ],
   "omittedPaths": [],
