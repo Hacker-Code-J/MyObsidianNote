@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "LC 240503",
+      "path": "2024-Spring/Leadership-Challenge/LC 240503.md"
+    },
+    {
       "basename": "LfC 240502",
       "path": "2024-Spring/Logic-for-Comunication/LfC 240502.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ACP 240401",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240401.md"
-    },
-    {
-      "basename": "Rust-Core-Drawing",
-      "path": "0.1 Rust Programming/Rust-Core-Note/Rust-Core-Drawing.md"
     }
   ],
   "omittedPaths": [],
