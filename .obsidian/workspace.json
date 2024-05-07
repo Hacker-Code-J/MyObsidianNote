@@ -30,7 +30,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LC 240503.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240507.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5551f37f9ea867c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240502.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LC 240503.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240507.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LC 240503.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240507.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LC 240503.md"
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240507.md"
               }
             }
           },
@@ -197,6 +211,7 @@
   "active": "49b5d1fcff119eeb",
   "lastOpenFiles": [
     "2024-Spring/Logic-for-Comunication/LfC 240502.md",
+    "2024-Spring/Logic-for-Comunication/LfC 240507.md",
     "2024-Spring/Leadership-Challenge/LC 240503.md",
     "2024-Spring/Logic-for-Comunication/LfC 240430.md",
     "0.1. Coq/Gödel's Completeness Theorem.md",
@@ -226,7 +241,6 @@
     "2024-Spring/Capstone-Design/CD 240322.md",
     "2024-Spring/Capstone-Design/CD 240327.md",
     "2024-Spring/Capstone-Design/CD 240403.md",
-    "2024-Spring/Capstone-Design/CD 240419.md",
     "0.7. CSE/Research",
     "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
     "Mind Map/Pasted image 20240408151009.png",
