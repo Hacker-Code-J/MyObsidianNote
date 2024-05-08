@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240507.md",
+                "file": "2024-Spring/Capstone-Design/CD 240327.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240507.md",
+                "file": "2024-Spring/Capstone-Design/CD 240327.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240507.md",
+                "file": "2024-Spring/Capstone-Design/CD 240327.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240507.md"
+                "file": "2024-Spring/Capstone-Design/CD 240327.md"
               }
             }
           },
@@ -210,8 +209,13 @@
   },
   "active": "49b5d1fcff119eeb",
   "lastOpenFiles": [
-    "2024-Spring/Logic-for-Comunication/LfC 240502.md",
+    "2024-Spring/Capstone-Design/CD 240403.md",
+    "2024-Spring/Capstone-Design/CD 240405.md",
+    "2024-Spring/Capstone-Design/CD 240412.md",
+    "2024-Spring/Capstone-Design/CD 240417.md",
+    "2024-Spring/Capstone-Design/CD 240419.md",
     "2024-Spring/Logic-for-Comunication/LfC 240507.md",
+    "2024-Spring/Logic-for-Comunication/LfC 240502.md",
     "2024-Spring/Leadership-Challenge/LC 240503.md",
     "2024-Spring/Logic-for-Comunication/LfC 240430.md",
     "0.1. Coq/Gödel's Completeness Theorem.md",
@@ -236,11 +240,6 @@
     "1.1. AES/1.1.1.0. Key Expansion.md",
     "1.1. AES/1.1.5. AES Encryption and Decryption.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
-    "2024-Spring/Leadership-Challenge/LC 240329.md",
-    "2024-Spring/Capstone-Design/CD 240320.md",
-    "2024-Spring/Capstone-Design/CD 240322.md",
-    "2024-Spring/Capstone-Design/CD 240327.md",
-    "2024-Spring/Capstone-Design/CD 240403.md",
     "0.7. CSE/Research",
     "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
     "Mind Map/Pasted image 20240408151009.png",
