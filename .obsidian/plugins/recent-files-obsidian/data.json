@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ItC 240513",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240513.md"
+    },
+    {
+      "basename": "ItC 240429",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240429.md"
+    },
+    {
       "basename": "LC 240510",
       "path": "2024-Spring/Leadership-Challenge/LC 240510.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "ACP 240429",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240429.md"
-    },
-    {
-      "basename": "ItC 240429",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240429.md"
     },
     {
       "basename": "CSE-AES-Drawing",
@@ -195,10 +199,6 @@
     {
       "basename": "ACP-Asgnmt-Drawing",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md"
-    },
-    {
-      "basename": "ACP 240305",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md"
     }
   ],
   "omittedPaths": [],
