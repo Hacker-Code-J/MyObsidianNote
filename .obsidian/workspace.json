@@ -25,25 +25,12 @@
             }
           },
           {
-            "id": "49b5d1fcff119eeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240509.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5551f37f9ea867c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240514.md",
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240514.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -51,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -133,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240514.md",
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240514.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240514.md",
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240514.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/LfC 240514.md"
+                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240514.md"
               }
             }
           },
@@ -209,8 +197,9 @@
   },
   "active": "5551f37f9ea867c1",
   "lastOpenFiles": [
-    "2024-Spring/Logic-for-Comunication/LfC 240509.md",
     "2024-Spring/Logic-for-Comunication/LfC 240514.md",
+    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240514.md",
+    "2024-Spring/Logic-for-Comunication/LfC 240509.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240513.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240513.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240429.md",
@@ -235,7 +224,6 @@
     "0 Enjoying Math/Geometric Algebra.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240430.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240429.md",
-    "0.7. CSE/CSE/CSE-AES-Drawing.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",
