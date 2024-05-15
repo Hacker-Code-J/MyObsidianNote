@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Draft2",
-      "path": "0 Research/Trend-Survey/Draft2.md"
-    },
-    {
-      "basename": "Draft1",
-      "path": "0 Research/Trend-Survey/Draft1.md"
-    },
-    {
-      "basename": "Paper-draft 2",
-      "path": "0 Research/Paper-draft 2.md"
+      "basename": "Obsidian-Zotero",
+      "path": "0 Research/Obsidian-Zotero.md"
     },
     {
       "basename": "SoK_Computer-Aided_Cryptography",
       "path": "0 Research/SoK_Computer-Aided_Cryptography.md"
     },
     {
+      "basename": "High-Assurance Cryptography",
+      "path": "0 Research/High-Assurance Cryptography.md"
+    },
+    {
       "basename": "Paper-draft1",
       "path": "0 Research/Paper-draft1.md"
     },
     {
-      "basename": "High-Assurance Cryptography",
-      "path": "0 Research/High-Assurance Cryptography.md"
+      "basename": "Paper-draft 2",
+      "path": "0 Research/Paper-draft 2.md"
+    },
+    {
+      "basename": "Draft1",
+      "path": "0 Research/Trend-Survey/Draft1.md"
+    },
+    {
+      "basename": "Draft2",
+      "path": "0 Research/Trend-Survey/Draft2.md"
     },
     {
       "basename": "JOB",
@@ -195,10 +199,6 @@
     {
       "basename": "1.1.5. AES Encryption and Decryption",
       "path": "1.1. AES/1.1.5. AES Encryption and Decryption.md"
-    },
-    {
-      "basename": "ItC 240415",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md"
     }
   ],
   "omittedPaths": [],

@@ -1,10 +1,10 @@
 {
   "2024": "LiCalendarDays",
   "settings": {
-    "migrated": 4,
+    "migrated": 5,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
       "TiSourceCode",
@@ -30,7 +30,8 @@
     "iconsInLinksEnabled": true,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
-    "debugMode": false
+    "debugMode": false,
+    "iconInTitlePosition": "above"
   },
   "Daily Tasks": "FasCalendarDay",
   "Implementation for AES": "BoBxCodeBlock",

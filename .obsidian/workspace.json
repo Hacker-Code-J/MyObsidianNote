@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Research/Trend-Survey/Draft2.md",
+                "file": "0 Research/Obsidian-Zotero.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Research/Trend-Survey/Draft2.md",
+                "file": "0 Research/Obsidian-Zotero.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Research/Trend-Survey/Draft2.md",
+                "file": "0 Research/Obsidian-Zotero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Research/Trend-Survey/Draft2.md"
+                "file": "0 Research/Obsidian-Zotero.md"
               }
             }
           },
@@ -196,13 +196,14 @@
   },
   "active": "5551f37f9ea867c1",
   "lastOpenFiles": [
+    "0 Research/SoK_Computer-Aided_Cryptography.md",
+    "0 Research/Obsidian-Zotero.md",
+    "0 Research/High-Assurance Cryptography.md",
+    "0 Research/Paper-draft1.md",
+    "0 Research/Paper-draft 2.md",
     "0 Research/Trend-Survey/Draft1.md",
     "0 Research/Trend-Survey/Draft2.md",
-    "0 Research/Paper-draft 2.md",
     "0 Research/Trend-Survey",
-    "0 Research/SoK_Computer-Aided_Cryptography.md",
-    "0 Research/Paper-draft1.md",
-    "0 Research/High-Assurance Cryptography.md",
     "JOB.md",
     "Github SSH Setup.md",
     "Tips/Install Font in Debian.md",
@@ -225,7 +226,6 @@
     "2024-Spring/Capstone-Design/CD 240405.md",
     "2024-Spring/Capstone-Design/CD 240412.md",
     "2024-Spring/Capstone-Design/CD 240417.md",
-    "2024-Spring/Capstone-Design/CD 240419.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
