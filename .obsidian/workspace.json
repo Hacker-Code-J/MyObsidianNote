@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240514.md",
+                "file": "0 Research/Trend-Survey/Draft2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240514.md",
+                "file": "0 Research/Trend-Survey/Draft2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240514.md",
+                "file": "0 Research/Trend-Survey/Draft2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240514.md"
+                "file": "0 Research/Trend-Survey/Draft2.md"
               }
             }
           },
@@ -197,8 +196,21 @@
   },
   "active": "5551f37f9ea867c1",
   "lastOpenFiles": [
-    "2024-Spring/Logic-for-Comunication/LfC 240514.md",
+    "0 Research/Trend-Survey/Draft1.md",
+    "0 Research/Trend-Survey/Draft2.md",
+    "0 Research/Paper-draft 2.md",
+    "0 Research/Trend-Survey",
+    "0 Research/SoK_Computer-Aided_Cryptography.md",
+    "0 Research/Paper-draft1.md",
+    "0 Research/High-Assurance Cryptography.md",
+    "JOB.md",
+    "Github SSH Setup.md",
+    "Tips/Install Font in Debian.md",
+    "Pasted image 20240315204502.png",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240514.md",
+    "Untitled",
+    "0 Research",
+    "2024-Spring/Logic-for-Comunication/LfC 240514.md",
     "2024-Spring/Logic-for-Comunication/LfC 240509.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240513.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240513.md",
@@ -214,16 +226,7 @@
     "2024-Spring/Capstone-Design/CD 240412.md",
     "2024-Spring/Capstone-Design/CD 240417.md",
     "2024-Spring/Capstone-Design/CD 240419.md",
-    "2024-Spring/Leadership-Challenge/LC 240503.md",
-    "2024-Spring/Logic-for-Comunication/LfC 240430.md",
-    "0.1. Coq/Gödel's Completeness Theorem.md",
-    "0.7. CSE/CSE/CSE-LEA-Drawing.md",
-    "0.1. Coq/Coq-Core-Drawing.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
-    "0 Enjoying Math/Algebraic Structure of Turing-Machine and Lambda-Algebra.md",
-    "0 Enjoying Math/Geometric Algebra.md",
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240430.md",
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240429.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",
@@ -246,11 +249,7 @@
     "Pasted Image/Pasted Image 20240108004108_047.png",
     "Pasted Image/Pasted Image 20240110130725_546.png",
     "Pasted Image/Pasted Image 20240110131154_119.png",
-    "Pasted Image/Pasted Image 20240122214950_747.png",
     "Pasted Image/The 2nd Brain.canvas",
-    "0.1. Coq/Untitled",
-    "0.0. Linux",
-    "Excalidraw/lib/domainstorytelling.excalidrawlib",
     "0.1 Rust Programming/Untitled.canvas",
     "2024-Spring/Untitled.canvas"
   ]

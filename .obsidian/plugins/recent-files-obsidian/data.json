@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Draft2",
+      "path": "0 Research/Trend-Survey/Draft2.md"
+    },
+    {
+      "basename": "Draft1",
+      "path": "0 Research/Trend-Survey/Draft1.md"
+    },
+    {
+      "basename": "Paper-draft 2",
+      "path": "0 Research/Paper-draft 2.md"
+    },
+    {
+      "basename": "SoK_Computer-Aided_Cryptography",
+      "path": "0 Research/SoK_Computer-Aided_Cryptography.md"
+    },
+    {
+      "basename": "Paper-draft1",
+      "path": "0 Research/Paper-draft1.md"
+    },
+    {
+      "basename": "High-Assurance Cryptography",
+      "path": "0 Research/High-Assurance Cryptography.md"
+    },
+    {
+      "basename": "JOB",
+      "path": "JOB.md"
+    },
+    {
+      "basename": "Github SSH Setup",
+      "path": "Github SSH Setup.md"
+    },
+    {
+      "basename": "Install Font in Debian",
+      "path": "Tips/Install Font in Debian.md"
+    },
+    {
+      "basename": "Pasted image 20240315204502",
+      "path": "Pasted image 20240315204502.png"
+    },
+    {
       "basename": "ACP 240514",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240514.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "ItC 240415",
       "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md"
-    },
-    {
-      "basename": "LC 240329",
-      "path": "2024-Spring/Leadership-Challenge/LC 240329.md"
-    },
-    {
-      "basename": "CD 240320",
-      "path": "2024-Spring/Capstone-Design/CD 240320.md"
-    },
-    {
-      "basename": "CD 240322",
-      "path": "2024-Spring/Capstone-Design/CD 240322.md"
-    },
-    {
-      "basename": "0.0.0. Source Collector",
-      "path": "0.0. MyThinkPad/0.0.0. Source Collector.md"
-    },
-    {
-      "basename": "LC 240412",
-      "path": "2024-Spring/Leadership-Challenge/LC 240412.md"
-    },
-    {
-      "basename": "ItC-Drawing",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC-Drawing.md"
-    },
-    {
-      "basename": "ACP 240416",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240416.md"
-    },
-    {
-      "basename": "FV for HIGHT",
-      "path": "0.7. CSE/Research/FV for HIGHT.md"
-    },
-    {
-      "basename": "ACP 240415",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240415.md"
-    },
-    {
-      "basename": "LfC - CANVAS",
-      "path": "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas"
     }
   ],
   "omittedPaths": [],
