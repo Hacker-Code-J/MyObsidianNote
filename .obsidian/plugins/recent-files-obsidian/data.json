@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Paper",
-      "path": "0 Research/Template/Paper.md"
+      "basename": "Research-canvas",
+      "path": "0 Research/Research-canvas.canvas"
     },
     {
       "basename": "paper",
       "path": "0 Research/paper.md"
+    },
+    {
+      "basename": "Paper",
+      "path": "0 Research/Template/Paper.md"
     },
     {
       "basename": "Nerd Fonts",
@@ -195,10 +199,6 @@
     {
       "basename": "CO2-HIGHT-Drawing",
       "path": "0.7. CSE/CO2/CO2-HIGHT-Drawing.md"
-    },
-    {
-      "basename": "CD 240327",
-      "path": "2024-Spring/Capstone-Design/CD 240327.md"
     }
   ],
   "omittedPaths": [],
