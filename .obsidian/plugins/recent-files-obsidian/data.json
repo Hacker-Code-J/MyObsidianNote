@@ -1,8 +1,132 @@
 {
   "recentFiles": [
     {
+      "basename": "Paper",
+      "path": "0 Research/Template/Paper.md"
+    },
+    {
+      "basename": "paper",
+      "path": "0 Research/paper.md"
+    },
+    {
+      "basename": "Nerd Fonts",
+      "path": "Tips/Nerd Fonts.md"
+    },
+    {
+      "basename": "LaTex on CLI",
+      "path": "Tips/LaTex on CLI.md"
+    },
+    {
+      "basename": "Install Font in Debian",
+      "path": "Tips/Install Font in Debian.md"
+    },
+    {
+      "basename": "Pasted Image 20240108005332_323",
+      "path": "Pasted Image/Pasted Image 20240108005332_323.png"
+    },
+    {
+      "basename": "Pasted Image 20240110130725_546",
+      "path": "Pasted Image/Pasted Image 20240110130725_546.png"
+    },
+    {
+      "basename": "Pasted Image 20240110131154_119",
+      "path": "Pasted Image/Pasted Image 20240110131154_119.png"
+    },
+    {
+      "basename": "Pasted Image 20240122215140_767",
+      "path": "Pasted Image/Pasted Image 20240122215140_767.png"
+    },
+    {
+      "basename": "Pasted image 20240202111642",
+      "path": "Pasted Image/Pasted image 20240202111642.png"
+    },
+    {
+      "basename": "Pasted image 20240202111836",
+      "path": "Pasted Image/Pasted image 20240202111836.png"
+    },
+    {
+      "basename": "Pasted image 20240217151743",
+      "path": "Pasted Image/Pasted image 20240217151743.png"
+    },
+    {
+      "basename": "The 2nd Brain",
+      "path": "Pasted Image/The 2nd Brain.canvas"
+    },
+    {
+      "basename": "Pasted Image 20240108004108_047",
+      "path": "Pasted Image/Pasted Image 20240108004108_047.png"
+    },
+    {
+      "basename": "Pasted Image 20240317224109_546",
+      "path": "Mind Map/Pasted Image 20240317224109_546.png"
+    },
+    {
+      "basename": "Pasted Image 20240317231339_696",
+      "path": "Mind Map/Pasted Image 20240317231339_696.png"
+    },
+    {
+      "basename": "Pasted Image 20240317233045_784",
+      "path": "Mind Map/Pasted Image 20240317233045_784.png"
+    },
+    {
+      "basename": "Pasted Image 20240317233120_789",
+      "path": "Mind Map/Pasted Image 20240317233120_789.png"
+    },
+    {
+      "basename": "Pasted Image 20240318151139_509",
+      "path": "Mind Map/Pasted Image 20240318151139_509.png"
+    },
+    {
+      "basename": "Pasted Image 20240318154849_985",
+      "path": "Mind Map/Pasted Image 20240318154849_985.png"
+    },
+    {
+      "basename": "Pasted Image 20240318165656_009",
+      "path": "Mind Map/Pasted Image 20240318165656_009.png"
+    },
+    {
+      "basename": "Pasted Image 20240318175558_322",
+      "path": "Mind Map/Pasted Image 20240318175558_322.png"
+    },
+    {
+      "basename": "Pasted image 20240319103359",
+      "path": "Mind Map/Pasted image 20240319103359.png"
+    },
+    {
+      "basename": "Pasted image 20240408151009",
+      "path": "Mind Map/Pasted image 20240408151009.png"
+    },
+    {
+      "basename": "REDOG",
+      "path": "KpqC/REDOG.md"
+    },
+    {
+      "basename": "FALOMA",
+      "path": "KpqC/FALOMA.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "JOB",
+      "path": "JOB.md"
+    },
+    {
+      "basename": "Question Prompt",
+      "path": "Question Prompt.md"
+    },
+    {
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+    },
+    {
       "basename": "Obsidian-Zotero",
       "path": "0 Research/Obsidian-Zotero.md"
+    },
+    {
+      "basename": "Github SSH Setup",
+      "path": "Github SSH Setup.md"
     },
     {
       "basename": "SoK_Computer-Aided_Cryptography",
@@ -27,22 +151,6 @@
     {
       "basename": "Draft2",
       "path": "0 Research/Trend-Survey/Draft2.md"
-    },
-    {
-      "basename": "JOB",
-      "path": "JOB.md"
-    },
-    {
-      "basename": "Github SSH Setup",
-      "path": "Github SSH Setup.md"
-    },
-    {
-      "basename": "Install Font in Debian",
-      "path": "Tips/Install Font in Debian.md"
-    },
-    {
-      "basename": "Pasted image 20240315204502",
-      "path": "Pasted image 20240315204502.png"
     },
     {
       "basename": "ACP 240514",
@@ -91,114 +199,6 @@
     {
       "basename": "CD 240327",
       "path": "2024-Spring/Capstone-Design/CD 240327.md"
-    },
-    {
-      "basename": "CD 240403",
-      "path": "2024-Spring/Capstone-Design/CD 240403.md"
-    },
-    {
-      "basename": "CD 240405",
-      "path": "2024-Spring/Capstone-Design/CD 240405.md"
-    },
-    {
-      "basename": "CD 240412",
-      "path": "2024-Spring/Capstone-Design/CD 240412.md"
-    },
-    {
-      "basename": "CD 240417",
-      "path": "2024-Spring/Capstone-Design/CD 240417.md"
-    },
-    {
-      "basename": "CD 240419",
-      "path": "2024-Spring/Capstone-Design/CD 240419.md"
-    },
-    {
-      "basename": "LC 240503",
-      "path": "2024-Spring/Leadership-Challenge/LC 240503.md"
-    },
-    {
-      "basename": "LfC 240430",
-      "path": "2024-Spring/Logic-for-Comunication/LfC 240430.md"
-    },
-    {
-      "basename": "Gödel's Completeness Theorem",
-      "path": "0.1. Coq/Gödel's Completeness Theorem.md"
-    },
-    {
-      "basename": "CSE-LEA-Drawing",
-      "path": "0.7. CSE/CSE/CSE-LEA-Drawing.md"
-    },
-    {
-      "basename": "Coq-Core-Drawing",
-      "path": "0.1. Coq/Coq-Core-Drawing.md"
-    },
-    {
-      "basename": "Coq-Core-CANVAS",
-      "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
-    },
-    {
-      "basename": "Algebraic Structure of Turing-Machine and Lambda-Algebra",
-      "path": "0 Enjoying Math/Algebraic Structure of Turing-Machine and Lambda-Algebra.md"
-    },
-    {
-      "basename": "Geometric Algebra",
-      "path": "0 Enjoying Math/Geometric Algebra.md"
-    },
-    {
-      "basename": "ACP 240430",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240430.md"
-    },
-    {
-      "basename": "ACP 240429",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240429.md"
-    },
-    {
-      "basename": "CSE-AES-Drawing",
-      "path": "0.7. CSE/CSE/CSE-AES-Drawing.md"
-    },
-    {
-      "basename": "Ji Yong-Hyeon",
-      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
-    },
-    {
-      "basename": "CO2-Cryptol-Drawing",
-      "path": "0.7. CSE/CO2/CO2-Cryptol-Drawing.md"
-    },
-    {
-      "basename": "CSE-FV-Drawing",
-      "path": "0.7. CSE/CSE/CSE-FV-Drawing.md"
-    },
-    {
-      "basename": "Capstone-Design-Drawing",
-      "path": "2024-Spring/Capstone-Design/Capstone-Design-Drawing.md"
-    },
-    {
-      "basename": "Capstone-Degisn-CANVAS",
-      "path": "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas"
-    },
-    {
-      "basename": "ItC-CANVAS",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas"
-    },
-    {
-      "basename": "Formal-Verification-CANVAS",
-      "path": "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas"
-    },
-    {
-      "basename": "LC 240419",
-      "path": "2024-Spring/Leadership-Challenge/LC 240419.md"
-    },
-    {
-      "basename": "1.1.1.3. Round Constant (RCON)",
-      "path": "1.1. AES/1.1.1.3. Round Constant (RCON).md"
-    },
-    {
-      "basename": "1.1.1.0. Key Expansion",
-      "path": "1.1. AES/1.1.1.0. Key Expansion.md"
-    },
-    {
-      "basename": "1.1.5. AES Encryption and Decryption",
-      "path": "1.1. AES/1.1.5. AES Encryption and Decryption.md"
     }
   ],
   "omittedPaths": [],

@@ -53,9 +53,9 @@ $ git remote -v
 origin	https://github.com/Hacker-Code-J/MyObsidianMemo.git (fetch)
 origin	https://github.com/Hacker-Code-J/MyObsidianMemo.git (push)
             
-$ git remote set-url origin git@github.com:Hacker-Code-J/MyObsidianMemo.git
-origin	git@github.com:MyObsidianMemo.git (fetch)
-origin	git@github.com:MyObsidianMemo.git (push)
+$ git remote set-url origin git@github.com:Hacker-Code-J/MyObsidianNote.git
+origin	git@github.com:MyObsidianNote.git (fetch)
+origin	git@github.com:MyObsidianNote.git (push)
 ```
 
 # Blocking Port

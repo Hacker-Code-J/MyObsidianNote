@@ -25,12 +25,12 @@
             }
           },
           {
-            "id": "5551f37f9ea867c1",
+            "id": "115333202b7b122a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Research/Obsidian-Zotero.md",
+                "file": "0 Research/Template/Paper.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Research/Obsidian-Zotero.md",
+                "file": "0 Research/Template/Paper.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Research/Obsidian-Zotero.md",
+                "file": "0 Research/Template/Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Research/Obsidian-Zotero.md"
+                "file": "0 Research/Template/Paper.md"
               }
             }
           },
@@ -181,6 +181,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "obsidian-full-calendar:Open Full Calendar": false,
@@ -194,20 +196,43 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5551f37f9ea867c1",
+  "active": "115333202b7b122a",
   "lastOpenFiles": [
-    "0 Research/SoK_Computer-Aided_Cryptography.md",
+    "0 Research/paper.md",
+    "0 Research/Template/Paper.md",
+    "0 Research/Template",
+    "0 Research/Untitled.md",
+    "Tips/Nerd Fonts.md",
+    "0 Research/Template.md",
+    "Tips/LaTex on CLI.md",
+    "Tips/Install Font in Debian.md",
+    "Pasted Image/Pasted Image 20240108005332_323.png",
+    "Pasted Image/Pasted Image 20240110130725_546.png",
+    "Pasted Image/Pasted Image 20240110131154_119.png",
+    "Pasted Image/Pasted Image 20240122215140_767.png",
+    "Pasted Image/Pasted image 20240202111642.png",
+    "Pasted Image/Pasted image 20240202111836.png",
+    "Pasted Image/Pasted image 20240217151743.png",
+    "Pasted Image/The 2nd Brain.canvas",
+    "Pasted Image/Pasted Image 20240108004108_047.png",
+    "Mind Map/Pasted Image 20240317224109_546.png",
+    "Mind Map/Pasted Image 20240317231339_696.png",
+    "KpqC/REDOG.md",
+    "Manim/AES Visualization.md",
+    "KpqC/FALOMA.md",
+    "README.md",
+    "JOB.md",
+    "Question Prompt.md",
+    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "0 Research/Obsidian-Zotero.md",
+    "Github SSH Setup.md",
+    "0 Research/SoK_Computer-Aided_Cryptography.md",
     "0 Research/High-Assurance Cryptography.md",
     "0 Research/Paper-draft1.md",
     "0 Research/Paper-draft 2.md",
     "0 Research/Trend-Survey/Draft1.md",
     "0 Research/Trend-Survey/Draft2.md",
     "0 Research/Trend-Survey",
-    "JOB.md",
-    "Github SSH Setup.md",
-    "Tips/Install Font in Debian.md",
-    "Pasted image 20240315204502.png",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240514.md",
     "Untitled",
     "0 Research",
@@ -215,41 +240,18 @@
     "2024-Spring/Logic-for-Comunication/LfC 240509.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240513.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240513.md",
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240429.md",
-    "2024-Spring/Leadership-Challenge/LC 240510.md",
-    "2024-Spring/Logic-for-Comunication/LfC 240507.md",
-    "2024-Spring/Logic-for-Comunication/LfC 240502.md",
-    "2024-Spring/How to Study.md",
-    "0.7. CSE/CO2/CO2-HIGHT-Drawing.md",
-    "2024-Spring/Capstone-Design/CD 240327.md",
-    "2024-Spring/Capstone-Design/CD 240403.md",
-    "2024-Spring/Capstone-Design/CD 240405.md",
-    "2024-Spring/Capstone-Design/CD 240412.md",
-    "2024-Spring/Capstone-Design/CD 240417.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
-    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",
     "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
     "0.7. CSE/Research",
     "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
-    "Mind Map/Pasted image 20240408151009.png",
     "Excalidraw/lib/deep-learning.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 301043.crdownload",
     "Excalidraw/lib/wardley-mapping-canvas.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 728169.crdownload",
     "0 Enjoying Math",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
-    "0.7. CSE/CO2",
-    "Mind Map/Pasted image 20240319103359.png",
-    "Mind Map/Pasted Image 20240318175558_322.png",
-    "Mind Map/Pasted Image 20240318154849_985.png",
-    "Mind Map/Pasted Image 20240317233120_789.png",
-    "Mind Map/Pasted Image 20240317224109_546.png",
-    "Pasted Image/Pasted Image 20240108004108_047.png",
-    "Pasted Image/Pasted Image 20240110130725_546.png",
-    "Pasted Image/Pasted Image 20240110131154_119.png",
-    "Pasted Image/The 2nd Brain.canvas",
     "0.1 Rust Programming/Untitled.canvas",
     "2024-Spring/Untitled.canvas"
   ]

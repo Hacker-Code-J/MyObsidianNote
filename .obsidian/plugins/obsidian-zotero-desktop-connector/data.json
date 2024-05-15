@@ -1,0 +1,31 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Inbox/",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Cite",
+      "format": "template",
+      "template": "{{citekey}}"
+    },
+    {
+      "name": "Full Citation",
+      "format": "template"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import Paper",
+      "outputPathTemplate": "Inbox/{{citekey}}.md",
+      "imageOutputPathTemplate": "Media/zeotero/{{citekey}}/",
+      "imageBaseNameTemplate": "{{citekey}}",
+      "templatePath": "0 Research/Template/Paper.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldConcat": true
+}
