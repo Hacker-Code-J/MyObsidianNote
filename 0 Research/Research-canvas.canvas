@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"8d41a1c5b7f7e298","type":"text","text":"Computer-Aided Cryptography","x":-760,"y":-588,"width":432,"height":60},
-		{"id":"91741a4c938d7c7d","x":-224,"y":-500,"width":304,"height":53,"type":"text","text":"Machine-checkable"},
-		{"id":"354ee5a31a0452b7","x":220,"y":-618,"width":309,"height":145,"type":"text","text":"- Design\n- Analysis\n- Implementation"},
-		{"id":"a4e0362ea496acdd","x":-197,"y":-648,"width":250,"height":60,"type":"text","text":"Formal"}
+		{"id":"8d41a1c5b7f7e298","type":"text","text":"Computer-Aided Cryptography","x":-656,"y":-1400,"width":432,"height":60},
+		{"id":"91741a4c938d7c7d","x":-700,"y":-1216,"width":304,"height":53,"type":"text","text":"Machine-checkable"},
+		{"id":"a4e0362ea496acdd","x":-256,"y":-1213,"width":250,"height":50,"type":"text","text":"Formal"},
+		{"id":"354ee5a31a0452b7","x":-480,"y":-1020,"width":309,"height":145,"type":"text","text":"- Design\n- Analysis\n- Implementation"}
 	],
 	"edges":[
-		{"id":"8c26f0c91f7a20d9","fromNode":"8d41a1c5b7f7e298","fromSide":"right","toNode":"a4e0362ea496acdd","toSide":"left"},
-		{"id":"9deae33c5d4ae377","fromNode":"8d41a1c5b7f7e298","fromSide":"right","toNode":"91741a4c938d7c7d","toSide":"left"},
-		{"id":"65045f2d0ead692e","fromNode":"a4e0362ea496acdd","fromSide":"right","toNode":"354ee5a31a0452b7","toSide":"left"},
-		{"id":"19f5ba692fce7643","fromNode":"91741a4c938d7c7d","fromSide":"right","toNode":"354ee5a31a0452b7","toSide":"left"}
+		{"id":"8c26f0c91f7a20d9","fromNode":"8d41a1c5b7f7e298","fromSide":"bottom","toNode":"a4e0362ea496acdd","toSide":"top"},
+		{"id":"9deae33c5d4ae377","fromNode":"8d41a1c5b7f7e298","fromSide":"bottom","toNode":"91741a4c938d7c7d","toSide":"top"},
+		{"id":"65045f2d0ead692e","fromNode":"a4e0362ea496acdd","fromSide":"bottom","toNode":"354ee5a31a0452b7","toSide":"top"},
+		{"id":"19f5ba692fce7643","fromNode":"91741a4c938d7c7d","fromSide":"bottom","toNode":"354ee5a31a0452b7","toSide":"top"}
 	]
 }
