@@ -30,11 +30,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0 Research/Research-canvas.canvas",
+                "file": "0 Research/Research-CAC-CANVAS.canvas",
                 "viewState": {
-                  "x": -411.3880737143754,
-                  "y": -1112.912492054314,
-                  "zoom": -0.8000000000000002
+                  "x": -250.26437840475063,
+                  "y": -981.0093415841081,
+                  "zoom": -0.6386734743356887
                 }
               }
             }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Research/Research-canvas.canvas",
+                "file": "0 Research/Research-CAC-CANVAS.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Research/Research-canvas.canvas",
+                "file": "0 Research/Research-CAC-CANVAS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Research/Research-canvas.canvas"
+                "file": "0 Research/Research-CAC-CANVAS.canvas"
               }
             }
           },
@@ -200,11 +200,11 @@
   },
   "active": "115333202b7b122a",
   "lastOpenFiles": [
+    "0 Research/ChatGPT Prompt.md",
+    "0 Research/Research-CAC-CANVAS.canvas",
     "0 Research/paper.md",
-    "0 Research/Research-canvas.canvas",
     "0 Research/Template/Paper.md",
     "0 Research/Template",
-    "0 Research/Untitled.md",
     "Tips/Nerd Fonts.md",
     "0 Research/Template.md",
     "Tips/LaTex on CLI.md",

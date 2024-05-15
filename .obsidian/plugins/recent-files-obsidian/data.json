@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Research-canvas",
-      "path": "0 Research/Research-canvas.canvas"
+      "basename": "Research-CAC-CANVAS",
+      "path": "0 Research/Research-CAC-CANVAS.canvas"
+    },
+    {
+      "basename": "ChatGPT Prompt",
+      "path": "0 Research/ChatGPT Prompt.md"
     },
     {
       "basename": "paper",
@@ -195,10 +199,6 @@
     {
       "basename": "How to Study",
       "path": "2024-Spring/How to Study.md"
-    },
-    {
-      "basename": "CO2-HIGHT-Drawing",
-      "path": "0.7. CSE/CO2/CO2-HIGHT-Drawing.md"
     }
   ],
   "omittedPaths": [],

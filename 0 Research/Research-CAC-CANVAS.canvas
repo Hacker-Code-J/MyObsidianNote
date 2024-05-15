@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"d32aa8ebb91a514c","x":-180,"y":-1207,"width":620,"height":274,"color":"2","type":"group","label":"Attacker"},
+		{"id":"1e6968e14324dd2c","type":"group","x":-1660,"y":-1440,"width":518,"height":300,"color":"5","label":"System"},
+		{"id":"9855d8ba2c6be9ae","type":"group","x":-660,"y":-1220,"width":426,"height":300,"color":"1","label":"Challenges"},
+		{"id":"bd8213387da64d8e","type":"text","text":"Deployment-level","x":-1054,"y":-998,"width":266,"height":60},
+		{"id":"d303d243f9dcae59","type":"text","text":"*Design Flaws*","x":-640,"y":-1200,"width":227,"height":63},
+		{"id":"72cce16a231a423a","type":"text","text":"*Implementation Bugs*","x":-640,"y":-1100,"width":335,"height":63},
+		{"id":"0cb0fa838cc2471b","type":"text","text":"*Side-channel Vulnerability*","x":-640,"y":-1000,"width":386,"height":60},
+		{"id":"ad2244f77286ea4f","type":"text","text":"Design-level","x":-1047,"y":-1196,"width":250,"height":60},
+		{"id":"21d48e7b5b31f345","type":"text","text":"Implementation-level","x":-1080,"y":-1098,"width":315,"height":61},
+		{"id":"ee11fdb67c910d04","type":"text","text":"Protocols","x":-1622,"y":-1400,"width":447,"height":240,"color":"5"},
+		{"id":"1383659b4001953a","type":"text","text":"Primitives","x":-1602,"y":-1334,"width":393,"height":154,"color":"5"},
+		{"id":"65676d08315df15b","type":"text","text":"Abstract Constructions","x":-1579,"y":-1257,"width":348,"height":50,"color":"5"},
+		{"id":"01429840d790e041","x":-1649,"y":-1116,"width":440,"height":98,"color":"5","type":"text","text":"- Concrete functional details\n- Optimization"},
+		{"id":"f6a21cf865ef948b","x":-1602,"y":-998,"width":393,"height":140,"color":"5","type":"text","text":"Absent at the design level, such as\nside-channel attacks."},
+		{"id":"3672e3ed4c21b216","x":-160,"y":-1193,"width":346,"height":50,"type":"text","text":"Break high-level design"},
+		{"id":"fc32f5a89d3c3620","type":"text","text":"Exploit implementation bugs","x":-160,"y":-1092,"width":433,"height":50},
+		{"id":"c124202be013bcf4","x":-160,"y":-995,"width":580,"height":50,"type":"text","text":"Recover secret material via side-channels"},
+		{"id":"8d41a1c5b7f7e298","type":"text","text":"# Computer-Aided Cryptography (CAC)","x":-1106,"y":-1680,"width":580,"height":60}
+	],
+	"edges":[
+		{"id":"0c6eca92eab98e3a","fromNode":"ad2244f77286ea4f","fromSide":"bottom","toNode":"21d48e7b5b31f345","toSide":"top"},
+		{"id":"4d084cd77915bfc1","fromNode":"21d48e7b5b31f345","fromSide":"bottom","toNode":"bd8213387da64d8e","toSide":"top"},
+		{"id":"db42b4ca36739692","fromNode":"ad2244f77286ea4f","fromSide":"right","toNode":"d303d243f9dcae59","toSide":"left"},
+		{"id":"046998c707ce5bfb","fromNode":"21d48e7b5b31f345","fromSide":"right","toNode":"72cce16a231a423a","toSide":"left"},
+		{"id":"a3fb59366e9554ab","fromNode":"bd8213387da64d8e","fromSide":"right","toNode":"0cb0fa838cc2471b","toSide":"left"},
+		{"id":"6fe6afd34a331ab3","fromNode":"ad2244f77286ea4f","fromSide":"left","toNode":"1e6968e14324dd2c","toSide":"right"},
+		{"id":"5f6da163aef4e310","fromNode":"21d48e7b5b31f345","fromSide":"left","toNode":"01429840d790e041","toSide":"right"},
+		{"id":"297186701d49f553","fromNode":"21d48e7b5b31f345","fromSide":"left","toNode":"f6a21cf865ef948b","toSide":"right"},
+		{"id":"66fa0af3ff4d01f8","fromNode":"bd8213387da64d8e","fromSide":"left","toNode":"f6a21cf865ef948b","toSide":"right"},
+		{"id":"49c17c0046a8ed5f","fromNode":"d303d243f9dcae59","fromSide":"right","toNode":"3672e3ed4c21b216","toSide":"left"},
+		{"id":"23a3051ab479dfb3","fromNode":"72cce16a231a423a","fromSide":"right","toNode":"fc32f5a89d3c3620","toSide":"left"},
+		{"id":"2e0dee99a435155a","fromNode":"0cb0fa838cc2471b","fromSide":"right","toNode":"c124202be013bcf4","toSide":"left"}
+	]
+}
