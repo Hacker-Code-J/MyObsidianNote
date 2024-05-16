@@ -25,15 +25,17 @@
             }
           },
           {
-            "id": "115333202b7b122a",
+            "id": "ff304a77dc5dacb3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LfC 240516.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "0 Research/Research-CAC-CANVAS.canvas",
+                "viewState": {
+                  "x": -216.51025271994305,
+                  "y": -1272.5224166514702,
+                  "zoom": -1.1017188066597248
+                }
               }
             }
           }
@@ -104,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LfC 240516.md",
+                "file": "0 Research/Research-CAC-CANVAS.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LfC 240516.md",
+                "file": "0 Research/Research-CAC-CANVAS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Leadership-Challenge/LfC 240516.md"
+                "file": "0 Research/Research-CAC-CANVAS.canvas"
               }
             }
           },
@@ -196,12 +197,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "115333202b7b122a",
+  "active": "ff304a77dc5dacb3",
   "lastOpenFiles": [
-    "2024-Spring/Logic-for-Comunication/LfC 240509.md",
-    "2024-Spring/Logic-for-Comunication/LfC 240507.md",
+    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Leadership-Challenge/LfC 240516.md",
     "0 Research/Research-CAC-CANVAS.canvas",
+    "2024-Spring/Logic-for-Comunication/LfC 240509.md",
+    "2024-Spring/Logic-for-Comunication/LfC 240507.md",
     "0 Research/ChatGPT Prompt.md",
     "0 Research/paper.md",
     "0 Research/Template/Paper.md",
@@ -227,7 +229,6 @@
     "README.md",
     "JOB.md",
     "Question Prompt.md",
-    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "0 Research/Obsidian-Zotero.md",
     "Github SSH Setup.md",
     "0 Research/SoK_Computer-Aided_Cryptography.md",
@@ -240,7 +241,6 @@
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240514.md",
     "Untitled",
     "0 Research",
-    "2024-Spring/Logic-for-Comunication/LfC 240514.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",
