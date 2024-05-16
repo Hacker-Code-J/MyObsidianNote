@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "test",
+      "path": "0 Research/test.canvas"
+    },
+    {
       "basename": "Research-CAC-CANVAS",
       "path": "0 Research/Research-CAC-CANVAS.canvas"
+    },
+    {
+      "basename": "SoK_Computer-Aided_Cryptography",
+      "path": "0 Research/SoK_Computer-Aided_Cryptography.md"
     },
     {
       "basename": "Ji Yong-Hyeon",
@@ -149,10 +157,6 @@
       "path": "Github SSH Setup.md"
     },
     {
-      "basename": "SoK_Computer-Aided_Cryptography",
-      "path": "0 Research/SoK_Computer-Aided_Cryptography.md"
-    },
-    {
       "basename": "High-Assurance Cryptography",
       "path": "0 Research/High-Assurance Cryptography.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "LC 240510",
       "path": "2024-Spring/Leadership-Challenge/LC 240510.md"
-    },
-    {
-      "basename": "LfC 240502",
-      "path": "2024-Spring/Logic-for-Comunication/LfC 240502.md"
     }
   ],
   "omittedPaths": [],

@@ -30,11 +30,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0 Research/Research-CAC-CANVAS.canvas",
+                "file": "0 Research/test.canvas",
                 "viewState": {
-                  "x": -216.51025271994305,
-                  "y": -1272.5224166514702,
-                  "zoom": -1.1017188066597248
+                  "x": 102.5,
+                  "y": 481,
+                  "zoom": -1.0356895977509895
                 }
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Research/Research-CAC-CANVAS.canvas",
+                "file": "0 Research/test.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Research/Research-CAC-CANVAS.canvas",
+                "file": "0 Research/test.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Research/Research-CAC-CANVAS.canvas"
+                "file": "0 Research/test.canvas"
               }
             }
           },
@@ -199,9 +199,11 @@
   },
   "active": "ff304a77dc5dacb3",
   "lastOpenFiles": [
+    "0 Research/Research-CAC-CANVAS.canvas",
+    "0 Research/SoK_Computer-Aided_Cryptography.md",
+    "0 Research/test.canvas",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
     "2024-Spring/Leadership-Challenge/LfC 240516.md",
-    "0 Research/Research-CAC-CANVAS.canvas",
     "2024-Spring/Logic-for-Comunication/LfC 240509.md",
     "2024-Spring/Logic-for-Comunication/LfC 240507.md",
     "0 Research/ChatGPT Prompt.md",
@@ -231,7 +233,6 @@
     "Question Prompt.md",
     "0 Research/Obsidian-Zotero.md",
     "Github SSH Setup.md",
-    "0 Research/SoK_Computer-Aided_Cryptography.md",
     "0 Research/High-Assurance Cryptography.md",
     "0 Research/Paper-draft1.md",
     "0 Research/Paper-draft 2.md",
@@ -252,7 +253,6 @@
     "Excalidraw/lib/wardley-mapping-canvas.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 728169.crdownload",
     "0 Enjoying Math",
-    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
-    "0.1 Rust Programming/Untitled.canvas"
+    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
   ]
 }
