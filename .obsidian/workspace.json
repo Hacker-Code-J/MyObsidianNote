@@ -36,9 +36,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eee010211f5f6c13",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.7. CSE/CO2/CO2-HIGHT-Drawing.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -120,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Research/HIGHT-FV.md",
+                "file": "0.7. CSE/CO2/CO2-HIGHT-Drawing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Research/HIGHT-FV.md",
+                "file": "0.7. CSE/CO2/CO2-HIGHT-Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Research/HIGHT-FV.md"
+                "file": "0.7. CSE/CO2/CO2-HIGHT-Drawing.md"
               }
             }
           },
@@ -195,10 +206,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ff304a77dc5dacb3",
+  "active": "eee010211f5f6c13",
   "lastOpenFiles": [
-    "0 Research/test.canvas",
     "0 Research/HIGHT-FV.md",
+    "0 Research/test.canvas",
     "0 Research/Research-CAC-CANVAS.canvas",
     "0 Research/SoK_Computer-Aided_Cryptography.md",
     "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
