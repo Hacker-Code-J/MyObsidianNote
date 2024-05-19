@@ -41,9 +41,14 @@
             "id": "eee010211f5f6c13",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "0.7. CSE/CO2/CO2-HIGHT-Drawing.md"
+                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
+                "viewState": {
+                  "x": 2117.6607911399014,
+                  "y": -1428.3954043942485,
+                  "zoom": -0.3571586964002369
+                }
               }
             }
           }
@@ -131,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.7. CSE/CO2/CO2-HIGHT-Drawing.md",
+                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.7. CSE/CO2/CO2-HIGHT-Drawing.md",
+                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.7. CSE/CO2/CO2-HIGHT-Drawing.md"
+                "file": "0.1. Coq/Coq-Core-CANVAS.canvas"
               }
             }
           },
@@ -208,6 +213,8 @@
   },
   "active": "eee010211f5f6c13",
   "lastOpenFiles": [
+    "0.1. Coq/Coq-Core-Drawing.md",
+    "0.7. CSE/CO2/CO2-HIGHT-Drawing.md",
     "0 Research/HIGHT-FV.md",
     "0 Research/test.canvas",
     "0 Research/Research-CAC-CANVAS.canvas",
@@ -247,7 +254,6 @@
     "0 Research/Paper-draft1.md",
     "0 Research/Paper-draft 2.md",
     "0 Research/Trend-Survey/Draft1.md",
-    "0 Research/Trend-Survey/Draft2.md",
     "0 Research/Trend-Survey",
     "Untitled",
     "0 Research",

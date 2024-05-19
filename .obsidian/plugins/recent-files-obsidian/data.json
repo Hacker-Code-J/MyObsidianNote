@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Coq-Core-CANVAS",
+      "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
+    },
+    {
+      "basename": "Coq-Core-Drawing",
+      "path": "0.1. Coq/Coq-Core-Drawing.md"
+    },
+    {
       "basename": "CO2-HIGHT-Drawing",
       "path": "0.7. CSE/CO2/CO2-HIGHT-Drawing.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "LfC 240514",
       "path": "2024-Spring/Logic-for-Comunication/LfC 240514.md"
-    },
-    {
-      "basename": "ACP 240513",
-      "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240513.md"
-    },
-    {
-      "basename": "ItC 240513",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240513.md"
     }
   ],
   "omittedPaths": [],
