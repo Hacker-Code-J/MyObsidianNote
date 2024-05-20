@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
+                "file": "0 Research/HIGHT-FV.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas",
+                "file": "0 Research/HIGHT-FV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.1. Coq/Coq-Core-CANVAS.canvas"
+                "file": "0 Research/HIGHT-FV.md"
               }
             }
           },
@@ -211,8 +210,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "eee010211f5f6c13",
+  "active": "ff304a77dc5dacb3",
   "lastOpenFiles": [
+    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.1. Coq/Coq-Core-Drawing.md",
     "0.7. CSE/CO2/CO2-HIGHT-Drawing.md",
     "0 Research/HIGHT-FV.md",
@@ -253,11 +253,9 @@
     "0 Research/High-Assurance Cryptography.md",
     "0 Research/Paper-draft1.md",
     "0 Research/Paper-draft 2.md",
-    "0 Research/Trend-Survey/Draft1.md",
     "0 Research/Trend-Survey",
     "Untitled",
     "0 Research",
-    "0.1. Coq/Coq-Core-CANVAS.canvas",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",
     "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",

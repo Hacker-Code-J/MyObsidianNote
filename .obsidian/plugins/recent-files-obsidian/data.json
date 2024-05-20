@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "HIGHT-FV",
+      "path": "0 Research/HIGHT-FV.md"
+    },
+    {
       "basename": "Coq-Core-CANVAS",
       "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "CO2-HIGHT-Drawing",
       "path": "0.7. CSE/CO2/CO2-HIGHT-Drawing.md"
-    },
-    {
-      "basename": "HIGHT-FV",
-      "path": "0 Research/HIGHT-FV.md"
     },
     {
       "basename": "test",
