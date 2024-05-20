@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ItC 240520",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md"
+    },
+    {
       "basename": "HIGHT-FV",
       "path": "0 Research/HIGHT-FV.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ACP 240514",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240514.md"
-    },
-    {
-      "basename": "LfC 240514",
-      "path": "2024-Spring/Logic-for-Comunication/LfC 240514.md"
     }
   ],
   "omittedPaths": [],

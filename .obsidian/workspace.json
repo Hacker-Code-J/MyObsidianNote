@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Research/HIGHT-FV.md",
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Research/HIGHT-FV.md",
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Research/HIGHT-FV.md",
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Research/HIGHT-FV.md"
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md"
               }
             }
           },
@@ -212,10 +213,12 @@
   },
   "active": "ff304a77dc5dacb3",
   "lastOpenFiles": [
+    "0 Research/HIGHT-FV.md",
+    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md",
+    "2024-Spring/Introduction-to-Cryptanalysis/Untitled",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
     "0.1. Coq/Coq-Core-Drawing.md",
     "0.7. CSE/CO2/CO2-HIGHT-Drawing.md",
-    "0 Research/HIGHT-FV.md",
     "0 Research/test.canvas",
     "0 Research/Research-CAC-CANVAS.canvas",
     "0 Research/SoK_Computer-Aided_Cryptography.md",
@@ -265,7 +268,6 @@
     "Excalidraw/lib/Unconfirmed 301043.crdownload",
     "Excalidraw/lib/wardley-mapping-canvas.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 728169.crdownload",
-    "0 Enjoying Math",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
   ]
 }
