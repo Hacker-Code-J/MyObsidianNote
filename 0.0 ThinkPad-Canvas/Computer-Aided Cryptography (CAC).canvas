@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"d9ee3666ef83b196","x":-940,"y":140,"width":960,"height":740,"type":"group","label":"Verification vs Validation"},
+		{"id":"4bea7ccfa5ec6001","type":"group","x":-800,"y":220,"width":713,"height":380,"label":"Developer - Static Testing"},
+		{"id":"f252c195e80b1c56","type":"group","x":-860,"y":-520,"width":386,"height":400,"label":"Cryptographic Machanisms"},
+		{"id":"ba62cb025054d2e4","x":-800,"y":700,"width":713,"height":140,"type":"group","label":"Uesr - Dynamtic Testing"},
+		{"id":"0eef90e8b42063d4","type":"text","text":"Abstract Constructions","x":-840,"y":-200,"width":346,"height":60},
+		{"id":"9286268646a25835","type":"text","text":"Primitives","x":-792,"y":-300,"width":250,"height":60},
+		{"id":"5a6354a3b6813571","type":"text","text":"Protocols","x":-792,"y":-400,"width":250,"height":60},
+		{"id":"d8d79353aface3e2","type":"text","text":"Systems","x":-792,"y":-500,"width":250,"height":60},
+		{"id":"2add6e28d75893c1","type":"text","text":"Implemntation-level Security","x":-396,"y":-165,"width":416,"height":51,"color":"5"},
+		{"id":"5cf02d2b4b47a3cd","type":"text","text":"Functional Correctness and Efficiency","x":-396,"y":-250,"width":516,"height":50,"color":"5"},
+		{"id":"9d8ec5a135e2ddd7","type":"text","text":" Design-level Security","x":-258,"y":-550,"width":378,"height":50,"color":"5"},
+		{"id":"220cb5aba5736631","type":"text","text":"Symbolic Security","x":480,"y":-660,"width":300,"height":50},
+		{"id":"69bda8b856d6a0d6","type":"text","text":"Computational Security","x":480,"y":-470,"width":360,"height":50},
+		{"id":"acf47bb1bfd05ced","type":"text","text":"Requirements","x":-780,"y":360,"width":250,"height":60},
+		{"id":"ca3e7ecc8e214f15","type":"text","text":"Implementation","x":-357,"y":240,"width":250,"height":60},
+		{"id":"d2a84f9a1c662c7c","type":"text","text":"Design","x":-530,"y":520,"width":250,"height":60},
+		{"id":"f1027cfe45081cc1","x":-655,"y":740,"width":375,"height":60,"type":"text","text":"Verification  => Validation"}
+	],
+	"edges":[
+		{"id":"3b5e31ba2991dda4","fromNode":"0eef90e8b42063d4","fromSide":"top","toNode":"9286268646a25835","toSide":"bottom"},
+		{"id":"e78c9268ab370fb4","fromNode":"5a6354a3b6813571","fromSide":"top","toNode":"d8d79353aface3e2","toSide":"bottom"},
+		{"id":"4ff0851437f1fd4a","fromNode":"9286268646a25835","fromSide":"top","toNode":"5a6354a3b6813571","toSide":"bottom"},
+		{"id":"f55a773a06db44f3","fromNode":"9d8ec5a135e2ddd7","fromSide":"right","toNode":"220cb5aba5736631","toSide":"left","label":"formal method"},
+		{"id":"4f3ebc047c342adc","fromNode":"9d8ec5a135e2ddd7","fromSide":"right","toNode":"69bda8b856d6a0d6","toSide":"left","label":"cryptography"},
+		{"id":"1feffec4cc56b731","fromNode":"acf47bb1bfd05ced","fromSide":"bottom","toNode":"d2a84f9a1c662c7c","toSide":"top","label":"Verification"},
+		{"id":"32d1399e7fbe9422","fromNode":"d2a84f9a1c662c7c","fromSide":"top","toNode":"acf47bb1bfd05ced","toSide":"bottom"},
+		{"id":"ff5b7decb235ef4c","fromNode":"d2a84f9a1c662c7c","fromSide":"top","toNode":"ca3e7ecc8e214f15","toSide":"bottom","label":"Verification"},
+		{"id":"a326ae4389ac28bb","fromNode":"ca3e7ecc8e214f15","fromSide":"bottom","toNode":"d2a84f9a1c662c7c","toSide":"top"},
+		{"id":"96dfd99fc2a82772","fromNode":"ca3e7ecc8e214f15","fromSide":"left","toNode":"acf47bb1bfd05ced","toSide":"top","label":"Verification"},
+		{"id":"4344cc4595d20f4c","fromNode":"acf47bb1bfd05ced","fromSide":"top","toNode":"ca3e7ecc8e214f15","toSide":"left"},
+		{"id":"c6a7a02a27e34974","fromNode":"4bea7ccfa5ec6001","fromSide":"left","toNode":"f1027cfe45081cc1","toSide":"left"},
+		{"id":"7d834302f5962745","fromNode":"ca3e7ecc8e214f15","fromSide":"right","toNode":"f1027cfe45081cc1","toSide":"right"},
+		{"id":"cfe224c98e0a20f3","fromNode":"d2a84f9a1c662c7c","fromSide":"bottom","toNode":"f1027cfe45081cc1","toSide":"top"}
+	]
+}

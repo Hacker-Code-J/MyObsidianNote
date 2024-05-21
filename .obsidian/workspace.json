@@ -30,11 +30,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0.0 ThinkPad-Canvas/Cryptology.canvas",
+                "file": "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas",
                 "viewState": {
-                  "x": 3,
-                  "y": 253.92642190416925,
-                  "zoom": -0.5734855351021504
+                  "x": -230.54685046400084,
+                  "y": -348.5288439539349,
+                  "zoom": -1.2000000000000002
                 }
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0 ThinkPad-Canvas/Cryptology.canvas",
+                "file": "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0 ThinkPad-Canvas/Cryptology.canvas",
+                "file": "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0 ThinkPad-Canvas/Cryptology.canvas"
+                "file": "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas"
               }
             }
           },
@@ -199,8 +199,34 @@
   },
   "active": "ff304a77dc5dacb3",
   "lastOpenFiles": [
-    "0.0 ThinkPad-Canvas/Ji-YH-Workflow.canvas",
+    "0 Research/Research-CAC-CANVAS.canvas",
+    "0.0 ThinkPad-Canvas/Ji Yong-Hyeon.canvas",
     "0.0 ThinkPad-Canvas/Cryptology.canvas",
+    "0.1. C Programming/Assembly/Swap Aanlysis.md",
+    "0.1. Coq/Coq-Core-Drawing.md",
+    "0.1. Coq/Coq-Core-CANVAS.canvas",
+    "0.1. Coq/Gödel's Completeness Theorem.md",
+    "0.1. Haskell Programming/Set-up Haskell in Linux.md",
+    "0.1. Haskell Programming/Procedural vs OOP vs Functional.md",
+    "0.1. Haskell Programming/(Cryptographic) OOP vs Functional.md",
+    "Implementation for AES/I. Understanding/I.2. AES Requirements.md",
+    "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md",
+    "1.2. OpenSSL/OpenSSL.md",
+    "1.2. OpenSSL/Check OpenSSL Version.md",
+    "2.0. Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
+    "2.0. Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
+    "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
+    "2.1. Discrete Mathematics/2.1.1. Discrete Mathematics.md",
+    "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md",
+    "Fas & Cas/Orientation.md",
+    "My Language Training/Rust Note/0. Installation and Setup.md",
+    "My Language Training/C Note/static vs const vs static const.md",
+    "images/CSE/CBC_DEC.png",
+    "0.0 ThinkPad-Canvas/Ji-YH-Workflow.canvas",
+    "0.7. CSE/Research/FV for HIGHT.md",
+    "0.7. CSE/Intern/LEA.md",
+    "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
+    "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas",
     "0.0 ThinkPad-Canvas",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240521.md",
     "2024-Spring/Logic-for-Comunication/LfC 240516-240521.md",
@@ -208,26 +234,9 @@
     "2024-Spring/Logic-for-Comunication/LfC 240509.md",
     "2024-Spring/Logic-for-Comunication/LfC 240514.md",
     "2024-Spring/Logic-for-Comunication/LfC 240507.md",
-    "2024-Spring/Logic-for-Comunication/LfC 240502.md",
-    "2024-Spring/Logic-for-Comunication/LfC 240430.md",
-    "0.1. Coq/Coq-Core-CANVAS.canvas",
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md",
-    "0 Research/HIGHT-FV.md",
     "2024-Spring/Introduction-to-Cryptanalysis/Untitled",
-    "0.1. Coq/Coq-Core-Drawing.md",
-    "0.7. CSE/CO2/CO2-HIGHT-Drawing.md",
     "0 Research/test.canvas",
-    "0 Research/Research-CAC-CANVAS.canvas",
-    "0 Research/SoK_Computer-Aided_Cryptography.md",
-    "0.0 ThinkPad-Canvas/Ji Yong-Hyeon.canvas",
-    "0 Research/ChatGPT Prompt.md",
-    "0 Research/paper.md",
-    "0 Research/Template/Paper.md",
     "0 Research/Template",
-    "Tips/Nerd Fonts.md",
-    "0 Research/Template.md",
-    "Tips/LaTex on CLI.md",
-    "Tips/Install Font in Debian.md",
     "Pasted Image/Pasted Image 20240108005332_323.png",
     "Pasted Image/Pasted Image 20240110130725_546.png",
     "Pasted Image/Pasted Image 20240110131154_119.png",
@@ -238,20 +247,10 @@
     "Pasted Image/The 2nd Brain.canvas",
     "Pasted Image/Pasted Image 20240108004108_047.png",
     "Mind Map/Pasted Image 20240317224109_546.png",
-    "Mind Map/Pasted Image 20240317231339_696.png",
-    "KpqC/REDOG.md",
-    "Manim/AES Visualization.md",
-    "KpqC/FALOMA.md",
-    "README.md",
-    "JOB.md",
-    "Question Prompt.md",
     "0 Research/Trend-Survey",
     "0 Research",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",
-    "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
     "0.7. CSE/Research",
-    "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
     "Excalidraw/lib/deep-learning.excalidrawlib",
     "Excalidraw/lib/Unconfirmed 301043.crdownload",
     "Excalidraw/lib/wardley-mapping-canvas.excalidrawlib"

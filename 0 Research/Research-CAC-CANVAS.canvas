@@ -18,10 +18,10 @@
 		{"id":"d303d243f9dcae59","type":"text","text":"*Design Flaws*","x":-600,"y":-1200,"width":227,"height":63},
 		{"id":"72cce16a231a423a","type":"text","text":"*Implementation Bugs*","x":-600,"y":-1100,"width":335,"height":63},
 		{"id":"0cb0fa838cc2471b","type":"text","text":"*Side-channel Vulnerability*","x":-600,"y":-1000,"width":386,"height":60},
-		{"id":"8d41a1c5b7f7e298","type":"text","text":"# Computer-Aided Cryptography (CAC)","x":-924,"y":-2120,"width":649,"height":80},
 		{"id":"95ef0a95d995b99e","type":"text","text":"Tools help manage the *complexity of security proofs*","x":323,"y":-1200,"width":700,"height":41},
 		{"id":"71c45046aa380f60","type":"text","text":"Tools guarantee *implementation correctness* ( on *all* possible inputs)","x":323,"y":-1111,"width":900,"height":50},
-		{"id":"490a8450e146a528","type":"text","text":"Tools protect against *side-channel attacks*","x":323,"y":-997,"width":580,"height":50}
+		{"id":"490a8450e146a528","type":"text","text":"Tools protect against *side-channel attacks*","x":323,"y":-997,"width":580,"height":50},
+		{"id":"8d41a1c5b7f7e298","type":"text","text":"# Computer-Aided Cryptography (CAC)","x":-1209,"y":-1626,"width":649,"height":80}
 	],
 	"edges":[
 		{"id":"0c6eca92eab98e3a","fromNode":"ad2244f77286ea4f","fromSide":"bottom","toNode":"21d48e7b5b31f345","toSide":"top"},

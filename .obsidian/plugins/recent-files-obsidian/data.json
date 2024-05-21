@@ -1,12 +1,112 @@
 {
   "recentFiles": [
     {
+      "basename": "Computer-Aided Cryptography (CAC)",
+      "path": "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas"
+    },
+    {
+      "basename": "Research-CAC-CANVAS",
+      "path": "0 Research/Research-CAC-CANVAS.canvas"
+    },
+    {
+      "basename": "Ji Yong-Hyeon",
+      "path": "0.0 ThinkPad-Canvas/Ji Yong-Hyeon.canvas"
+    },
+    {
       "basename": "Cryptology",
       "path": "0.0 ThinkPad-Canvas/Cryptology.canvas"
     },
     {
+      "basename": "Swap Aanlysis",
+      "path": "0.1. C Programming/Assembly/Swap Aanlysis.md"
+    },
+    {
+      "basename": "Coq-Core-Drawing",
+      "path": "0.1. Coq/Coq-Core-Drawing.md"
+    },
+    {
+      "basename": "Coq-Core-CANVAS",
+      "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
+    },
+    {
+      "basename": "Gödel's Completeness Theorem",
+      "path": "0.1. Coq/Gödel's Completeness Theorem.md"
+    },
+    {
+      "basename": "Set-up Haskell in Linux",
+      "path": "0.1. Haskell Programming/Set-up Haskell in Linux.md"
+    },
+    {
+      "basename": "Procedural vs OOP vs Functional",
+      "path": "0.1. Haskell Programming/Procedural vs OOP vs Functional.md"
+    },
+    {
+      "basename": "(Cryptographic) OOP vs Functional",
+      "path": "0.1. Haskell Programming/(Cryptographic) OOP vs Functional.md"
+    },
+    {
+      "basename": "I.2. AES Requirements",
+      "path": "Implementation for AES/I. Understanding/I.2. AES Requirements.md"
+    },
+    {
+      "basename": "I.1. AES Fundamentals",
+      "path": "Implementation for AES/I. Understanding/I.1. AES Fundamentals.md"
+    },
+    {
+      "basename": "OpenSSL",
+      "path": "1.2. OpenSSL/OpenSSL.md"
+    },
+    {
+      "basename": "Check OpenSSL Version",
+      "path": "1.2. OpenSSL/Check OpenSSL Version.md"
+    },
+    {
+      "basename": "Chapter 1. Preliminaries",
+      "path": "2.0. Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md"
+    },
+    {
+      "basename": "1.2. The Binomial Theorem",
+      "path": "2.0. Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md"
+    },
+    {
+      "basename": "1.1. Mathematical Induction",
+      "path": "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
+    },
+    {
+      "basename": "2.1.1. Discrete Mathematics",
+      "path": "2.1. Discrete Mathematics/2.1.1. Discrete Mathematics.md"
+    },
+    {
+      "basename": "1. Multiple '.rs' files in Rust",
+      "path": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md"
+    },
+    {
+      "basename": "0. Installation and Setup",
+      "path": "My Language Training/Rust Note/0. Installation and Setup.md"
+    },
+    {
+      "basename": "static vs const vs static const",
+      "path": "My Language Training/C Note/static vs const vs static const.md"
+    },
+    {
+      "basename": "CBC_DEC",
+      "path": "images/CSE/CBC_DEC.png"
+    },
+    {
       "basename": "Ji-YH-Workflow",
       "path": "0.0 ThinkPad-Canvas/Ji-YH-Workflow.canvas"
+    },
+    {
+      "basename": "FV for HIGHT",
+      "path": "0.7. CSE/Research/FV for HIGHT.md"
+    },
+    {
+      "basename": "LEA",
+      "path": "0.7. CSE/Intern/LEA.md"
+    },
+    {
+      "basename": "Formal-Verification-CANVAS",
+      "path": "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas"
     },
     {
       "basename": "ACP 240521",
@@ -37,20 +137,12 @@
       "path": "2024-Spring/Logic-for-Comunication/LfC 240430.md"
     },
     {
-      "basename": "Coq-Core-CANVAS",
-      "path": "0.1. Coq/Coq-Core-CANVAS.canvas"
-    },
-    {
       "basename": "ItC 240520",
       "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md"
     },
     {
       "basename": "HIGHT-FV",
       "path": "0 Research/HIGHT-FV.md"
-    },
-    {
-      "basename": "Coq-Core-Drawing",
-      "path": "0.1. Coq/Coq-Core-Drawing.md"
     },
     {
       "basename": "CO2-HIGHT-Drawing",
@@ -61,16 +153,8 @@
       "path": "0 Research/test.canvas"
     },
     {
-      "basename": "Research-CAC-CANVAS",
-      "path": "0 Research/Research-CAC-CANVAS.canvas"
-    },
-    {
       "basename": "SoK_Computer-Aided_Cryptography",
       "path": "0 Research/SoK_Computer-Aided_Cryptography.md"
-    },
-    {
-      "basename": "Ji Yong-Hyeon",
-      "path": "0.0 ThinkPad-Canvas/Ji Yong-Hyeon.canvas"
     },
     {
       "basename": "ChatGPT Prompt",
@@ -115,90 +199,6 @@
     {
       "basename": "Pasted image 20240202111642",
       "path": "Pasted Image/Pasted image 20240202111642.png"
-    },
-    {
-      "basename": "Pasted image 20240202111836",
-      "path": "Pasted Image/Pasted image 20240202111836.png"
-    },
-    {
-      "basename": "Pasted image 20240217151743",
-      "path": "Pasted Image/Pasted image 20240217151743.png"
-    },
-    {
-      "basename": "The 2nd Brain",
-      "path": "Pasted Image/The 2nd Brain.canvas"
-    },
-    {
-      "basename": "Pasted Image 20240108004108_047",
-      "path": "Pasted Image/Pasted Image 20240108004108_047.png"
-    },
-    {
-      "basename": "Pasted Image 20240317224109_546",
-      "path": "Mind Map/Pasted Image 20240317224109_546.png"
-    },
-    {
-      "basename": "Pasted Image 20240317231339_696",
-      "path": "Mind Map/Pasted Image 20240317231339_696.png"
-    },
-    {
-      "basename": "Pasted Image 20240317233045_784",
-      "path": "Mind Map/Pasted Image 20240317233045_784.png"
-    },
-    {
-      "basename": "Pasted Image 20240317233120_789",
-      "path": "Mind Map/Pasted Image 20240317233120_789.png"
-    },
-    {
-      "basename": "Pasted Image 20240318151139_509",
-      "path": "Mind Map/Pasted Image 20240318151139_509.png"
-    },
-    {
-      "basename": "Pasted Image 20240318154849_985",
-      "path": "Mind Map/Pasted Image 20240318154849_985.png"
-    },
-    {
-      "basename": "Pasted Image 20240318165656_009",
-      "path": "Mind Map/Pasted Image 20240318165656_009.png"
-    },
-    {
-      "basename": "Pasted Image 20240318175558_322",
-      "path": "Mind Map/Pasted Image 20240318175558_322.png"
-    },
-    {
-      "basename": "Pasted image 20240319103359",
-      "path": "Mind Map/Pasted image 20240319103359.png"
-    },
-    {
-      "basename": "Pasted image 20240408151009",
-      "path": "Mind Map/Pasted image 20240408151009.png"
-    },
-    {
-      "basename": "REDOG",
-      "path": "KpqC/REDOG.md"
-    },
-    {
-      "basename": "FALOMA",
-      "path": "KpqC/FALOMA.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "JOB",
-      "path": "JOB.md"
-    },
-    {
-      "basename": "Question Prompt",
-      "path": "Question Prompt.md"
-    },
-    {
-      "basename": "Obsidian-Zotero",
-      "path": "0 Research/Obsidian-Zotero.md"
-    },
-    {
-      "basename": "Github SSH Setup",
-      "path": "Github SSH Setup.md"
     }
   ],
   "omittedPaths": [],
