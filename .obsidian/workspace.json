@@ -33,7 +33,7 @@
                 "file": "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas",
                 "viewState": {
                   "x": -230.54685046400084,
-                  "y": -348.5288439539349,
+                  "y": 164.2501017167416,
                   "zoom": -1.2000000000000002
                 }
               }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c94fad5e997c7a2",
