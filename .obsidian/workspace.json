@@ -14,7 +14,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+                "file": "0.0 ThinkPad-Canvas/Ji Yong-Hyeon.canvas",
                 "viewState": {
                   "x": -100.65922409343926,
                   "y": 157.83491713799174,
@@ -30,11 +30,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0.0. MyThinkPad/Cryptology.canvas",
+                "file": "0.0 ThinkPad-Canvas/Cryptology.canvas",
                 "viewState": {
-                  "x": -104.69992693397396,
-                  "y": 691.7869404678663,
-                  "zoom": -0.4000000000000006
+                  "x": 3,
+                  "y": 253.92642190416925,
+                  "zoom": -0.5734855351021504
                 }
               }
             }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0. MyThinkPad/Cryptology.canvas",
+                "file": "0.0 ThinkPad-Canvas/Cryptology.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0. MyThinkPad/Cryptology.canvas",
+                "file": "0.0 ThinkPad-Canvas/Cryptology.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0. MyThinkPad/Cryptology.canvas"
+                "file": "0.0 ThinkPad-Canvas/Cryptology.canvas"
               }
             }
           },
@@ -200,8 +199,10 @@
   },
   "active": "ff304a77dc5dacb3",
   "lastOpenFiles": [
+    "0.0 ThinkPad-Canvas/Ji-YH-Workflow.canvas",
+    "0.0 ThinkPad-Canvas/Cryptology.canvas",
+    "0.0 ThinkPad-Canvas",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240521.md",
-    "0.0. MyThinkPad/Cryptology.canvas",
     "2024-Spring/Logic-for-Comunication/LfC 240516-240521.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/Untitled",
     "2024-Spring/Logic-for-Comunication/LfC 240509.md",
@@ -218,7 +219,7 @@
     "0 Research/test.canvas",
     "0 Research/Research-CAC-CANVAS.canvas",
     "0 Research/SoK_Computer-Aided_Cryptography.md",
-    "0.0. MyThinkPad/Ji Yong-Hyeon.canvas",
+    "0.0 ThinkPad-Canvas/Ji Yong-Hyeon.canvas",
     "0 Research/ChatGPT Prompt.md",
     "0 Research/paper.md",
     "0 Research/Template/Paper.md",
@@ -245,7 +246,6 @@
     "JOB.md",
     "Question Prompt.md",
     "0 Research/Trend-Survey",
-    "Untitled",
     "0 Research",
     "2024-Spring/Capstone-Design/Capstone-Degisn-CANVAS.canvas",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC-CANVAS.canvas",

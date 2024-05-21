@@ -2,7 +2,11 @@
   "recentFiles": [
     {
       "basename": "Cryptology",
-      "path": "0.0. MyThinkPad/Cryptology.canvas"
+      "path": "0.0 ThinkPad-Canvas/Cryptology.canvas"
+    },
+    {
+      "basename": "Ji-YH-Workflow",
+      "path": "0.0 ThinkPad-Canvas/Ji-YH-Workflow.canvas"
     },
     {
       "basename": "ACP 240521",
@@ -66,7 +70,7 @@
     },
     {
       "basename": "Ji Yong-Hyeon",
-      "path": "0.0. MyThinkPad/Ji Yong-Hyeon.canvas"
+      "path": "0.0 ThinkPad-Canvas/Ji Yong-Hyeon.canvas"
     },
     {
       "basename": "ChatGPT Prompt",
@@ -195,10 +199,6 @@
     {
       "basename": "Github SSH Setup",
       "path": "Github SSH Setup.md"
-    },
-    {
-      "basename": "High-Assurance Cryptography",
-      "path": "0 Research/High-Assurance Cryptography.md"
     }
   ],
   "omittedPaths": [],
