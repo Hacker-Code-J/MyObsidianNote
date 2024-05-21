@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"bdeb419b31214732","x":-380,"y":-180,"width":760,"height":400,"type":"text","text":"> [!note] Cryptography\n> **Cryptography** focuses on creating secret codes.\n> \n> Objective:\n> - Confidentiality\n> - Integrity\n> - Authentication\n> - Non-repudiation\n"},
+		{"id":"71948d966a5fe38d","x":-720,"y":-100,"width":250,"height":60,"type":"text","text":"Confidentiality"},
+		{"id":"c28a1fe044420b79","x":-720,"y":20,"width":250,"height":60,"type":"text","text":"Integrity"},
+		{"id":"3a66594d77950ddc","x":-939,"y":160,"width":250,"height":60,"type":"text","text":"Hash Function"},
+		{"id":"9d07ae0cf6c27744","type":"text","text":"Asymmetric-Key","x":-1084,"y":-40,"width":290,"height":60},
+		{"id":"c2cdee0d6d9264e1","x":-1044,"y":-160,"width":250,"height":60,"type":"text","text":"Symmetric-Key"},
+		{"id":"3bb8ad6611711bc6","x":840,"y":190,"width":250,"height":60,"type":"text","text":"> [!note] Cryptology"},
+		{"id":"48adf1907667dff0","x":-260,"y":280,"width":940,"height":740,"type":"text","text":"> [!note] Cryptanalysis\n> **Cryptanalysis** is the study of the cryptographic algorithm and\n> the breaking of those secret codes.\n> \n> Types of Cryptanalytic attacks :\n> - Ciphertext-Only Attack (COA)\n> - Known-Plaintext Attack (KPA)\n> - Chosen-Plaintext Attack (CPA)\n> - Chosen-Ciphertext Attack (CCA)\n> - Adaptive Chosen-Ciphertext Attack (CCA2)\n> ---\n> - Birthday Attack\n> - Brute-force Attack\n> ---\n> - Differential Cryptanalysis\n> - Linear Cryptanalysis\n\n"}
+	],
+	"edges":[
+		{"id":"9bf34fb8d1b39db3","fromNode":"3bb8ad6611711bc6","fromSide":"left","toNode":"bdeb419b31214732","toSide":"right"},
+		{"id":"cef4164d9ec25a8f","fromNode":"3bb8ad6611711bc6","fromSide":"left","toNode":"48adf1907667dff0","toSide":"right"},
+		{"id":"93135c33aec15689","fromNode":"bdeb419b31214732","fromSide":"left","toNode":"71948d966a5fe38d","toSide":"right"},
+		{"id":"9b0f83f4bc3b53ed","fromNode":"bdeb419b31214732","fromSide":"left","toNode":"c28a1fe044420b79","toSide":"right"},
+		{"id":"cd2c467b007b1aa6","fromNode":"71948d966a5fe38d","fromSide":"left","toNode":"c2cdee0d6d9264e1","toSide":"right"},
+		{"id":"704deea97e29468a","fromNode":"71948d966a5fe38d","fromSide":"left","toNode":"9d07ae0cf6c27744","toSide":"right"},
+		{"id":"5fec9c051c8ecf9c","fromNode":"c28a1fe044420b79","fromSide":"left","toNode":"3a66594d77950ddc","toSide":"right"}
+	]
+}

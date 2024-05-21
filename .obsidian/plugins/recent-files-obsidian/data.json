@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Cryptology",
+      "path": "0.0. MyThinkPad/Cryptology.canvas"
+    },
+    {
       "basename": "ACP 240521",
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240521.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "High-Assurance Cryptography",
       "path": "0 Research/High-Assurance Cryptography.md"
-    },
-    {
-      "basename": "Paper-draft1",
-      "path": "0 Research/Paper-draft1.md"
     }
   ],
   "omittedPaths": [],
