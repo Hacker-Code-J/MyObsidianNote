@@ -32,15 +32,30 @@
               "state": {
                 "file": "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas",
                 "viewState": {
-                  "x": 289.9800478933321,
-                  "y": -85.3711444855347,
-                  "zoom": -0.8000000000000002
+                  "x": 338.5725914309314,
+                  "y": -252.92719716589602,
+                  "zoom": -1.2000000000000002
+                }
+              }
+            }
+          },
+          {
+            "id": "85c11b9d8dc2824f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "0 Research/Research-CAC-CANVAS.canvas",
+                "viewState": {
+                  "x": -245.4113434218651,
+                  "y": -1177.7822528080387,
+                  "zoom": -1.1165665710670383
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas",
+                "file": "0 Research/Research-CAC-CANVAS.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas",
+                "file": "0 Research/Research-CAC-CANVAS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas"
+                "file": "0 Research/Research-CAC-CANVAS.canvas"
               }
             }
           },
@@ -198,8 +213,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ff304a77dc5dacb3",
+  "active": "85c11b9d8dc2824f",
   "lastOpenFiles": [
+    "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas",
     "0 Research/Research-CAC-CANVAS.canvas",
     "0.0 ThinkPad-Canvas/Ji Yong-Hyeon.canvas",
     "0.0 ThinkPad-Canvas/Cryptology.canvas",
@@ -227,7 +243,6 @@
     "0.7. CSE/Research/FV for HIGHT.md",
     "0.7. CSE/Intern/LEA.md",
     "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
-    "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas",
     "0.0 ThinkPad-Canvas",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240521.md",
     "2024-Spring/Logic-for-Comunication/LfC 240516-240521.md",
