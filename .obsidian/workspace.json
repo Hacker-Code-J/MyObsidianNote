@@ -43,14 +43,12 @@
             "id": "85c11b9d8dc2824f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0 Research/Research-CAC-CANVAS.canvas",
-                "viewState": {
-                  "x": -245.4113434218651,
-                  "y": -1177.7822528080387,
-                  "zoom": -1.1165665710670383
-                }
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240523.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -138,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Research/Research-CAC-CANVAS.canvas",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240523.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Research/Research-CAC-CANVAS.canvas",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240523.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Research/Research-CAC-CANVAS.canvas"
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240523.md"
               }
             }
           },
@@ -216,6 +214,7 @@
   "active": "85c11b9d8dc2824f",
   "lastOpenFiles": [
     "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas",
+    "2024-Spring/Logic-for-Comunication/LfC 240523.md",
     "0 Research/Research-CAC-CANVAS.canvas",
     "0.0 ThinkPad-Canvas/Ji Yong-Hyeon.canvas",
     "0.0 ThinkPad-Canvas/Cryptology.canvas",
@@ -249,7 +248,6 @@
     "2024-Spring/Advanced-Cryptology-and-Practice/Untitled",
     "2024-Spring/Logic-for-Comunication/LfC 240509.md",
     "2024-Spring/Logic-for-Comunication/LfC 240514.md",
-    "2024-Spring/Logic-for-Comunication/LfC 240507.md",
     "2024-Spring/Introduction-to-Cryptanalysis/Untitled",
     "0 Research/test.canvas",
     "0 Research/Template",
