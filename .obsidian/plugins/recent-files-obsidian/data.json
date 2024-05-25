@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "ItC 240429",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240429.md"
+    },
+    {
+      "basename": "ItC 240513",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240513.md"
+    },
+    {
+      "basename": "ItC 240520",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md"
+    },
+    {
       "basename": "LfC 240523",
       "path": "2024-Spring/Logic-for-Comunication/LfC 240523.md"
     },
@@ -141,10 +153,6 @@
       "path": "2024-Spring/Logic-for-Comunication/LfC 240430.md"
     },
     {
-      "basename": "ItC 240520",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md"
-    },
-    {
       "basename": "HIGHT-FV",
       "path": "0 Research/HIGHT-FV.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted Image 20240110130725_546",
       "path": "Pasted Image/Pasted Image 20240110130725_546.png"
-    },
-    {
-      "basename": "Pasted Image 20240110131154_119",
-      "path": "Pasted Image/Pasted Image 20240110131154_119.png"
-    },
-    {
-      "basename": "Pasted Image 20240122215140_767",
-      "path": "Pasted Image/Pasted Image 20240122215140_767.png"
     }
   ],
   "omittedPaths": [],
