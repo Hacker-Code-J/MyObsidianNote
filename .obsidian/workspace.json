@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md",
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240527.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md",
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240527.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md",
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240527.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md"
+                "file": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240527.md"
               }
             }
           },
@@ -226,8 +226,9 @@
   },
   "active": "dd8a09d4f7816645",
   "lastOpenFiles": [
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240429.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md",
+    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240527.md",
+    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240429.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240513.md",
     "2024-Spring/Logic-for-Comunication/LfC 240523.md",
     "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas",
@@ -260,7 +261,6 @@
     "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
     "0.0 ThinkPad-Canvas",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240521.md",
-    "2024-Spring/Logic-for-Comunication/LfC 240516-240521.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/Untitled",
     "2024-Spring/Introduction-to-Cryptanalysis/Untitled",
     "0 Research/test.canvas",
