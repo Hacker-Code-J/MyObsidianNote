@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "LfC 240530",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240530.md"
+    },
+    {
+      "basename": "Drawing 2024-03-26 11.30.42.excalidraw",
+      "path": "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md"
+    },
+    {
+      "basename": "LfC - CANVAS",
+      "path": "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas"
+    },
+    {
       "basename": "LfC 240523-240528",
       "path": "2024-Spring/Logic-for-Comunication/LfC 240523-240528.md"
     },
     {
-      "basename": "ItC 240527",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240527.md"
+      "basename": "Computer-Aided Cryptography (CAC)",
+      "path": "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas"
     },
     {
       "basename": "ItC 240520",
       "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md"
+    },
+    {
+      "basename": "ItC 240527",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240527.md"
     },
     {
       "basename": "ItC 240429",
@@ -23,10 +39,6 @@
     {
       "basename": "ItC 240513",
       "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240513.md"
-    },
-    {
-      "basename": "Computer-Aided Cryptography (CAC)",
-      "path": "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas"
     },
     {
       "basename": "Research-CAC-CANVAS",
@@ -187,18 +199,6 @@
     {
       "basename": "Paper",
       "path": "0 Research/Template/Paper.md"
-    },
-    {
-      "basename": "Nerd Fonts",
-      "path": "Tips/Nerd Fonts.md"
-    },
-    {
-      "basename": "LaTex on CLI",
-      "path": "Tips/LaTex on CLI.md"
-    },
-    {
-      "basename": "Install Font in Debian",
-      "path": "Tips/Install Font in Debian.md"
     }
   ],
   "omittedPaths": [],
