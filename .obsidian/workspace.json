@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240312.md",
+                "file": "2024-Spring/Leadership-Challenge/LC 240531.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240312.md",
+                "file": "2024-Spring/Leadership-Challenge/LC 240531.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240312.md",
+                "file": "2024-Spring/Leadership-Challenge/LC 240531.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240312.md"
+                "file": "2024-Spring/Leadership-Challenge/LC 240531.md"
               }
             }
           },
@@ -222,6 +223,8 @@
   },
   "active": "fcf43e582f1d688b",
   "lastOpenFiles": [
+    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240312.md",
+    "2024-Spring/Leadership-Challenge/LC 240531.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240319.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240401.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240408.md",
@@ -230,7 +233,6 @@
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240325.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240318.md",
-    "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240312.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240311.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240527.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240521.md",
@@ -253,7 +255,6 @@
     "0.1. C Programming/Assembly/Swap Aanlysis.md",
     "0.1. Coq/Coq-Core-Drawing.md",
     "0.1. Coq/Coq-Core-CANVAS.canvas",
-    "0.1. Coq/Gödel's Completeness Theorem.md",
     "images/CSE/CBC_DEC.png",
     "0.0 ThinkPad-Canvas/Ji-YH-Workflow.canvas",
     "0.7. CSE/CSE/Formal-Verification-CANVAS.canvas",
