@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "LC 240531",
-      "path": "2024-Spring/Leadership-Challenge/LC 240531.md"
+      "basename": "ItC 240527",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240527.md"
+    },
+    {
+      "basename": "ItC 240520",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md"
+    },
+    {
+      "basename": "ItC 240513",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240513.md"
+    },
+    {
+      "basename": "ItC 240429",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240429.md"
+    },
+    {
+      "basename": "ItC 240415",
+      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md"
+    },
+    {
+      "basename": "LC 240329",
+      "path": "2024-Spring/Leadership-Challenge/LC 240329.md"
+    },
+    {
+      "basename": "LC 240412",
+      "path": "2024-Spring/Leadership-Challenge/LC 240412.md"
+    },
+    {
+      "basename": "LC 240419",
+      "path": "2024-Spring/Leadership-Challenge/LC 240419.md"
+    },
+    {
+      "basename": "LC 240503",
+      "path": "2024-Spring/Leadership-Challenge/LC 240503.md"
+    },
+    {
+      "basename": "LfC 240502",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240502.md"
+    },
+    {
+      "basename": "LfC 240430",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240430.md"
+    },
+    {
+      "basename": "LfC 240507",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240507.md"
+    },
+    {
+      "basename": "LfC 240514",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240514.md"
+    },
+    {
+      "basename": "LfC 240516-240521",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240516-240521.md"
+    },
+    {
+      "basename": "LfC 240523-240528",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240523-240528.md"
+    },
+    {
+      "basename": "LfC 240530",
+      "path": "2024-Spring/Logic-for-Comunication/LfC 240530.md"
     },
     {
       "basename": "ACP 240312",
@@ -69,10 +129,6 @@
       "path": "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240415.md"
     },
     {
-      "basename": "LfC 240530",
-      "path": "2024-Spring/Logic-for-Comunication/LfC 240530.md"
-    },
-    {
       "basename": "Drawing 2024-03-26 11.30.42.excalidraw",
       "path": "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md"
     },
@@ -81,28 +137,8 @@
       "path": "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas"
     },
     {
-      "basename": "LfC 240523-240528",
-      "path": "2024-Spring/Logic-for-Comunication/LfC 240523-240528.md"
-    },
-    {
       "basename": "Computer-Aided Cryptography (CAC)",
       "path": "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas"
-    },
-    {
-      "basename": "ItC 240520",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md"
-    },
-    {
-      "basename": "ItC 240527",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240527.md"
-    },
-    {
-      "basename": "ItC 240429",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240429.md"
-    },
-    {
-      "basename": "ItC 240513",
-      "path": "2024-Spring/Introduction-to-Cryptanalysis/ItC 240513.md"
     },
     {
       "basename": "Research-CAC-CANVAS",
@@ -163,42 +199,6 @@
     {
       "basename": "Chapter 1. Preliminaries",
       "path": "2.0. Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md"
-    },
-    {
-      "basename": "1.2. The Binomial Theorem",
-      "path": "2.0. Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md"
-    },
-    {
-      "basename": "1.1. Mathematical Induction",
-      "path": "2.0. Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
-    },
-    {
-      "basename": "2.1.1. Discrete Mathematics",
-      "path": "2.1. Discrete Mathematics/2.1.1. Discrete Mathematics.md"
-    },
-    {
-      "basename": "1. Multiple '.rs' files in Rust",
-      "path": "My Language Training/Rust Note/1. Multiple '.rs' files in Rust.md"
-    },
-    {
-      "basename": "0. Installation and Setup",
-      "path": "My Language Training/Rust Note/0. Installation and Setup.md"
-    },
-    {
-      "basename": "static vs const vs static const",
-      "path": "My Language Training/C Note/static vs const vs static const.md"
-    },
-    {
-      "basename": "CBC_DEC",
-      "path": "images/CSE/CBC_DEC.png"
-    },
-    {
-      "basename": "Ji-YH-Workflow",
-      "path": "0.0 ThinkPad-Canvas/Ji-YH-Workflow.canvas"
-    },
-    {
-      "basename": "FV for HIGHT",
-      "path": "0.7. CSE/Research/FV for HIGHT.md"
     }
   ],
   "omittedPaths": [],
