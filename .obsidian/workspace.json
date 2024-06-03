@@ -43,9 +43,12 @@
             "id": "465bc5441affe97a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md"
+                "file": "2024-Spring/ACP 240603.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -116,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c94fad5e997c7a2",
@@ -132,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md",
+                "file": "2024-Spring/ACP 240603.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md",
+                "file": "2024-Spring/ACP 240603.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md"
+                "file": "2024-Spring/ACP 240603.md"
               }
             }
           },
@@ -209,6 +213,9 @@
   },
   "active": "465bc5441affe97a",
   "lastOpenFiles": [
+    "0.7. CSE/CSE/CSE-AES-Drawing.md",
+    "2024-Spring/ACP 240603.md",
+    "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240527.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP 240305.md",
     "2024-Spring/Advanced-Cryptology-and-Practice/ACP-Asgnmt-Drawing.md",
@@ -232,9 +239,6 @@
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240513.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240429.md",
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240415.md",
-    "2024-Spring/Leadership-Challenge/LC 240329.md",
-    "2024-Spring/Leadership-Challenge/LC 240412.md",
     "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
     "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas",
     "0 Research/Research-CAC-CANVAS.canvas",
