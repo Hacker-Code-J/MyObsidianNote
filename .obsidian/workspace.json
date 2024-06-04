@@ -45,7 +45,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-Spring/ACP 240603.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240604.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9839720c9d1e037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240530.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -53,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Spring/ACP 240603.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240530.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Spring/ACP 240603.md",
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240530.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Spring/ACP 240603.md"
+                "file": "2024-Spring/Logic-for-Comunication/LfC 240530.md"
               }
             }
           },
@@ -211,8 +224,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "465bc5441affe97a",
+  "active": "c9839720c9d1e037",
   "lastOpenFiles": [
+    "2024-Spring/Logic-for-Comunication/LfC 240604.md",
     "2024-Spring/ACP 240603.md",
     "0.7. CSE/CSE/CSE-AES-Drawing.md",
     "2024-Spring/Logic-for-Comunication/Drawing 2024-03-26 11.30.42.excalidraw.md",
@@ -238,7 +252,6 @@
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240527.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240520.md",
     "2024-Spring/Introduction-to-Cryptanalysis/ItC 240513.md",
-    "2024-Spring/Introduction-to-Cryptanalysis/ItC 240429.md",
     "2024-Spring/Logic-for-Comunication/LfC - CANVAS.canvas",
     "0.0 ThinkPad-Canvas/Computer-Aided Cryptography (CAC).canvas",
     "0 Research/Research-CAC-CANVAS.canvas",
