@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiGoogledataproc",
+      "SiDatabricks",
       "SiZotero",
       "SiSecurityscorecard",
-      "SiLibreofficemath",
-      "SiGooglescholar",
-      "SiCryptpad"
+      "SiLibreofficemath"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,5 +52,6 @@
   "EasyCrypt": "SiSecurityscorecard",
   "Enjoying-Math": "SiLibreofficemath",
   "Number Theory": "SiLibreofficemath",
-  "Zotero": "SiZotero"
+  "Zotero": "SiZotero",
+  "DB": "SiGoogledataproc"
 }

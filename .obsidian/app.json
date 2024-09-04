@@ -9,5 +9,7 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "0 InBox-Default-Note",
-  "attachmentFolderPath": "0 Attachment-Folder-Path"
+  "attachmentFolderPath": "0 Attachment-Folder-Path",
+  "showUnsupportedFiles": false,
+  "propertiesInDocument": "source"
 }

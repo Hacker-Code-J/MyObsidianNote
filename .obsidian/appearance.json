@@ -5,7 +5,8 @@
     "notion-cards",
     "custom-rainbow-colors",
     "extended-colorschemes",
-    "thm-main"
+    "thm-main",
+    "yaml-fix"
   ],
   "textFontFamily": "URW Gothic",
   "interfaceFontFamily": "URW Gothic",

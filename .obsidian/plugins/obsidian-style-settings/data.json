@@ -60,5 +60,6 @@
   "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-sky",
   "anuppuccin-theme-settings@@anp-h4-color-custom": "anp-h4-teal",
   "anuppuccin-theme-settings@@anp-h5-color-custom": "anp-h5-maroon",
-  "anuppuccin-theme-settings@@anp-h6-color-custom": "anp-h6-flamingo"
+  "anuppuccin-theme-settings@@anp-h6-color-custom": "anp-h6-flamingo",
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true
 }

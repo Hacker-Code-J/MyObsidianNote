@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"efdfe66cbe25829a","type":"group","x":320,"y":-460,"width":880,"height":510,"label":"Polynomial Ring with Complex Coefficient"},
+		{"id":"e2f94fbf8e5b899d","type":"group","x":320,"y":100,"width":880,"height":510,"label":"Commutative Ring"},
+		{"id":"8d90528cbc975938","type":"text","text":"$\\mathbb{C}[x]$","x":360,"y":-400,"width":80,"height":50},
+		{"id":"deaaf460b1615f7f","type":"text","text":"$f\\in\\mathbb{C}[x]$","x":340,"y":-280,"width":120,"height":50},
+		{"id":"57a34f419fb3e0d0","type":"text","text":"$f:\\mathbb{C}\\to\\mathbb{C}$","x":330,"y":-180,"width":140,"height":50},
+		{"id":"cb8aefbbfc1d02eb","type":"text","text":"$\\mathbb{C}$","x":556,"y":-230,"width":60,"height":50},
+		{"id":"b5a91510e6c59441","type":"text","text":"$\\mathbb{C}$","x":556,"y":-130,"width":60,"height":50},
+		{"id":"8cbd0102283c1fc7","type":"text","text":"$\\mathbb{C}$","x":551,"y":-400,"width":71,"height":50},
+		{"id":"eb9efffb6a474c43","type":"text","text":"$\\mathbb{C}\\simeq\\mathbb{C}[x]/\\langle x-\\alpha\\rangle$\n\n$f(\\alpha)=0\\iff \\overline{f}\\in\\mathbb{C}[x]/\\langle x-\\alpha\\rangle$\n","x":855,"y":-427,"width":300,"height":105},
+		{"id":"6787afc0cc6ed1ef","type":"text","text":"$\\set{M\\subsetneq \\mathbb{C}[x]:M\\ \\text{is maximal}}=\\set{\\langle x-\\alpha\\rangle:\\alpha\\in\\mathbb{C}}$","x":680,"y":-230,"width":440,"height":50},
+		{"id":"c2d902228a171257","type":"text","text":"$R$","x":370,"y":160,"width":60,"height":50},
+		{"id":"e62498539b5066f6","type":"text","text":"$r\\in R$","x":355,"y":280,"width":90,"height":50},
+		{"id":"2294addf956a142f","type":"text","text":"$\\set{M\\subsetneq R:M\\ \\text{is maximal}}$","x":740,"y":330,"width":299,"height":50},
+		{"id":"332fd81e10b34536","type":"text","text":"$r:\\set{M\\subsetneq R:M\\ \\text{is maximal}}\\to\\coprod_{M}R/M$","x":340,"y":420,"width":370,"height":50},
+		{"id":"e6c8a9e220b07971","x":740,"y":540,"width":121,"height":50,"type":"text","text":"$\\coprod_{M}R/M$"},
+		{"id":"6e71fd0b025fe93f","type":"text","text":"$F=R/M$\n\n$f(\\alpha)=0\\iff r\\in R/M$\n","x":739,"y":133,"width":300,"height":105}
+	],
+	"edges":[
+		{"id":"0018e30a90b837a5","fromNode":"8d90528cbc975938","fromSide":"bottom","toNode":"deaaf460b1615f7f","toSide":"top"},
+		{"id":"312f31d00628ba9c","fromNode":"deaaf460b1615f7f","fromSide":"bottom","toNode":"57a34f419fb3e0d0","toSide":"top"},
+		{"id":"95d3745f262c4d6b","fromNode":"57a34f419fb3e0d0","fromSide":"top","toNode":"deaaf460b1615f7f","toSide":"bottom"},
+		{"id":"c0a584fb621bb96b","fromNode":"57a34f419fb3e0d0","fromSide":"right","toNode":"cb8aefbbfc1d02eb","toSide":"left","label":"Dom"},
+		{"id":"61b5d151002daf39","fromNode":"57a34f419fb3e0d0","fromSide":"right","toNode":"b5a91510e6c59441","toSide":"left","label":"Cdm"},
+		{"id":"a45d6f12baebfe44","fromNode":"8d90528cbc975938","fromSide":"right","toNode":"8cbd0102283c1fc7","toSide":"left","label":"Eval"},
+		{"id":"17e1ffdd89bbaaa1","fromNode":"8cbd0102283c1fc7","fromSide":"right","toNode":"eb9efffb6a474c43","toSide":"left","label":"First\nIsomorphism\nTheorem"},
+		{"id":"bbe3fff35ce19015","fromNode":"eb9efffb6a474c43","fromSide":"bottom","toNode":"cb8aefbbfc1d02eb","toSide":"top"},
+		{"id":"1cd405b5433344b3","fromNode":"cb8aefbbfc1d02eb","fromSide":"right","toNode":"6787afc0cc6ed1ef","toSide":"left"},
+		{"id":"336218a8f8e30d1f","fromNode":"6787afc0cc6ed1ef","fromSide":"left","toNode":"cb8aefbbfc1d02eb","toSide":"right"},
+		{"id":"df175548f9dde90f","fromNode":"c2d902228a171257","fromSide":"bottom","toNode":"e62498539b5066f6","toSide":"top"},
+		{"id":"cc16eac7f1ae3a0b","fromNode":"e62498539b5066f6","fromSide":"bottom","toNode":"332fd81e10b34536","toSide":"top"},
+		{"id":"19587fa04a54cd4a","fromNode":"332fd81e10b34536","fromSide":"top","toNode":"e62498539b5066f6","toSide":"bottom"},
+		{"id":"a1ead7b8920babbf","fromNode":"332fd81e10b34536","fromSide":"right","toNode":"2294addf956a142f","toSide":"left","label":"Dom"},
+		{"id":"a67612be3a883f54","fromNode":"6e71fd0b025fe93f","fromSide":"bottom","toNode":"2294addf956a142f","toSide":"top"},
+		{"id":"72221f278f4e0df4","fromNode":"332fd81e10b34536","fromSide":"right","toNode":"e6c8a9e220b07971","toSide":"left","label":"Cdm"}
+	]
+}

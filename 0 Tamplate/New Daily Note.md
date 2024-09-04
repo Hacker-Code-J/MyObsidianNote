@@ -1,3 +1,11 @@
+---
+title: "Note Title"
+date: 22024-09-04
+tags: ["tag1", "tag2"] 
+status: 
+draft" author: "Your Name"
+---
+
 # {{date}}
 
 ## 1. Top Research Goal for Today
