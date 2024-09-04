@@ -1,58 +1,22 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"0.0. MyThinkPad\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 65531
-      }
-    },
-    {
-      "query": "path:\"0.1. C Programming\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16639
-      }
-    },
-    {
-      "query": "path:\"0.1. Rust Programming\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16753152
-      }
-    },
-    {
-      "query": "path:\"1.1. AES\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 15597823
-      }
-    },
-    {
-      "query": "path:2024  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    }
-  ],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.23983957219251,
-  "lineSizeMultiplier": 1.51497326203209,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3003387451171875,
-  "close": false
+  "scale": 0.9999999999999994,
+  "close": true
 }

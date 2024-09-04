@@ -1,5 +1,0 @@
-
-[[Computer Language]]
-
-Syntax
-Semantic

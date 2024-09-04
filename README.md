@@ -1,25 +1,6 @@
 # MyObsidianNote
-The Second Brain
 
-```
-- [ ] open
-- [x] complete
-- [!] important
-- [>] deferred
-- [?] question
-- [i] info
-- [-] canceled 
-- [/] partial
-```
-
-- [ ] open
-- [x] complete
-- [!] important
-- [>] deferred
-- [?] question
-- [i] info
-- [-] canceled 
-- [/] partial
+# The Second Brain / Zettelkasten
 
 ## <span style="color:#8a2be2;">Career Highlights</span> 🌟
 

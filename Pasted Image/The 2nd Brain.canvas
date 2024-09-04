@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"a0a54067640cee1c","x":-140,"y":160,"width":780,"height":340,"color":"5","type":"text","text":"Coding Theory\n- https://www.youtube.com/playlist?list=PLvK6ro3GgRq-FTe0RJYsWThoSG5dFsQkR\n- https://horizon.kias.re.kr/7937/\n- \n\n\n"},
-		{"id":"09af3f258377ebbd","x":-400,"y":-380,"width":440,"height":300,"type":"link","url":"https://horizon.kias.re.kr/19364/"},
-		{"id":"616ad4685caccd47","x":280,"y":-520,"width":457,"height":185,"type":"text","text":"Machine Learning\n- https://horizon.kias.re.kr/22985/"},
-		{"id":"7c9058d8a50b4983","x":140,"y":-230,"width":680,"height":330,"type":"link","url":"https://openmynotepad.tistory.com/97"}
-	],
-	"edges":[]
-}

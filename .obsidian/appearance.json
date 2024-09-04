@@ -1,12 +1,14 @@
 {
-  "accentColor": "",
-  "cssTheme": "Things",
+  "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
-    "graph_veiw",
-    "myTheme1",
-    "code"
+    "minimal-cards",
+    "notion-cards",
+    "custom-rainbow-colors",
+    "extended-colorschemes"
   ],
-  "theme": "moonstone",
-  "nativeMenus": false,
-  "baseFontSize": 23
+  "textFontFamily": "URW Gothic",
+  "interfaceFontFamily": "URW Gothic",
+  "monospaceFontFamily": "Comic Mono",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true
 }
