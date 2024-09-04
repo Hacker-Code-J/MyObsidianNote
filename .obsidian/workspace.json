@@ -34,32 +34,45 @@
             "id": "76af98dcb82d823e",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+                "viewState": {
+                  "x": 1119.650214120137,
+                  "y": 60.632774128951155,
+                  "zoom": -0.6000000000000004
+                }
+              }
+            }
+          },
+          {
+            "id": "3f2d16ce5618b7f1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Obsidian-Setup/1. Callout.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "6a12ab119a44b1e5",
+            "id": "f79f0eda0ec4ae8e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
-                "viewState": {
-                  "x": 571.5917695457672,
-                  "y": 155.57369225917,
-                  "zoom": 0.19999999999999996
-                }
+                "file": "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,8 +134,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,22 +221,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43e13291213d8618",
+  "active": "76af98dcb82d823e",
   "lastOpenFiles": [
+    "Obsidian-Setup/1. Callout.md",
+    "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
+    "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.2. The Greatest Common Divisor.md",
+    "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md",
+    "Number Theory/Number Theroy.md",
+    "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
+    "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
+    "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+    "0 Tamplate/Math-Note.md",
+    "0 Tamplate/New Programming Notes.md",
+    "0 Tamplate/New Cryptology Note.md",
+    "README.md",
+    "0 Daily-Note/2024-09-04.md",
     "0 Tamplate/Research-Paper-Callout.md",
     "0 Tamplate/Research-Paper.md",
     "0 Tamplate/Research Topic.md",
     "0 Tamplate/New Zotero Note.md",
-    "0 Tamplate/New Programming Notes.md",
     "0 Tamplate/New Mathematics Notes.md",
     "0 Tamplate/New Daily Note.md",
-    "0 Tamplate/New Cryptology Note.md",
-    "0 Tamplate/Math-Note.md",
     "Obsidian-Setup/0. Hotkey.md",
     "Enjoying-Math/Algebra/Localization.md",
-    "README.md",
-    "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
-    "Obsidian-Setup/1. Callout.md",
     "Obsidian-Lecture/Obsidian-lecture-Dataview.md",
     "Enjoying-Math/0 Fundamentals",
     "Obsidian-Setup/2. Community Plugin.md",
@@ -233,14 +252,7 @@
     "Obsidian-Setup/2. Core Plugins.md",
     "Zotero/Setup for Zotero.md",
     "Zotero/@Biere2009.md",
-    "Zotero/XPI files.md",
     "Zotero",
-    "0 Daily-Note/2024-09-04.md",
-    "LaTex/Untitled.md",
-    "AES-Theory/1 Overview of AES.md",
-    "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
-    "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
-    "Enjoying-Math/A.md",
     "Enjoying-Math/Algebra",
     "Enjoying-Math",
     "0 Daily-Note",
