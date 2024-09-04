@@ -1,0 +1,31 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Zotero",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Chicago-Bib",
+      "format": "formatted-citation"
+    },
+    {
+      "name": "Chicago-Citation",
+      "format": "formatted-citation",
+      "cslStyle": "chicago-fullnote-bibliography"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Create Zotero Note",
+      "outputPathTemplate": "Zotero/@{{citekey}}.md",
+      "imageOutputPathTemplate": "Zotero/@{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "0 Tamplate/New Zotero Note.md",
+      "cslStyle": "chicago-note-bibliography"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}

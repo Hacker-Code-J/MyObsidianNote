@@ -6,5 +6,12 @@
   "obsidian-outliner",
   "obsidian-zoom",
   "calendar",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-git",
+  "pseudocode-in-obs",
+  "math-in-callout",
+  "obsidian-tikzjax",
+  "obsidian-icon-folder",
+  "math-booster",
+  "obsidian-zotero-desktop-connector"
 ]

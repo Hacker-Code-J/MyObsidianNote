@@ -1,0 +1,74 @@
+/* Theorem Box */
+.callout[data-callout="quote"] {
+    border-left: 4px solid #007ACC;
+    background-color: #f0f8ff;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.callout[data-callout="quote"] > .callout-title {
+    font-weight: bold;
+    font-size: 18px;
+    color: #005b99;
+}
+
+/* Definition Box */
+.callout[data-callout="abstract"] {
+    border-left: 4px solid #32CD32;
+    background-color: #f5fff5;
+}
+
+.callout[data-callout="abstract"] > .callout-title {
+    font-weight: bold;
+    font-size: 18px;
+    color: #228B22;
+}
+
+/* Proof Box */
+.callout[data-callout="check"] {
+    border-left: 4px solid #ff4500;
+    background-color: #fff0e6;
+}
+
+.callout[data-callout="check"] > .callout-title {
+    font-weight: bold;
+    font-size: 18px;
+    color: #ff4500;
+}
+
+/* Example Box */
+.callout[data-callout="example"] {
+    border-left: 4px solid #FFD700;
+    background-color: #fffaf0;
+}
+
+.callout[data-callout="example"] > .callout-title {
+    font-weight: bold;
+    font-size: 18px;
+    color: #FFB900;
+}
+
+/* Observation Box */
+.callout[data-callout="info"] {
+    border-left: 4px solid #4682B4;
+    background-color: #e6f0ff;
+}
+
+.callout[data-callout="info"] > .callout-title {
+    font-weight: bold;
+    font-size: 18px;
+    color: #4682B4;
+}
+
+/* Additional Notes Box */
+.callout[data-callout="note"] {
+    border-left: 4px solid #6A5ACD;
+    background-color: #f5f5ff;
+}
+
+.callout[data-callout="note"] > .callout-title {
+    font-weight: bold;
+    font-size: 18px;
+    color: #483D8B;
+}
+
