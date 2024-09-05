@@ -3,10 +3,11 @@
   "enabledCssSnippets": [
     "minimal-cards",
     "notion-cards",
-    "custom-rainbow-colors",
     "extended-colorschemes",
     "thm-main",
-    "yaml-fix"
+    "yaml-fix",
+    "Colored Sidebar Items",
+    "custom-rainbow-colors"
   ],
   "textFontFamily": "URW Gothic",
   "interfaceFontFamily": "URW Gothic",
