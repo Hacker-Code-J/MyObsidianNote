@@ -31,16 +31,16 @@
             }
           },
           {
-            "id": "76af98dcb82d823e",
+            "id": "4b89449f6b6b1573",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "viewState": {
-                  "x": 1119.650214120137,
-                  "y": 60.632774128951155,
-                  "zoom": -0.6000000000000004
+                  "x": 1254.7163512247093,
+                  "y": 1121.5195868245935,
+                  "zoom": -0.19999999999999984
                 }
               }
             }
@@ -138,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3c21b68808da7721",
@@ -221,22 +222,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76af98dcb82d823e",
+  "active": "4b89449f6b6b1573",
   "lastOpenFiles": [
     "Obsidian-Setup/1. Callout.md",
     "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
+    "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+    "0 Tamplate/Research-Paper-Callout.md",
+    "Algebra-CANVAS.png",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.2. The Greatest Common Divisor.md",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.1. The Division Algorithm.md",
     "Number Theory/Number Theroy.md",
     "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
     "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
-    "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "0 Tamplate/Math-Note.md",
     "0 Tamplate/New Programming Notes.md",
     "0 Tamplate/New Cryptology Note.md",
     "README.md",
     "0 Daily-Note/2024-09-04.md",
-    "0 Tamplate/Research-Paper-Callout.md",
     "0 Tamplate/Research-Paper.md",
     "0 Tamplate/Research Topic.md",
     "0 Tamplate/New Zotero Note.md",
@@ -251,7 +253,6 @@
     "Obsidian-Lecture/Second-Braind-for-Researchers.md",
     "Obsidian-Setup/2. Core Plugins.md",
     "Zotero/Setup for Zotero.md",
-    "Zotero/@Biere2009.md",
     "Zotero",
     "Enjoying-Math/Algebra",
     "Enjoying-Math",
@@ -271,7 +272,6 @@
     "Rust-Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
     "Rust-Programming/Rust-Core-Note/rust-core-image/rust-stackmem.png",
     "Rust-Programming/Rust-Core-Note/rust-core-image/rust-ownership.png",
-    "Rust-Programming/Rust-Core-Note/rust-core-image/rust-clone.png",
     "Rust -Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
     "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
   ]
