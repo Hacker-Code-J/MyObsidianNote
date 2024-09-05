@@ -24,23 +24,23 @@
               "type": "markdown",
               "state": {
                 "file": "Obsidian-Setup/1. Callout.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "288771dae3533057",
+            "id": "8bbc0ef9876258c0",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "viewState": {
-                  "x": 2334.4003511802825,
-                  "y": -89.72255412473771,
-                  "zoom": -0.2490490603446961
+                  "x": 2812.7056306923064,
+                  "y": 281.58753472377293,
+                  "zoom": -1.1102230246251565e-16
                 }
               }
             }
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3c21b68808da7721",
@@ -179,6 +180,18 @@
                 "file": "Enjoying-Math/Algebra/Algebra-CANVAS.canvas"
               }
             }
+          },
+          {
+            "id": "3977349fcfbda16e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -200,16 +213,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "288771dae3533057",
+  "active": "8bbc0ef9876258c0",
   "lastOpenFiles": [
-    "KMU-F24/Secure-Network/SN-240905.md",
-    "0 Tamplate/New Lecture Note.md",
     "Rust-Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
     "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "Obsidian-Setup/1. Callout.md",
+    "0 Tamplate/New Math Note.md",
+    "04 Archives",
+    "03 Resources",
+    "02 Areas",
+    "01 Projects",
+    "0 Tamplate/New Mathematics Notes.md",
+    "KMU-F24/Secure-Network/SN-240905.md",
+    "0 Tamplate/New Lecture Note.md",
     "0 Tamplate/Research-Paper-Callout.md",
     "0 Daily-Note/2024-09-05.md",
     "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
@@ -219,7 +241,6 @@
     "Number Theory/Number Theroy.md",
     "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
     "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
-    "0 Tamplate/Math-Note.md",
     "0 Tamplate/New Programming Notes.md",
     "0 Tamplate/New Cryptology Note.md",
     "README.md",
@@ -227,23 +248,17 @@
     "0 Tamplate/Research-Paper.md",
     "0 Tamplate/Research Topic.md",
     "0 Tamplate/New Zotero Note.md",
-    "0 Tamplate/New Mathematics Notes.md",
     "0 Tamplate/New Daily Note.md",
     "Obsidian-Setup/0. Hotkey.md",
     "Enjoying-Math/Algebra/Localization.md",
     "Obsidian-Lecture/Obsidian-lecture-Dataview.md",
     "Enjoying-Math/0 Fundamentals",
-    "Obsidian-Setup/2. Community Plugin.md",
     "DB",
     "Zotero",
     "Enjoying-Math/Algebra",
     "Enjoying-Math",
     "0 Daily-Note",
-    "0 Tamplate",
-    "Obsidian-Lecture/Notes in Obsidian",
     "0 Attachment-Folder-Path/Pasted Image 20240903140745_715.png",
-    "0 Attachment-Folder-Path",
-    "0 InBox-Default-Note",
     "0 Attachment-Folder-Path/Pasted Image 20240903141525_416.png",
     "0 Attachment-Folder-Path/Pasted Image 20240903141013_696.png",
     "0 Attachment-Folder-Path/Pasted Image 20240903140834_226.png",

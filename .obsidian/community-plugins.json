@@ -17,5 +17,7 @@
   "dataview",
   "table-editor-obsidian",
   "obsidian-toggle-meta-yaml-plugin",
-  "mathlinks"
+  "mathlinks",
+  "advanced-canvas",
+  "canvas-presentation"
 ]

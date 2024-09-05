@@ -7,15 +7,21 @@
   "canvas",
   "outgoing-link",
   "tag-pane",
+  "properties",
   "page-preview",
   "daily-notes",
   "templates",
   "note-composer",
   "command-palette",
+  "slash-command",
   "editor-status",
   "bookmarks",
+  "zk-prefixer",
+  "random-note",
   "outline",
   "word-count",
+  "slides",
   "workspaces",
-  "file-recovery"
+  "file-recovery",
+  "publish"
 ]

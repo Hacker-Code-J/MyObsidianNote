@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiGoogledataproc",
-      "SiDatabricks",
-      "SiZotero",
-      "SiSecurityscorecard",
-      "SiLibreofficemath"
+      "SiCommerzbank",
+      "LiCommand",
+      "🗃",
+      "SiCreatereactapp",
+      "SiAwsorganizations"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,5 +53,9 @@
   "Enjoying-Math": "SiLibreofficemath",
   "Number Theory": "SiLibreofficemath",
   "Zotero": "SiZotero",
-  "DB": "SiGoogledataproc"
+  "DB": "SiGoogledataproc",
+  "01 Projects": "SiPkgsrc",
+  "02 Areas": "SiCommerzbank",
+  "03 Resources": "LiBookMarked",
+  "04 Archives": "LiArchive"
 }
