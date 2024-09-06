@@ -1,17 +1,29 @@
 ---
-title: "Formal Verification of HIGHT Block Cipher Using Cryptol and SAW-Script"
-author: "Your Name"
-date: "2024-09-07"
-status: "Draft"
-tags: ["HIGHT", "FormalVerification", "Cryptol", "SAWscript", "ResearchPaper"]
-categories: ["Cryptography", "Research", "Formal Verification"]
-keywords: ["HIGHT cipher", "formal verification", "Cryptol", "SAW-script"]
-abstract: "This paper explores the formal verification of the HIGHT block cipher utilizing Cryptol and SAW-script to enhance cryptographic security protocols."
+title: Formal Verification of the Block Cipher HIGHT  Using Cryptol and SAW-Script
+author: Your Name
+date: 2024-09-07
+status: Draft
+tags:
+  - HIGHT
+  - FormalVerification
+  - Cryptol
+  - SAWscript
+  - ResearchPaper
+categories:
+  - Cryptography
+  - Research
+  - Formal Verification
+keywords:
+  - HIGHT cipher
+  - formal verification
+  - Cryptol
+  - SAW-script
+abstract: This paper explores the formal verification of the block cipher HIGHT  utilizing Cryptol and SAW-script to enhance cryptographic security protocols.
 ---
 
 # Research Paper on Formal Verification of HIGHT Block Cipher
 
-> [!info] This document provides a structured approach to documenting the formal verification process of the HIGHT block cipher using Cryptol and SAW-Script. Each section includes purposeful callouts to guide the reader through the research progression.
+> [!info] This document provides a structured approach to documenting the formal verification process of the block cipher HIGHT using Cryptol and SAW-Script. Each section includes purposeful callouts to guide the reader through the research progression.
 
 ## 1. Title
 > [!note] **Purpose**: Define a concise and descriptive title.  

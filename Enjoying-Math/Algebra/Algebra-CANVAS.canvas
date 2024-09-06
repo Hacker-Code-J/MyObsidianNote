@@ -12,16 +12,6 @@
       "label": "Ring of Polynomials with Complex Coefficient"
     },
     {
-      "id": "e2f94fbf8e5b899d",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 1920,
-      "y": 1800,
-      "width": 3120,
-      "height": 1043,
-      "label": "Commutative Ring with Unity"
-    },
-    {
       "id": "92f03b825f31e61d",
       "type": "group",
       "styleAttributes": {},
@@ -30,6 +20,16 @@
       "width": 1624,
       "height": 960,
       "label": "Examples"
+    },
+    {
+      "id": "e2f94fbf8e5b899d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1920,
+      "y": 1800,
+      "width": 3120,
+      "height": 1043,
+      "label": "Commutative Ring with Unity"
     },
     {
       "id": "970c35e67c5247b3",
@@ -351,16 +351,6 @@
       "height": 132
     },
     {
-      "id": "d3c269df3b89b386",
-      "type": "text",
-      "text": "Consider the natural projectoin map\n$$\\pi: \\mathbb{C}[x]\\to\\mathbb{C}[x]/\\langle x-1\\rangle$$\ndefind by $f\\mapsto \\overline{f}\\in\\mathbb{C}/\\langle x-1\\rangle$ for all $f\\in\\mathbb{C}[x]$. Let\n$$\\mathcal{L}_{\\langle x-1\\rangle}(\\mathbb{C}[x]):=\\set{I\\subseteq\\mathbb{C}[x]:\\langle x-1\\rangle\\subseteq I\\ \\text{and}\\ I\\lhd\\mathbb{C}[x]}$$\nis the set of ideals of $\\mathbb{C}[x]$ that contain $\\langle x-1\\rangle$, and let\n$$\\mathcal{L}(\\mathbb{C}[x]/\\langle x-1\\rangle):=\\set{J\\subseteq\\mathbb{C}[x]/\\langle x-1\\rangle:J\\lhd\\mathbb{C}[x]/\\langle x-1\\rangle}.$$\nThen there is a bijection\n$$\\phi:\\mathcal{L}_{\\langle x-1\\rangle}(\\mathbb{C}[x])\\to\\mathcal{L}(\\mathbb{C}[x]/\\langle x-1\\rangle).$$\n",
-      "styleAttributes": {},
-      "x": 3000,
-      "y": 718,
-      "width": 700,
-      "height": 360
-    },
-    {
       "id": "35ed07cf6da6efbe",
       "type": "text",
       "text": "$R$",
@@ -490,6 +480,16 @@
       "y": 1120,
       "width": 725,
       "height": 98
+    },
+    {
+      "id": "d3c269df3b89b386",
+      "type": "text",
+      "text": "Consider the natural projectoin map\n$$\\pi: \\mathbb{C}[x]\\to\\mathbb{C}[x]/\\langle x-1\\rangle$$\ndefind by $f\\mapsto \\overline{f}\\in\\mathbb{C}/\\langle x-1\\rangle$ for all $f\\in\\mathbb{C}[x]$. Let\n$$\\mathcal{L}_{\\langle x-1\\rangle}(\\mathbb{C}[x]):=\\set{I\\subseteq\\mathbb{C}[x]:\\langle x-1\\rangle\\subseteq I\\ \\text{and}\\ I\\lhd\\mathbb{C}[x]}$$\nis the set of ideals of $\\mathbb{C}[x]$ that contain $\\langle x-1\\rangle$, and let\n$$\\mathcal{L}(\\mathbb{C}[x]/\\langle x-1\\rangle):=\\set{J\\subseteq\\mathbb{C}[x]/\\langle x-1\\rangle:J\\lhd\\mathbb{C}[x]/\\langle x-1\\rangle}.$$\nThen there is a bijection\n$$\\phi:\\mathcal{L}_{\\langle x-1\\rangle}(\\mathbb{C}[x])\\to\\mathcal{L}(\\mathbb{C}[x]/\\langle x-1\\rangle).$$\n",
+      "styleAttributes": {},
+      "x": 3000,
+      "y": 718,
+      "width": 700,
+      "height": 360
     }
   ],
   "edges": [

@@ -1,0 +1,166 @@
+\usepackage{kotex}
+\usepackage{commath}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{arydshln} % Include this package
+\usepackage{bbding}
+
+\usepackage{tikz}
+\usepackage{tikz-cd}
+\usetikzlibrary{math} % for calculations
+\usetikzlibrary{shapes, arrows.meta, positioning, shadows}
+\usetikzlibrary{arrows,shapes.geometric}  % Optional, based on your needs
+\usetikzlibrary{3d, calc}
+\usetikzlibrary{matrix, positioning, arrows.meta, shapes.multipart, chains}
+\usetikzlibrary{decorations.pathreplacing,calligraphy}
+\usetheme[progressbar=frametitle]{metropolis}
+\usepackage{appendixnumberbeamer}
+
+\usepackage{adjustbox}
+\usepackage{booktabs}
+\usepackage[scale=2]{ccicons}
+
+\usepackage{tcolorbox}
+
+\usepackage{pgfplots}
+\usepgfplotslibrary{fillbetween}
+\pgfplotsset{compat=1.15}
+\usepgfplotslibrary{dateplot}
+
+\usepackage{xspace}
+\newcommand{\themename}{\textbf{\textsc{metropolis}}\xspace}
+
+\usepackage[linesnumbered,ruled]{algorithm2e}
+\usepackage{algpseudocode}
+\usepackage{setspace}
+\SetKwComment{Comment}{/* }{ */}
+\SetKwProg{Fn}{Function}{:}{end}
+\SetKw{End}{end}
+\SetKw{DownTo}{downto}
+
+% Define a new environment for algorithms without line numbers
+\newenvironment{algorithm2}[1][]{
+	% Save the current state of the algorithm counter
+	\newcounter{tempCounter}
+	\setcounter{tempCounter}{\value{algocf}}
+	% Redefine the algorithm numbering (remove prefix)
+	\renewcommand{\thealgocf}{}
+	\begin{algorithm}
+	}{
+	\end{algorithm}
+	% Restore the algorithm counter state
+	\setcounter{algocf}{\value{tempCounter}}
+}
+
+\usepackage{xcolor}   % Required for specifying colors
+
+\usepackage{listings} %Code
+\renewcommand{\lstlistingname}{Code}%
+\definecolor{keyword}{RGB}{255, 0, 0}
+\definecolor{identifier}{RGB}{0, 0, 255}
+\definecolor{comment}{RGB}{0, 128, 0}
+\definecolor{string}{RGB}{163, 21, 21}
+
+\lstdefinestyle{c}{
+	language=C,
+	basicstyle=\ttfamily\small,
+	keywordstyle=\color{keyword},
+	identifierstyle=\color{identifier},
+	commentstyle=\color{comment}\itshape,
+	stringstyle=\color{string},
+	showstringspaces=false,
+	%	numberstyle=\tiny\color{gray},
+	%	numbersep=5pt,
+	frame=single,
+	tabsize=4,
+	captionpos=b,
+	breaklines=true,
+	breakatwhitespace=true,
+	%	numbers=left
+}
+
+\definecolor{backcolor}{HTML}{FAFAFA}
+\lstdefinestyle{ocaml}{
+	language=[Objective]Caml,
+	basicstyle=\ttfamily\bfseries\footnotesize,
+	keywordstyle=\color{blue}\bfseries,
+	commentstyle=\color{gray}\itshape,
+	stringstyle=\color{orange}\bfseries,
+	numberstyle=\tiny\color{purple},
+	identifierstyle=\color{teal},
+	emphstyle=\color{red}\bfseries,
+	backgroundcolor=\color{backcolor},
+	frame=single,
+	rulecolor=\color{black},
+	frameround=tttt,
+	numbers=left,
+	numbersep=10pt,
+	showspaces=false,
+	showstringspaces=false,
+	breaklines=true,
+	breakatwhitespace=true,
+	tabsize=2,
+	captionpos=b,
+	literate={->}{{$\rightarrow$}}1
+	{<-}{{$\leftarrow$}}1
+	{=>}{{$\Rightarrow$}}1
+	{|->}{{$\mapsto$}}1
+	{>>}{{$\gg$}}1
+	{<<}{{$\ll$}}1
+}
+
+\definecolor{commentColor}{rgb}{0.25,0.5,0.35}
+\definecolor{stringColor}{rgb}{0.5,0.1,0.5}
+\definecolor{vsCodeRed}{HTML}{E06C6A}
+\definecolor{vsCodeBlue}{HTML}{3986E9}
+\definecolor{CLIGreen}{HTML}{87D368}
+\definecolor{rustBuild}{HTML}{A5BE5D}
+\definecolor{rustBack}{HTML}{282C34}
+\lstdefinestyle{zsh}{
+	language=bash,                  % Set the language to bash (closest to Zsh)
+	backgroundcolor=\color{rustBack},
+	commentstyle=\color{rustBuild}\ttfamily,
+	keywordstyle=\color{rustBuild}\bfseries,
+	stringstyle=\color{stringColor!70!white}\ttfamily,
+	keywordstyle=[2]{\bfseries\color{rustBuild}},
+	keywordstyle=[3]{\bfseries\color{CLIGreen}},
+	showspaces=false,               % Don't show spaces as underscores
+	showstringspaces=false,         % Don't highlight spaces in strings
+	breaklines=true,                % Automatic line breaking
+	frame=none,                     % No frame around the code
+	basicstyle=\ttfamily\color{white}, % White basic text color for contrast
+	extendedchars=true,             % Allow extended characters
+	captionpos=b,                   % Caption-position at bottom
+	escapeinside={\%*}{*)},         % Allow LaTeX inside your code
+	morekeywords={echo,ls,cd,pwd,exit,clear,man,unalias,zsh,source}, % Add more keywords
+	upquote=true,                   % Ensure straight quotes are used
+	literate=
+	{\$}{{\textcolor{vsCodeRed}{$\boldsymbol{\$}$}}}1
+	{>}{{\textcolor{CLIGreen}{$\boldsymbol{>}$}}}1
+	{<}{{\textcolor{CLIGreen}{$\boldsymbol{<}$}}}1
+	{@}{{\textcolor{vsCodeRed}{@}}}1
+	{~}{{\textcolor{vsCodeRed}{$\boldsymbol{\sim}$}}}1
+	{:}{{\textcolor{rustBuild}{:}}}1,
+	%		{:}{{\textcolor{red}{:}}}1
+	%		{~}{{\textcolor{red}{\textasciitilde}}}1 % Color certain characters
+	%		{├}{{\textbrokenbar}}1  % Replace ├ with \textbrokenbar
+	%		{─}{{\textendash}}1     % Replace ─ with \textendash
+	%		{└}{{`}}1,              % Replace └ with `
+	morekeywords=[2]{cryptol, load, prove, ocaml},
+	morekeywords=[3]{Main}
+}
+
+\usepackage{amsthm, amsmath}
+
+
+\newcommand{\cyclic}[1]{\langle #1 \rangle}
+\newcommand{\uniform}{\overset{\$}{\leftarrow}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathbb{F}}
+
+\newcommand{\xmark}{\textcolor{red}{\XSolidBrush}}
+\newcommand{\vmark}{\textcolor{green!75!black}{\CheckmarkBold}}

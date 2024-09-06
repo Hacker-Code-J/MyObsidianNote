@@ -18,19 +18,6 @@
             }
           },
           {
-            "id": "cd36b91726c4ae0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenSSL/Check OpenSSL Version.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f3f3d6debd480089",
             "type": "leaf",
             "state": {
@@ -52,7 +39,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ae5b584532cc1f1",
+            "id": "c4221bc5a9fb8a28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -236,10 +223,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2ae5b584532cc1f1",
+  "active": "c4221bc5a9fb8a28",
   "lastOpenFiles": [
-    "0 Tamplate/Research-Paper-Example.md",
+    "LaTex/Obsidian-Lecture/slide-preamble.tex",
+    "LaTex/Obsidian-Lecture/SV-slide-preamble.tex",
+    "LaTex/Obsidian-Lecture/obsidian-slide.tex",
+    "LaTex/Obsidian-Lecture",
+    "LaTex/Untitled Folder",
     "JiYH-24/CISC-W24.md",
+    "0 Tamplate/Research-Paper-Example.md",
+    "0 Daily-Note/2024-09-06.md",
     "0 Tamplate/Research-Paper.md",
     "OpenSSL/Check OpenSSL Version.md",
     "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
@@ -269,12 +262,7 @@
     "0 Daily-Note/2024-09-04.md",
     "0 Tamplate/Research Topic.md",
     "0 Tamplate/New Zotero Note.md",
-    "0 Tamplate/New Daily Note.md",
     "Enjoying-Math/0 Fundamentals",
-    "DB",
-    "Zotero",
-    "Enjoying-Math/Algebra",
-    "Enjoying-Math",
     "0 Attachment-Folder-Path/Pasted Image 20240903140745_715.png",
     "0 Attachment-Folder-Path/Pasted Image 20240903141525_416.png",
     "0 Attachment-Folder-Path/Pasted Image 20240903141013_696.png",
