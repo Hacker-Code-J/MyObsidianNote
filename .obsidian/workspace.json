@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6b8d1a6ce463c8fe",
+        "id": "ea899dfb9476bd41",
         "type": "tabs",
         "children": [
           {
@@ -18,35 +18,53 @@
             }
           },
           {
-            "id": "3f2d16ce5618b7f1",
+            "id": "cd36b91726c4ae0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian-Setup/1. Callout.md",
-                "mode": "source",
+                "file": "OpenSSL/Check OpenSSL Version.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "8bbc0ef9876258c0",
+            "id": "f3f3d6debd480089",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "viewState": {
-                  "x": 2812.7056306923064,
-                  "y": 281.58753472377293,
-                  "zoom": -1.1102230246251565e-16
+                  "x": 3650.089464268716,
+                  "y": 890.6342917904908,
+                  "zoom": -0.6000000000000001
                 }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "06b2b75e6fd17665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ae5b584532cc1f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JiYH-24/CISC-W24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3c21b68808da7721",
@@ -137,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+                "file": "JiYH-24/CISC-W24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+                "file": "JiYH-24/CISC-W24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enjoying-Math/Algebra/Algebra-CANVAS.canvas"
+                "file": "JiYH-24/CISC-W24.md"
               }
             }
           },
@@ -219,10 +236,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "8bbc0ef9876258c0",
+  "active": "2ae5b584532cc1f1",
   "lastOpenFiles": [
-    "Rust-Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
+    "0 Tamplate/Research-Paper-Example.md",
+    "JiYH-24/CISC-W24.md",
+    "0 Tamplate/Research-Paper.md",
+    "OpenSSL/Check OpenSSL Version.md",
     "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+    "JiYH-24",
+    "0 Daily-Note/2024-09-05.md",
+    "OpenSSL/OpenSSL.md",
+    "Rust-Programming/Rust 101 Crash Course/Rust 101 Crash Course.md",
     "Obsidian-Setup/1. Callout.md",
     "0 Tamplate/New Math Note.md",
     "04 Archives",
@@ -232,8 +256,6 @@
     "0 Tamplate/New Mathematics Notes.md",
     "KMU-F24/Secure-Network/SN-240905.md",
     "0 Tamplate/New Lecture Note.md",
-    "0 Tamplate/Research-Paper-Callout.md",
-    "0 Daily-Note/2024-09-05.md",
     "Number Theory/Chapter 1. Preliminaries/1.2. The Binomial Theorem.md",
     "Algebra-CANVAS.png",
     "Number Theory/Chapter 2. Divisibility Theory in the Integer/2.2. The Greatest Common Divisor.md",
@@ -245,19 +267,14 @@
     "0 Tamplate/New Cryptology Note.md",
     "README.md",
     "0 Daily-Note/2024-09-04.md",
-    "0 Tamplate/Research-Paper.md",
     "0 Tamplate/Research Topic.md",
     "0 Tamplate/New Zotero Note.md",
     "0 Tamplate/New Daily Note.md",
-    "Obsidian-Setup/0. Hotkey.md",
-    "Enjoying-Math/Algebra/Localization.md",
-    "Obsidian-Lecture/Obsidian-lecture-Dataview.md",
     "Enjoying-Math/0 Fundamentals",
     "DB",
     "Zotero",
     "Enjoying-Math/Algebra",
     "Enjoying-Math",
-    "0 Daily-Note",
     "0 Attachment-Folder-Path/Pasted Image 20240903140745_715.png",
     "0 Attachment-Folder-Path/Pasted Image 20240903141525_416.png",
     "0 Attachment-Folder-Path/Pasted Image 20240903141013_696.png",
