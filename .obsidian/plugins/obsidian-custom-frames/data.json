@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://detexify.kirelabs.org/classify.html",
+      "displayName": "Detexify",
+      "icon": "type",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 0.95,
+      "forceIframe": false,
+      "customCss": "/* hide info clutter and ad banner */\n#classify--info-area,\n.adsbygoogle {\n\tdisplay: none !important\n}",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

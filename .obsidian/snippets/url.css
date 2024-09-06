@@ -1,0 +1,54 @@
+/* Basic link styling */
+.cm-s-obsidian .cm-link, 
+.markdown-preview-section a {
+    color: #0066cc; /* Professional blue color */
+    text-decoration: none; /* Removes underline */
+    font-weight: bold; /* Makes links bold */
+    transition: color 0.2s ease-in-out; /* Smooth transition */
+}
+
+/* Hover effect */
+.cm-s-obsidian .cm-link:hover, 
+.markdown-preview-section a:hover {
+    color: #004080; /* Darker blue for hover */
+    text-decoration: underline; /* Adds underline on hover */
+}
+
+/* Visited link color */
+.cm-s-obsidian .cm-link:visited, 
+.markdown-preview-section a:visited {
+    color: #551A8B; /* A standard visited link color */
+}
+
+/* URL Icon before link */
+.markdown-preview-section a::before {
+    content: "🔗"; /* Adds a link icon before the URL */
+    margin-right: 4px; /* Spacing between icon and URL */
+    font-size: 90%; /* Slightly smaller icon */
+}
+
+/* Tooltip on hover */
+.markdown-preview-section a {
+    position: relative;
+    cursor: pointer;
+}
+
+.markdown-preview-section a::after {
+    content: attr(href); /* Show URL in tooltip */
+    position: absolute;
+    left: 0;
+    bottom: -25px;
+    background-color: #f9f9f9; /* Light background */
+    color: #333; /* Dark text */
+    padding: 3px 8px;
+    border: 1px solid #ddd; /* Light border */
+    border-radius: 4px;
+    font-size: 0.8em;
+    display: none; /* Hidden by default */
+    white-space: nowrap;
+}
+
+.markdown-preview-section a:hover::after {
+    display: block; /* Shows tooltip on hover */
+}
+

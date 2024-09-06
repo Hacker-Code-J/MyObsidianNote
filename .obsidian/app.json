@@ -8,8 +8,8 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "0 InBox-Default-Note",
-  "attachmentFolderPath": "0 Attachment-Folder-Path",
+  "newFileFolderPath": "00 InBox-Note",
+  "attachmentFolderPath": "00 Attachment-Folder-Path",
   "showUnsupportedFiles": false,
   "propertiesInDocument": "source"
 }

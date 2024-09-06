@@ -1,104 +1,41 @@
-\documentclass[10pt]{beamer}
+\documentclass[10pt, xcolor=dvipsnames]{beamer}
 \input{slide-preamble}
 \newcommand{\B}{\mathbb{B}}
 \newcommand{\true}{\textcolor{red}{\texttt 1}}
 \newcommand{\false}{\textcolor{red}{\texttt 0}}
 \newcommand{\id}{\textnormal{id}}
-\title{\huge\bf Software Verification}
-\subtitle{\textcolor{magenta}{\textbf{Lecture 02. OCaml Programming II}}}
+\title{\huge\bf \textcolor{obsidian}{Obsidian} for Researchers}
+%\subtitle{\textcolor{magenta}{\textbf{Lecture 02. OCaml Programming II}}}
 % \date{\today}
 \date{}
-\author{\large\textcolor{cyan}{\bf Ji, Yong-Hyeon}\\ \\ \small 24. 08. 01 (Thu)}
+\author{\large\textcolor{cyan}{\bf Ji, Yong-Hyeon}\\ \\ \small 24. 09. 10 (Thu)}
 \institute{\small
 	Coding \& Optimization Together (CO2) \\
 	Crypto \& Security Engineering Lab (CSE) \\
 	Department of Information Security, Cryptology, and Mathematics
 }
-% \titlegraphic{\hfill\includegraphics[height=1.5cm]{logo.pdf}}
+%\titlegraphic{\hfill\includegraphics[height=1.5cm]{../latex-imagelogo}}
+
+\pgfdeclareimage[height=\paperheight,width=\paperwidth]{myimage}{../latex-image/hexagon_bg}
+\usebackgroundtemplate{\tikz\node[opacity=0.5] {\pgfuseimage{myimage}};}
+
+%\setbeamercolor{title}{bg=UniBlue}
+\setbeamercolor{frametitle}{bg=obsidian}
+%\setbeamercolor{structure}{bg=UniBlue}
 
 \begin{document}
+	\maketitle\begin{frame}{}
+	\begin{figure}[\centering]
+		\includegraphics[scale=.3]{../latex-image/obsidian-icon}
+	\end{figure}
+	\end{frame}
+	\begin{frame}{Table of Contents}
+		\setbeamertemplate{section in toc}[sections numbered]
+		\tableofcontents%[hideallsubsections]
+	\end{frame}
 	
-	\maketitle
-	
-%	\begin{frame}{Table of Contents}
-%		\setbeamertemplate{section in toc}[sections numbered]
-%		\tableofcontents%[hideallsubsections]
-%	\end{frame}
-	
-%	\section{Solutions for Homework}
-%	\begin{frame}{1. Motivation}
-%		\url{https://www.tiobe.com/tiobe-index/}
-%		\begin{figure}[h!]
-%			\includegraphics[scale=.35]{ranking1}
-%		\end{figure}
-%	\end{frame}
-%	\begin{frame}{1. Motivation}
-%	\begin{figure}[h!]
-%		\includegraphics[scale=.35]{ranking2}
-%	\end{figure}
-%	\end{frame}
-%%	\begin{frame}{1. Motivation}
-%%		\begin{enumerate}
-%%			\item[3.] Current Technologies for Safe Software
-%%			\begin{enumerate}[(a)]
-%%				\item[]
-%%				\item Code Review
-%%				\item[]
-%%				\item Testing
-%%				\item[]
-%%				\item Debugging
-%%				\item[]
-%%				\item Simulation
-%%				\item[]
-%%				\item $\cdots$
-%%			\end{enumerate}
-%%		\end{enumerate}
-%%	\end{frame}
-
-%	\section{Basic OCaml Programming}
-%	\subsection{2.1 OCaml 기본 구성}
-%	\begin{frame}{2.1 OCaml 기본 구성}
-%		\textbf{OCaml 프로그램의 기본 단위 공식}
-%		
-%		\begin{itemize}
-%			\item 프로그램을 구성하는 두 가지 기본 단위
-%			\begin{itemize}
-%				\item[]
-%				\item[] Statement: \[
-%				\texttt{x = x + 1}
-%				\]
-%				\item[] Expression: \[
-%				\texttt{(x + y) * 2}
-%				\]
-%			\end{itemize}
-%		\end{itemize}
-%	\end{frame}
-%
-%\begin{lstlisting}[style=ocaml]
-%let hello = "Hello"
-%let world = "World"
-%let helloworld = hello ^ " " ^ world
-%let _ = print_endline helloworld
-%\end{lstlisting}
-%
-%Compile
-%\begin{lstlisting}[style=zsh]
-%@:~$>ocaml helloworld.ml
-%\end{lstlisting}
-%
-%OCaml REPL(Real-Eval-Print Loop)
-%\begin{lstlisting}[style=zsh]
-%@:~$>ocaml
-%
-%# #use "helloworld.ml";;
-%val hello : string = "Hello"
-%val world : string = "World"
-%val helloworld : string = "Hello World"
-%Hello World
-%- : unit = ()
-%# exit 1;;
-%\end{lstlisting}
 	\newpage
+	\section{section1}
 	\begin{frame}{2.1 OCaml 기본 구성}
 		\textbf{$\triangleright$ \textcolor{red}{Function Expression} (함수식)}
 		\[

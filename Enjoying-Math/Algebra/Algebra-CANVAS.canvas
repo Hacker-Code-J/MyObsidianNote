@@ -12,16 +12,6 @@
       "label": "Ring of Polynomials with Complex Coefficient"
     },
     {
-      "id": "92f03b825f31e61d",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2096,
-      "y": 540,
-      "width": 1624,
-      "height": 960,
-      "label": "Examples"
-    },
-    {
       "id": "e2f94fbf8e5b899d",
       "type": "group",
       "styleAttributes": {},
@@ -30,6 +20,16 @@
       "width": 3120,
       "height": 1043,
       "label": "Commutative Ring with Unity"
+    },
+    {
+      "id": "92f03b825f31e61d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2096,
+      "y": 540,
+      "width": 1624,
+      "height": 960,
+      "label": "Examples"
     },
     {
       "id": "970c35e67c5247b3",
@@ -96,16 +96,6 @@
       "label": "HOW?"
     },
     {
-      "id": "622c11e4a78476b8",
-      "type": "text",
-      "text": "Note that \n$$ f(\\alpha)=0\\iff f(x)=(x-\\alpha)g(x)\\ \\text{for some}\\ g(x)\\in\\mathbb{C}[x].$$\nThen $$\\begin{align*}\n\\ker\\phi_\\alpha&=\\set{f\\in\\mathbb{C}[x]:f(\\alpha)=0}\\\\\n&=\\set{(x-\\alpha) g(x):g\\in\\mathbb{C}[x]}\\\\\n&=\\langle x-\\alpha\\rangle\n\\end{align*}$$",
-      "styleAttributes": {},
-      "x": 780,
-      "y": -571,
-      "width": 481,
-      "height": 231
-    },
-    {
       "id": "deaaf460b1615f7f",
       "type": "text",
       "text": "$f\\in\\mathbb{C}[x]$",
@@ -150,6 +140,46 @@
       "color": "5"
     },
     {
+      "id": "622c11e4a78476b8",
+      "type": "text",
+      "text": "Note that \n$$ f(\\alpha)=0\\iff f(x)=(x-\\alpha)g(x)\\ \\text{for some}\\ g(x)\\in\\mathbb{C}[x].$$\nThen $$\\begin{align*}\n\\ker\\phi_\\alpha&=\\set{f\\in\\mathbb{C}[x]:f(\\alpha)=0}\\\\\n&=\\set{(x-\\alpha) g(x):g\\in\\mathbb{C}[x]}\\\\\n&=\\langle x-\\alpha\\rangle\n\\end{align*}$$",
+      "styleAttributes": {},
+      "x": 780,
+      "y": -571,
+      "width": 481,
+      "height": 231
+    },
+    {
+      "id": "eb9efffb6a474c43",
+      "type": "text",
+      "text": "$$\\begin{align*}\n\\mathbb{C}&\\simeq\\mathbb{C}[x]/\\langle x-\\alpha\\rangle\\\\\nf(\\alpha)\\in\\mathbb{C}&\\mapsto \\overline{f}\\in\\mathbb{C}[x]/\\langle x-\\alpha\\rangle\n\\end{align*}$$",
+      "styleAttributes": {},
+      "x": 1560,
+      "y": -516,
+      "width": 414,
+      "height": 122
+    },
+    {
+      "id": "288af7c8c92105a7",
+      "type": "text",
+      "text": "Consider $f(x)=(x-1)(x-3)=x^2-4x+3\\in\\mathbb{C}[x]$. Then\n$$\n\\begin{align*}\nf(1)=0 &\\iff 0 = \\overline{f}\\in\\mathbb{C}[x]/\\langle x-1\\rangle\\quad &(\\because f(x)=(x-1)(x-3) + 0)\\\\\nf(3)=0 &\\iff 0 = \\overline{f}\\in\\mathbb{C}[x]/\\langle x-3\\rangle\\quad &(\\because f(x)=(x-3)(x-1) + 0)\\\\\nf(0)=3 &\\iff 3 = \\overline{f}\\in\\mathbb{C}[x]/\\langle x-0\\rangle\\quad &(\\because f(x)=(x)(x-4) + 3)\\\\\n\\end{align*}\n$$\n\n",
+      "styleAttributes": {},
+      "x": 2136,
+      "y": -538,
+      "width": 684,
+      "height": 165
+    },
+    {
+      "id": "527eda37040109e5",
+      "type": "text",
+      "text": "Consider $f(x)=(x-1)(x+1)=x^2-1\\in\\mathbb{C}[x]$. Then\n$$\nZ(f)=\\set{1,-1}=\\set{\\langle x-1\\rangle, \\langle x+1\\rangle}\n$$\n\n",
+      "styleAttributes": {},
+      "x": 2535,
+      "y": 325,
+      "width": 612,
+      "height": 100
+    },
+    {
       "id": "ff529ba423157049",
       "type": "text",
       "text": "$\\mathbb{Z}$",
@@ -171,16 +201,6 @@
       "height": 136
     },
     {
-      "id": "208e6921e3414b9d",
-      "type": "text",
-      "text": "> [!info] **Note**\n> $$n:\\set{p\\mathbb{Z}\\subsetneq\\mathbb{Z}:p\\ \\text{is a prime}}\\to\\coprod_{p}\\mathbb{Z}/p\\mathbb{Z}$$\nby $p\\mathbb{Z}\\mapsto\\overline{n}\\in \\mathbb{Z}/p\\mathbb{Z}$",
-      "styleAttributes": {},
-      "x": 268,
-      "y": 2217,
-      "width": 540,
-      "height": 200
-    },
-    {
       "id": "57a34f419fb3e0d0",
       "type": "text",
       "text": "$$f:\\mathbb{C}\\to\\mathbb{C}$$defined by $\\alpha\\mapsto f(\\alpha)$ for all $\\alpha\\in\\mathbb{C}$",
@@ -191,14 +211,14 @@
       "height": 105
     },
     {
-      "id": "eb9efffb6a474c43",
+      "id": "208e6921e3414b9d",
       "type": "text",
-      "text": "$$\\begin{align*}\n\\mathbb{C}&\\simeq\\mathbb{C}[x]/\\langle x-\\alpha\\rangle\\\\\nf(\\alpha)\\in\\mathbb{C}&\\mapsto \\overline{f}\\in\\mathbb{C}[x]/\\langle x-\\alpha\\rangle\n\\end{align*}$$",
+      "text": "> [!info] **Note**\n> $$n:\\set{p\\mathbb{Z}\\subsetneq\\mathbb{Z}:p\\ \\text{is a prime}}\\to\\coprod_{p}\\mathbb{Z}/p\\mathbb{Z}$$\nby $p\\mathbb{Z}\\mapsto\\overline{n}\\in \\mathbb{Z}/p\\mathbb{Z}$",
       "styleAttributes": {},
-      "x": 1560,
-      "y": -516,
-      "width": 414,
-      "height": 122
+      "x": 268,
+      "y": 2217,
+      "width": 540,
+      "height": 200
     },
     {
       "id": "0b33ee922ca149b8",
@@ -218,26 +238,6 @@
       "x": 486,
       "y": 2092,
       "width": 105,
-      "height": 50
-    },
-    {
-      "id": "4e6283fcb7535477",
-      "type": "text",
-      "text": "$$\\mathbb{Z}_p\\simeq\\mathbb{Z}/p\\mathbb{Z}$$\n\n$$n\\bmod p\\mapsto \\overline{n}\\in\\mathbb{Z}/p\\mathbb{Z}$$\n",
-      "styleAttributes": {},
-      "x": 940,
-      "y": 1887,
-      "width": 500,
-      "height": 119
-    },
-    {
-      "id": "6740b6a2d95db5f8",
-      "type": "text",
-      "text": "$\\set{p\\mathbb{Z}\\subsetneq\\mathbb{Z}:p\\ \\text{is a prime}}$",
-      "styleAttributes": {},
-      "x": 1080,
-      "y": 2292,
-      "width": 220,
       "height": 50
     },
     {
@@ -261,74 +261,14 @@
       "height": 50
     },
     {
-      "id": "288af7c8c92105a7",
+      "id": "4e6283fcb7535477",
       "type": "text",
-      "text": "Consider $f(x)=(x-1)(x-3)=x^2-4x+3\\in\\mathbb{C}[x]$. Then\n$$\n\\begin{align*}\nf(1)=0 &\\iff 0 = \\overline{f}\\in\\mathbb{C}[x]/\\langle x-1\\rangle\\quad &(\\because f(x)=(x-1)(x-3) + 0)\\\\\nf(3)=0 &\\iff 0 = \\overline{f}\\in\\mathbb{C}[x]/\\langle x-3\\rangle\\quad &(\\because f(x)=(x-3)(x-1) + 0)\\\\\nf(0)=3 &\\iff 3 = \\overline{f}\\in\\mathbb{C}[x]/\\langle x-0\\rangle\\quad &(\\because f(x)=(x)(x-4) + 3)\\\\\n\\end{align*}\n$$\n\n",
+      "text": "$$\\mathbb{Z}_p\\simeq\\mathbb{Z}/p\\mathbb{Z}$$\n\n$$n\\bmod p\\mapsto \\overline{n}\\in\\mathbb{Z}/p\\mathbb{Z}$$\n",
       "styleAttributes": {},
-      "x": 2136,
-      "y": -538,
-      "width": 684,
-      "height": 165
-    },
-    {
-      "id": "527eda37040109e5",
-      "type": "text",
-      "text": "Consider $f(x)=(x-1)(x+1)=x^2-1\\in\\mathbb{C}[x]$. Then\n$$\nZ(f)=\\set{1,-1}=\\set{\\langle x-1\\rangle, \\langle x+1\\rangle}\n$$\n\n",
-      "styleAttributes": {},
-      "x": 2535,
-      "y": 325,
-      "width": 612,
-      "height": 100
-    },
-    {
-      "id": "f1cac69685d777c2",
-      "type": "text",
-      "text": "Consider $S\\subseteq\\mathbb{C}[x]$.\n\n- **Closed Sets**$$Z(S)=\\set{\\langle x-\\alpha\\rangle:f\\in\\langle x-\\alpha\\rangle\\ \\text{for all}\\ f\\in S}$$",
-      "styleAttributes": {},
-      "x": 2900,
-      "y": 77,
-      "width": 660,
-      "height": 140
-    },
-    {
-      "id": "e0ce7e192a0710d6",
-      "type": "text",
-      "text": "The natural projection map is \n$$\n\\pi:\\mathbb{C}[x,y]\\to\\mathbb{C}[x,y]/\\langle xy\\rangle.\n$$\n\nLet $$\n  \\mathcal{L}_I(R):=\\set{J\\subseteq R:I\\subseteq J\\ \\text{and}\\ J\\lhd R}$$\nis the set of ideals of $R$ that contain $I$, and let $$\n\\mathcal{L}(R/I):=\\set{K\\subseteq R/I: K\\lhd R/I}\n$$ is the set of ideals of the quotient ring $R/I$.",
-      "styleAttributes": {},
-      "x": 5040,
-      "y": 280,
-      "width": 560,
-      "height": 432
-    },
-    {
-      "id": "66da5c91df375005",
-      "type": "text",
-      "text": "### Summary of Key Differences:\n\n| Feature              | Standard Topology                           | Zariski Topology                            |\n| -------------------- | ------------------------------------------- | ------------------------------------------- |\n| Basis for Open Sets  | Open disks (Euclidean metric)               | Complements of algebraic sets (zero loci)   |\n| Closed Sets          | Standard closed sets (e.g., finite points)  | Algebraic sets (zeros of polynomials)       |\n| Continuous Functions | Functions continuous in the Euclidean sense | Functions that preserve algebraic structure |\n| Coarseness           | Finer (more open sets)                      | Coarser (fewer open sets, large open sets)  |\n\nIn essence, the **standard topology** on C\\mathbb{C}C deals with geometric properties based on the Euclidean metric, while the **Zariski topology** deals with algebraic properties related to the vanishing of polynomials.",
-      "styleAttributes": {},
-      "x": 4987,
-      "y": -254,
-      "width": 826,
-      "height": 432
-    },
-    {
-      "id": "30b6344215826027",
-      "type": "text",
-      "text": "The natural projection map is \n$$\n\\pi:\\mathbb{C}[x]\\to\\mathbb{C}[x]/\\langle x-\\alpha\\rangle\n$$\n\nLet $$\n  \\mathcal{L}_I(R):=\\set{J\\subseteq R:I\\subseteq J\\ \\text{and}\\ J\\lhd R}$$\nis the set of ideals of $R$ that contain $I$, and let $$\n\\mathcal{L}(R/I):=\\set{K\\subseteq R/I: K\\lhd R/I}\n$$ is the set of ideals of the quotient ring $R/I$.",
-      "styleAttributes": {},
-      "x": 5160,
-      "y": 898,
-      "width": 560,
-      "height": 432
-    },
-    {
-      "id": "e62498539b5066f6",
-      "type": "text",
-      "text": "$r\\in R$",
-      "styleAttributes": {},
-      "x": 2193,
-      "y": 2023,
-      "width": 90,
-      "height": 50
+      "x": 940,
+      "y": 1887,
+      "width": 500,
+      "height": 119
     },
     {
       "id": "b5b6793ceea01622",
@@ -349,6 +289,106 @@
       "y": 81,
       "width": 460,
       "height": 132
+    },
+    {
+      "id": "7cf1580b1a1a16e1",
+      "type": "text",
+      "text": "\n| Commutative Ring with Unity          | Maximal Ideal                                                        | Field                                                           |\n| ------------------------------------ | -------------------------------------------------------------------- | --------------------------------------------------------------- |\n| $R=\\mathbb{C}$                       | $M=\\set{0}$                                                          | $\\mathbb{C}/\\set{0}$                                            |\n| $R=\\mathbb{C}[x]/\\langle x^2\\rangle$ | $M=\\langle\\overline{x}\\rangle=\\langle x + \\langle x^2\\rangle\\rangle$ | $(\\mathbb{C}[x]/\\langle x^2\\rangle)/\\langle\\overline{x}\\rangle$ |\n",
+      "styleAttributes": {},
+      "x": 2116,
+      "y": 560,
+      "width": 725,
+      "height": 140
+    },
+    {
+      "id": "9f668f9aa6fb053a",
+      "type": "text",
+      "text": "\n| Commutative Ring with Unity | Ideal                  | New Ring                               |\n| --------------------------- | ---------------------- | -------------------------------------- |\n| $R=\\mathbb{C}[x]$           | $I=\\langle x-1\\rangle$ | $R/I=\\mathbb{C}[x]/\\langle x-1\\rangle$ |\n",
+      "styleAttributes": {},
+      "x": 2116,
+      "y": 851,
+      "width": 725,
+      "height": 94
+    },
+    {
+      "id": "bb960e5c75dd8f6e",
+      "type": "text",
+      "text": "\n| Commutative Ring with Unity | Ideal                 | New Ring                                |\n| --------------------------- | --------------------- | --------------------------------------- |\n| $R=\\mathbb{C}[x,y]$         | $I=\\langle xy\\rangle$ | $R/I=\\mathbb{C}[x,y]/\\langle xy\\rangle$ |\n",
+      "styleAttributes": {},
+      "x": 2120,
+      "y": 1120,
+      "width": 725,
+      "height": 98
+    },
+    {
+      "id": "30b6344215826027",
+      "type": "text",
+      "text": "The natural projection map is \n$$\n\\pi:\\mathbb{C}[x]\\to\\mathbb{C}[x]/\\langle x-\\alpha\\rangle\n$$\n\nLet $$\n  \\mathcal{L}_I(R):=\\set{J\\subseteq R:I\\subseteq J\\ \\text{and}\\ J\\lhd R}$$\nis the set of ideals of $R$ that contain $I$, and let $$\n\\mathcal{L}(R/I):=\\set{K\\subseteq R/I: K\\lhd R/I}\n$$ is the set of ideals of the quotient ring $R/I$.",
+      "styleAttributes": {},
+      "x": 5160,
+      "y": 898,
+      "width": 560,
+      "height": 432
+    },
+    {
+      "id": "d3c269df3b89b386",
+      "type": "text",
+      "text": "Consider the natural projectoin map\n$$\\pi: \\mathbb{C}[x]\\to\\mathbb{C}[x]/\\langle x-1\\rangle$$\ndefind by $f\\mapsto \\overline{f}\\in\\mathbb{C}/\\langle x-1\\rangle$ for all $f\\in\\mathbb{C}[x]$. Let\n$$\\mathcal{L}_{\\langle x-1\\rangle}(\\mathbb{C}[x]):=\\set{I\\subseteq\\mathbb{C}[x]:\\langle x-1\\rangle\\subseteq I\\ \\text{and}\\ I\\lhd\\mathbb{C}[x]}$$\nis the set of ideals of $\\mathbb{C}[x]$ that contain $\\langle x-1\\rangle$, and let\n$$\\mathcal{L}(\\mathbb{C}[x]/\\langle x-1\\rangle):=\\set{J\\subseteq\\mathbb{C}[x]/\\langle x-1\\rangle:J\\lhd\\mathbb{C}[x]/\\langle x-1\\rangle}.$$\nThen there is a bijection\n$$\\phi:\\mathcal{L}_{\\langle x-1\\rangle}(\\mathbb{C}[x])\\to\\mathcal{L}(\\mathbb{C}[x]/\\langle x-1\\rangle).$$\n",
+      "styleAttributes": {},
+      "x": 3000,
+      "y": 718,
+      "width": 700,
+      "height": 360
+    },
+    {
+      "id": "92a1342ee63d0b55",
+      "type": "text",
+      "text": "Consider the natural projectoin map\n$$\\pi: \\mathbb{C}[x,y]\\to\\mathbb{C}[x,y]/\\langle xy\\rangle$$\ndefind by $f(x,y)\\mapsto \\overline{f(x,y)}=g(x,y)+\\langle xy\\rangle$ for all $f\\in\\mathbb{C}[x,y]$. Let\n$$\\mathcal{L}_{\\langle xy\\rangle}(\\mathbb{C}[x,y]):=\\set{I\\subseteq\\mathbb{C}[x,y]:\\langle xy\\rangle\\subseteq I\\ \\text{and}\\ I\\lhd\\mathbb{C}[x,y]}$$\nis the set of ideals of $\\mathbb{C}[x,y]$ that contain $\\langle xy\\rangle$, and let\n$$\\mathcal{L}(\\mathbb{C}[x,y]/\\langle xy\\rangle):=\\set{J\\subseteq\\mathbb{C}[x,y]/\\langle xy\\rangle:J\\lhd\\mathbb{C}[x,y]/\\langle xy\\rangle}.$$\nThen there is a bijection\n$$\\phi:\\mathcal{L}_{\\langle xy\\rangle}(\\mathbb{C}[x,y])\\to\\mathcal{L}(\\mathbb{C}[x,y]/\\langle xy\\rangle).$$\n",
+      "styleAttributes": {},
+      "x": 3000,
+      "y": 1120,
+      "width": 700,
+      "height": 360
+    },
+    {
+      "id": "f1cac69685d777c2",
+      "type": "text",
+      "text": "Consider $S\\subseteq\\mathbb{C}[x]$.\n\n- **Closed Sets**$$Z(S)=\\set{\\langle x-\\alpha\\rangle:f\\in\\langle x-\\alpha\\rangle\\ \\text{for all}\\ f\\in S}$$",
+      "styleAttributes": {},
+      "x": 2900,
+      "y": 77,
+      "width": 660,
+      "height": 140
+    },
+    {
+      "id": "6740b6a2d95db5f8",
+      "type": "text",
+      "text": "$\\set{p\\mathbb{Z}\\subsetneq\\mathbb{Z}:p\\ \\text{is a prime}}$",
+      "styleAttributes": {},
+      "x": 1080,
+      "y": 2292,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "66da5c91df375005",
+      "type": "text",
+      "text": "### Summary of Key Differences:\n\n| Feature              | Standard Topology                           | Zariski Topology                            |\n| -------------------- | ------------------------------------------- | ------------------------------------------- |\n| Basis for Open Sets  | Open disks (Euclidean metric)               | Complements of algebraic sets (zero loci)   |\n| Closed Sets          | Standard closed sets (e.g., finite points)  | Algebraic sets (zeros of polynomials)       |\n| Continuous Functions | Functions continuous in the Euclidean sense | Functions that preserve algebraic structure |\n| Coarseness           | Finer (more open sets)                      | Coarser (fewer open sets, large open sets)  |\n\nIn essence, the **standard topology** on C\\mathbb{C}C deals with geometric properties based on the Euclidean metric, while the **Zariski topology** deals with algebraic properties related to the vanishing of polynomials.",
+      "styleAttributes": {},
+      "x": 4987,
+      "y": -254,
+      "width": 826,
+      "height": 432
+    },
+    {
+      "id": "e62498539b5066f6",
+      "type": "text",
+      "text": "$r\\in R$",
+      "styleAttributes": {},
+      "x": 2193,
+      "y": 2023,
+      "width": 90,
+      "height": 50
     },
     {
       "id": "35ed07cf6da6efbe",
@@ -382,6 +422,16 @@
       "height": 50
     },
     {
+      "id": "e0ce7e192a0710d6",
+      "type": "text",
+      "text": "The natural projection map is \n$$\n\\pi:\\mathbb{C}[x,y]\\to\\mathbb{C}[x,y]/\\langle xy\\rangle.\n$$\n\nLet $$\n  \\mathcal{L}_I(R):=\\set{J\\subseteq R:I\\subseteq J\\ \\text{and}\\ J\\lhd R}$$\nis the set of ideals of $R$ that contain $I$, and let $$\n\\mathcal{L}(R/I):=\\set{K\\subseteq R/I: K\\lhd R/I}\n$$ is the set of ideals of the quotient ring $R/I$.",
+      "styleAttributes": {},
+      "x": 5040,
+      "y": 280,
+      "width": 560,
+      "height": 432
+    },
+    {
       "id": "cba2a36dc2348591",
       "type": "text",
       "text": "Consider $S\\subseteq R$.\n\n- **Closed Sets**$$V(S)=\\set{M\\subsetneq R:M\\lhd R\\ \\text{is maximal and}\\ r\\in M\\ \\text{for all}\\ r\\in S}$$",
@@ -400,26 +450,6 @@
       "y": 2015,
       "width": 800,
       "height": 594
-    },
-    {
-      "id": "7cf1580b1a1a16e1",
-      "type": "text",
-      "text": "\n| Commutative Ring with Unity          | Maximal Ideal                                                        | Field                                                           |\n| ------------------------------------ | -------------------------------------------------------------------- | --------------------------------------------------------------- |\n| $R=\\mathbb{C}$                       | $M=\\set{0}$                                                          | $\\mathbb{C}/\\set{0}$                                            |\n| $R=\\mathbb{C}[x]/\\langle x^2\\rangle$ | $M=\\langle\\overline{x}\\rangle=\\langle x + \\langle x^2\\rangle\\rangle$ | $(\\mathbb{C}[x]/\\langle x^2\\rangle)/\\langle\\overline{x}\\rangle$ |\n",
-      "styleAttributes": {},
-      "x": 2116,
-      "y": 560,
-      "width": 725,
-      "height": 140
-    },
-    {
-      "id": "9f668f9aa6fb053a",
-      "type": "text",
-      "text": "\n| Commutative Ring with Unity | Ideal                  | New Ring                               |\n| --------------------------- | ---------------------- | -------------------------------------- |\n| $R=\\mathbb{C}[x]$           | $I=\\langle x-1\\rangle$ | $R/I=\\mathbb{C}[x]/\\langle x-1\\rangle$ |\n",
-      "styleAttributes": {},
-      "x": 2116,
-      "y": 851,
-      "width": 725,
-      "height": 94
     },
     {
       "id": "b5a91510e6c59441",
@@ -442,16 +472,6 @@
       "height": 50
     },
     {
-      "id": "92a1342ee63d0b55",
-      "type": "text",
-      "text": "Consider the natural projectoin map\n$$\\pi: \\mathbb{C}[x,y]\\to\\mathbb{C}[x,y]/\\langle xy\\rangle$$\ndefind by $f(x,y)\\mapsto \\overline{f(x,y)}=g(x,y)+\\langle xy\\rangle$ for all $f\\in\\mathbb{C}[x,y]$. Let\n$$\\mathcal{L}_{\\langle xy\\rangle}(\\mathbb{C}[x,y]):=\\set{I\\subseteq\\mathbb{C}[x,y]:\\langle xy\\rangle\\subseteq I\\ \\text{and}\\ I\\lhd\\mathbb{C}[x,y]}$$\nis the set of ideals of $\\mathbb{C}[x,y]$ that contain $\\langle xy\\rangle$, and let\n$$\\mathcal{L}(\\mathbb{C}[x,y]/\\langle xy\\rangle):=\\set{J\\subseteq\\mathbb{C}[x,y]/\\langle xy\\rangle:J\\lhd\\mathbb{C}[x,y]/\\langle xy\\rangle}.$$\nThen there is a bijection\n$$\\phi:\\mathcal{L}_{\\langle xy\\rangle}(\\mathbb{C}[x,y])\\to\\mathcal{L}(\\mathbb{C}[x,y]/\\langle xy\\rangle).$$\n",
-      "styleAttributes": {},
-      "x": 3000,
-      "y": 1120,
-      "width": 700,
-      "height": 360
-    },
-    {
       "id": "0ae2ea6728d24c6b",
       "type": "text",
       "text": "> [!example]\n> Consider $f(x)=(x-1)(x-2)=x^2-3x+2\\in\\mathbb{C}[x]$ then\n> $$f:\\set{\\langle x-\\alpha\\rangle:\\alpha\\in\\mathbb{C}}\\to\\coprod_\\alpha\\mathbb{C}[x]/\\langle x-\\alpha\\rangle$$\n> defined by \n> $$\\begin{align*}\n> \\langle x-1\\rangle&\\mapsto 0=\\overline{f}\\in \\mathbb{C}[x]/\\langle x-1\\rangle\\\\\n> \\langle x-2\\rangle&\\mapsto 0=\\overline{f}\\in \\mathbb{C}[x]/\\langle x-2\\rangle\\\\\n> \\langle x-3\\rangle&\\mapsto 2=\\overline{f}\\in \\mathbb{C}[x]/\\langle x-3\\rangle\\\\\n> \\langle x-i\\rangle&\\mapsto 1-3i=\\overline{f}\\in \\mathbb{C}[x]/\\langle x-i\\rangle\\\\\n> &\\vdots\n> \\end{align*}$$\n\n\n",
@@ -470,26 +490,6 @@
       "y": 280,
       "width": 635,
       "height": 190
-    },
-    {
-      "id": "bb960e5c75dd8f6e",
-      "type": "text",
-      "text": "\n| Commutative Ring with Unity | Ideal                 | New Ring                                |\n| --------------------------- | --------------------- | --------------------------------------- |\n| $R=\\mathbb{C}[x,y]$         | $I=\\langle xy\\rangle$ | $R/I=\\mathbb{C}[x,y]/\\langle xy\\rangle$ |\n",
-      "styleAttributes": {},
-      "x": 2120,
-      "y": 1120,
-      "width": 725,
-      "height": 98
-    },
-    {
-      "id": "d3c269df3b89b386",
-      "type": "text",
-      "text": "Consider the natural projectoin map\n$$\\pi: \\mathbb{C}[x]\\to\\mathbb{C}[x]/\\langle x-1\\rangle$$\ndefind by $f\\mapsto \\overline{f}\\in\\mathbb{C}/\\langle x-1\\rangle$ for all $f\\in\\mathbb{C}[x]$. Let\n$$\\mathcal{L}_{\\langle x-1\\rangle}(\\mathbb{C}[x]):=\\set{I\\subseteq\\mathbb{C}[x]:\\langle x-1\\rangle\\subseteq I\\ \\text{and}\\ I\\lhd\\mathbb{C}[x]}$$\nis the set of ideals of $\\mathbb{C}[x]$ that contain $\\langle x-1\\rangle$, and let\n$$\\mathcal{L}(\\mathbb{C}[x]/\\langle x-1\\rangle):=\\set{J\\subseteq\\mathbb{C}[x]/\\langle x-1\\rangle:J\\lhd\\mathbb{C}[x]/\\langle x-1\\rangle}.$$\nThen there is a bijection\n$$\\phi:\\mathcal{L}_{\\langle x-1\\rangle}(\\mathbb{C}[x])\\to\\mathcal{L}(\\mathbb{C}[x]/\\langle x-1\\rangle).$$\n",
-      "styleAttributes": {},
-      "x": 3000,
-      "y": 718,
-      "width": 700,
-      "height": 360
     }
   ],
   "edges": [

@@ -7,11 +7,14 @@
     "thm-main",
     "yaml-fix",
     "Colored Sidebar Items",
-    "custom-rainbow-colors"
+    "custom-rainbow-colors",
+    "url",
+    "custom-background"
   ],
   "textFontFamily": "URW Gothic",
   "interfaceFontFamily": "URW Gothic",
   "monospaceFontFamily": "Comic Mono",
   "baseFontSize": 18,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "theme": "moonstone"
 }

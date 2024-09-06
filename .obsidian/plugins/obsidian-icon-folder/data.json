@@ -33,10 +33,6 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "0 Attachment-Folder-Path": "LiAtom",
-  "0 Daily-Note": "LiAtom",
-  "0 InBox-Default-Note": "LiAtom",
-  "0 Tamplate": "LiAtom",
   "AES-Impl": "SiCryptpad",
   "AES-Theory": "SiCryptpad",
   "C-Programming": "SiC",
@@ -58,5 +54,9 @@
   "02 Areas": "SiCommerzbank",
   "03 Resources": "LiBookMarked",
   "04 Archives": "LiArchive",
-  "JiYH-24": "LiFileArchive"
+  "JiYH-24": "LiFileArchive",
+  "00 InBox-Note": "LiAtom",
+  "00 Daily-Note": "LiAtom",
+  "00 Attachment-Folder-Path": "LiAtom",
+  "00 Tamplate": "LiAtom"
 }
