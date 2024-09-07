@@ -6,10 +6,10 @@
     "extended-colorschemes",
     "thm-main",
     "yaml-fix",
-    "Colored Sidebar Items",
     "custom-rainbow-colors",
     "url",
-    "custom-background"
+    "custom-background",
+    "Colored Sidebar Items"
   ],
   "textFontFamily": "URW Gothic",
   "interfaceFontFamily": "URW Gothic",

@@ -31,38 +31,12 @@
             }
           },
           {
-            "id": "f79bf57390f9965a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Tamplate/New Cryptology Note.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5c5b7500a9ea121b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Obsidian-Setup/1. Basic Markdown.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1562bb57c92475bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Resources/Background and Wallpaper.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -85,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,6 +128,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "c06376a59e90ccb5",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-detexify",
+              "state": {}
+            }
           }
         ]
       }
@@ -175,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Daily-Note/2024-09-06.md",
+                "file": "Obsidian-Setup/1. Basic Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Daily-Note/2024-09-06.md",
+                "file": "Obsidian-Setup/1. Basic Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Daily-Note/2024-09-06.md"
+                "file": "Obsidian-Setup/1. Basic Markdown.md"
               }
             }
           },
@@ -232,11 +214,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 409.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -257,16 +239,17 @@
       "random-note:Open random note": false,
       "zk-prefixer:Create new unique note": false,
       "obsidian-projects:Open projects": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "3f7bbade47d7105e",
+  "active": "5c5b7500a9ea121b",
   "lastOpenFiles": [
-    "00 Tamplate/New Cryptology Note.md",
-    "Obsidian-Setup/1. Basic Markdown.md",
-    "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
-    "03 Resources/Background and Wallpaper.md",
     "00 Daily-Note/2024-09-06.md",
+    "Obsidian-Setup/1. Basic Markdown.md",
+    "03 Resources/Background and Wallpaper.md",
+    "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+    "00 Tamplate/New Cryptology Note.md",
     "Obsidian-Setup/2. Community Plugin.md",
     "Obsidian-Setup/2. Core Plugins.md",
     "LaTex/latex-image/old_paper_bg.jpg",

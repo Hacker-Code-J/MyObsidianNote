@@ -49,7 +49,6 @@
   "Enjoying-Math": "SiLibreofficemath",
   "Number Theory": "SiLibreofficemath",
   "Zotero": "SiZotero",
-  "DB": "SiGoogledataproc",
   "01 Projects": "SiPkgsrc",
   "02 Areas": "SiCommerzbank",
   "03 Resources": "LiBookMarked",
@@ -58,5 +57,6 @@
   "00 InBox-Note": "LiAtom",
   "00 Daily-Note": "LiAtom",
   "00 Attachment-Folder-Path": "LiAtom",
-  "00 Tamplate": "LiAtom"
+  "00 Tamplate": "LiAtom",
+  "00 DB": "SiGoogledataproc"
 }

@@ -28,5 +28,7 @@
   "media-notes",
   "obsidian-banners",
   "obsidian-custom-frames",
-  "open-note-to-window-title"
+  "open-note-to-window-title",
+  "obsidian-chat-view",
+  "templater-obsidian"
 ]
