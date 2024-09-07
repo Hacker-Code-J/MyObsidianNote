@@ -80,5 +80,7 @@
   "anuppuccin-theme-settings@@anp-cursor": "pointer",
   "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
   "anuppuccin-theme-settings@@ctp-custom-base@@light": "#FFFFFF",
-  "anuppuccin-theme-settings@@anp-h1-divider": false
+  "anuppuccin-theme-settings@@anp-h1-divider": false,
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-hl-preview": "none",
+  "anuppuccin-theme-settings@@anp-code-bg-color@@light": "#EDEDF0"
 }

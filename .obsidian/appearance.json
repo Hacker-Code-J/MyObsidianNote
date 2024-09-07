@@ -7,9 +7,12 @@
     "thm-main",
     "yaml-fix",
     "custom-rainbow-colors",
-    "url",
     "custom-background",
-    "Colored Sidebar Items"
+    "Colored Sidebar Items",
+    "url",
+    "c-code",
+    "onedarkpro-mix-c-style",
+    "onedarkpro-mix-all-modes"
   ],
   "textFontFamily": "URW Gothic",
   "interfaceFontFamily": "URW Gothic",

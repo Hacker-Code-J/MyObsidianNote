@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiFileArchive",
-      "SiCommerzbank",
-      "LiCommand",
-      "🗃",
-      "SiCreatereactapp"
+      "SiCanvas",
+      "SiCloudflareworkers",
+      "SiMicrosoftpowerpoint",
+      "LiPresentation",
+      "SiOpenlayers"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,7 +44,6 @@
   "Obsidian-Lecture": "SiObsidian",
   "Obsidian-Setup": "SiObsidian",
   "OpenSSL": "SiCryptpad",
-  "KMU-F24": "SiGooglescholar",
   "EasyCrypt": "SiSecurityscorecard",
   "Enjoying-Math": "SiLibreofficemath",
   "Number Theory": "SiLibreofficemath",
@@ -53,10 +52,15 @@
   "02 Areas": "SiCommerzbank",
   "03 Resources": "LiBookMarked",
   "04 Archives": "LiArchive",
-  "JiYH-24": "LiFileArchive",
   "00 InBox-Note": "LiAtom",
   "00 Daily-Note": "LiAtom",
   "00 Attachment-Folder-Path": "LiAtom",
-  "00 Tamplate": "LiAtom",
-  "00 DB": "SiGoogledataproc"
+  "00 DB": "SiGoogledataproc",
+  "99 JiYH-24": "LiFileArchive",
+  "99 Research": "SiOpenlayers",
+  "00 Templates": "LiAtom",
+  "99 Presentation": "SiMicrosoftpowerpoint",
+  "99 Classes": "SiCloudflareworkers",
+  "99 CANVAS": "SiCanvas",
+  "100 KMU-F24": "SiGooglescholar"
 }

@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "id": "75db935f9cecbc57",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -360,
+      "y": -240,
+      "width": 400,
+      "height": 400,
+      "label": "Untitled group"
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}
