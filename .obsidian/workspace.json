@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "065328a87c0bc22d",
+            "id": "49c5628c3526773c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,6 +24,19 @@
               "type": "markdown",
               "state": {
                 "file": "99 Research/1 Literature/Paper/SoK - Computer-Aided Cryptography.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71d08f4e6dba967c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian-Lecture/Technology-Document.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,17 +44,22 @@
             }
           },
           {
-            "id": "f60e521100bc48fc",
+            "id": "ef170a0ad5ef71a1",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "canvas",
               "state": {
-                "file": "99 Research/1 Literature/Paper/0 Literature-Paper-DB.md"
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+                "viewState": {
+                  "x": -363.20358867751304,
+                  "y": 556.5563880156194,
+                  "zoom": 0.39999999999999947
+                }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 Research/1 Literature/Paper/SoK - Computer-Aided Cryptography.md",
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 Research/1 Literature/Paper/SoK - Computer-Aided Cryptography.md",
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 Research/1 Literature/Paper/SoK - Computer-Aided Cryptography.md"
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas"
               }
             }
           }
@@ -223,49 +241,50 @@
       "callout-manager:Insert Callout": false,
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "2ab81fb6d6d52684",
+  "active": "ef170a0ad5ef71a1",
   "lastOpenFiles": [
-    "99 Research/1 Literature/Paper/0 Literature-Paper-DB.md",
+    "Obsidian-Lecture/Technology-Document.md",
+    "Excalidraw/Drawing 2024-09-08 17.29.13.excalidraw.md",
+    "Obsidian-Lecture/How-to-Read.md",
+    "Obsidian-Lecture/The Second Brain/Building a Second Brain.md",
+    "AES-Theory/1 Overview of AES.md",
     "99 Research/1 Literature/Paper/SoK - Computer-Aided Cryptography.md",
+    "AES-Theory/1.3 SubBytes and MixColumns.md",
+    "AES-Theory/1.3.1 SubMix.md",
+    "AES-Theory/1.1 Key Expansion.md",
+    "AES-Theory/1.1.2. AddRoundKey.md",
+    "Obsidian-Lecture/Second-Braind-for-Researchers.md",
+    "Obsidian-Lecture/The Second Brain",
+    "Obsidian-Lecture/Obsidian-lecture-Dataview.md",
+    "Obsidian-Lecture/Obsidian Tutorial.md",
+    "100 KMU-F24/Secure-SW/SSW-240905.md",
+    "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
+    "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
+    "Number Theory/Number Theroy.md",
+    "05 PARA-DB/README.md",
+    "99 Research/1 Literature/Paper/0 Literature-Paper-DB.md",
+    "99 Research/README.md",
+    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+    "05 PARA-DB",
+    "100 KMU-F24/Secure-SW/F24-SSW-DB.md",
     "Obsidian-Setup/2. Community Plugin.md",
     "00 Templates/New Paper Analysis.md",
     "99 Research/1 Literature/Paper/SoK | Computer-Aided Cryptography.md",
     "99 Research/1 Literature/Paper/SoK.md",
-    "100 KMU-F24/Secure-SW/F24-SSW-DB.md",
     "99 Research/1 Literature/Books.md",
-    "99 Research/1 Literature/Untitled database.md",
     "99 Research/1 Literature/Paper",
-    "99 Research/1 Literature/Papers.md",
-    "100 KMU-F24/Secure-SW/SSW-240905-2.md",
-    "100 KMU-F24/Secure-SW/SSW-240905.md",
-    "00 Daily-Note/2024-09-07.md",
     "LaTex/preambles/alg.sty",
     "LaTex/preambles/Untitled Document",
     "LaTex/preambles",
     "LaTex/Untitled Folder",
-    "99 Research/README.md",
-    "00 InBox-Note/1970-01-01.md",
-    "99 Research/1 Literature/Reviews.md",
-    "99 Research/1 Literature/Notes.md",
-    "99 Classes/newest class.md",
     "99 CANVAS/Research Links.canvas",
-    "99 Research/1 Literature/paper.md",
     "99 Research/8 Presentation-and-Reports",
     "99 Research/7 References",
     "99 Research/6 Ideas-and-Concepts",
-    "99 Research/5 Experiments",
-    "99 Research/Untitled.md",
-    "99 Research/4 Formal-Verification",
-    "99 Research/Assumptions/Untitled database.md",
-    "Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
-    "Obsidian-Lecture/Second-Braind-for-Researchers.md",
-    "GIT/Learning Git.md",
-    "GIT/Git Command.md",
-    "Obsidian-Lecture/Obsidian Tutorial.md",
-    "export/README/plugin/chalkboard/README.md",
     "export/README/plugin/chalkboard/img/blackboard.png",
     "export/README/plugin/chalkboard/img/boardmarker-black.png",
     "export/README/plugin/chalkboard/img/boardmarker-blue.png",

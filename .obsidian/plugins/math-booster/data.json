@@ -32,7 +32,8 @@
       "beginProof": "\\begin{proof}",
       "endProof": "\\end{proof}",
       "insertSpace": true
-    }
+    },
+    "Obsidian-Lecture": {}
   },
   "extraSettings": {
     "foldDefault": "",
@@ -151,5 +152,13 @@
     "searchModalRange": "recent",
     "searchModalDvQuery": ""
   },
-  "excludedFiles": []
+  "excludedFiles": [
+    "100 KMU-F24/Secure-SW/F24-SSW-DB.md",
+    "99 Research/1 Literature/Paper/0 Literature-Paper-DB.md",
+    "99 Research/1 Literature/Paper/SoK - Computer-Aided Cryptography.md",
+    "00 Templates/New Paper Analysis.md",
+    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+    "100 Enjoying-Math/Algebra/Localization.md",
+    "05 PARA-DB/README.md"
+  ]
 }

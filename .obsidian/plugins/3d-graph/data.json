@@ -1,7 +1,7 @@
 {
   "filters": {
     "doShowOrphans": true,
-    "doShowAttachments": false
+    "doShowAttachments": true
   },
   "groups": {
     "groups": []

@@ -21,6 +21,8 @@ resources:
 
 # Thesis | SoK: Computer-Aided Cryptography
 
+[https://ia.cr/2019/1393](https://ia.cr/2019/1393)
+
 ## Abstract
 > [!abstract]
 > **Computer-aided cryptography** is an active area of research that develops and applies formal, machine-checkable approaches to the design, analysis, and implementation of cryptography. We present a cross-cutting systematization of the computer-aided cryptography literature, focusing on three main areas: 
@@ -34,16 +36,5 @@ resources:
 > 1. First, we study efforts in combining tools focused on different areas to consolidate the guarantees they can provide. 
 > 2. Second, we distill the lessons learned from the computer-aided cryptography community's involvement in the TLS 1.3 standardization effort. 
 > 3. Finally, we conclude with recommendations to paper authors, tool developers, and standardization bodies moving forward.
-### Tasks
-- [ ] Write introduction
-- [ ] Analyze data
-- [ ] Review related literature
 
-### Related Papers
-- {{related_papers}}
 
-### Progress: 
-- {{progress.completed}}% completed
-
-### Resources
-- [https://ia.cr/2019/1393](https://ia.cr/2019/1393)
