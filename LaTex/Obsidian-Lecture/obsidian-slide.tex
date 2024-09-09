@@ -35,153 +35,120 @@
 	\end{frame}
 	
 	\newpage
-	\section{section1}
-	\begin{frame}{2.1 OCaml 기본 구성}
-		\textbf{$\triangleright$ \textcolor{red}{Function Expression} (함수식)}
-		\[
-		\texttt{fun $x$ -> $e$}
-		\] 
+	\section{What is Obsidian?}
+	% Slide 1: What is Obsidian?
+	\begin{frame}{What is Obsidian?}
+		\textcolor{obsidian}{\bf Obsidian} is a Markdown-based note-taking app with powerful linking and knowledge management capabilities.\\
+		\vspace{0.5cm}
+		\textbf{Key Features:}
 		\begin{itemize}
-			\item 함수의 예:
-			\begin{itemize}
-				\item[*] \texttt{fun $x$ -> $x+1$}
-				\item[*] \texttt{fun $y$ -> $y*y$}
-				\item[*] \texttt{fun $x$ -> if $x>0$ then $x+1$ else $x*x$}
-				\item[*] \texttt{fun $x$ -> fun $y$ -> $x+y$}
-				\item[*] \texttt{fun $x$ -> fun $y$ -> fun $z$ -> $x+y+z$}
-			\end{itemize}
-			\item[]
-			\item Syntactic Sugar \[
-			\texttt{fun $x_1\ \dots\ x_n$\ ->\ $e$}
-			\]
-			\begin{itemize}
-				\item[*] \texttt{fun $x$ $y$ -> $x+y$}
-				\item[*] \texttt{fun $x$ $y$ $z$ -> $x+y+z$}
-			\end{itemize}
+			\item Note creation using Markdown.
+			\item Local storage (no cloud dependency).
+			\item Bi-directional linking between notes.
+			\item Graph view to visualize connections.
 		\end{itemize}
 	\end{frame}
-	\begin{frame}{2.1 OCaml 기본}
-		\textbf{$\triangleright$ Function Call Expression (함수 호출식)} \[
-		e_1\quad e_2
-		\]
-		\begin{tcolorbox}[colback=backcolor]\ttfamily
-			\# (fun x -> x * x) 3;;\\
-			- : int = 9\\
-			\# (fun x -> if x > 0 then x + 1 else x * x) 1;;\\
-			- : int = 2\\
-			\# (fun x -> fun y -> fun z -> x + y + z) 1 2 3;;\\
-			- : int = 6
-		\end{tcolorbox}
-		
-		\begin{tcolorbox}[colback=backcolor]\ttfamily
-			\# (fun f -> f * 1) (fun x -> x * x);;\\
-			- : int = 1\\
-			\# (fun x -> x * x) ((fun x -> if x > 0 then 1 else 2) 3);;\\
-			- : int = 2
-		\end{tcolorbox}
+	
+	\subsection{Note Creation using Markdown}
+	\begin{frame}{Note Creation using Markdown}
+	\begin{figure}
+		\centering
+		\begin{minipage}{.32\textwidth}
+			\centering
+			\includegraphics[width=.7\linewidth]{../latex-image/markdown1}
+		\end{minipage}%
+		\begin{minipage}{.32\textwidth}
+			\centering
+			\includegraphics[width=.7\linewidth]{../latex-image/markdown2}
+		\end{minipage}%
+		\begin{minipage}{.32\textwidth}
+			\centering
+			\includegraphics[width=.7\linewidth]{../latex-image/markdown3}
+		\end{minipage}%
+	\end{figure}
+%		\includegraphics[scale=.2]{../latex-image/markdown1}
+%		
+%		\includegraphics[scale=.2]{../latex-image/markdown2}
+%		
+%		\includegraphics[scale=.2]{../latex-image/markdown3}
 	\end{frame}
 
-	\begin{frame}{2.1 OCaml 기본}
-		\textbf{$\triangleright$ Let Expressions}
-		
-		값에 이름 붙이기! \[
-		\texttt{let}\ x = e_1\ \texttt{in}\ e_2
-		\]
-		\begin{itemize}
-			\item $e_1$의 값을 $x$라고 하고 $e_2$를 계산
-			\begin{itemize}
-				\item[*] $x$: variable (변수, 값의 이름)
-				\item[*] $e_1$: binding expression (정의식)
-				\item[*] $e_2$: body expression (몸통식)
-			\end{itemize}
-			\item $e_2$: scope of $x$ (유효범위)
-		\end{itemize}
-		 \begin{tcolorbox}[colback=backcolor]\ttfamily
-			\# let x = 1 in x + x;;\\
-			- : int = 2\\
-			\# (let x = 1 in x) + x;;\\
-			Error: Unbound value x\\
-			\# (let x = 1 in x) + (let x = 2 in x);; \\
-			- : int = 3
-		\end{tcolorbox}	
-		\begin{itemize}
-			\item[] 
-			\item[] 
-			\item[] 
-			\item[] 
-			\item[] 
-		\end{itemize}
+	\subsection{Local Storage}
+	\begin{frame}{Local Storage}
+		content...
 	\end{frame}
 
-\begin{lstlisting}[style=zsh]
-# let x = (let y = 1 in y + 1) in x + 1;;
-- : int = 3
-# let x = 1 in
-	let y = 2 in
-		x + y;;
-- : int = 3
-\end{lstlisting}
-
-\begin{lstlisting}[style=zsh]
-# let square = fun x -> x * x in square 2;;
-- : int = 4
-# let add x y = x + y in add 1 2;;
-- : int = 3
-\end{lstlisting}
-
-\begin{lstlisting}[style=zsh]
-# let rec factorial n =
-	if n = 0 then 1
-	else n * factorial (n - 1);;    
-val factorial : int -> int = <fun>
-# factorial 5;;
-- : int = 120
-\end{lstlisting}
-	\newpage
-	\begin{frame}{2.1 OCaml 기본}
-		\textbf{$\triangleright$ Pattern Matching (패턴 매칭)}
-		
-		\begin{itemize}
-			\item 패턴 매칭을 이용한 값의 구조 분석
-		\end{itemize}
-		\begin{tcolorbox}[colback=backcolor]\ttfamily
-		\# let rec factorial n =\\
-			if n = 0 then 1 else n * factorial (n - 1);; \\   
-		val factorial : int -> int = <fun>
-		\end{tcolorbox}
-		\begin{tcolorbox}[colback=backcolor]\ttfamily
-			\# let factorial a = \\
-			match a with\\
-			0 -> 1\\
-			|\_ -> a * factorial (a-1);;\\
-			val factorial : int -> int = <fun>
-		\end{tcolorbox}
-		\begin{itemize}
-			\item[]
-			\item[]
-		\end{itemize}
+	\subsection{Bi-directional Linking}
+	\begin{frame}{Bi-directional Linking}
+		content...
 	\end{frame}
 
-	\begin{frame}{2.1 OCaml 기본}
-		\textbf{$\triangleright$ Polymorphic Type (다형 타입)}
-		
-		\begin{tcolorbox}[colback=backcolor]\ttfamily
-			\# let id x = x;; \\
-			val id : 'a -> 'a = <fun> \\
-			\# id 1;; \\
-			- : int = 1 \\
-			\# id "abc";; \\
-			- : string = "abc" \\
-			\# id true;; \\
-			- : bool = true
-		\end{tcolorbox}
-		\begin{itemize}
-			\item[]
-			\item[]
-			\item[]
-			\item[]
-		\end{itemize}
+	\subsection{Graph View}
+	\begin{frame}{Graph View}
+		content...
 	\end{frame}
+	
+%	% Slide 2: What is the Zettelkasten Method?
+%	\section{The Zettelkasten Method}
+%	\begin{frame}{What is the Zettelkasten Method?}
+%		A knowledge management system developed by German sociologist Niklas Luhmann.\\
+%		\vspace{0.5cm}
+%		\textbf{Core Principles:}
+%		\begin{itemize}
+%			\item \textbf{Atomic Notes:} Each note should represent a single idea.
+%			\item \textbf{Linking:} Notes are linked to other related ideas, creating a network of thoughts.
+%			\item \textbf{No Hierarchies:} There’s no fixed structure, allowing organic growth of ideas.
+%		\end{itemize}
+%	\end{frame}
+%	
+%	% Slide 3: Why Combine Obsidian with Zettelkasten?
+%	\begin{frame}{Why Combine Obsidian with Zettelkasten?}
+%		\textbf{Obsidian's Strengths:}
+%		\begin{itemize}
+%			\item Excellent for implementing the Zettelkasten principle of linking notes through backlinks and forward links.
+%			\item Allows notes to evolve over time, and connections can be discovered as your knowledge base grows.
+%		\end{itemize}
+%		\vspace{0.5cm}
+%		\textbf{Zettelkasten's Strengths:}
+%		\begin{itemize}
+%			\item Helps in knowledge retention and creative idea development by connecting and revisiting ideas regularly.
+%			\item Builds a long-term system for research and learning.
+%		\end{itemize}
+%	\end{frame}
+%	
+%	% Slide 4: How to Get Started?
+%	\section{How to Get Started?}
+%	\begin{frame}{How to Get Started?}
+%		\begin{enumerate}
+%			\item \textbf{Step 1:} Install Obsidian and create a new Vault.
+%			\item \textbf{Step 2:} Write your first note as an atomic, singular idea (e.g., define a concept like “Cryptography”).
+%			\item \textbf{Step 3:} Create links between notes. For example, link "Cryptography" to "Block Ciphers" by typing \texttt{[[Block Ciphers]]}.
+%			\item \textbf{Step 4:} Use the Graph View to visualize how your notes are connected.
+%			\item \textbf{Step 5:} Utilize tags and folders only if needed for initial organization, but rely primarily on links.
+%		\end{enumerate}
+%	\end{frame}
+%	
+%	% Slide 5: Key Plugins for Zettelkasten in Obsidian
+%	\begin{frame}{Key Plugins for Zettelkasten in Obsidian}
+%		\textbf{Essential Plugins:}
+%		\begin{itemize}
+%			\item \textbf{Graph View:} Helps visualize your network of notes.
+%			\item \textbf{Dataview:} Enables you to create dynamic lists and queries from your notes (useful for tracking topics or projects).
+%			\item \textbf{Backlinks:} Shows related notes, even if you haven’t manually linked them.
+%			\item \textbf{Templater:} Allows you to create reusable templates for faster note creation.
+%		\end{itemize}
+%	\end{frame}
+%	
+%	% Slide 6: Closing Remarks
+%	\begin{frame}{Closing Remarks}
+%		\textbf{Obsidian and Zettelkasten together form a powerful, non-linear system of knowledge.}\\
+%		\vspace{0.5cm}
+%		\textbf{Key Advice:}
+%		\begin{itemize}
+%			\item Start small, with atomic notes and links.
+%			\item Over time, as your notes grow, you will see the interconnected nature of your ideas, enhancing your learning and research capabilities.
+%		\end{itemize}
+%	\end{frame}
 	
 	\newpage
 	{\setbeamercolor{palette primary}{fg=black, bg=-blue}

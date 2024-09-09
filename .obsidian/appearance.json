@@ -12,6 +12,8 @@
     "url",
     "c-code",
     "onedarkpro-mix-c-style",
+    "graph_view",
+    "ji-code-style",
     "onedarkpro-mix-all-modes"
   ],
   "textFontFamily": "URW Gothic",

@@ -39,5 +39,8 @@
   "metadata-menu",
   "obsidian-mind-map",
   "obsidian-extract-pdf-highlights",
-  "excalibrain"
+  "excalibrain",
+  "obsidian-pandoc",
+  "obsidian-kanban",
+  "highlightr-plugin"
 ]

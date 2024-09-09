@@ -80,35 +80,26 @@
 	%	numbers=left
 }
 
-\definecolor{backcolor}{HTML}{FAFAFA}
-\lstdefinestyle{ocaml}{
-	language=[Objective]Caml,
-	basicstyle=\ttfamily\bfseries\footnotesize,
-	keywordstyle=\color{blue}\bfseries,
-	commentstyle=\color{gray}\itshape,
-	stringstyle=\color{orange}\bfseries,
-	numberstyle=\tiny\color{purple},
-	identifierstyle=\color{teal},
-	emphstyle=\color{red}\bfseries,
-	backgroundcolor=\color{backcolor},
-	frame=single,
-	rulecolor=\color{black},
-	frameround=tttt,
-	numbers=left,
-	numbersep=10pt,
-	showspaces=false,
-	showstringspaces=false,
-	breaklines=true,
-	breakatwhitespace=true,
-	tabsize=2,
-	captionpos=b,
-	literate={->}{{$\rightarrow$}}1
-	{<-}{{$\leftarrow$}}1
-	{=>}{{$\Rightarrow$}}1
-	{|->}{{$\mapsto$}}1
-	{>>}{{$\gg$}}1
-	{<<}{{$\ll$}}1
-}
+%% Define Markdown language (optional, if you want specific rules)
+%\lstdefinelanguage{Markdown}{
+%	morekeywords={#, *, -, `, [[, ]], ![}, % Custom Markdown symbols
+%	sensitive=true,
+%	morecomment=[l]{//}, % Define comments in Markdown
+%	morestring=[b]"
+%}
+
+% Define a custom style for Markdown
+%\lstdefinestyle{myMK}{
+%	language=Markdown,
+%	basicstyle=\ttfamily\small, % Font style for the code block
+%	keywordstyle=\color{blue}, % Color for keywords
+%	stringstyle=\color{orange}, % Color for strings
+%	commentstyle=\color{green}, % Color for comments
+%	backgroundcolor=\color{lightgray!20}, % Background color for the code block
+%	frame=single, % Frame around the code block
+%	breaklines=true, % Line breaking in long lines
+%	showstringspaces=false, % Don't show spaces as special characters
+%}
 
 \definecolor{commentColor}{rgb}{0.25,0.5,0.35}
 \definecolor{stringColor}{rgb}{0.5,0.1,0.5}
