@@ -12,6 +12,16 @@
       "label": "Ring of Polynomials with Complex Coefficient"
     },
     {
+      "id": "e2f94fbf8e5b899d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1920,
+      "y": 1800,
+      "width": 3120,
+      "height": 1043,
+      "label": "Commutative Ring with Unity"
+    },
+    {
       "id": "92f03b825f31e61d",
       "type": "group",
       "styleAttributes": {},
@@ -75,16 +85,6 @@
       "label": "Co-domain"
     },
     {
-      "id": "e2f94fbf8e5b899d",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 1920,
-      "y": 1800,
-      "width": 3120,
-      "height": 1043,
-      "label": "Commutative Ring with Unity"
-    },
-    {
       "id": "fabc35f6382bef75",
       "type": "group",
       "styleAttributes": {},
@@ -94,6 +94,16 @@
       "height": 80,
       "color": "5",
       "label": "HOW?"
+    },
+    {
+      "id": "690dd8152d438853",
+      "type": "text",
+      "text": "- $R=\\mathbb{C}[x,y]$\n- $f(x,y)\\in\\mathbb{C}[x,y]$\n- $S=\\set{f^n(x,y):n\\in\\mathbb{Z}_{\\geq 0}}$\n\n$$(\\mathbb{C}[x,y])_{f}=\\left\\{\\frac{g(x,y)}{f^n(x,y)}:g(x,y)\\in\\mathbb{C}[x,y]\\right\\}$$\nA collection of functions defined on $\\mathbb{C}^2\\setminus\\set{(x,y)\\in\\mathbb{C}^2:f(x,y)=0}$\n\n",
+      "styleAttributes": {},
+      "x": -613,
+      "y": -35,
+      "width": 700,
+      "height": 265
     },
     {
       "id": "208e6921e3414b9d",
@@ -116,16 +126,6 @@
       "height": 420
     },
     {
-      "id": "600c01c6e044be81",
-      "type": "text",
-      "text": "$n\\in\\mathbb{Z}$",
-      "styleAttributes": {},
-      "x": 486,
-      "y": 2092,
-      "width": 105,
-      "height": 50
-    },
-    {
       "id": "4e1ba10152e367f8",
       "type": "text",
       "text": "Consider a mapping\n$$\\phi_p:\\mathbb{Z}\\to\\mathbb{Z}_p$$\ndefined by $n\\mapsto (n\\bmod p)=:\\phi_p(n)$ for all $n\\in\\mathbb{Z}$",
@@ -134,6 +134,70 @@
       "y": 1878,
       "width": 596,
       "height": 136
+    },
+    {
+      "id": "622c11e4a78476b8",
+      "type": "text",
+      "text": "Note that \n$$ f(\\alpha)=0\\iff f(x)=(x-\\alpha)g(x)\\ \\text{for some}\\ g(x)\\in\\mathbb{C}[x].$$\nThen $$\\begin{align*}\n\\ker\\phi_\\alpha&=\\set{f\\in\\mathbb{C}[x]:\\phi_\\alpha(f)=0}\\\\\n&=\\set{f\\in\\mathbb{C}[x]:f(\\alpha)=0}\\\\\n&=\\set{(x-\\alpha) g(x):g\\in\\mathbb{C}[x]}\\\\\n&=\\langle x-\\alpha\\rangle\n\\end{align*}$$",
+      "styleAttributes": {},
+      "x": 780,
+      "y": -580,
+      "width": 481,
+      "height": 251
+    },
+    {
+      "id": "ce24ce87b17589ee",
+      "type": "text",
+      "text": "The **evaluation** of $f\\in\\mathbb{C}[x]$ at $\\alpha$.\n\n---\nConsider a mapping\n$$\\phi_\\alpha:\\mathbb{C}[x]\\to\\mathbb{C}$$\ndefined by $f\\mapsto f(\\alpha)=\\phi_\\alpha(f)$",
+      "styleAttributes": {
+        "border": null,
+        "shape": null
+      },
+      "x": 289,
+      "y": -554,
+      "width": 382,
+      "height": 198
+    },
+    {
+      "id": "eb9efffb6a474c43",
+      "type": "text",
+      "text": "$$\\begin{align*}\n\\mathbb{C}&\\simeq\\mathbb{C}[x]/\\langle x-\\alpha\\rangle\\\\\nf(\\alpha)\\in\\mathbb{C}&\\mapsto \\overline{f}\\in\\mathbb{C}[x]/\\langle x-\\alpha\\rangle\n\\end{align*}$$",
+      "styleAttributes": {},
+      "x": 1560,
+      "y": -516,
+      "width": 414,
+      "height": 122
+    },
+    {
+      "id": "40e4b11d959e0ad3",
+      "type": "text",
+      "text": "$\\mathbb{C}[x]$",
+      "styleAttributes": {},
+      "x": 440,
+      "y": -660,
+      "width": 80,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "288af7c8c92105a7",
+      "type": "text",
+      "text": "Consider $f(x)=(x-1)(x-3)=x^2-4x+3\\in\\mathbb{C}[x]$. Then\n$$\n\\begin{align*}\nf(1)=0 &\\iff 0 = \\overline{f}\\in\\mathbb{C}[x]/\\langle x-1\\rangle\\quad &(\\because f(x)=(x-1)(x-3) + 0)\\\\\nf(3)=0 &\\iff 0 = \\overline{f}\\in\\mathbb{C}[x]/\\langle x-3\\rangle\\quad &(\\because f(x)=(x-3)(x-1) + 0)\\\\\nf(0)=3 &\\iff 3 = \\overline{f}\\in\\mathbb{C}[x]/\\langle x-0\\rangle\\quad &(\\because f(x)=(x)(x-4) + 3)\\\\\n\\end{align*}\n$$\n\n",
+      "styleAttributes": {},
+      "x": 2136,
+      "y": -538,
+      "width": 684,
+      "height": 165
+    },
+    {
+      "id": "600c01c6e044be81",
+      "type": "text",
+      "text": "$n\\in\\mathbb{Z}$",
+      "styleAttributes": {},
+      "x": 486,
+      "y": 2092,
+      "width": 105,
+      "height": 50
     },
     {
       "id": "6740b6a2d95db5f8",
@@ -197,6 +261,17 @@
       "height": 175
     },
     {
+      "id": "ff529ba423157049",
+      "type": "text",
+      "text": "$\\mathbb{Z}$",
+      "styleAttributes": {},
+      "x": 240,
+      "y": 1748,
+      "width": 69,
+      "height": 50,
+      "color": "5"
+    },
+    {
       "id": "bb960e5c75dd8f6e",
       "type": "text",
       "text": "\n| Commutative Ring with Unity | Ideal                 | New Ring                                |\n| --------------------------- | --------------------- | --------------------------------------- |\n| $R=\\mathbb{C}[x,y]$         | $I=\\langle xy\\rangle$ | $R/I=\\mathbb{C}[x,y]/\\langle xy\\rangle$ |\n",
@@ -215,16 +290,6 @@
       "y": 325,
       "width": 612,
       "height": 100
-    },
-    {
-      "id": "66da5c91df375005",
-      "type": "text",
-      "text": "### Summary of Key Differences:\n\n| Feature              | Standard Topology                           | Zariski Topology                            |\n| -------------------- | ------------------------------------------- | ------------------------------------------- |\n| Basis for Open Sets  | Open disks (Euclidean metric)               | Complements of algebraic sets (zero loci)   |\n| Closed Sets          | Standard closed sets (e.g., finite points)  | Algebraic sets (zeros of polynomials)       |\n| Continuous Functions | Functions continuous in the Euclidean sense | Functions that preserve algebraic structure |\n| Coarseness           | Finer (more open sets)                      | Coarser (fewer open sets, large open sets)  |\n\nIn essence, the **standard topology** on C\\mathbb{C}C deals with geometric properties based on the Euclidean metric, while the **Zariski topology** deals with algebraic properties related to the vanishing of polynomials.",
-      "styleAttributes": {},
-      "x": 4987,
-      "y": -254,
-      "width": 826,
-      "height": 432
     },
     {
       "id": "cba2a36dc2348591",
@@ -247,46 +312,6 @@
       "height": 50
     },
     {
-      "id": "30b6344215826027",
-      "type": "text",
-      "text": "The natural projection map is \n$$\n\\pi:\\mathbb{C}[x]\\to\\mathbb{C}[x]/\\langle x-\\alpha\\rangle\n$$\n\nLet $$\n  \\mathcal{L}_I(R):=\\set{J\\subseteq R:I\\subseteq J\\ \\text{and}\\ J\\lhd R}$$\nis the set of ideals of $R$ that contain $I$, and let $$\n\\mathcal{L}(R/I):=\\set{K\\subseteq R/I: K\\lhd R/I}\n$$ is the set of ideals of the quotient ring $R/I$.",
-      "styleAttributes": {},
-      "x": 5160,
-      "y": 898,
-      "width": 560,
-      "height": 432
-    },
-    {
-      "id": "92a1342ee63d0b55",
-      "type": "text",
-      "text": "Consider the natural projectoin map\n$$\\pi: \\mathbb{C}[x,y]\\to\\mathbb{C}[x,y]/\\langle xy\\rangle$$\ndefind by $f(x,y)\\mapsto \\overline{f(x,y)}=g(x,y)+\\langle xy\\rangle$ for all $f\\in\\mathbb{C}[x,y]$. Let\n$$\\mathcal{L}_{\\langle xy\\rangle}(\\mathbb{C}[x,y]):=\\set{I\\subseteq\\mathbb{C}[x,y]:\\langle xy\\rangle\\subseteq I\\ \\text{and}\\ I\\lhd\\mathbb{C}[x,y]}$$\nis the set of ideals of $\\mathbb{C}[x,y]$ that contain $\\langle xy\\rangle$, and let\n$$\\mathcal{L}(\\mathbb{C}[x,y]/\\langle xy\\rangle):=\\set{J\\subseteq\\mathbb{C}[x,y]/\\langle xy\\rangle:J\\lhd\\mathbb{C}[x,y]/\\langle xy\\rangle}.$$\nThen there is a bijection\n$$\\phi:\\mathcal{L}_{\\langle xy\\rangle}(\\mathbb{C}[x,y])\\to\\mathcal{L}(\\mathbb{C}[x,y]/\\langle xy\\rangle).$$\n",
-      "styleAttributes": {},
-      "x": 3000,
-      "y": 1120,
-      "width": 700,
-      "height": 360
-    },
-    {
-      "id": "d3c269df3b89b386",
-      "type": "text",
-      "text": "Consider the natural projectoin map\n$$\\pi: \\mathbb{C}[x]\\to\\mathbb{C}[x]/\\langle x-1\\rangle$$\ndefind by $f\\mapsto \\overline{f}\\in\\mathbb{C}/\\langle x-1\\rangle$ for all $f\\in\\mathbb{C}[x]$. Let\n$$\\mathcal{L}_{\\langle x-1\\rangle}(\\mathbb{C}[x]):=\\set{I\\subseteq\\mathbb{C}[x]:\\langle x-1\\rangle\\subseteq I\\ \\text{and}\\ I\\lhd\\mathbb{C}[x]}$$\nis the set of ideals of $\\mathbb{C}[x]$ that contain $\\langle x-1\\rangle$, and let\n$$\\mathcal{L}(\\mathbb{C}[x]/\\langle x-1\\rangle):=\\set{J\\subseteq\\mathbb{C}[x]/\\langle x-1\\rangle:J\\lhd\\mathbb{C}[x]/\\langle x-1\\rangle}.$$\nThen there is a bijection\n$$\\phi:\\mathcal{L}_{\\langle x-1\\rangle}(\\mathbb{C}[x])\\to\\mathcal{L}(\\mathbb{C}[x]/\\langle x-1\\rangle).$$\n",
-      "styleAttributes": {},
-      "x": 3000,
-      "y": 718,
-      "width": 700,
-      "height": 360
-    },
-    {
-      "id": "e0ce7e192a0710d6",
-      "type": "text",
-      "text": "The natural projection map is \n$$\n\\pi:\\mathbb{C}[x,y]\\to\\mathbb{C}[x,y]/\\langle xy\\rangle.\n$$\n\nLet $$\n  \\mathcal{L}_I(R):=\\set{J\\subseteq R:I\\subseteq J\\ \\text{and}\\ J\\lhd R}$$\nis the set of ideals of $R$ that contain $I$, and let $$\n\\mathcal{L}(R/I):=\\set{K\\subseteq R/I: K\\lhd R/I}\n$$ is the set of ideals of the quotient ring $R/I$.",
-      "styleAttributes": {},
-      "x": 5040,
-      "y": 280,
-      "width": 560,
-      "height": 432
-    },
-    {
       "id": "0ae2ea6728d24c6b",
       "type": "text",
       "text": "> [!example]\n> Consider $f(x)=(x-1)(x-2)=x^2-3x+2\\in\\mathbb{C}[x]$ then\n> $$f:\\set{\\langle x-\\alpha\\rangle:\\alpha\\in\\mathbb{C}}\\to\\coprod_\\alpha\\mathbb{C}[x]/\\langle x-\\alpha\\rangle$$\n> defined by \n> $$\\begin{align*}\n> \\langle x-1\\rangle&\\mapsto 0=\\overline{f}\\in \\mathbb{C}[x]/\\langle x-1\\rangle\\\\\n> \\langle x-2\\rangle&\\mapsto 0=\\overline{f}\\in \\mathbb{C}[x]/\\langle x-2\\rangle\\\\\n> \\langle x-3\\rangle&\\mapsto 2=\\overline{f}\\in \\mathbb{C}[x]/\\langle x-3\\rangle\\\\\n> \\langle x-i\\rangle&\\mapsto 1-3i=\\overline{f}\\in \\mathbb{C}[x]/\\langle x-i\\rangle\\\\\n> &\\vdots\n> \\end{align*}$$\n\n\n",
@@ -297,16 +322,6 @@
       "height": 400
     },
     {
-      "id": "e9baaeacc943be69",
-      "type": "text",
-      "text": "$\\coprod_\\alpha\\mathbb{C}[x]/\\langle x-\\alpha\\rangle$",
-      "styleAttributes": {},
-      "x": 621,
-      "y": 180,
-      "width": 190,
-      "height": 50
-    },
-    {
       "id": "46a329d9fd1ff47c",
       "type": "text",
       "text": "> [!info] **Note**\n> $$f:\\set{\\langle x-\\alpha\\rangle:\\alpha\\in\\mathbb{C}}\\to\\coprod_\\alpha\\mathbb{C}[x]/\\langle x-\\alpha\\rangle$$\n> defined by $\\langle x-\\alpha\\rangle\\mapsto \\overline{f}\\in \\mathbb{C}[x]/\\langle x-\\alpha\\rangle$",
@@ -315,121 +330,6 @@
       "y": 280,
       "width": 635,
       "height": 190
-    },
-    {
-      "id": "b5a91510e6c59441",
-      "type": "text",
-      "text": "$\\mathbb{C}$",
-      "styleAttributes": {},
-      "x": 449,
-      "y": 180,
-      "width": 62,
-      "height": 50
-    },
-    {
-      "id": "6787afc0cc6ed1ef",
-      "type": "text",
-      "text": "$\\set{\\langle x-\\alpha\\rangle:\\alpha\\in\\mathbb{C}}$",
-      "styleAttributes": {},
-      "x": 1235,
-      "y": -2,
-      "width": 184,
-      "height": 50
-    },
-    {
-      "id": "57a34f419fb3e0d0",
-      "type": "text",
-      "text": "$$f:\\mathbb{C}\\to\\mathbb{C}$$defined by $\\alpha\\mapsto f(\\alpha)$ for all $\\alpha\\in\\mathbb{C}$",
-      "styleAttributes": {},
-      "x": 306,
-      "y": -165,
-      "width": 348,
-      "height": 105
-    },
-    {
-      "id": "cb8aefbbfc1d02eb",
-      "type": "text",
-      "text": "$\\mathbb{C}=\\set{\\alpha:\\alpha\\in\\mathbb{C}}$",
-      "styleAttributes": {},
-      "x": 1239,
-      "y": -137,
-      "width": 175,
-      "height": 50
-    },
-    {
-      "id": "deaaf460b1615f7f",
-      "type": "text",
-      "text": "$f\\in\\mathbb{C}[x]$",
-      "styleAttributes": {},
-      "x": 420,
-      "y": -300,
-      "width": 120,
-      "height": 50
-    },
-    {
-      "id": "622c11e4a78476b8",
-      "type": "text",
-      "text": "Note that \n$$ f(\\alpha)=0\\iff f(x)=(x-\\alpha)g(x)\\ \\text{for some}\\ g(x)\\in\\mathbb{C}[x].$$\nThen $$\\begin{align*}\n\\ker\\phi_\\alpha&=\\set{f\\in\\mathbb{C}[x]:\\phi_\\alpha(f)=0}\\\\\n&=\\set{f\\in\\mathbb{C}[x]:f(\\alpha)=0}\\\\\n&=\\set{(x-\\alpha) g(x):g\\in\\mathbb{C}[x]}\\\\\n&=\\langle x-\\alpha\\rangle\n\\end{align*}$$",
-      "styleAttributes": {},
-      "x": 780,
-      "y": -580,
-      "width": 481,
-      "height": 251
-    },
-    {
-      "id": "ce24ce87b17589ee",
-      "type": "text",
-      "text": "The **evaluation** of $f\\in\\mathbb{C}[x]$ at $\\alpha$.\n\n---\nConsider a mapping\n$$\\phi_\\alpha:\\mathbb{C}[x]\\to\\mathbb{C}$$\ndefined by $f\\mapsto f(\\alpha)=\\phi_\\alpha(f)$",
-      "styleAttributes": {
-        "border": null,
-        "shape": null
-      },
-      "x": 289,
-      "y": -554,
-      "width": 382,
-      "height": 198
-    },
-    {
-      "id": "eb9efffb6a474c43",
-      "type": "text",
-      "text": "$$\\begin{align*}\n\\mathbb{C}&\\simeq\\mathbb{C}[x]/\\langle x-\\alpha\\rangle\\\\\nf(\\alpha)\\in\\mathbb{C}&\\mapsto \\overline{f}\\in\\mathbb{C}[x]/\\langle x-\\alpha\\rangle\n\\end{align*}$$",
-      "styleAttributes": {},
-      "x": 1560,
-      "y": -516,
-      "width": 414,
-      "height": 122
-    },
-    {
-      "id": "40e4b11d959e0ad3",
-      "type": "text",
-      "text": "$\\mathbb{C}[x]$",
-      "styleAttributes": {},
-      "x": 440,
-      "y": -660,
-      "width": 80,
-      "height": 50,
-      "color": "5"
-    },
-    {
-      "id": "ff529ba423157049",
-      "type": "text",
-      "text": "$\\mathbb{Z}$",
-      "styleAttributes": {},
-      "x": 240,
-      "y": 1748,
-      "width": 69,
-      "height": 50,
-      "color": "5"
-    },
-    {
-      "id": "288af7c8c92105a7",
-      "type": "text",
-      "text": "Consider $f(x)=(x-1)(x-3)=x^2-4x+3\\in\\mathbb{C}[x]$. Then\n$$\n\\begin{align*}\nf(1)=0 &\\iff 0 = \\overline{f}\\in\\mathbb{C}[x]/\\langle x-1\\rangle\\quad &(\\because f(x)=(x-1)(x-3) + 0)\\\\\nf(3)=0 &\\iff 0 = \\overline{f}\\in\\mathbb{C}[x]/\\langle x-3\\rangle\\quad &(\\because f(x)=(x-3)(x-1) + 0)\\\\\nf(0)=3 &\\iff 3 = \\overline{f}\\in\\mathbb{C}[x]/\\langle x-0\\rangle\\quad &(\\because f(x)=(x)(x-4) + 3)\\\\\n\\end{align*}\n$$\n\n",
-      "styleAttributes": {},
-      "x": 2136,
-      "y": -538,
-      "width": 684,
-      "height": 165
     },
     {
       "id": "b5b6793ceea01622",
@@ -452,24 +352,34 @@
       "height": 132
     },
     {
-      "id": "f1cac69685d777c2",
+      "id": "92a1342ee63d0b55",
       "type": "text",
-      "text": "Consider $S\\subseteq\\mathbb{C}[x]$.\n\n- **Closed Sets**$$Z(S)=\\set{\\langle x-\\alpha\\rangle:f\\in\\langle x-\\alpha\\rangle\\ \\text{for all}\\ f\\in S}$$",
+      "text": "Consider the natural projectoin map\n$$\\pi: \\mathbb{C}[x,y]\\to\\mathbb{C}[x,y]/\\langle xy\\rangle$$\ndefind by $f(x,y)\\mapsto \\overline{f(x,y)}=g(x,y)+\\langle xy\\rangle$ for all $f\\in\\mathbb{C}[x,y]$. Let\n$$\\mathcal{L}_{\\langle xy\\rangle}(\\mathbb{C}[x,y]):=\\set{I\\subseteq\\mathbb{C}[x,y]:\\langle xy\\rangle\\subseteq I\\ \\text{and}\\ I\\lhd\\mathbb{C}[x,y]}$$\nis the set of ideals of $\\mathbb{C}[x,y]$ that contain $\\langle xy\\rangle$, and let\n$$\\mathcal{L}(\\mathbb{C}[x,y]/\\langle xy\\rangle):=\\set{J\\subseteq\\mathbb{C}[x,y]/\\langle xy\\rangle:J\\lhd\\mathbb{C}[x,y]/\\langle xy\\rangle}.$$\nThen there is a bijection\n$$\\phi:\\mathcal{L}_{\\langle xy\\rangle}(\\mathbb{C}[x,y])\\to\\mathcal{L}(\\mathbb{C}[x,y]/\\langle xy\\rangle).$$\n",
       "styleAttributes": {},
-      "x": 2900,
-      "y": 77,
-      "width": 660,
-      "height": 140
+      "x": 3000,
+      "y": 1120,
+      "width": 700,
+      "height": 360
     },
     {
-      "id": "690dd8152d438853",
+      "id": "e9baaeacc943be69",
       "type": "text",
-      "text": "- $R=\\mathbb{C}[x,y]$\n- $f(x,y)\\in\\mathbb{C}[x,y]$\n- $S=\\set{f^n(x,y):n\\in\\mathbb{Z}_{\\geq 0}}$\n\n$$(\\mathbb{C}[x,y])_{f}=\\left\\{\\frac{g(x,y)}{f^n(x,y)}:g(x,y)\\in\\mathbb{C}[x,y]\\right\\}$$\nA collection of functions defined on $\\mathbb{C}^2\\setminus\\set{(x,y)\\in\\mathbb{C}^2:f(x,y)=0}$\n\n",
+      "text": "$\\coprod_\\alpha\\mathbb{C}[x]/\\langle x-\\alpha\\rangle$",
       "styleAttributes": {},
-      "x": -613,
-      "y": -35,
-      "width": 700,
-      "height": 265
+      "x": 621,
+      "y": 180,
+      "width": 190,
+      "height": 50
+    },
+    {
+      "id": "b5a91510e6c59441",
+      "type": "text",
+      "text": "$\\mathbb{C}$",
+      "styleAttributes": {},
+      "x": 449,
+      "y": 180,
+      "width": 62,
+      "height": 50
     },
     {
       "id": "79baa097fcc20612",
@@ -480,46 +390,6 @@
       "y": 260,
       "width": 687,
       "height": 160
-    },
-    {
-      "id": "c14d9a2923d0f1cf",
-      "type": "text",
-      "text": "- $R=\\mathbb{C}[x]$\n- $f\\in\\mathbb{C}[x]$\n- $S=\\set{1,f,f^2,\\dots}=\\set{f^n:n\\in\\mathbb{Z}_{\\geq 0}}$\n\n$$S^{-1}R=(\\mathbb{C}[x])_f=\\left\\{\\frac{g(x)}{f^n(x)}:g(x)\\in\\mathbb{C}[x],f^n(x)\\in S \\right\\}$$\n\nA collection of functions defined on $\\mathbb{C}\\setminus\\set{\\text{finite points}}$?\n\nZariski: complement of zero set of function is basis element\n\nGiven $\\mathbb{C}^1$, localization is a collection of  functions defined on each basis element\n\n",
-      "styleAttributes": {},
-      "x": -595,
-      "y": -498,
-      "width": 608,
-      "height": 386
-    },
-    {
-      "id": "06ebd3a41259572a",
-      "type": "text",
-      "text": "The evaluation mapping for $\\mathbb{C}^{\\mathbb{C}[x]}$ is a mapping\n$$\\textsf{ev}:\\mathbb{C}^{\\mathbb{C}[x]}\\times\\mathbb{C}[x]\\to\\mathbb{C}$$\ndefined by $(\\phi,f)\\mapsto \\phi(f)=\\textsf{ev}(\\phi,f)$.\n",
-      "styleAttributes": {},
-      "x": -540,
-      "y": -687,
-      "width": 553,
-      "height": 155
-    },
-    {
-      "id": "1622ce6160b938c4",
-      "type": "text",
-      "text": "- $R=\\mathbb{C}[x]$\n- $x-1\\in\\mathbb{C}[x]$\n- $S=\\set{(x-1)^n:n\\in\\mathbb{Z}_{\\geq 0}}$\n\n$$(\\mathbb{C}[x])_{x-1}=\\left\\{\\frac{g(x)}{(x-1)^n}:g(x)\\in\\mathbb{C}[x]\\right\\}$$\nA collection of functions defined on $\\mathbb{C}\\setminus\\set{1}$\n\n`function`\n\n",
-      "styleAttributes": {},
-      "x": -1300,
-      "y": -437,
-      "width": 608,
-      "height": 265
-    },
-    {
-      "id": "3da2089efc027fcb",
-      "type": "text",
-      "text": "- $R=\\mathbb{C}[x]$\n- $S=R\\setminus\\mathfrak{p}=\\mathbb{C}[x]\\setminus\\langle x-1\\rangle$\n\n$$S^{-1}R=\\left\\{\\frac{g(x)}{f(x)}:g\\in\\mathbb{C}[x],f\\in \\mathbb{C}[x]\\setminus\\langle x-1\\rangle \\right\\}$$\nA collection of functions defined at $1$\n\n`space`",
-      "styleAttributes": {},
-      "x": -1300,
-      "y": -80,
-      "width": 608,
-      "height": 310
     },
     {
       "id": "7cf1580b1a1a16e1",
@@ -552,14 +422,84 @@
       "height": 160
     },
     {
-      "id": "936af2dc2ff79ee5",
-      "type": "file",
-      "file": "100 Enjoying-Math/Algebra/Localization.md",
+      "id": "66da5c91df375005",
+      "type": "text",
+      "text": "### Summary of Key Differences:\n\n| Feature              | Standard Topology                           | Zariski Topology                            |\n| -------------------- | ------------------------------------------- | ------------------------------------------- |\n| Basis for Open Sets  | Open disks (Euclidean metric)               | Complements of algebraic sets (zero loci)   |\n| Closed Sets          | Standard closed sets (e.g., finite points)  | Algebraic sets (zeros of polynomials)       |\n| Continuous Functions | Functions continuous in the Euclidean sense | Functions that preserve algebraic structure |\n| Coarseness           | Finer (more open sets)                      | Coarser (fewer open sets, large open sets)  |\n\nIn essence, the **standard topology** on C\\mathbb{C}C deals with geometric properties based on the Euclidean metric, while the **Zariski topology** deals with algebraic properties related to the vanishing of polynomials.",
       "styleAttributes": {},
-      "x": -1272,
-      "y": 620,
-      "width": 692,
-      "height": 540
+      "x": 4987,
+      "y": -254,
+      "width": 826,
+      "height": 432
+    },
+    {
+      "id": "30b6344215826027",
+      "type": "text",
+      "text": "The natural projection map is \n$$\n\\pi:\\mathbb{C}[x]\\to\\mathbb{C}[x]/\\langle x-\\alpha\\rangle\n$$\n\nLet $$\n  \\mathcal{L}_I(R):=\\set{J\\subseteq R:I\\subseteq J\\ \\text{and}\\ J\\lhd R}$$\nis the set of ideals of $R$ that contain $I$, and let $$\n\\mathcal{L}(R/I):=\\set{K\\subseteq R/I: K\\lhd R/I}\n$$ is the set of ideals of the quotient ring $R/I$.",
+      "styleAttributes": {},
+      "x": 5160,
+      "y": 898,
+      "width": 560,
+      "height": 432
+    },
+    {
+      "id": "d3c269df3b89b386",
+      "type": "text",
+      "text": "Consider the natural projectoin map\n$$\\pi: \\mathbb{C}[x]\\to\\mathbb{C}[x]/\\langle x-1\\rangle$$\ndefind by $f\\mapsto \\overline{f}\\in\\mathbb{C}/\\langle x-1\\rangle$ for all $f\\in\\mathbb{C}[x]$. Let\n$$\\mathcal{L}_{\\langle x-1\\rangle}(\\mathbb{C}[x]):=\\set{I\\subseteq\\mathbb{C}[x]:\\langle x-1\\rangle\\subseteq I\\ \\text{and}\\ I\\lhd\\mathbb{C}[x]}$$\nis the set of ideals of $\\mathbb{C}[x]$ that contain $\\langle x-1\\rangle$, and let\n$$\\mathcal{L}(\\mathbb{C}[x]/\\langle x-1\\rangle):=\\set{J\\subseteq\\mathbb{C}[x]/\\langle x-1\\rangle:J\\lhd\\mathbb{C}[x]/\\langle x-1\\rangle}.$$\nThen there is a bijection\n$$\\phi:\\mathcal{L}_{\\langle x-1\\rangle}(\\mathbb{C}[x])\\to\\mathcal{L}(\\mathbb{C}[x]/\\langle x-1\\rangle).$$\n",
+      "styleAttributes": {},
+      "x": 3000,
+      "y": 718,
+      "width": 700,
+      "height": 360
+    },
+    {
+      "id": "e0ce7e192a0710d6",
+      "type": "text",
+      "text": "The natural projection map is \n$$\n\\pi:\\mathbb{C}[x,y]\\to\\mathbb{C}[x,y]/\\langle xy\\rangle.\n$$\n\nLet $$\n  \\mathcal{L}_I(R):=\\set{J\\subseteq R:I\\subseteq J\\ \\text{and}\\ J\\lhd R}$$\nis the set of ideals of $R$ that contain $I$, and let $$\n\\mathcal{L}(R/I):=\\set{K\\subseteq R/I: K\\lhd R/I}\n$$ is the set of ideals of the quotient ring $R/I$.",
+      "styleAttributes": {},
+      "x": 5040,
+      "y": 280,
+      "width": 560,
+      "height": 432
+    },
+    {
+      "id": "f1cac69685d777c2",
+      "type": "text",
+      "text": "Consider $S\\subseteq\\mathbb{C}[x]$.\n\n- **Closed Sets**$$Z(S)=\\set{\\langle x-\\alpha\\rangle:f\\in\\langle x-\\alpha\\rangle\\ \\text{for all}\\ f\\in S}$$",
+      "styleAttributes": {},
+      "x": 2900,
+      "y": 77,
+      "width": 660,
+      "height": 140
+    },
+    {
+      "id": "06ebd3a41259572a",
+      "type": "text",
+      "text": "The evaluation mapping for $\\mathbb{C}^{\\mathbb{C}[x]}$ is a mapping\n$$\\textsf{ev}:\\mathbb{C}^{\\mathbb{C}[x]}\\times\\mathbb{C}[x]\\to\\mathbb{C}$$\ndefined by $(\\phi,f)\\mapsto \\phi(f)=\\textsf{ev}(\\phi,f)$.\n",
+      "styleAttributes": {},
+      "x": -540,
+      "y": -687,
+      "width": 553,
+      "height": 155
+    },
+    {
+      "id": "1622ce6160b938c4",
+      "type": "text",
+      "text": "- $R=\\mathbb{C}[x]$\n- $x-1\\in\\mathbb{C}[x]$\n- $S=\\set{(x-1)^n:n\\in\\mathbb{Z}_{\\geq 0}}$\n\n$$(\\mathbb{C}[x])_{x-1}=\\left\\{\\frac{g(x)}{(x-1)^n}:g(x)\\in\\mathbb{C}[x]\\right\\}$$\nA collection of functions defined on $\\mathbb{C}\\setminus\\set{1}$\n\n`function`\n\n",
+      "styleAttributes": {},
+      "x": -1300,
+      "y": -437,
+      "width": 608,
+      "height": 265
+    },
+    {
+      "id": "3da2089efc027fcb",
+      "type": "text",
+      "text": "- $R=\\mathbb{C}[x]$\n- $S=R\\setminus\\mathfrak{p}=\\mathbb{C}[x]\\setminus\\langle x-1\\rangle$\n\n$$S^{-1}R=\\left\\{\\frac{g(x)}{f(x)}:g\\in\\mathbb{C}[x],f\\in \\mathbb{C}[x]\\setminus\\langle x-1\\rangle \\right\\}$$\nA collection of functions defined at $1$\n\n`space`",
+      "styleAttributes": {},
+      "x": -1300,
+      "y": -80,
+      "width": 608,
+      "height": 310
     },
     {
       "id": "b6fb4de649bcfa3d",
@@ -570,6 +510,66 @@
       "y": 340,
       "width": 580,
       "height": 260
+    },
+    {
+      "id": "c14d9a2923d0f1cf",
+      "type": "text",
+      "text": "- $R=\\mathbb{C}[x]$\n- $f\\in\\mathbb{C}[x]$\n- $S=\\set{1,f,f^2,\\dots}=\\set{f^n:n\\in\\mathbb{Z}_{\\geq 0}}$\n\n$$S^{-1}R=(\\mathbb{C}[x])_f=\\left\\{\\frac{g(x)}{f^n(x)}:g(x)\\in\\mathbb{C}[x],f^n(x)\\in S \\right\\}$$\n\nA collection of functions defined on $\\mathbb{C}\\setminus\\set{\\text{finite points}}$?\n\nZariski: complement of zero set of function is basis element\n\nGiven $\\mathbb{C}^1$, localization is a collection of  functions defined on each basis element\n\n",
+      "styleAttributes": {},
+      "x": -595,
+      "y": -498,
+      "width": 608,
+      "height": 386
+    },
+    {
+      "id": "6787afc0cc6ed1ef",
+      "type": "text",
+      "text": "$\\set{\\langle x-\\alpha\\rangle:\\alpha\\in\\mathbb{C}}$",
+      "styleAttributes": {},
+      "x": 1235,
+      "y": -2,
+      "width": 184,
+      "height": 50
+    },
+    {
+      "id": "cb8aefbbfc1d02eb",
+      "type": "text",
+      "text": "$\\mathbb{C}=\\set{\\alpha:\\alpha\\in\\mathbb{C}}$",
+      "styleAttributes": {},
+      "x": 1239,
+      "y": -137,
+      "width": 175,
+      "height": 50
+    },
+    {
+      "id": "deaaf460b1615f7f",
+      "type": "text",
+      "text": "$f\\in\\mathbb{C}[x]$",
+      "styleAttributes": {},
+      "x": 420,
+      "y": -300,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "57a34f419fb3e0d0",
+      "type": "text",
+      "text": "$$f:\\mathbb{C}\\to\\mathbb{C}$$defined by $\\alpha\\mapsto f(\\alpha)$ for all $\\alpha\\in\\mathbb{C}$",
+      "styleAttributes": {},
+      "x": 306,
+      "y": -165,
+      "width": 348,
+      "height": 105
+    },
+    {
+      "id": "936af2dc2ff79ee5",
+      "type": "file",
+      "file": "100 Enjoying-Math/Algebra/Localization.md",
+      "styleAttributes": {},
+      "x": -1272,
+      "y": 700,
+      "width": 692,
+      "height": 540
     }
   ],
   "edges": [
