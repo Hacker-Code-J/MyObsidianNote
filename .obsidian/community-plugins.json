@@ -42,5 +42,6 @@
   "excalibrain",
   "obsidian-pandoc",
   "obsidian-kanban",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "webpage-html-export"
 ]

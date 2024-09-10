@@ -26,7 +26,7 @@
                 "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "viewState": {
                   "x": 945.899506020625,
-                  "y": 572.3751790885836,
+                  "y": -167.60723207823082,
                   "zoom": 0.07820096986688163
                 }
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Enjoying-Math/Algebra/Localization.md",
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Enjoying-Math/Algebra/Localization.md",
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Enjoying-Math/Algebra/Localization.md"
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas"
               }
             }
           }
@@ -241,11 +241,55 @@
       "dbfolder:Create a new database table": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "handwritten-notes:Create empty handwritten note": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "00883b8416ae5b78",
+  "floating": {
+    "id": "9420425226df7f71",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b7761950cd1f1f3e",
+        "type": "window",
+        "children": [
+          {
+            "id": "c50f9128ad0caf95",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "631e34e5cdadc591",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 419,
+        "y": 311,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "631e34e5cdadc591",
   "lastOpenFiles": [
+    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+    "HTML-Export",
+    "100 Enjoying-Math/Algebra/Localization.md",
     "Obsidian-Lecture/Exalidraw-for-Researchers.md",
     "00 InBox-Note/Untitled Kanban.md",
     "00 Daily-Note/2024-09-09.md",
@@ -253,7 +297,6 @@
     "100 KMU-F24/Side-Channel-Attack/SCA-240909.md",
     "99 Classes/newest class.md",
     "100 KMU-F24/Secure-SW/SSW-240905.md",
-    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "100 KMU-F24/KMU-F24-DB.md",
     "100 KMU-F24/Music/UM-240909.md",
     "100 KMU-F24/Secure-SW/SSW-240905-2.md",
@@ -276,16 +319,13 @@
     "LaTex/latex-image/markdown1.png",
     "Obsidian-Setup/2. Community Plugin.md",
     "Obsidian-Setup/1. Callout.md",
-    "LaTex/Obsidian-Lecture/obsidian-slide.tex.yztamh",
     "100 KMU-F24/Secure-SW/F24-SSW-DB.md",
-    "100 Enjoying-Math/Algebra/Localization.md",
     "99 Research/1 Literature/Paper/SoK - Computer-Aided Cryptography.md",
     "Obsidian-Lecture/Technology-Document.md",
     "Excalidraw/Drawing 2024-09-08 17.29.13.excalidraw.md",
     "AES-Theory/1 Overview of AES.md",
     "AES-Theory/1.3 SubBytes and MixColumns.md",
     "AES-Theory/1.3.1 SubMix.md",
-    "AES-Theory/1.1 Key Expansion.md",
     "99 CANVAS/Research Links.canvas",
     "export/README/plugin/chalkboard/img/blackboard.png",
     "export/README/plugin/chalkboard/img/boardmarker-black.png",
