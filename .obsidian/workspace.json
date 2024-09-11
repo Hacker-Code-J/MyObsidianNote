@@ -23,20 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 KMU-F24/Secure-SW/SSW-240905.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b14f60a774ffb68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 KMU-F24/Secure-SW/SSW-240910.md",
+                "file": "100 KMU-F24/Side-Channel-Analysis/SCA-240911.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 KMU-F24/Side-Channel-Attack/SCA-240911.md",
+                "file": "100 Enjoying-Math/Enjoying-Math-with-REF.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +44,7 @@
             }
           },
           {
-            "id": "3993f351e1d9ad05",
+            "id": "e9ff65282e74b740",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
@@ -67,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 KMU-F24/KMU-F24-DB.md",
+                "file": "100 KMU-F24/Side-Channel-Analysis/SCA-240911.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 KMU-F24/KMU-F24-DB.md",
+                "file": "100 KMU-F24/Side-Channel-Analysis/SCA-240911.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 KMU-F24/KMU-F24-DB.md"
+                "file": "100 KMU-F24/Side-Channel-Analysis/SCA-240911.md"
               }
             }
           }
@@ -255,18 +242,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3993f351e1d9ad05",
+  "active": "80aa3d29780d9dd0",
   "lastOpenFiles": [
-    "100 KMU-F24/KMU-F24-TAG-DB.md",
+    "100 Enjoying-Math/Enjoying-Math-with-REF.md",
+    "100 KMU-F24/Side-Channel-Analysis/SCA-240911.md",
+    "100 KMU-F24/Secure-SW/SSW-240905.md",
+    "100 KMU-F24/Secure-SW/SSW-240910.md",
     "100 KMU-F24/KMU-F24-DB.md",
+    "00 Daily-Note/2024-09-11.md",
+    "100 KMU-F24/KMU-F24-TAG-DB.md",
     "100 KMU-F24/KMU-F24-DB (copy).md",
     "100 KMU-F24/Secure-Network/SNP-240905.md",
-    "100 KMU-F24/Secure-SW/SSW-240905.md",
     "100 KMU-F24/Secure-SW/SSW-240905-practice.md",
-    "100 KMU-F24/Side-Channel-Attack/SCA-240911.md",
     "99 JiYH-24/CISC-W24.md",
     "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
-    "100 KMU-F24/Secure-SW/SSW-240910.md",
     "100 KMU-F24/Secure-Network/SNP-240910.md",
     "100 KMU-F24/Secure-Network/SNP-Excalidraw.md",
     "100 KMU-F24/Secure-Network/F24-SNP-DB.md",
@@ -283,8 +272,6 @@
     "HTML-Export",
     "00 InBox-Note/Untitled Kanban.md",
     "00 Daily-Note/2024-09-09.md",
-    "100 Enjoying-Math/Algebra/Category-Theory.md",
-    "99 Classes/newest class.md",
     "LaTex/Obsidian-Lecture/obsidian-slide.synctex(busy)",
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.kMLZfF",
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.LJBaZE",
