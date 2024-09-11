@@ -1,5 +1,5 @@
 ---
-title: Secure SoftWare Implementation | Week1
+title: Secure SoftWare Implementation | Week1 - 2
 date: 2024-09-05
 semester: Fall 2024
 week: 1

@@ -49,15 +49,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 JiYH-24/CISC-W24.md",
-                "mode": "preview",
+                "file": "100 KMU-F24/Side-Channel-Attack/SCA-240911.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "3993f351e1d9ad05",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "100 KMU-F24/KMU-F24-DB.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 JiYH-24/CISC-W24.md",
+                "file": "100 KMU-F24/KMU-F24-DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 JiYH-24/CISC-W24.md",
+                "file": "100 KMU-F24/KMU-F24-DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 JiYH-24/CISC-W24.md"
+                "file": "100 KMU-F24/KMU-F24-DB.md"
               }
             }
           }
@@ -245,13 +255,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cada772ae32b8248",
+  "active": "3993f351e1d9ad05",
   "lastOpenFiles": [
+    "100 KMU-F24/KMU-F24-TAG-DB.md",
+    "100 KMU-F24/KMU-F24-DB.md",
+    "100 KMU-F24/KMU-F24-DB (copy).md",
+    "100 KMU-F24/Secure-Network/SNP-240905.md",
+    "100 KMU-F24/Secure-SW/SSW-240905.md",
+    "100 KMU-F24/Secure-SW/SSW-240905-practice.md",
+    "100 KMU-F24/Side-Channel-Attack/SCA-240911.md",
+    "99 JiYH-24/CISC-W24.md",
     "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "100 KMU-F24/Secure-SW/SSW-240910.md",
-    "100 KMU-F24/Secure-SW/SSW-240905.md",
-    "100 KMU-F24/Secure-Network/SNP-240905.md",
-    "100 KMU-F24/Secure-SW/SSW-240905-2.md",
     "100 KMU-F24/Secure-Network/SNP-240910.md",
     "100 KMU-F24/Secure-Network/SNP-Excalidraw.md",
     "100 KMU-F24/Secure-Network/F24-SNP-DB.md",
@@ -269,11 +284,7 @@
     "00 InBox-Note/Untitled Kanban.md",
     "00 Daily-Note/2024-09-09.md",
     "100 Enjoying-Math/Algebra/Category-Theory.md",
-    "100 KMU-F24/Side-Channel-Attack/SCA-240909.md",
     "99 Classes/newest class.md",
-    "100 KMU-F24/KMU-F24-DB.md",
-    "100 KMU-F24/Music/UM-240909.md",
-    "Obsidian-Lecture/How-to-Read.md",
     "LaTex/Obsidian-Lecture/obsidian-slide.synctex(busy)",
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.kMLZfF",
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.LJBaZE",
