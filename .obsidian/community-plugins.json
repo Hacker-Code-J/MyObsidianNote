@@ -14,7 +14,6 @@
   "obsidian-icon-folder",
   "math-booster",
   "dataview",
-  "table-editor-obsidian",
   "obsidian-toggle-meta-yaml-plugin",
   "mathlinks",
   "advanced-canvas",
@@ -43,5 +42,6 @@
   "obsidian-pandoc",
   "obsidian-kanban",
   "highlightr-plugin",
-  "webpage-html-export"
+  "webpage-html-export",
+  "table-editor-obsidian"
 ]

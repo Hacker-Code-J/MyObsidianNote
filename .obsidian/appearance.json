@@ -14,7 +14,8 @@
     "onedarkpro-mix-c-style",
     "graph_view",
     "ji-code-style",
-    "onedarkpro-mix-all-modes"
+    "onedarkpro-mix-all-modes",
+    "atom-one-dark"
   ],
   "textFontFamily": "URW Gothic",
   "interfaceFontFamily": "URW Gothic",

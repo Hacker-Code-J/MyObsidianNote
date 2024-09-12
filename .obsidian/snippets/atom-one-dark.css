@@ -1,0 +1,173 @@
+/*
+  ================================================
+  Obsidian One Dark Pro Mixed Syntax Theme
+  Languages: C, C++, Python, OCaml, Bash (Zsh)
+  Author: [Your Name]
+  Description: A theme mixing Atom One Dark and One Dark Pro for 
+               C, C++, Python, OCaml, and Bash (Zsh) in Obsidian.
+  ================================================
+*/
+
+/* ============================= */
+/*     BASE THEME COLORS          */
+/* ============================= */
+
+/* Background and text colors based on One Dark Pro */
+.theme-dark {
+  --text-normal: #abb2bf;
+  --text-muted: #5c6370;
+  --text-accent: #61afef;
+  --background-primary: #1e222a; /* One Dark Pro's darker background */
+  --background-secondary: #282c34; /* Atom One Dark's base background */
+  --background-accent: #2c313c;
+  --background-hover: #3e4451;
+  --border: #4b5263;
+  --accent: #c678dd;
+  --accent-hover: #e06c75;
+  --accent-background: #98c379;
+}
+
+/* ============================= */
+/*  CODE BLOCK GENERAL STYLING    */
+/* ============================= */
+
+.cm-s-obsidian pre.HyperMD-codeblock {
+  background-color: var(--background-secondary);
+  color: var(--text-normal);
+  border-left: 4px solid var(--accent);
+  padding: 12px;
+  font-size: 14px;
+  /* font-family: 'Fira Code', monospace; */
+  border-radius: 6px;
+  line-height: 1.6;
+  white-space: pre-wrap;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); /* Adds depth to the code block */
+}
+
+/* ============================= */
+/*   SYNTAX HIGHLIGHTING STYLES   */
+/* ============================= */
+
+/* ----------- C and C++ ------------- */
+.cm-s-obsidian .cm-keyword {
+  color: #e06c75; /* Red-based keywords, as in One Dark Pro */
+}
+
+.cm-s-obsidian .cm-atom {
+  color: #d19a66; /* Constants and literals */
+}
+
+.cm-s-obsidian .cm-number {
+  color: #d19a66; /* Numeric literals */
+}
+
+.cm-s-obsidian .cm-def {
+  color: #61afef; /* Function and variable definitions */
+}
+
+.cm-s-obsidian .cm-variable {
+  color: #e06c75; /* Variables */
+}
+
+.cm-s-obsidian .cm-operator {
+  color: #56b6c2; /* Operators and symbols */
+}
+
+/* ----------- Python ------------- */
+.cm-s-obsidian .cm-variable-2 {
+  color: #e5c07b; /* Variable names */
+}
+
+.cm-s-obsidian .cm-string {
+  color: #98c379; /* String literals */
+}
+
+.cm-s-obsidian .cm-builtin {
+  color: #61afef; /* Built-in functions and classes */
+}
+
+.cm-s-obsidian .cm-comment {
+  color: #5c6370; /* Comments */
+  font-style: italic;
+}
+
+/* ----------- OCaml ------------- */
+.cm-s-obsidian .cm-meta {
+  color: #e06c75; /* Metadata */
+}
+
+.cm-s-obsidian .cm-type {
+  color: #e5c07b; /* Type names */
+}
+
+.cm-s-obsidian .cm-bracket {
+  color: #abb2bf; /* Brackets, parentheses, and braces */
+}
+
+/* ----------- Bash (Zsh) ------------- */
+.cm-s-obsidian .cm-attribute {
+  color: #d19a66; /* Attributes in Bash */
+}
+
+.cm-s-obsidian .cm-builtin {
+  color: #e06c75; /* Built-in commands */
+}
+
+.cm-s-obsidian .cm-tag {
+  color: #56b6c2; /* Special tags and symbols */
+}
+
+.cm-s-obsidian .cm-link {
+  color: #61afef; /* URLs or links in Bash */
+}
+
+/* ============================= */
+/*  ADDITIONAL CURSOR AND SELECTION */
+/* ============================= */
+
+.cm-s-obsidian .CodeMirror-cursor {
+  border-left: 1px solid #528bff; /* Cursor style in code blocks */
+}
+
+.cm-s-obsidian .CodeMirror-selected {
+  background-color: rgba(81, 168, 234, 0.3); /* Selection highlight */
+}
+
+/* ============================= */
+/*   INLINE CODE BLOCK STYLING    */
+/* ============================= */
+
+.cm-s-obsidian code {
+  background-color: var(--background-accent);
+  color: var(--text-accent);
+  padding: 2px 5px;
+  border-radius: 4px;
+  font-size: 90%;
+  /* font-family: 'Fira Code', monospace; */
+}
+
+/* ============================= */
+/*   LINE NUMBERS AND ADDITIONAL OPTIONS */
+/* ============================= */
+
+/* Line number color */
+.cm-s-obsidian .CodeMirror-linenumber {
+  color: var(--text-muted);
+  background-color: var(--background-primary);
+}
+
+/* Optional: Highlight active line */
+.CodeMirror-activeline-background {
+  background-color: rgba(99, 110, 123, 0.2); /* Subtle line highlight */
+}
+
+/* ============================= */
+/*  ADDITIONAL SHADOW AND BORDER   */
+/* ============================= */
+
+/* Adds a border and shadow to code blocks for better visual hierarchy */
+.cm-s-obsidian pre.HyperMD-codeblock {
+  border: 1px solid var(--border);
+  box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.3);
+}
+
