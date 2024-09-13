@@ -40,7 +40,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 4
+    position: 5
     isHidden: false
     sortIndex: -1
     width: 201
@@ -63,7 +63,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: false
-    position: 5
+    position: 6
     isHidden: true
     sortIndex: -1
     width: 309
@@ -82,7 +82,7 @@ columns:
     key: tags
     id: tags
     label: tags
-    position: 6
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -102,6 +102,11 @@ columns:
       - { label: "C", value: "C", color: "hsl(273, 95%, 90%)"}
       - { label: "Lecture slides from TCP/IP Chapter 1", value: "Lecture slides from TCP/IP Chapter 1", color: "hsl(49, 95%, 90%)"}
       - { label: "sec", value: "sec", color: "hsl(308, 95%, 90%)"}
+      - { label: "rng-lecture", value: "rng-lecture", color: "hsl(14, 95%, 90%)"}
+      - { label: "securi", value: "securi", color: "hsl(11, 95%, 90%)"}
+      - { label: "security-implement", value: "security-implement", color: "hsl(201, 95%, 90%)"}
+      - { label: "security-implementation-method", value: "security-implementation-method", color: "hsl(195, 95%, 90%)"}
+      - { label: "security-implementation-methodology", value: "security-implementation-methodology", color: "hsl(218, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -143,6 +148,34 @@ columns:
     isHidden: false
     sortIndex: -1
     width: 407
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  key_concepts:
+    input: tags
+    accessorKey: key_concepts
+    key: key_concepts
+    id: key_concepts
+    label: key_concepts
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 451
+    options:
+      - { label: "Implementation of Extended Euclidean Algorithm on C++", value: "Implementation of Extended Euclidean Algorithm on C++", color: "hsl(245, 95%, 90%)"}
+      - { label: "Euclidean Algorithm", value: "Euclidean Algorithm", color: "hsl(127, 95%, 90%)"}
+      - { label: "Terminology for Network", value: "Terminology for Network", color: "hsl(165, 95%, 90%)"}
+      - { label: "Finite Field", value: "Finite Field", color: "hsl(253, 95%, 90%)"}
+      - { label: "Side-Channel-Attack", value: "Side-Channel-Attack", color: "hsl(54, 95%, 90%)"}
+      - { label: "HASH_DRBG", value: "HASH_DRBG", color: "hsl(284, 95%, 90%)"}
+      - { label: "Protocol", value: "Protocol", color: "hsl(62, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
