@@ -1,0 +1,96 @@
+/* General background and text color for edit mode and read/preview mode */
+.theme-dark {
+    --background-primary: #282c34 !important; /* Dark navy blue background */
+    --background-secondary: #1b1f27 !important; /* Slightly darker background */
+    --text-normal: #abb2bf !important; /* Light gray text */
+}
+
+/* Background for code blocks and general background in edit and read/preview mode */
+.cm-s-obsidian .CodeMirror-lines, .markdown-preview-view, .markdown-preview-view pre {
+    background-color: var(--background-primary) !important;
+    color: var(--text-normal) !important;
+}
+
+/* Syntax Highlighting for edit mode and read/preview mode */
+.cm-s-obsidian .cm-keyword, .markdown-preview-view code .hljs-keyword {
+    color: #c678dd !important; /* Light purple for keywords */
+}
+
+.cm-s-obsidian .cm-atom, .markdown-preview-view code .hljs-built_in, 
+.markdown-preview-view code .hljs-type {
+    color: #d19a66 !important; /* Orange for types and typedefs */
+}
+
+/* Headers (#include in C) */
+.cm-s-obsidian .cm-meta, .markdown-preview-view code .hljs-meta {
+    color: #c678dd !important; /* Light purple for preprocessor directives */
+}
+
+/* Strings */
+.cm-s-obsidian .cm-string, .markdown-preview-view code .hljs-string {
+    color: #98c379 !important; /* Green for strings */
+}
+
+/* Function names */
+.cm-s-obsidian .cm-def, .markdown-preview-view code .hljs-function .hljs-title {
+    color: #61afef !important; /* Cyan for function names */
+}
+
+/* Variables */
+.cm-s-obsidian .cm-variable, .markdown-preview-view code .hljs-variable {
+    color: #e06c75 !important; /* Red for variables */
+}
+
+/* Numbers */
+.cm-s-obsidian .cm-number, .markdown-preview-view code .hljs-number {
+    color: #d19a66 !important; /* Yellow for numbers */
+}
+
+/* Comments */
+.cm-s-obsidian .cm-comment, .markdown-preview-view code .hljs-comment {
+    color: #5c6370 !important; /* Muted gray for comments */
+    font-style: italic;
+}
+
+/* Brackets and punctuation */
+.cm-s-obsidian .cm-bracket, .markdown-preview-view code .hljs-punctuation {
+    color: #abb2bf !important; /* Light gray for brackets */
+}
+
+/* Cursor and selection in edit mode */
+.CodeMirror-cursor {
+    border-left: 2px solid #ffcc00 !important; /* Bright yellow cursor */
+}
+
+.CodeMirror-selected, .markdown-preview-view ::selection {
+    background-color: #3e4451 !important; /* Dark gray for selected text */
+}
+
+/* Line numbers in edit mode */
+.CodeMirror-gutter .CodeMirror-linenumber {
+    color: #5c6370 !important; /* Muted gray for line numbers */
+}
+
+/* Styling for inline code blocks in preview/read mode */
+.markdown-preview-view code {
+    background-color: var(--background-secondary) !important; /* Match background of code blocks in edit mode */
+    color: var(--text-normal) !important; /* White text for inline code */
+    border-radius: 3px !important;
+    padding: 0.2em 0.4em !important;
+}
+
+/* Borders and rounded corners for code blocks in read/preview mode */
+.markdown-preview-view pre {
+    background-color: var(--background-primary) !important; /* Background matches the editor */
+    color: var(--text-normal) !important; /* White text for code blocks */
+    border-radius: 5px !important;
+    padding: 10px !important;
+    overflow: auto !important;
+    border: 1px solid #3E4A50 !important; /* Border for code blocks */
+}
+
+/* Additional custom styling (optional) */
+.markdown-preview-view pre code {
+    /* font-family: "Fira Code", monospace !important; */ /* Optional: font for code blocks */
+}
+
