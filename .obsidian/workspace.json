@@ -31,15 +31,12 @@
             }
           },
           {
-            "id": "4c38afee156f67e3",
+            "id": "bfd73ea9ab968e23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "100 KMU-F24/RNG-Theory/RNG-240913-Code.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md"
               }
             }
           }
@@ -154,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 KMU-F24/RNG-Theory/RNG-240913-Code.md",
+                "file": "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 KMU-F24/RNG-Theory/RNG-240913-Code.md",
+                "file": "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 KMU-F24/RNG-Theory/RNG-240913-Code.md"
+                "file": "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md"
               }
             }
           }
@@ -232,9 +229,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4c38afee156f67e3",
+  "active": "bfd73ea9ab968e23",
   "lastOpenFiles": [
     "100 KMU-F24/Sec-Impl-Method/SIM-Week1.md",
+    "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md",
+    "00 Attachment-Folder-Path/Pasted Image 20240914183942_581.png",
+    "00 Attachment-Folder-Path/Cortex-A72-Pipeline.png",
+    "00 Daily-Note/2024-09-14.md",
+    "00 Attachment-Folder-Path/Pasted Image 20240914174356_888.png",
+    "100 KMU-F24/Sec-Impl-Method/SIM-DB.md",
+    "00 Attachment-Folder-Path/Pasted Image 20240914174056_806.png",
+    "100 KMU-F24/Sec-SW-Impl/SSW-240912.md",
+    "100 KMU-F24/Sec-SW-Impl/SSW-240910.md",
     "100 KMU-F24/RNG-Theory/RNG-240913-Code.md",
     "Obsidian-Lecture/Obsidian Tutorial.md",
     "100 KMU-F24/RNG-Theory/RNG-240913.md",
@@ -260,12 +266,6 @@
     "03 Resources/Obsidian.md",
     "100 KMU-F24/Sec-Net-Prog/SNP-240910.md",
     "Github-SSH.md",
-    "100 Enjoying-Math/Algebra/Localization.md",
-    "03 Resources/Zettelkasten.md",
-    "00 Daily-Note/2024-09-11.md",
-    "100 Enjoying-Math/Enjoying-Math-with-REF.md",
-    "100 KMU-F24/SC-Analysis/SCA-240911.md",
-    "100 KMU-F24/Sec-SW-Impl/SSW-240910.md",
     "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "HTML-Export",
     "LaTex/Obsidian-Lecture/obsidian-slide.synctex(busy)",
@@ -278,10 +278,6 @@
     "export/README/plugin/chalkboard/img/blackboard.png",
     "export/README/plugin/chalkboard/img/boardmarker-black.png",
     "export/README/plugin/chalkboard/img/boardmarker-blue.png",
-    "export/README/plugin/chalkboard/img/boardmarker-green.png",
-    "export/README/plugin/chalkboard/img/boardmarker-orange.png",
-    "export/README/plugin/chalkboard/img/boardmarker-purple.png",
-    "export/README/plugin/chalkboard/img/boardmarker-red.png",
     "Obsidian-Lecture/DIKW-Pyramid.canvas",
     "Rust-Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
     "Rust -Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
