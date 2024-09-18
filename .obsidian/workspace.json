@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 KMU-F24/Sec-Impl-Method/SIM-Week1.md",
+                "file": "00 Daily-Note/2024-09-17.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 KMU-F24/Sec-Impl-Method/SIM-Week1.md",
+                "file": "00 Daily-Note/2024-09-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 KMU-F24/Sec-Impl-Method/SIM-Week1.md",
+                "file": "00 Daily-Note/2024-09-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 KMU-F24/Sec-Impl-Method/SIM-Week1.md"
+                "file": "00 Daily-Note/2024-09-17.md"
               }
             }
           }
@@ -234,9 +234,10 @@
   },
   "active": "6f375aacf3a3fee7",
   "lastOpenFiles": [
+    "100 KMU-F24/Sec-Impl-Method/SIM-Week1.md",
+    "00 Daily-Note/2024-09-17.md",
     "00 Daily-Note/2024-09-15.md",
     "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md",
-    "100 KMU-F24/Sec-Impl-Method/SIM-Week1.md",
     "00 Attachment-Folder-Path/Pasted Image 20240914183942_581.png",
     "00 Attachment-Folder-Path/Cortex-A72-Pipeline.png",
     "00 Daily-Note/2024-09-14.md",
@@ -269,7 +270,6 @@
     "100 KMU-F24/Sec-SW-Impl/SSW-240905-practice.md",
     "03 Resources/Obsidian.md",
     "100 KMU-F24/Sec-Net-Prog/SNP-240910.md",
-    "Github-SSH.md",
     "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "HTML-Export",
     "LaTex/Obsidian-Lecture/obsidian-slide.synctex(busy)",
