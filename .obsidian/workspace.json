@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utility/Doxygen.md",
+                "file": "100 KMU-F24/Sec-Net-Prog/SNP-240917.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3c21b68808da7721",
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utility/Doxygen.md",
+                "file": "100 KMU-F24/Sec-Net-Prog/SNP-240917.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utility/Doxygen.md",
+                "file": "100 KMU-F24/Sec-Net-Prog/SNP-240917.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utility/Doxygen.md"
+                "file": "100 KMU-F24/Sec-Net-Prog/SNP-240917.md"
               }
             }
           }
@@ -221,10 +222,12 @@
   },
   "active": "6f375aacf3a3fee7",
   "lastOpenFiles": [
+    "100 KMU-F24/Sec-Net-Prog/SNP-240912.md",
+    "100 KMU-F24/Sec-Net-Prog/SNP-240917.md",
+    "00 Daily-Note/2024-09-18.md",
+    "Utility/Doxygen.md",
     "100 KMU-F24/Eureka/test.py",
     "README.md",
-    "Utility/Doxygen.md",
-    "00 Daily-Note/2024-09-18.md",
     "Utility",
     "100 KMU-F24/Sec-SW-Impl/SSW-240910.md",
     "100 KMU-F24/Sec-SW-Impl/SSW-240912.md",
@@ -243,7 +246,6 @@
     "100 KMU-F24/RNG-Theory/RNG-240913.md",
     "Obsidian-Lecture/Technology-Document.md",
     "100 KMU-F24/RNG-Theory/RNG-Theory.md",
-    "100 KMU-F24/Sec-Net-Prog/SNP-240912.md",
     "100 KMU-F24/Sec-Net-Prog/Sec-Net-Prog.md",
     "00 Daily-Note/2024-09-13.md",
     "100 KMU-F24/KMU-F24-DB.md",
@@ -261,7 +263,6 @@
     "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "HTML-Export",
     "LaTex/Obsidian-Lecture/obsidian-slide.synctex(busy)",
-    "LaTex/Obsidian-Lecture/obsidian-slide.tex.kMLZfF",
     "LaTex/latex-image/markdown3.png",
     "LaTex/latex-image/markdown2.png",
     "LaTex/latex-image/markdown1.png",
