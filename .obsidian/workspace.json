@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 KMU-F24/Sec-Net-Prog/SNP-240919.md",
+                "file": "Obsidian-Setup/1. Basic Markdown.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,20 +31,32 @@
             }
           },
           {
-            "id": "a805a6e60ae36d6e",
+            "id": "1953fde6a24813f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "00 Daily-Note/2024-09-19.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+                "viewState": {
+                  "x": 1055.9218962412915,
+                  "y": 524.6780794799294,
+                  "zoom": -0.3217990301331184
+                }
+              }
+            }
+          },
+          {
+            "id": "5fc4a07f217e2309",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Daily-Note/2024-09-19.md",
+                "file": "Obsidian-Setup/1. Basic Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Daily-Note/2024-09-19.md",
+                "file": "Obsidian-Setup/1. Basic Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Daily-Note/2024-09-19.md"
+                "file": "Obsidian-Setup/1. Basic Markdown.md"
               }
             }
           }
@@ -232,8 +244,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a805a6e60ae36d6e",
+  "active": "6f375aacf3a3fee7",
   "lastOpenFiles": [
+    "100 KMU-F24/Sec-SW-Impl/SSW-240912.md",
+    "100 KMU-F24/Sec-Net-Prog/SNP-240919.md",
+    "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md",
+    "Obsidian-Setup/1. Callout.md",
+    "100 KMU-F24/Sec-SW-Impl/SSW-240905.md",
+    "00 Daily-Note/2024-09-19.md",
+    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "Obsidian-Setup/1. Basic Markdown.md",
     "LaTex/Obsidian-Lecture/obsidian-slide.synctex(busy)",
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.ImdOaf",
@@ -255,15 +274,10 @@
     "LaTex/latex-image/markdown-code3.png",
     "LaTex/latex-image/markdown-code2.png",
     "LaTex/latex-image/markdown-code1.png",
-    "Obsidian-Setup/1. Callout.md",
-    "100 KMU-F24/Sec-Net-Prog/SNP-240919.md",
-    "00 Daily-Note/2024-09-19.md",
     "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
     "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
     "Number Theory/Number Theroy.md",
-    "100 KMU-F24/Sec-SW-Impl/SSW-240912.md",
     "100 KMU-F24/Sec-SW-Impl/SSW-240910.md",
-    "100 KMU-F24/Sec-SW-Impl/SSW-240905.md",
     "Obsidian-Lecture/Exalidraw-for-Researchers.md",
     "100 KMU-F24/Sec-Net-Prog/SNP-240917.md",
     "100 KMU-F24/Sec-Net-Prog/SNP-240912.md",
@@ -273,13 +287,11 @@
     "00 Daily-Note/2024-09-17.md",
     "100 KMU-F24/Sec-Impl-Method/SIM-Week1.md",
     "00 Daily-Note/2024-09-15.md",
-    "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md",
     "00 Daily-Note/2024-09-14.md",
     "100 KMU-F24/Sec-Impl-Method/SIM-DB.md",
     "100 KMU-F24/RNG-Theory/RNG-240913-Code.md",
     "Obsidian-Lecture/Obsidian Tutorial.md",
     "100 KMU-F24/RNG-Theory/RNG-240913.md",
-    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "99 CANVAS/Research Links.canvas",
     "Obsidian-Lecture/DIKW-Pyramid.canvas",
     "Rust-Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
