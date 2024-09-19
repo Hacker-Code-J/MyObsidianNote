@@ -23,7 +23,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 KMU-F24/Sec-Net-Prog/SNP-240917.md",
+                "file": "100 KMU-F24/Sec-Net-Prog/SNP-240919.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a805a6e60ae36d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Daily-Note/2024-09-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3c21b68808da7721",
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 KMU-F24/Sec-Net-Prog/SNP-240917.md",
+                "file": "00 Daily-Note/2024-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 KMU-F24/Sec-Net-Prog/SNP-240917.md",
+                "file": "00 Daily-Note/2024-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 KMU-F24/Sec-Net-Prog/SNP-240917.md"
+                "file": "00 Daily-Note/2024-09-19.md"
               }
             }
           }
@@ -220,56 +232,55 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6f375aacf3a3fee7",
+  "active": "a805a6e60ae36d6e",
   "lastOpenFiles": [
-    "100 KMU-F24/Sec-Net-Prog/SNP-240912.md",
+    "Obsidian-Setup/1. Basic Markdown.md",
+    "LaTex/Obsidian-Lecture/obsidian-slide.synctex(busy)",
+    "LaTex/Obsidian-Lecture/obsidian-slide.tex.ImdOaf",
+    "LaTex/latex-image/graphview.png",
+    "LaTex/Obsidian-Lecture/obsidian-slide.tex.BKEKro",
+    "LaTex/Obsidian-Lecture/obsidian-slide.tex.hoNMZi",
+    "LaTex/Obsidian-Lecture/obsidian-slide.tex.vvOCin",
+    "LaTex/Obsidian-Lecture/obsidian-slide.tex.RFDLcC",
+    "LaTex/Obsidian-Lecture/obsidian-slide.tex.ZdNnBI",
+    "LaTex/Obsidian-Lecture/obsidian-slide.tex.ODLhaU",
+    "LaTex/Obsidian-Lecture/obsidian-slide.tex.YRihRN",
+    "LaTex/Obsidian-Lecture/obsidian-slide.tex.FmgbYc",
+    "LaTex/latex-image/excalidraw2.jpg",
+    "LaTex/latex-image/excalidraw1.png",
+    "LaTex/latex-image/canvas3.png",
+    "LaTex/latex-image/canvas2.png",
+    "LaTex/latex-image/canvas1.png",
+    "LaTex/latex-image/markdown-code4.png",
+    "LaTex/latex-image/markdown-code3.png",
+    "LaTex/latex-image/markdown-code2.png",
+    "LaTex/latex-image/markdown-code1.png",
+    "Obsidian-Setup/1. Callout.md",
+    "100 KMU-F24/Sec-Net-Prog/SNP-240919.md",
+    "00 Daily-Note/2024-09-19.md",
+    "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
+    "Number Theory/Chapter 1. Preliminaries/Chapter 1. Preliminaries.md",
+    "Number Theory/Number Theroy.md",
+    "100 KMU-F24/Sec-SW-Impl/SSW-240912.md",
+    "100 KMU-F24/Sec-SW-Impl/SSW-240910.md",
+    "100 KMU-F24/Sec-SW-Impl/SSW-240905.md",
+    "Obsidian-Lecture/Exalidraw-for-Researchers.md",
     "100 KMU-F24/Sec-Net-Prog/SNP-240917.md",
+    "100 KMU-F24/Sec-Net-Prog/SNP-240912.md",
     "00 Daily-Note/2024-09-18.md",
     "Utility/Doxygen.md",
-    "100 KMU-F24/Eureka/test.py",
     "README.md",
-    "Utility",
-    "100 KMU-F24/Sec-SW-Impl/SSW-240910.md",
-    "100 KMU-F24/Sec-SW-Impl/SSW-240912.md",
     "00 Daily-Note/2024-09-17.md",
     "100 KMU-F24/Sec-Impl-Method/SIM-Week1.md",
     "00 Daily-Note/2024-09-15.md",
     "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md",
-    "00 Attachment-Folder-Path/Pasted Image 20240914183942_581.png",
-    "00 Attachment-Folder-Path/Cortex-A72-Pipeline.png",
     "00 Daily-Note/2024-09-14.md",
-    "00 Attachment-Folder-Path/Pasted Image 20240914174356_888.png",
     "100 KMU-F24/Sec-Impl-Method/SIM-DB.md",
-    "00 Attachment-Folder-Path/Pasted Image 20240914174056_806.png",
     "100 KMU-F24/RNG-Theory/RNG-240913-Code.md",
     "Obsidian-Lecture/Obsidian Tutorial.md",
     "100 KMU-F24/RNG-Theory/RNG-240913.md",
-    "Obsidian-Lecture/Technology-Document.md",
-    "100 KMU-F24/RNG-Theory/RNG-Theory.md",
-    "100 KMU-F24/Sec-Net-Prog/Sec-Net-Prog.md",
-    "00 Daily-Note/2024-09-13.md",
-    "100 KMU-F24/KMU-F24-DB.md",
-    "100 KMU-F24/Sec-Net-Prog/SNP-240905.md",
-    "100 KMU-F24/Sec-Impl-Method",
-    "100 KMU-F24/Sec-SW-Impl/SSW-240905.md",
-    "100 KMU-F24/Eureka/Eureka-Week2-Special-Lecture.md",
-    "100 KMU-F24/Eureka/Eureka-Week2.md",
-    "00 Daily-Note/2024-09-12.md",
-    "100 KMU-F24/Eureka/week2.py~",
-    "100 KMU-F24/Eureka/week2.py",
-    "100 KMU-F24/Eureka",
-    "Excalidraw/lib/algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib",
-    "Excalidraw/lib/Unconfirmed 79447.crdownload",
     "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
-    "HTML-Export",
-    "LaTex/Obsidian-Lecture/obsidian-slide.synctex(busy)",
-    "LaTex/latex-image/markdown3.png",
-    "LaTex/latex-image/markdown2.png",
-    "LaTex/latex-image/markdown1.png",
     "99 CANVAS/Research Links.canvas",
-    "export/README/plugin/chalkboard/img/blackboard.png",
-    "export/README/plugin/chalkboard/img/boardmarker-black.png",
-    "export/README/plugin/chalkboard/img/boardmarker-blue.png",
     "Obsidian-Lecture/DIKW-Pyramid.canvas",
     "Rust-Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
     "Rust -Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
