@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b81582c2969c3ae2",
+        "id": "5372f6b24f6f6276",
         "type": "tabs",
         "children": [
           {
-            "id": "49c5628c3526773c",
+            "id": "a58e14c0d63f3fb3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,40 +18,15 @@
             }
           },
           {
-            "id": "6f375aacf3a3fee7",
+            "id": "f4fdb72a3397d3c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian-Setup/1. Basic Markdown.md",
+                "file": "PQC/Code-based and Lattice-based Crytography.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1953fde6a24813f9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
-                "viewState": {
-                  "x": 1055.9218962412915,
-                  "y": 524.6780794799294,
-                  "zoom": -0.3217990301331184
-                }
-              }
-            }
-          },
-          {
-            "id": "5fc4a07f217e2309",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md"
               }
             }
           }
@@ -166,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian-Setup/1. Basic Markdown.md",
+                "file": "PQC/Code-based and Lattice-based Crytography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian-Setup/1. Basic Markdown.md",
+                "file": "PQC/Code-based and Lattice-based Crytography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian-Setup/1. Basic Markdown.md"
+                "file": "PQC/Code-based and Lattice-based Crytography.md"
               }
             }
           }
@@ -219,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "obsidian-custom-frames:Open Detexify": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
@@ -244,16 +220,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6f375aacf3a3fee7",
+  "active": "f4fdb72a3397d3c3",
   "lastOpenFiles": [
+    "PQC/Code-based and Lattice-based Crytography.md",
+    "PQC",
+    "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md",
+    "00 Daily-Note/2024-09-19.md",
+    "Obsidian-Setup/0. Hotkey.md",
+    "Obsidian-Setup/0. Initial Set-Up.md",
+    "Obsidian-Setup/2. Community Plugin.md",
+    "Obsidian-Setup/2. Core Plugins.md",
+    "Obsidian-Setup/1. Callout.md",
+    "Obsidian-Setup/1. Basic Markdown.md",
     "100 KMU-F24/Sec-SW-Impl/SSW-240912.md",
     "100 KMU-F24/Sec-Net-Prog/SNP-240919.md",
-    "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md",
-    "Obsidian-Setup/1. Callout.md",
     "100 KMU-F24/Sec-SW-Impl/SSW-240905.md",
-    "00 Daily-Note/2024-09-19.md",
     "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
-    "Obsidian-Setup/1. Basic Markdown.md",
     "LaTex/Obsidian-Lecture/obsidian-slide.synctex(busy)",
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.ImdOaf",
     "LaTex/latex-image/graphview.png",
@@ -264,7 +246,6 @@
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.ZdNnBI",
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.ODLhaU",
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.YRihRN",
-    "LaTex/Obsidian-Lecture/obsidian-slide.tex.FmgbYc",
     "LaTex/latex-image/excalidraw2.jpg",
     "LaTex/latex-image/excalidraw1.png",
     "LaTex/latex-image/canvas3.png",
@@ -288,10 +269,6 @@
     "100 KMU-F24/Sec-Impl-Method/SIM-Week1.md",
     "00 Daily-Note/2024-09-15.md",
     "00 Daily-Note/2024-09-14.md",
-    "100 KMU-F24/Sec-Impl-Method/SIM-DB.md",
-    "100 KMU-F24/RNG-Theory/RNG-240913-Code.md",
-    "Obsidian-Lecture/Obsidian Tutorial.md",
-    "100 KMU-F24/RNG-Theory/RNG-240913.md",
     "99 CANVAS/Research Links.canvas",
     "Obsidian-Lecture/DIKW-Pyramid.canvas",
     "Rust-Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",

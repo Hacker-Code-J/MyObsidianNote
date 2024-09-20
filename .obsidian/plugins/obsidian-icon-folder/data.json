@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiCryptpad",
       "SiGooglecloudspanner",
       "SiHtmx",
       "SiInfluxdb",
-      "LiDatabase",
-      "SiCanvas"
+      "LiDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -65,5 +65,6 @@
   "100 Enjoying-Math": "SiLibreofficemath",
   "05 PARA-DB": "LiDatabase",
   "HTML": "SiHtmx",
-  "Utility": "SiGooglecloudspanner"
+  "Utility": "SiGooglecloudspanner",
+  "PQC": "SiCryptpad"
 }

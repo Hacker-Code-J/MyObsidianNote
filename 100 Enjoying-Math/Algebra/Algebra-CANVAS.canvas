@@ -12,6 +12,17 @@
       "label": "Ring of Polynomials with Complex Coefficient"
     },
     {
+      "id": "dfa64bacc09326fe",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 990,
+      "y": 260,
+      "width": 675,
+      "height": 700,
+      "color": "5",
+      "label": "Abstraction"
+    },
+    {
       "id": "e2f94fbf8e5b899d",
       "type": "group",
       "styleAttributes": {},
@@ -40,17 +51,6 @@
       "width": 1240,
       "height": 1200,
       "label": "Ring of integers"
-    },
-    {
-      "id": "dfa64bacc09326fe",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 990,
-      "y": 260,
-      "width": 675,
-      "height": 700,
-      "color": "5",
-      "label": "Abstraction"
     },
     {
       "id": "a19f56c74599347a",
