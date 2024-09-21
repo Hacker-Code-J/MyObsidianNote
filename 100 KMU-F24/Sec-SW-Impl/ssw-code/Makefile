@@ -11,7 +11,7 @@ SRCDIR = ./src
 # INCDIR = ./include
 
 # Files
-OBJS = $(OBJDIR)/rijndeal-sbox.o
+OBJS = $(OBJDIR)/rijndael-sbox.o
 
 TARGET = $(BINDIR)/test
 
