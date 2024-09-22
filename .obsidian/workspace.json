@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5372f6b24f6f6276",
+        "id": "6c5475f48adffbae",
         "type": "tabs",
         "children": [
           {
-            "id": "4e31221a2b63afd9",
+            "id": "6ca42eac70e7e1a5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,8 +16,24 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "7b91b9232a520bb3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+                "viewState": {
+                  "x": 863.5613174432497,
+                  "y": -196.159010138506,
+                  "zoom": 0.07820096986688163
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas"
+              }
             }
           }
         ]
@@ -202,8 +222,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4e31221a2b63afd9",
+  "active": "7b91b9232a520bb3",
   "lastOpenFiles": [
+    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "100 KMU-F24/RNG-Theory/RNG-240920.md",
     "100 KMU-F24/RNG-Theory/Monti-Hall-Problem.md",
     "100 KMU-F24/RNG-Theory/RNG-Theory.md",
@@ -221,7 +242,6 @@
     "100 KMU-F24/Sec-SW-Impl/SSW-240912.md",
     "100 KMU-F24/Sec-Net-Prog/SNP-240919.md",
     "100 KMU-F24/Sec-SW-Impl/SSW-240905.md",
-    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "LaTex/Obsidian-Lecture/obsidian-slide.synctex(busy)",
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.ImdOaf",
     "LaTex/latex-image/graphview.png",
@@ -250,7 +270,6 @@
     "100 KMU-F24/Sec-Net-Prog/SNP-240912.md",
     "00 Daily-Note/2024-09-18.md",
     "Utility/Doxygen.md",
-    "README.md",
     "99 CANVAS/Research Links.canvas",
     "Obsidian-Lecture/DIKW-Pyramid.canvas",
     "Rust-Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",

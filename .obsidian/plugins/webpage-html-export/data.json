@@ -30,7 +30,7 @@
   "authorName": "",
   "vaultTitle": "MyObsidianNote",
   "exportPreset": "documents",
-  "openAfterExport": false,
+  "openAfterExport": true,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/home/hacker-code-j/Desktop/MyObsidianNote/HTML-Export",
+  "exportPath": "/home/hacker-code-j/Documents",
   "filesToExport": [
     []
   ]
