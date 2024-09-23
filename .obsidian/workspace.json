@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ad888cf00cd4334",
+            "id": "5d984805e5503677",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,20 +18,30 @@
             }
           },
           {
-            "id": "0bdfec9f68b92d95",
+            "id": "d223b349ef5ba367",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "f03c5a68f8c35e69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
-                "mode": "preview",
+                "file": "C-Programming/C-ThinkNote/C-versus-note.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
+                "file": "C-Programming/C-ThinkNote/C-versus-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
+                "file": "C-Programming/C-ThinkNote/C-versus-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Programming/C-Big-Number/Big Number Arithemetic in C.md"
+                "file": "C-Programming/C-ThinkNote/C-versus-note.md"
               }
             }
           }
@@ -220,46 +230,47 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0bdfec9f68b92d95",
+  "active": "f03c5a68f8c35e69",
   "lastOpenFiles": [
-    "GItHub/How-to-Collarboration/Collarboration-Table.md",
-    "GItHub/How-to-Collarboration/Collarboration-Table-Sample.md",
+    "C-Programming/C-ThinkNote/C Version Detection.md",
+    "C-Programming/C-ThinkNote/C-versus-note.md",
+    "C-Programming/C-ThinkNote/stdint and stddef.md",
+    "C-Programming/C-ThinkNote/rdtsc.md",
+    "C-Programming/C-versus/static vs statis const.md",
+    "C-Programming/C-versus",
+    "100 KMU-F24/Sec-Net-Prog/SNP-Excalidraw.md",
+    "100 KMU-F24/KMU-F24-DB.md",
+    "100 Enjoying-Math/Algebra/Untitled.canvas",
+    "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md",
+    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+    "Rust-Programming/Rust 101 Crash Course/A. Demo/A.2. 'impl'.md",
+    "00 Daily-Note/2024-09-18.md",
+    "Obsidian-Setup/1. Callout.md",
+    "Obsidian-Setup/1. Basic Markdown.md",
     "GItHub/How-to-Collarboration/How to Collaboration.md",
+    "GItHub/How-to-Collarboration/Collarboration-Table-Sample.md",
+    "GItHub/How-to-Collarboration/Collarboration-Table.md",
+    "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
     "GItHub/How-to-Collarboration/Senarios and How to Handle Team.md",
     "GItHub/How-to-Collarboration/workflow.md",
     "GItHub/How-to-Collarboration",
     "GItHub/How-to-Collarboration/Step-by-Step Routine.md",
     "GItHub/License.md",
     "C-Programming/Basic GCC.md",
-    "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
     "C-Programming/C-Big-Number/Clang options.md",
     "C-Programming/C-Big-Number/GCC options.md",
     "C-Programming/C-Big-Number/Makefile.md",
     "C-Programming/C-Big-Number",
     "GItHub",
-    "C-Programming/C-ThinkNote/stdint and stddef.md",
-    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "100 KMU-F24/RNG-Theory/RNG-240920.md",
     "100 KMU-F24/RNG-Theory/Monti-Hall-Problem.md",
-    "100 KMU-F24/RNG-Theory/RNG-Theory.md",
-    "100 KMU-F24/RNG-Theory/RNG-240913.md",
-    "PQC/Code-based and Lattice-based Crytography.md",
     "PQC",
-    "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md",
-    "00 Daily-Note/2024-09-19.md",
-    "Obsidian-Setup/0. Hotkey.md",
-    "Obsidian-Setup/0. Initial Set-Up.md",
-    "Obsidian-Setup/2. Community Plugin.md",
-    "Obsidian-Setup/2. Core Plugins.md",
-    "Obsidian-Setup/1. Callout.md",
-    "Obsidian-Setup/1. Basic Markdown.md",
     "LaTex/Obsidian-Lecture/obsidian-slide.synctex(busy)",
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.ImdOaf",
     "LaTex/latex-image/graphview.png",
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.BKEKro",
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.hoNMZi",
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.vvOCin",
-    "LaTex/Obsidian-Lecture/obsidian-slide.tex.RFDLcC",
     "LaTex/latex-image/excalidraw2.jpg",
     "LaTex/latex-image/excalidraw1.png",
     "LaTex/latex-image/canvas3.png",

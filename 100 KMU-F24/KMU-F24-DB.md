@@ -107,6 +107,7 @@ columns:
       - { label: "security-implement", value: "security-implement", color: "hsl(201, 95%, 90%)"}
       - { label: "security-implementation-method", value: "security-implementation-method", color: "hsl(195, 95%, 90%)"}
       - { label: "security-implementation-methodology", value: "security-implementation-methodology", color: "hsl(218, 95%, 90%)"}
+      - { label: "rng-practice", value: "rng-practice", color: "hsl(122, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -176,6 +177,9 @@ columns:
       - { label: "Side-Channel-Attack", value: "Side-Channel-Attack", color: "hsl(54, 95%, 90%)"}
       - { label: "HASH_DRBG", value: "HASH_DRBG", color: "hsl(284, 95%, 90%)"}
       - { label: "Protocol", value: "Protocol", color: "hsl(62, 95%, 90%)"}
+      - { label: "Linux", value: "Linux", color: "hsl(206, 95%, 90%)"}
+      - { label: "Probability_Theory", value: "Probability_Theory", color: "hsl(171, 95%, 90%)"}
+      - { label: "Application-Layer", value: "Application-Layer", color: "hsl(223, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

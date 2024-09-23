@@ -46,13 +46,13 @@ In summary, `stdint.h` focuses on integer sizes and their platform-independent g
 
 ### 4. **Comparison Summary**
 
-|Feature|`<stddef.h>`|`<stdint.h>`|
-|---|---|---|
-|**Primary Focus**|Pointer arithmetic, memory sizes, and offsets|Fixed-width integers for portability|
-|**Key Types**|`size_t`, `ptrdiff_t`, `NULL`, `offsetof`|`int8_t`, `uint32_t`, `int_fast16_t`, `uintptr_t`|
-|**Portability**|Provides basic types tied to platform sizes|Ensures portability by defining exact-width types|
-|**Memory-Related**|Deals with memory sizes and pointer arithmetic|Deals with specific integer sizes|
-|**Common in**|System-level programming, memory management|Embedded systems, network protocols|
+| Feature            | `<stddef.h>`                                   | `<stdint.h>`                                      |
+| ------------------ | ---------------------------------------------- | ------------------------------------------------- |
+| **Primary Focus**  | Pointer arithmetic, memory sizes, and offsets  | Fixed-width integers for portability              |
+| **Key Types**      | `size_t`, `ptrdiff_t`, `NULL`, `offsetof`      | `int8_t`, `uint32_t`, `int_fast16_t`, `uintptr_t` |
+| **Portability**    | Provides basic types tied to platform sizes    | Ensures portability by defining exact-width types |
+| **Memory-Related** | Deals with memory sizes and pointer arithmetic | Deals with specific integer sizes                 |
+| **Common in**      | System-level programming, memory management    | Embedded systems, network protocols               |
 
 ---
 
