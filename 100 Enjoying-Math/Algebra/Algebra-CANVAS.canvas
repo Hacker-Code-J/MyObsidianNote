@@ -12,6 +12,27 @@
       "label": "Ring of Polynomials with Complex Coefficient"
     },
     {
+      "id": "ef521119947cb3c9",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1140,
+      "y": -157,
+      "width": 380,
+      "height": 229,
+      "color": "1",
+      "label": "Domain"
+    },
+    {
+      "id": "42832d95dd3ec197",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 429,
+      "y": 160,
+      "width": 411,
+      "height": 100,
+      "label": "Co-domain"
+    },
+    {
       "id": "e2f94fbf8e5b899d",
       "type": "group",
       "styleAttributes": {},
@@ -30,17 +51,6 @@
       "width": 1240,
       "height": 1200,
       "label": "Ring of integers"
-    },
-    {
-      "id": "ef521119947cb3c9",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 1140,
-      "y": -157,
-      "width": 380,
-      "height": 229,
-      "color": "1",
-      "label": "Domain"
     },
     {
       "id": "fabc35f6382bef75",
@@ -84,16 +94,6 @@
       "height": 460,
       "color": "4",
       "label": "Topology"
-    },
-    {
-      "id": "42832d95dd3ec197",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 429,
-      "y": 160,
-      "width": 411,
-      "height": 100,
-      "label": "Co-domain"
     },
     {
       "id": "f1cac69685d777c2",
@@ -194,26 +194,6 @@
       "y": 1120,
       "width": 725,
       "height": 98
-    },
-    {
-      "id": "e9baaeacc943be69",
-      "type": "text",
-      "text": "$\\coprod_\\alpha\\mathbb{C}[x]/\\langle x-\\alpha\\rangle$",
-      "styleAttributes": {},
-      "x": 621,
-      "y": 180,
-      "width": 190,
-      "height": 50
-    },
-    {
-      "id": "b5a91510e6c59441",
-      "type": "text",
-      "text": "$\\mathbb{C}$",
-      "styleAttributes": {},
-      "x": 449,
-      "y": 180,
-      "width": 62,
-      "height": 50
     },
     {
       "id": "0ae2ea6728d24c6b",
@@ -486,6 +466,26 @@
       "width": 69,
       "height": 50,
       "color": "5"
+    },
+    {
+      "id": "e9baaeacc943be69",
+      "type": "text",
+      "text": "$\\coprod_\\alpha\\mathbb{C}[x]/\\langle x-\\alpha\\rangle$",
+      "styleAttributes": {},
+      "x": 621,
+      "y": 180,
+      "width": 190,
+      "height": 50
+    },
+    {
+      "id": "b5a91510e6c59441",
+      "type": "text",
+      "text": "$\\mathbb{C}$",
+      "styleAttributes": {},
+      "x": 449,
+      "y": 180,
+      "width": 62,
+      "height": 50
     },
     {
       "id": "6787afc0cc6ed1ef",
