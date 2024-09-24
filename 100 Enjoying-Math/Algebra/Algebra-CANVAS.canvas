@@ -12,6 +12,38 @@
       "label": "Ring of Polynomials with Complex Coefficient"
     },
     {
+      "id": "dfa64bacc09326fe",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 990,
+      "y": 260,
+      "width": 675,
+      "height": 700,
+      "color": "5",
+      "label": "Abstraction"
+    },
+    {
+      "id": "ef521119947cb3c9",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1140,
+      "y": -157,
+      "width": 380,
+      "height": 229,
+      "color": "1",
+      "label": "Domain"
+    },
+    {
+      "id": "42832d95dd3ec197",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 429,
+      "y": 160,
+      "width": 411,
+      "height": 100,
+      "label": "Co-domain"
+    },
+    {
       "id": "e2f94fbf8e5b899d",
       "type": "group",
       "styleAttributes": {},
@@ -42,17 +74,6 @@
       "label": "Ring of integers"
     },
     {
-      "id": "dfa64bacc09326fe",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 990,
-      "y": 260,
-      "width": 675,
-      "height": 700,
-      "color": "5",
-      "label": "Abstraction"
-    },
-    {
       "id": "a19f56c74599347a",
       "type": "group",
       "styleAttributes": {},
@@ -62,27 +83,6 @@
       "height": 460,
       "color": "4",
       "label": "Topology"
-    },
-    {
-      "id": "ef521119947cb3c9",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 1140,
-      "y": -157,
-      "width": 380,
-      "height": 229,
-      "color": "1",
-      "label": "Domain"
-    },
-    {
-      "id": "42832d95dd3ec197",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 429,
-      "y": 160,
-      "width": 411,
-      "height": 100,
-      "label": "Co-domain"
     },
     {
       "id": "fabc35f6382bef75",
@@ -176,26 +176,6 @@
       "height": 50
     },
     {
-      "id": "57a34f419fb3e0d0",
-      "type": "text",
-      "text": "$$f:\\mathbb{C}\\to\\mathbb{C}$$defined by $\\alpha\\mapsto f(\\alpha)$ for all $\\alpha\\in\\mathbb{C}$",
-      "styleAttributes": {},
-      "x": 306,
-      "y": -184,
-      "width": 348,
-      "height": 145
-    },
-    {
-      "id": "690dd8152d438853",
-      "type": "text",
-      "text": "- $R=\\mathbb{C}[x,y]$\n- $f(x,y)\\in\\mathbb{C}[x,y]$\n- $S=\\set{f^n(x,y):n\\in\\mathbb{Z}_{\\geq 0}}$\n\n$$(\\mathbb{C}[x,y])_{f}=\\left\\{\\frac{g(x,y)}{f^n(x,y)}:g(x,y)\\in\\mathbb{C}[x,y]\\right\\}$$\nA collection of functions defined on $\\mathbb{C}^2\\setminus\\set{(x,y)\\in\\mathbb{C}^2:f(x,y)=0}$\n\n",
-      "styleAttributes": {},
-      "x": -613,
-      "y": -35,
-      "width": 700,
-      "height": 265
-    },
-    {
       "id": "1622ce6160b938c4",
       "type": "text",
       "text": "- $R=\\mathbb{C}[x]$\n- $x-1\\in\\mathbb{C}[x]$\n- $S=\\set{(x-1)^n:n\\in\\mathbb{Z}_{\\geq 0}}$\n\n$$(\\mathbb{C}[x])_{x-1}=\\left\\{\\frac{g(x)}{(x-1)^n}:g(x)\\in\\mathbb{C}[x]\\right\\}$$\nA collection of functions defined on $\\mathbb{C}\\setminus\\set{1}$\n\n`function`\n\n",
@@ -276,16 +256,6 @@
       "height": 432
     },
     {
-      "id": "79baa097fcc20612",
-      "type": "text",
-      "text": "- $R=\\mathbb{C}[x,y]$ and $I=\\langle xy\\rangle$\n- Let $J\\lhd R$ be a maximal ideal of $R$ containing $I=\\langle xy\\rangle$\n- $R/I=\\mathbb{C}[x,y]/\\langle xy\\rangle$\n- Let $K\\lhd R/I$ be a maximal ideal.\n",
-      "styleAttributes": {},
-      "x": -613,
-      "y": 260,
-      "width": 687,
-      "height": 160
-    },
-    {
       "id": "3478564ee34e4702",
       "type": "text",
       "text": "- $R=\\mathbb{C}[x]$ and $I=\\langle x-1\\rangle$\n- Let $J\\lhd R$ be a maximal ideal of $R$ containing $I=\\langle x-1\\rangle$\n- $R/I=\\mathbb{C}[x]/\\langle x-1\\rangle$\n- Let $K\\lhd R/I$ be a maximal ideal.\n",
@@ -324,16 +294,6 @@
       "y": -687,
       "width": 553,
       "height": 155
-    },
-    {
-      "id": "c14d9a2923d0f1cf",
-      "type": "text",
-      "text": "- $R=\\mathbb{C}[x]$\n- $f\\in\\mathbb{C}[x]$\n- $S=\\set{1,f,f^2,\\dots}=\\set{f^n:n\\in\\mathbb{Z}_{\\geq 0}}$\n\n$$S^{-1}R=(\\mathbb{C}[x])_f=\\left\\{\\frac{g(x)}{f^n(x)}:g(x)\\in\\mathbb{C}[x],f^n(x)\\in S \\right\\}$$\n\nA collection of functions defined on $\\mathbb{C}\\setminus\\set{\\text{finite points}}$?\n\nZariski: complement of zero set of function is basis element\n\nGiven $\\mathbb{C}^1$, localization is a collection of  functions defined on each basis element\n\n",
-      "styleAttributes": {},
-      "x": -595,
-      "y": -498,
-      "width": 608,
-      "height": 386
     },
     {
       "id": "ce24ce87b17589ee",
@@ -408,16 +368,6 @@
       "y": -516,
       "width": 414,
       "height": 122
-    },
-    {
-      "id": "deaaf460b1615f7f",
-      "type": "text",
-      "text": "$f\\in\\mathbb{C}[x]$",
-      "styleAttributes": {},
-      "x": 420,
-      "y": -300,
-      "width": 120,
-      "height": 50
     },
     {
       "id": "332fd81e10b34536",
@@ -542,6 +492,46 @@
       "height": 400
     },
     {
+      "id": "57a34f419fb3e0d0",
+      "type": "text",
+      "text": "$$f:\\mathbb{C}\\to\\mathbb{C}$$defined by $\\alpha\\mapsto f(\\alpha)$ for all $\\alpha\\in\\mathbb{C}$",
+      "styleAttributes": {},
+      "x": 306,
+      "y": -184,
+      "width": 348,
+      "height": 145
+    },
+    {
+      "id": "690dd8152d438853",
+      "type": "text",
+      "text": "- $R=\\mathbb{C}[x,y]$\n- $f(x,y)\\in\\mathbb{C}[x,y]$\n- $S=\\set{f^n(x,y):n\\in\\mathbb{Z}_{\\geq 0}}$\n\n$$(\\mathbb{C}[x,y])_{f}=\\left\\{\\frac{g(x,y)}{f^n(x,y)}:g(x,y)\\in\\mathbb{C}[x,y]\\right\\}$$\nA collection of functions defined on $\\mathbb{C}^2\\setminus\\set{(x,y)\\in\\mathbb{C}^2:f(x,y)=0}$\n\n",
+      "styleAttributes": {},
+      "x": -613,
+      "y": -35,
+      "width": 700,
+      "height": 265
+    },
+    {
+      "id": "79baa097fcc20612",
+      "type": "text",
+      "text": "- $R=\\mathbb{C}[x,y]$ and $I=\\langle xy\\rangle$\n- Let $J\\lhd R$ be a maximal ideal of $R$ containing $I=\\langle xy\\rangle$\n- $R/I=\\mathbb{C}[x,y]/\\langle xy\\rangle$\n- Let $K\\lhd R/I$ be a maximal ideal.\n",
+      "styleAttributes": {},
+      "x": -613,
+      "y": 260,
+      "width": 687,
+      "height": 160
+    },
+    {
+      "id": "c14d9a2923d0f1cf",
+      "type": "text",
+      "text": "- $R=\\mathbb{C}[x]$\n- $f\\in\\mathbb{C}[x]$\n- $S=\\set{1,f,f^2,\\dots}=\\set{f^n:n\\in\\mathbb{Z}_{\\geq 0}}$\n\n$$S^{-1}R=(\\mathbb{C}[x])_f=\\left\\{\\frac{g(x)}{f^n(x)}:g(x)\\in\\mathbb{C}[x],f^n(x)\\in S \\right\\}$$\n\nA collection of functions defined on $\\mathbb{C}\\setminus\\set{\\text{finite points}}$?\n\nZariski: complement of zero set of function is basis element\n\nGiven $\\mathbb{C}^1$, localization is a collection of  functions defined on each basis element\n\n",
+      "styleAttributes": {},
+      "x": -595,
+      "y": -498,
+      "width": 608,
+      "height": 386
+    },
+    {
       "id": "46a329d9fd1ff47c",
       "type": "text",
       "text": "> [!info] **Note**\n> $$f:\\set{\\langle x-\\alpha\\rangle:\\alpha\\in\\mathbb{C}}\\to\\coprod_\\alpha\\mathbb{C}[x]/\\langle x-\\alpha\\rangle$$\n> defined by $\\langle x-\\alpha\\rangle\\mapsto \\overline{f}\\in \\mathbb{C}[x]/\\langle x-\\alpha\\rangle$",
@@ -569,6 +559,16 @@
       "x": 621,
       "y": 180,
       "width": 190,
+      "height": 50
+    },
+    {
+      "id": "deaaf460b1615f7f",
+      "type": "text",
+      "text": "$f\\in\\mathbb{C}[x]$",
+      "styleAttributes": {},
+      "x": 420,
+      "y": -300,
+      "width": 120,
       "height": 50
     }
   ],

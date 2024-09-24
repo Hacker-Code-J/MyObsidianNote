@@ -4,31 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "6c5475f48adffbae",
+        "id": "4861bd49a5141b81",
+        "type": "split",
+        "children": [
+          {
+            "id": "6c5475f48adffbae",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3cb0e62bf42883a0",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "c838299803c023ea",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aed67b88fa8fb5ea",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "100 KMU-F24/SSI/CSE-AES-Drawing.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "a04fe95b8d1c36c7",
         "type": "tabs",
         "children": [
           {
-            "id": "d223b349ef5ba367",
+            "id": "ce8d0fa9b3b3092b",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+              "type": "markdown",
+              "state": {
+                "file": "100 KMU-F24/SSI/SSI-240924.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
-            "id": "bf69acc69b7b9ef9",
+            "id": "ab32b01e060c4c99",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
-                "viewState": {
-                  "x": 586.5779373265351,
-                  "y": 47.90776058785997,
-                  "zoom": 0.6
-                }
+                "file": "99 Research/4 Formal-Verification/crucible.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -107,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3c21b68808da7721",
@@ -144,7 +183,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +199,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +220,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -223,47 +258,47 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bf69acc69b7b9ef9",
+  "active": "3cb0e62bf42883a0",
   "lastOpenFiles": [
     "99 Research/4 Formal-Verification/crucible.md",
+    "99 Research/4 Formal-Verification/SAT-based/Qustions-SAT-based-FV.md",
+    "C-Programming/C-Big-Number/GCC options.md",
+    "100 KMU-F24/SSI/SSI-240924.md",
+    "100 KMU-F24/SSI/CSE-AES-Drawing.excalidraw.md",
+    "100 KMU-F24/SSI/SSI-240912.md",
+    "100 KMU-F24/SSI/SSI-240910.md",
+    "100 KMU-F24/SSI/SSI-240905-practice.md",
+    "100 KMU-F24/SSI/SSI-240905.md",
+    "100 KMU-F24/SNP/SNP-240924.md",
+    "100 KMU-F24/SNP/Net-APP-FTP.excalidraw.md",
+    "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
+    "99 Research/4 Formal-Verification/SAT-based",
+    "C-Programming/C-Big-Number/Makefile.md",
+    "100 KMU-F24/SNP/SNP-240919.md",
+    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "C-Programming/C-ThinkNote/C-versus-note.md",
     "C-Programming/C-ThinkNote/C Version Detection.md",
     "C-Programming/C-ThinkNote/stdint and stddef.md",
     "C-Programming/C-ThinkNote/rdtsc.md",
     "C-Programming/C-versus/static vs statis const.md",
     "C-Programming/C-versus",
-    "100 KMU-F24/Sec-Net-Prog/SNP-Excalidraw.md",
+    "100 KMU-F24/SNP/SNP-Excalidraw.md",
     "100 KMU-F24/KMU-F24-DB.md",
     "100 Enjoying-Math/Algebra/Untitled.canvas",
     "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md",
-    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "Rust-Programming/Rust 101 Crash Course/A. Demo/A.2. 'impl'.md",
     "00 Daily-Note/2024-09-18.md",
     "Obsidian-Setup/1. Callout.md",
     "Obsidian-Setup/1. Basic Markdown.md",
-    "GItHub/How-to-Collarboration/How to Collaboration.md",
-    "GItHub/How-to-Collarboration/Collarboration-Table-Sample.md",
-    "GItHub/How-to-Collarboration/Collarboration-Table.md",
-    "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
-    "GItHub/How-to-Collarboration/Senarios and How to Handle Team.md",
-    "GItHub/How-to-Collarboration/workflow.md",
     "GItHub/How-to-Collarboration",
-    "GItHub/How-to-Collarboration/Step-by-Step Routine.md",
-    "GItHub/License.md",
-    "C-Programming/Basic GCC.md",
-    "C-Programming/C-Big-Number/Clang options.md",
-    "C-Programming/C-Big-Number/GCC options.md",
-    "C-Programming/C-Big-Number/Makefile.md",
     "C-Programming/C-Big-Number",
     "GItHub",
-    "100 KMU-F24/RNG-Theory/RNG-240920.md",
     "PQC",
     "LaTex/Obsidian-Lecture/obsidian-slide.synctex(busy)",
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.ImdOaf",
     "LaTex/latex-image/graphview.png",
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.BKEKro",
     "LaTex/Obsidian-Lecture/obsidian-slide.tex.hoNMZi",
-    "LaTex/Obsidian-Lecture/obsidian-slide.tex.vvOCin",
     "LaTex/latex-image/excalidraw2.jpg",
     "LaTex/latex-image/excalidraw1.png",
     "LaTex/latex-image/canvas3.png",
