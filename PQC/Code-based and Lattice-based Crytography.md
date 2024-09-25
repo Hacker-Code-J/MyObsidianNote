@@ -169,7 +169,7 @@ Lattice-based cryptography relies on **lattice theory** and computational proble
 
 | Aspect                            | Code-Based Cryptography                     | Lattice-Based Cryptography                                |
 | --------------------------------- | ------------------------------------------- | --------------------------------------------------------- |
-| **Key Mathematical Structure**    | Error-correcting codes, finite fields       | Lattices, discrete subgroups of \( \mathbb{R}^n \)        |
+| **Key Mathematical Structure**    | Error-correcting codes, finite fields       | Lattices, discrete subgroups of $\mathbb{R}^n$            |
 | **Key Hard Problem**              | Syndrome Decoding, General Decoding Problem | Shortest Vector Problem (SVP), Learning With Errors (LWE) |
 | **Geometric Interpretation**      | Hamming distance between codewords          | Euclidean distance in high-dimensional space              |
 | **Core Domain**                   | Finite field linear algebra, coding theory  | Lattice theory, geometry of numbers                       |
