@@ -4,71 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4861bd49a5141b81",
-        "type": "split",
-        "children": [
-          {
-            "id": "6c5475f48adffbae",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3cb0e62bf42883a0",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
-              }
-            ]
-          },
-          {
-            "id": "c838299803c023ea",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aed67b88fa8fb5ea",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "100 KMU-F24/SSI/CSE-AES-Drawing.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
         "id": "a04fe95b8d1c36c7",
         "type": "tabs",
         "children": [
           {
-            "id": "ce8d0fa9b3b3092b",
+            "id": "190219d62de46a84",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "da83faaaccc3b3ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 KMU-F24/SSI/SSI-240924.md",
-                "mode": "preview",
+                "file": "100 KMU-F24/SCA/Power Models and Power Analysis.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "ab32b01e060c4c99",
+            "id": "a597aa845c51e206",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "99 Research/4 Formal-Verification/crucible.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "100 KMU-F24/SCA/SCA-DB.md"
               }
             }
           }
@@ -97,10 +65,28 @@
             }
           },
           {
+            "id": "8a8fc12325ca61b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "100 KMU-F24/SCA/Power Models and Power Analysis.md"
+              }
+            }
+          },
+          {
             "id": "872abeb83315c881",
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bac5126f174cecbf",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
               "state": {}
             }
           },
@@ -126,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#secure-network",
+                "query": "[\"status\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,20 +120,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "54748fbc4ad7a30d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3c21b68808da7721",
@@ -183,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "100 KMU-F24/SCA/Power Models and Power Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,9 +179,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "100 KMU-F24/SCA/Power Models and Power Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "54748fbc4ad7a30d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           },
           {
@@ -214,16 +203,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "8a8fc12325ca61b7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -258,13 +240,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3cb0e62bf42883a0",
+  "active": "b0388335427cfdaf",
   "lastOpenFiles": [
+    "100 KMU-F24/SCA/SCA-240911.md",
+    "100 KMU-F24/SCA/Power Models and Power Analysis.md",
+    "100 KMU-F24/SCA/SCA-DB.md",
+    "Obsidian-Setup/2. Community Plugin.md",
+    "Obsidian-Setup/1. Callout.md",
+    "Obsidian-Setup/1. Basic Markdown.md",
+    "Obsidian-Setup/0. Options-Setup.md",
+    "100 KMU-F24/SCA/Untitled Kanban.md",
+    "C-Programming/C-Big-Number/GCC options.md",
+    "00 Daily-Note/2024-09-11.md",
+    "100 KMU-F24/SSI/CSE-AES-Drawing.excalidraw.md",
     "99 Research/4 Formal-Verification/crucible.md",
     "99 Research/4 Formal-Verification/SAT-based/Qustions-SAT-based-FV.md",
-    "C-Programming/C-Big-Number/GCC options.md",
     "100 KMU-F24/SSI/SSI-240924.md",
-    "100 KMU-F24/SSI/CSE-AES-Drawing.excalidraw.md",
     "100 KMU-F24/SSI/SSI-240912.md",
     "100 KMU-F24/SSI/SSI-240910.md",
     "100 KMU-F24/SSI/SSI-240905-practice.md",
@@ -279,17 +270,8 @@
     "C-Programming/C-ThinkNote/C-versus-note.md",
     "C-Programming/C-ThinkNote/C Version Detection.md",
     "C-Programming/C-ThinkNote/stdint and stddef.md",
-    "C-Programming/C-ThinkNote/rdtsc.md",
-    "C-Programming/C-versus/static vs statis const.md",
     "C-Programming/C-versus",
-    "100 KMU-F24/SNP/SNP-Excalidraw.md",
-    "100 KMU-F24/KMU-F24-DB.md",
     "100 Enjoying-Math/Algebra/Untitled.canvas",
-    "100 KMU-F24/Sec-Impl-Method/Sec-Impl-Method.excalidraw.md",
-    "Rust-Programming/Rust 101 Crash Course/A. Demo/A.2. 'impl'.md",
-    "00 Daily-Note/2024-09-18.md",
-    "Obsidian-Setup/1. Callout.md",
-    "Obsidian-Setup/1. Basic Markdown.md",
     "GItHub/How-to-Collarboration",
     "C-Programming/C-Big-Number",
     "GItHub",

@@ -6,9 +6,6 @@
     "extended-colorschemes",
     "thm-main",
     "yaml-fix",
-    "custom-rainbow-colors",
-    "custom-background",
-    "Colored Sidebar Items",
     "url",
     "c-code",
     "onedarkpro-mix-c-style",
@@ -16,12 +13,15 @@
     "ji-code-style",
     "onedarkpro-mix-all-modes",
     "atom-one-dark",
-    "one-dark-pro"
+    "custom-background",
+    "custom-rainbow-colors",
+    "Colored Sidebar Items"
   ],
   "textFontFamily": "URW Gothic",
   "interfaceFontFamily": "URW Gothic",
   "monospaceFontFamily": "Comic Mono",
   "baseFontSize": 19,
   "baseFontSizeAction": true,
-  "theme": "moonstone"
+  "theme": "obsidian",
+  "nativeMenus": false
 }
