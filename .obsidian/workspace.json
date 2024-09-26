@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c73fb59e2d528d39",
+            "id": "4bf2659a95b4db4e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,12 +18,17 @@
             }
           },
           {
-            "id": "6b8a8030964df412",
+            "id": "a040db57f7e175ed",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "C-Programming/Basic-C.excalidraw.md"
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+                "viewState": {
+                  "x": 796.8801529818085,
+                  "y": 520.248355695613,
+                  "zoom": 0.07820096986688163
+                }
               }
             }
           }
@@ -57,7 +62,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Programming/Basic-C.excalidraw.md"
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas"
               }
             }
           },
@@ -148,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Programming/Basic-C.excalidraw.md",
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Programming/Basic-C.excalidraw.md",
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,11 +231,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6b8a8030964df412",
+  "active": "a040db57f7e175ed",
   "lastOpenFiles": [
+    "100 KMU-F24/Eureka/Eureka-Week2-Special-Lecture.md",
+    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+    "100 Enjoying-Math/Algebra/Untitled.canvas",
+    "100 KMU-F24/SNP/DNS.md",
+    "99 Research/4 Formal-Verification/Linux-Utility.md",
+    "100 KMU-F24/SNP/Electronic Mail.md",
+    "100 KMU-F24/SNP/SNP-240924.md",
+    "C-Programming/Basic-C.excalidraw.md",
     "PQC/Code-based and Lattice-based Crytography.md",
     "100 KMU-F24/SCA/Power Models and Power Analysis.md",
-    "C-Programming/Basic-C.excalidraw.md",
     "C-Programming/Pointer-in-C-Drawing.md",
     "C-Programming/Functions-in-C-Drawing.md",
     "C-Programming/CS-Drawing.md",
@@ -249,15 +261,8 @@
     "Obsidian-Setup/0. Options-Setup.md",
     "100 KMU-F24/SCA/Untitled Kanban.md",
     "C-Programming/C-Big-Number/GCC options.md",
-    "00 Daily-Note/2024-09-11.md",
-    "100 KMU-F24/SSI/CSE-AES-Drawing.excalidraw.md",
-    "99 Research/4 Formal-Verification/crucible.md",
-    "99 Research/4 Formal-Verification/SAT-based/Qustions-SAT-based-FV.md",
-    "100 KMU-F24/SSI/SSI-240924.md",
     "99 Research/4 Formal-Verification/SAT-based",
-    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "C-Programming/C-versus",
-    "100 Enjoying-Math/Algebra/Untitled.canvas",
     "GItHub/How-to-Collarboration",
     "C-Programming/C-Big-Number",
     "GItHub",
