@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a040db57f7e175ed",
+            "id": "419ad4923bbd534c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,24 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "f3dd119ac1fb7ee4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
-                "viewState": {
-                  "x": 2870.8145011362203,
-                  "y": 409.1101143386726,
-                  "zoom": 0.07820096986688163
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,9 +45,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -113,7 +95,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -153,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +152,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,13 +176,11 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 409.5,
-    "collapsed": true
+    "width": 409.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,11 +210,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f3dd119ac1fb7ee4",
+  "active": "c06376a59e90ccb5",
   "lastOpenFiles": [
-    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
-    "100 Enjoying-Math/Algebra/Algebra-note-1.md",
+    "100 KMU-F24/SCA/Hamming Weight and Hamming Distance.md",
+    "100 KMU-F24/Music/UM-240909.md",
     "100 KMU-F24/Eureka/Eureka-Week2-Special-Lecture.md",
+    "100 Enjoying-Math/Algebra/Algebra-note-1.md",
+    "100 Enjoying-Math/Algebra/Localization.md",
+    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+    "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
     "100 Enjoying-Math/Algebra/Untitled.canvas",
     "100 KMU-F24/SNP/DNS.md",
     "99 Research/4 Formal-Verification/Linux-Utility.md",
@@ -252,14 +235,11 @@
     "C-Programming/Basic GCC.md",
     "C-Programming/C-Big-Number/Makefile.md",
     "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
-    "100 KMU-F24/SCA/Hamming Weight and Hamming Distance.md",
     "C-Programming/C-Big-Number/Debuging.md",
     "100 KMU-F24/SCA/SCA-240911.md",
     "100 KMU-F24/SCA/SCA-DB.md",
     "Obsidian-Setup/2. Community Plugin.md",
     "Obsidian-Setup/1. Callout.md",
-    "Obsidian-Setup/1. Basic Markdown.md",
-    "Obsidian-Setup/0. Options-Setup.md",
     "99 Research/4 Formal-Verification/SAT-based",
     "C-Programming/C-versus",
     "GItHub/How-to-Collarboration",

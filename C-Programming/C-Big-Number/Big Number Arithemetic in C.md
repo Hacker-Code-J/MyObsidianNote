@@ -104,3 +104,6 @@ run: $(TARGET)
 .PHONY: all clean rebuild run
 ```
 
+[Static Lib. vs Dynamic Lib.](https://ence2.github.io/2020/11/%EC%A0%95%EC%A0%81-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AClib-vs-%EB%8F%99%EC%A0%81-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%ACdll/)
+
+
