@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4bf2659a95b4db4e",
+            "id": "a040db57f7e175ed",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,15 +18,15 @@
             }
           },
           {
-            "id": "a040db57f7e175ed",
+            "id": "f3dd119ac1fb7ee4",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
                 "viewState": {
-                  "x": 796.8801529818085,
-                  "y": 520.248355695613,
+                  "x": 2870.8145011362203,
+                  "y": 409.1101143386726,
                   "zoom": 0.07820096986688163
                 }
               }
@@ -231,10 +231,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a040db57f7e175ed",
+  "active": "f3dd119ac1fb7ee4",
   "lastOpenFiles": [
-    "100 KMU-F24/Eureka/Eureka-Week2-Special-Lecture.md",
     "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+    "100 Enjoying-Math/Algebra/Algebra-note-1.md",
+    "100 KMU-F24/Eureka/Eureka-Week2-Special-Lecture.md",
     "100 Enjoying-Math/Algebra/Untitled.canvas",
     "100 KMU-F24/SNP/DNS.md",
     "99 Research/4 Formal-Verification/Linux-Utility.md",
@@ -259,8 +260,6 @@
     "Obsidian-Setup/1. Callout.md",
     "Obsidian-Setup/1. Basic Markdown.md",
     "Obsidian-Setup/0. Options-Setup.md",
-    "100 KMU-F24/SCA/Untitled Kanban.md",
-    "C-Programming/C-Big-Number/GCC options.md",
     "99 Research/4 Formal-Verification/SAT-based",
     "C-Programming/C-versus",
     "GItHub/How-to-Collarboration",
