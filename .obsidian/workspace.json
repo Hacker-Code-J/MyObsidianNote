@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a04fe95b8d1c36c7",
+        "id": "581219fc79673bf6",
         "type": "tabs",
         "children": [
           {
-            "id": "419ad4923bbd534c",
+            "id": "8649f11f79705b1a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,8 +16,22 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "8ad3407afa044720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -45,7 +59,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C-Programming/C-Big-Number/Big Number Arithemetic in C.md"
+              }
             }
           },
           {
@@ -95,12 +111,12 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3c21b68808da7721",
@@ -136,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 409.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,15 +229,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c06376a59e90ccb5",
+  "active": "3f7bbade47d7105e",
   "lastOpenFiles": [
+    "C-Programming/C-Big-Number/Makefile.md",
+    "C-Programming/C-Big-Number/Debuging.md",
+    "C-Programming/C-Big-Number/Clang options.md",
+    "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
+    "C-Programming/C-Big-Number/GCC options.md",
     "100 KMU-F24/SCA/Hamming Weight and Hamming Distance.md",
     "100 KMU-F24/Music/UM-240909.md",
     "100 KMU-F24/Eureka/Eureka-Week2-Special-Lecture.md",
     "100 Enjoying-Math/Algebra/Algebra-note-1.md",
     "100 Enjoying-Math/Algebra/Localization.md",
     "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
-    "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
     "100 Enjoying-Math/Algebra/Untitled.canvas",
     "100 KMU-F24/SNP/DNS.md",
     "99 Research/4 Formal-Verification/Linux-Utility.md",
@@ -233,13 +256,9 @@
     "C-Programming/Compiler-Drawing.md",
     "C-Programming/C-Note-Drawing.md",
     "C-Programming/Basic GCC.md",
-    "C-Programming/C-Big-Number/Makefile.md",
     "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
-    "C-Programming/C-Big-Number/Debuging.md",
     "100 KMU-F24/SCA/SCA-240911.md",
     "100 KMU-F24/SCA/SCA-DB.md",
-    "Obsidian-Setup/2. Community Plugin.md",
-    "Obsidian-Setup/1. Callout.md",
     "99 Research/4 Formal-Verification/SAT-based",
     "C-Programming/C-versus",
     "GItHub/How-to-Collarboration",
