@@ -8,7 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "425cc79f59c49702",
+            "id": "fad0f69f0e5b8c3f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md"
+              }
+            }
+          },
+          {
+            "id": "52cde983d0134d49",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "C-Programming/Basic-C.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "8b06bd7b934c062e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "C-Programming/Compiler-Drawing.md"
+              }
+            }
+          },
+          {
+            "id": "e4ae00ca06cdc905",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,22 +46,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "38199eb6af631d76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 KMU-F24/SIM/Setup Raspberry Pi.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 KMU-F24/SIM/Setup Raspberry Pi.md"
+                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md"
               }
             }
           },
@@ -135,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 KMU-F24/SIM/Setup Raspberry Pi.md",
+                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 KMU-F24/SIM/Setup Raspberry Pi.md",
+                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,12 +244,41 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "38199eb6af631d76",
+  "active": "fad0f69f0e5b8c3f",
   "lastOpenFiles": [
-    "100 KMU-F24/SIM/Setup Raspberry Pi.md",
-    "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
-    "C-Programming/C-Big-Number/Makefile.md",
+    "100 KMU-F24/SIM/ARM64-excaldraw.md",
+    "100 KMU-F24/SIM/doc/ARM64.synctex(busy)",
+    "100 KMU-F24/SIM/doc/ARM64.tex.HgaxIS",
+    "100 KMU-F24/SIM/doc/ARM64.tex.LnPIoK",
+    "C-Programming/Basic-C.excalidraw.md",
+    "C-Programming/Compiler-Drawing.md",
+    "C-Programming/CS-Drawing.md",
+    "C-Programming/Functions-in-C-Drawing.md",
+    "100 KMU-F24/SIM/ARM64-references.md",
+    "100 KMU-F24/SIM/ARM64-register.md",
+    "00 Attachment-Folder-Path/aarch64_architecture_diagram.png",
+    "00 Attachment-Folder-Path/aarch64-register.png",
+    "00 Attachment-Folder-Path/cortex-a72-architecture.png",
     "00 Attachment-Folder-Path/Pasted Image 20240914174056_806.png",
+    "00 Attachment-Folder-Path/Pasted Image 20240914174056_8062.png",
+    "00 Attachment-Folder-Path/Pasted Image 20240914174056_806.png.png",
+    "00 Attachment-Folder-Path/Pasted Image 20240929191924_010.png",
+    "00 Attachment-Folder-Path/Pasted Image 20240929191942_273.png",
+    "00 Attachment-Folder-Path/Pasted Image 20240929191742_366.png",
+    "00 Attachment-Folder-Path/Pasted Image 20240929191856_752.png",
+    "100 KMU-F24/SIM/doc/ARM64.pdf",
+    "100 KMU-F24/SIM/doc/ARM64.tex.uRJCwP",
+    "100 KMU-F24/SIM/doc/ARM64.tex.EuEXYF",
+    "100 KMU-F24/SIM/doc/ARM64.tex.XWKyOY",
+    "100 KMU-F24/SIM/doc/assembly_example.c",
+    "100 KMU-F24/SIM/doc/calling_convention",
+    "100 KMU-F24/SIM/doc/add_example",
+    "100 KMU-F24/SIM/SIM-Week1.md",
+    "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
+    "100 KMU-F24/SSI/SSI-240905.md",
+    "100 KMU-F24/SSI/CSE-AES-Drawing.excalidraw.md",
+    "100 KMU-F24/SIM/Setup Raspberry Pi.md",
+    "C-Programming/C-Big-Number/Makefile.md",
     "C-Programming/C-Big-Number/Debuging.md",
     "C-Programming/C-Big-Number/Clang options.md",
     "C-Programming/C-Big-Number/GCC options.md",
@@ -248,36 +293,6 @@
     "99 Research/4 Formal-Verification/Linux-Utility.md",
     "100 KMU-F24/SNP/Electronic Mail.md",
     "100 KMU-F24/SNP/SNP-240924.md",
-    "C-Programming/Basic-C.excalidraw.md",
-    "PQC/Code-based and Lattice-based Crytography.md",
-    "100 KMU-F24/SCA/Power Models and Power Analysis.md",
-    "C-Programming/Pointer-in-C-Drawing.md",
-    "C-Programming/Functions-in-C-Drawing.md",
-    "C-Programming/CS-Drawing.md",
-    "C-Programming/Compiler-Drawing.md",
-    "C-Programming/C-Note-Drawing.md",
-    "C-Programming/Basic GCC.md",
-    "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
-    "100 KMU-F24/SCA/SCA-240911.md",
-    "99 Research/4 Formal-Verification/SAT-based",
-    "C-Programming/C-versus",
-    "GItHub/How-to-Collarboration",
-    "C-Programming/C-Big-Number",
-    "GItHub",
-    "PQC",
-    "LaTex/Obsidian-Lecture/obsidian-slide.synctex(busy)",
-    "LaTex/Obsidian-Lecture/obsidian-slide.tex.ImdOaf",
-    "LaTex/latex-image/graphview.png",
-    "LaTex/Obsidian-Lecture/obsidian-slide.tex.BKEKro",
-    "LaTex/Obsidian-Lecture/obsidian-slide.tex.hoNMZi",
-    "LaTex/latex-image/excalidraw2.jpg",
-    "LaTex/latex-image/excalidraw1.png",
-    "LaTex/latex-image/canvas3.png",
-    "LaTex/latex-image/canvas2.png",
-    "LaTex/latex-image/canvas1.png",
-    "LaTex/latex-image/markdown-code4.png",
-    "LaTex/latex-image/markdown-code3.png",
-    "LaTex/latex-image/markdown-code2.png",
     "99 CANVAS/Research Links.canvas",
     "Obsidian-Lecture/DIKW-Pyramid.canvas",
     "Rust-Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
