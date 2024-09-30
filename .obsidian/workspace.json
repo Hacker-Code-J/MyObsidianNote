@@ -30,24 +30,28 @@
           {
             "id": "8b06bd7b934c062e",
             "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "C-Programming/Compiler-Drawing.md"
-              }
-            }
-          },
-          {
-            "id": "e4ae00ca06cdc905",
-            "type": "leaf",
             "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "42adfe84e2c1c546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 KMU-F24/SIM/Setup Raspberry Pi.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md"
+                "file": "100 KMU-F24/SIM/Setup Raspberry Pi.md"
               }
             }
           },
@@ -151,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md",
+                "file": "100 KMU-F24/SIM/Setup Raspberry Pi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md",
+                "file": "100 KMU-F24/SIM/Setup Raspberry Pi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 409.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,7 +249,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fad0f69f0e5b8c3f",
+  "active": "42adfe84e2c1c546",
   "lastOpenFiles": [
     "100 KMU-F24/SIM/ARM64-excaldraw.md",
     "100 KMU-F24/SIM/doc/ARM64.synctex(busy)",

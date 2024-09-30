@@ -74,30 +74,30 @@
 	\tableofcontents  % Generates the table of contents
 	\newpage
 	
-%	% INTRODUCTION SECTION
-%	\section{Introduction to ARM64 Architecture}
-%	ARM64 (AArch64) is a 64-bit architecture developed by ARM Holdings, widely used in modern mobile devices and servers. ARM64 offers a significant register file structure, with 31 general-purpose registers and special-purpose registers such as the Program Counter (PC) and Stack Pointer (SP). These registers provide flexibility for performing low-level operations efficiently.
-%	
-%	\subsection{Key Features}
-%	\begin{itemize}
-%		\item 64-bit general-purpose registers (X0-X30).
-%		\item Special-purpose registers for the stack, program control, and more.
-%		\item Optimized function calling convention.
-%	\end{itemize}
-%	
-%	% GENERAL-PURPOSE REGISTERS SECTION
-%	\section{General Purpose Registers}
-%	The general-purpose registers are used to store temporary values, pass parameters to functions, and store return addresses.
-%	
-%	\subsection{Register Overview}
-%	\begin{itemize}
-%		\item \textbf{X0-X7}: Registers used for parameter passing.
-%		\item \textbf{X8}: Indirect result register.
-%		\item \textbf{X9-X15}: Caller-saved scratch registers.
-%		\item \textbf{X19-X28}: Callee-saved registers.
-%		\item \textbf{X29 (FP)}: Frame Pointer.
-%		\item \textbf{X30 (LR)}: Link Register (return address for subroutine calls).
-%	\end{itemize}
+	% INTRODUCTION SECTION
+	\section{Introduction to ARM64 Architecture}
+	ARM64 (AArch64) is a 64-bit architecture developed by ARM Holdings, widely used in modern mobile devices and servers. ARM64 offers a significant register file structure, with 31 general-purpose registers and special-purpose registers such as the Program Counter (PC) and Stack Pointer (SP). These registers provide flexibility for performing low-level operations efficiently.
+	
+	\subsection{Key Features}
+	\begin{itemize}
+		\item 64-bit general-purpose registers (X0-X30).
+		\item Special-purpose registers for the stack, program control, and more.
+		\item Optimized function calling convention.
+	\end{itemize}
+	
+	% GENERAL-PURPOSE REGISTERS SECTION
+	\section{General Purpose Registers}
+	The general-purpose registers are used to store temporary values, pass parameters to functions, and store return addresses.
+	
+	\subsection{Register Overview}
+	\begin{itemize}
+		\item \textbf{X0-X7}: Registers used for parameter passing.
+		\item \textbf{X8}: Indirect result register.
+		\item \textbf{X9-X15}: Caller-saved scratch registers.
+		\item \textbf{X19-X28}: Callee-saved registers.
+		\item \textbf{X29 (FP)}: Frame Pointer.
+		\item \textbf{X30 (LR)}: Link Register (return address for subroutine calls).
+	\end{itemize}
 %	
 %	\subsection{Parameter Passing Example}
 %	The following example shows how function parameters are passed using ARM64 registers in C.
