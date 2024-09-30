@@ -62,6 +62,13 @@
 	urlcolor=cyan,
 }
 
+% TABLE
+\usepackage{multirow}
+
+% TIKZ
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+
 % DOCUMENT BEGINS
 \begin{document}
 	
@@ -74,180 +81,19 @@
 	\tableofcontents  % Generates the table of contents
 	\newpage
 	
-	% INTRODUCTION SECTION
-	\section{Introduction to ARM64 Architecture}
-	ARM64 (AArch64) is a 64-bit architecture developed by ARM Holdings, widely used in modern mobile devices and servers. ARM64 offers a significant register file structure, with 31 general-purpose registers and special-purpose registers such as the Program Counter (PC) and Stack Pointer (SP). These registers provide flexibility for performing low-level operations efficiently.
+	\input{section1-introduction}
 	
-	\subsection{Key Features}
-	\begin{itemize}
-		\item 64-bit general-purpose registers (X0-X30).
-		\item Special-purpose registers for the stack, program control, and more.
-		\item Optimized function calling convention.
-	\end{itemize}
-	
-	% GENERAL-PURPOSE REGISTERS SECTION
-	\section{General Purpose Registers}
-	The general-purpose registers are used to store temporary values, pass parameters to functions, and store return addresses.
-	
-	\subsection{Register Overview}
-	\begin{itemize}
-		\item \textbf{X0-X7}: Registers used for parameter passing.
-		\item \textbf{X8}: Indirect result register.
-		\item \textbf{X9-X15}: Caller-saved scratch registers.
-		\item \textbf{X19-X28}: Callee-saved registers.
-		\item \textbf{X29 (FP)}: Frame Pointer.
-		\item \textbf{X30 (LR)}: Link Register (return address for subroutine calls).
-	\end{itemize}
-%	
-%	\subsection{Parameter Passing Example}
-%	The following example shows how function parameters are passed using ARM64 registers in C.
-%	
-%	\begin{tcolorbox}[title=Note]
-%		The parameters for function calls are passed in the first eight registers: X0-X7 for 64-bit values. If more than eight parameters are used, the additional ones are passed on the stack.
-%	\end{tcolorbox}
-%	
-%	% LINK TO C FILE WITH LISTINGS
-%	Here is an example in C, which you can reference from a file named `add\_example.c`.
-%	
-%	\lstinputlisting[language=C, caption={Example: Function Parameter Passing}, label={lst:add_example}]{add_example.c}
-%	
-%	% ADDITIONAL ARM64 ASSEMBLY EXAMPLE
-%	\section{ARM64 Assembly Instructions}
-%	ARM64 assembly instructions operate on the general-purpose registers directly. The following is an example of adding two registers using the `add` instruction.
-%	
-%	\begin{lstlisting}[caption={ARM64 Assembly Example}, label={lst:assembly_example}]
-%		add x0, x0, x1   // Add contents of x0 and x1, store result in x0
-%	\end{lstlisting}
-%	
-%	This instruction adds the values in \texttt{x0} and \texttt{x1} and places the result in \texttt{x0}.
-%	
-%	% LINK TO MORE C FILES
-%	You can also reference another C file demonstrating this logic in practice: `assembly\_example.c`.
-%	
-%	\lstinputlisting[language=C, caption={Assembly Addition in C}, label={lst:assembly_example_c}]{assembly_example.c}
-%	
-%	% ARM64 CALLING CONVENTIONS SECTION
-%	\section{Function Calling Conventions}
-%	In the ARM64 calling convention, the first eight function parameters are passed in registers X0-X7, and the return value is passed in X0. If a function requires more than eight parameters, additional values are passed on the stack.
-%	
-%	% CALLING CONVENTION EXAMPLE
-%	The example below shows how parameters are handled in function calls:
-%	
-%	\lstinputlisting[language=C, caption={Calling Convention Example}, label={lst:calling_convention}]{calling_convention.c}
-%	
-%	% SPECIAL PURPOSE REGISTERS SECTION
-%	\section{Special Purpose Registers}
-%	Special-purpose registers in ARM64, like the Stack Pointer (SP) and Program Counter (PC), play a vital role in controlling the execution flow.
-%	
-%	\subsection{Program Counter (PC)}
-%	The Program Counter (PC) holds the address of the next instruction to be executed. You can manipulate the PC to control program execution, though typically it is managed by the processor automatically.
-%	
-%	\subsection{Stack Pointer (SP)}
-%	The Stack Pointer (SP) is used to manage the function call stack. ARM64 uses the stack to store local variables and function call return addresses.
-%	
-%	% FIGURES AND ILLUSTRATIONS
-%	\begin{figure}[H]
-%		\centering
-%%		\includegraphics[width=0.8\textwidth]{arm64_architecture_diagram.png}
-%		\caption{Overview of ARM64 Register Structure.}
-%		\label{fig:arm64_structure}
-%	\end{figure}
-%	
-%	% CONCLUSION SECTION
-%	\section{Conclusion}
-%	ARM64 is a powerful architecture designed for performance and efficiency. Understanding its register structure, function calling conventions, and special-purpose registers is key to writing optimized assembly and C code.
-%	
-%	% REFERENCES SECTION
-%	\begin{thebibliography}{99}
-%		\bibitem{ARMManual}
-%		ARM Holdings, \textit{ARM64 Architecture Reference Manual}, 2020.
-%		
-%		\bibitem{ARMCompiler}
-%		ARM Compiler Reference, \textit{Using the ARM64 calling convention}.
-%		
-%		\bibitem{CProgramming}
-%		Brian W. Kernighan, Dennis M. Ritchie, \textit{The C Programming Language}, 2nd Edition.
-%	\end{thebibliography}
-%	
-%	\newpage
-%	
-%	\section{Introduction to PSTATE}
-%	The \textbf{PSTATE (Processor State)} register in AArch64 plays a crucial role in controlling the processor's state. It includes important status flags that control the execution environment and reflect the outcomes of operations, including condition codes and interrupts.
-%	
-%	The PSTATE register is essential for controlling execution modes and flags like the Zero, Negative, Carry, and Overflow flags, as well as managing exceptions, interrupts, and processor modes.
-%	
-%	\begin{tcolorbox}[colback=blue!5!white, colframe=blue!75!black, title=Key Role of PSTATE]
-%		The PSTATE register holds the system's condition flags and controls interrupt and exception handling. It affects how the processor reacts to various conditions.
-%	\end{tcolorbox}
-%	
-%	\section{Structure of the PSTATE Register}
-%	The PSTATE register is 32 bits wide and contains several fields, each controlling a specific part of the processor's operation. Some of the key fields are:
-%	
-%	\begin{itemize}
-%		\item \textbf{N (Negative Flag)}: Set if the result of the last arithmetic operation was negative.
-%		\item \textbf{Z (Zero Flag)}: Set if the result of the last operation was zero.
-%		\item \textbf{C (Carry Flag)}: Set if the last operation resulted in a carry out.
-%		\item \textbf{V (Overflow Flag)}: Set if the last operation caused an overflow.
-%		\item \textbf{EL (Exception Level)}: Indicates the current exception level.
-%		\item \textbf{I (IRQ Mask)}: Disables IRQ interrupts when set.
-%		\item \textbf{F (FIQ Mask)}: Disables FIQ interrupts when set.
-%		\item \textbf{D (Debug Exception Mask)}: Disables debug exceptions when set.
-%	\end{itemize}
-%	
-%	\subsection{Condition Flags}
-%	The condition flags (\textbf{N, Z, C, V}) are used to record the results of arithmetic and logical operations, and they are critical for conditional branching. These flags influence the flow of the program, allowing for decisions based on the outcomes of operations.
-%	
-%	\begin{tcolorbox}[colback=red!5!white, colframe=red!75!black, title=Condition Flags]
-%		\begin{itemize}
-%			\item \textbf{N (Negative)}: Set if the result of the last operation is negative.
-%			\item \textbf{Z (Zero)}: Set if the result of the last operation is zero.
-%			\item \textbf{C (Carry)}: Set if the result of the last operation results in a carry.
-%			\item \textbf{V (Overflow)}: Set if the last operation resulted in an arithmetic overflow.
-%		\end{itemize}
-%	\end{tcolorbox}
-%	
-%	\subsection{Interrupt and Exception Handling}
-%	The PSTATE register also manages interrupts and exception handling through the \textbf{I}, \textbf{F}, and \textbf{D} bits:
-%	
-%	\begin{itemize}
-%		\item \textbf{I (IRQ Mask)}: Disables IRQ interrupts when set to 1.
-%		\item \textbf{F (FIQ Mask)}: Disables FIQ interrupts when set to 1.
-%		\item \textbf{D (Debug Exception Mask)}: Disables debug exceptions when set to 1.
-%	\end{itemize}
-%	
-%	These fields allow the processor to enable or disable certain types of interrupts, which is essential for managing real-time systems and critical code sections that should not be interrupted.
-%	
-%	\section{Exception Levels (EL)}
-%	The \textbf{EL (Exception Level)} field in PSTATE indicates the current privilege level at which the processor is executing:
-%	
-%	\begin{itemize}
-%		\item \textbf{EL0}: User mode.
-%		\item \textbf{EL1}: Kernel mode (operating system level).
-%		\item \textbf{EL2}: Hypervisor mode (for virtual machines).
-%		\item \textbf{EL3}: Secure monitor mode (used for trusted execution environments).
-%	\end{itemize}
-%	
-%	\section{Modifying PSTATE}
-%	The PSTATE register is typically manipulated by system instructions like \texttt{MSR} and \texttt{MRS}, which are used to set or read from the PSTATE.
-%	
-%	\subsection{Example: Reading the PSTATE Register}
-%	The following ARM64 assembly instruction reads the value of PSTATE into a general-purpose register:
-%	
-%	\begin{verbatim}
-%		MRS X0, NZCV
-%	\end{verbatim}
-%	This instruction moves the current value of the condition flags (\textbf{NZCV}) into register \texttt{X0}.
-%	
-%	\subsection{Example: Writing to PSTATE}
-%	You can also modify the PSTATE register using the \texttt{MSR} instruction:
-%	
-%	\begin{verbatim}
-%		MSR NZCV, X0
-%	\end{verbatim}
-%	This instruction sets the condition flags to the value stored in register \texttt{X0}.
-%	
-%	\section{Conclusion}
-%	The \textbf{PSTATE} register is critical in managing the processor's execution environment in AArch64. It controls the processor's condition flags, interrupt masks, and exception levels, which are essential for ensuring that the system operates reliably and responds correctly to various conditions.
+	% REFERENCES SECTION
+	\begin{thebibliography}{99}
+		\bibitem{ARMManual}
+		ARM Holdings, \textit{ARM64 Architecture Reference Manual}, 2020.
+		
+		\bibitem{ARMCompiler}
+		ARM Compiler Reference, \textit{Using the ARM64 calling convention}.
+		
+		\bibitem{CProgramming}
+		Brian W. Kernighan, Dennis M. Ritchie, \textit{The C Programming Language}, 2nd Edition.
+	\end{thebibliography}
 	
 	
 \end{document}

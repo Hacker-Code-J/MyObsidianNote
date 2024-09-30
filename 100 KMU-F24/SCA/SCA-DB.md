@@ -137,6 +137,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "sca-lecture", value: "sca-lecture", color: "hsl(115, 95%, 90%)"}
+      - { label: "side-channel", value: "side-channel", color: "hsl(172, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

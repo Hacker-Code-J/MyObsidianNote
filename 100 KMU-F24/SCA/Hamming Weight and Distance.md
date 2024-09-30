@@ -1,4 +1,4 @@
-
+#side-channel
 ### **Hamming Weight Theory:**
 
 **Hamming Weight** refers to the number of 1s (or non-zero values) in a binary string or sequence of data. It is essentially a count of the active bits in the sequence.

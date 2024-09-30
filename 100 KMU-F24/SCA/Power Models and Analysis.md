@@ -9,14 +9,13 @@ key_concepts:
   - "Power Analaysis"
 references:
   - "Lecture Note"
-tags:
-  - sca-lecture
+tags: [sca-lecture, side-channel]
 ---
 
 ## Power Models
 
 ### Preliminaries
-[[Hamming Weight and Hamming Distance|see more]]
+[[Hamming Weight and Distance|see more]]
 
 > [!info] **Definition**
 > Let $x \in \{0, 1\}^n$ be an $n$-bit binary string, where $x = (x_1, x_2, \dots, x_n)$ and each $x_i \in \{0, 1\}$ for $i = 1, 2, \dots, n$. The **Hamming weight** of $x$ is a function $$\text{wt}_H:\mathbb{F}_2^n\to\mathbb{Z}_{\geq 0}\quad\text{defined by}\quad x=(x_{n-1}\cdots x_1x_0)_2\mapsto \sum_{i=0}^{n-1} x_i=\text{wt}_H(x),$$
