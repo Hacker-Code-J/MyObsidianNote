@@ -28,16 +28,6 @@
             }
           },
           {
-            "id": "42adfe84e2c1c546",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "81e32a382e01c573",
             "type": "leaf",
             "state": {
@@ -51,25 +41,25 @@
             }
           },
           {
-            "id": "878013d823fb4dce",
+            "id": "3bd8c1acaaa1e6f5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "4eb6684239d9277f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 KMU-F24/SCA/Power Models and Analysis.md",
+                "file": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3bd8c1acaaa1e6f5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "100 KMU-F24/SSI/CSE-AES-Drawing.excalidraw.md"
               }
             }
           }
@@ -103,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 KMU-F24/SCA/Power Models and Analysis.md"
+                "file": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
               }
             }
           },
@@ -178,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 KMU-F24/SCA/Power Models and Analysis.md",
+                "file": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 KMU-F24/SCA/Power Models and Analysis.md",
+                "file": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,8 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5,
-    "collapsed": true
+    "width": 409.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,14 +258,12 @@
       "dbfolder:Create a new database table": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-kanban:Create new board": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:Show log": false,
-      "obsidian-livesync:Show Customization sync": false
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "878013d823fb4dce",
+  "active": "4eb6684239d9277f",
   "lastOpenFiles": [
+    "100 KMU-F24/SCA/Power Models and Analysis.md",
     "100 KMU-F24/SIM/doc/ARM64.synctex(busy)",
     "100 KMU-F24/SIM/doc/section1-introduction.tex.pqUgsK",
     "100 KMU-F24/SIM/doc/section1-introduction.tex.qdFWGy",
@@ -287,10 +274,8 @@
     "100 KMU-F24/SIM/doc/section1-introduction.tex.GWXjbO",
     "100 KMU-F24/SIM/doc/section1-introduction.tex.JtjDqr",
     "100 KMU-F24/SIM/doc/section1-introduction.tex.FAAQuB",
-    "100 KMU-F24/SIM/doc/section1-introduction.tex.yvlbVz",
     "100 KMU-F24/SCA/DPA - Differential Power Analysis.md",
     "100 KMU-F24/SCA/SPA - Simple Power Analysis.md",
-    "100 KMU-F24/SCA/Power Models and Analysis.md",
     "100 KMU-F24/SCA/Hamming Weight and Distance.md",
     "100 KMU-F24/SCA/SCA-240911.md",
     "100 KMU-F24/SSI/CSE-AES-Drawing.excalidraw.md",
