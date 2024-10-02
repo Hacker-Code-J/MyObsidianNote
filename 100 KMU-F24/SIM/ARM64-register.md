@@ -121,3 +121,113 @@ In this assembly snippet:
 ---
 
 This structure of the ARM64 register file provides both flexibility and performance for passing parameters, managing return values, and performing stack operations efficiently. By understanding how these registers are categorized (volatile vs. non-volatile) and how they interact, you can write optimized code, especially when using assembly or interfacing with low-level system programming tasks.
+
+
+
+---
+
+In ARM64 (AArch64) architecture, registers are crucial for managing data, performing arithmetic operations, system calls, and more. ARM64 has 31 general-purpose registers, along with special-purpose registers. Here’s a detailed breakdown of all the registers in ARM64:
+
+### 1. **General-Purpose Registers**
+There are 31 general-purpose registers (`x0` to `x30`) and an alias for the stack pointer (`sp`), all of which are 64-bit registers. These registers can be accessed as either full 64-bit registers (`x0`–`x30`) or lower 32-bit registers (`w0`–`w30`), depending on the operation.
+
+- **x0–x7**: Argument/Return registers:
+  - These are used to pass arguments to functions and system calls. For instance, the first argument is in `x0`, the second in `x1`, and so on. System call numbers are also placed in `x8`. When functions return values, they are placed in `x0`.
+- **x8**: Indirect result location register and syscall number for system calls.
+- **x9–x15**: Temporary registers:
+  - These are typically used as scratch registers for intermediate calculations.
+- **x16–x17**: Intra-procedure-call temporary registers:
+  - These are often used for indirect function calls.
+- **x18**: Platform register:
+  - This register is reserved for use by platform-specific code.
+- **x19–x28**: Callee-saved registers:
+  - These registers must be saved and restored by the callee, making them useful for storing values across function calls.
+- **x29**: Frame pointer (FP):
+  - This points to the base of the current stack frame.
+- **x30**: Link register (LR):
+  - This holds the return address for functions (used in function calls).
+
+### 2. **Special Registers**
+
+- **SP (Stack Pointer)**: 
+  - The stack pointer (`sp`) points to the current location on the stack. It’s important for managing function calls, local variables, and saved registers.
+  
+- **PC (Program Counter)**:
+  - The program counter (`pc`) holds the address of the next instruction to execute.
+
+- **NZCV (Flags Register)**:
+  - The flags register holds the result flags for arithmetic and logical operations:
+    - **N**: Negative flag, set if the result of the operation is negative.
+    - **Z**: Zero flag, set if the result of the operation is zero.
+    - **C**: Carry flag, set if there is a carry out (useful for unsigned arithmetic).
+    - **V**: Overflow flag, set if the operation resulted in signed overflow.
+
+- **FP (Frame Pointer)**:
+  - The `x29` register is often used as a frame pointer to maintain the call stack.
+
+- **LR (Link Register)**:
+  - The `x30` register acts as the link register and stores the return address of function calls.
+
+### 3. **Vector Registers (NEON / SIMD)**
+
+ARM64 provides 32 vector registers (`v0` to `v31`), each 128 bits wide, for SIMD (Single Instruction, Multiple Data) and floating-point operations. These registers are used for:
+  
+- **Floating-point operations**: Both 32-bit (single-precision) and 64-bit (double-precision) floating-point operations.
+- **SIMD operations**: 8-bit, 16-bit, 32-bit, and 64-bit integer or floating-point data can be manipulated in parallel using NEON instructions.
+
+Each vector register can be accessed in various sizes:
+- `v0.16b`: 16 bytes (128 bits).
+- `v0.8h`: 8 halfwords (64 bits).
+- `v0.4s`: 4 single-precision floats (32 bits each).
+- `v0.2d`: 2 double-precision floats (64 bits each).
+
+### 4. **Special System Registers**
+
+In addition to the general-purpose and vector registers, ARM64 has several system registers that control aspects of the CPU state, memory, and exception handling:
+
+- **ELR_ELx** (Exception Link Register): Holds the address to return to after an exception at a specific Exception Level (EL).
+- **SPSR_ELx** (Saved Program Status Register): Stores status information during an exception.
+- **CurrentEL**: Indicates the current Exception Level (EL0, EL1, EL2, or EL3).
+- **TPIDR_EL0**: Thread Pointer for user-level code.
+- **SP_ELx**: Stack pointers for different Exception Levels (EL0, EL1, etc.).
+
+### 5. **64-bit vs 32-bit Access**
+
+Each general-purpose register (`x0`–`x30`) can be accessed in two ways:
+
+- **64-bit (`x0`–`x30`)**: The full 64-bit register.
+- **32-bit (`w0`–`w30`)**: The lower 32 bits of the register. When a value is stored in a `w` register, the upper 32 bits of the corresponding `x` register are zeroed out.
+
+For example:
+- `mov w0, #5` will store the value `5` in the lower 32 bits of `x0` (zeroing out the upper 32 bits).
+- `mov x0, #5` will store the value `5` in the full 64-bit register `x0`.
+
+### 6. **Usage Summary**
+
+- **Arguments and Return Values**: `x0`–`x7` are used for passing arguments to functions and returning values from functions.
+- **Temporary Registers**: `x9`–`x15` are typically used as temporary scratch registers.
+- **Callee-Saved Registers**: `x19`–`x28` must be preserved by the callee if used.
+- **Link Register (`x30`)**: Holds the return address for function calls.
+- **Frame Pointer (`x29`)**: Maintains the stack frame for debugging and function calls.
+- **Stack Pointer (`sp`)**: Points to the current position of the stack.
+
+### Register Overview Table
+
+| Register | Purpose                                   | Notes                                  |
+|----------|-------------------------------------------|----------------------------------------|
+| x0–x7    | Argument/Return registers                 | Used to pass arguments and return values from functions. |
+| x8       | Indirect result location/Syscall number   | Used for system call numbers.          |
+| x9–x15   | Temporary registers                       | Scratch registers for temporary values.|
+| x16–x17  | Intra-procedure-call scratch registers    | Used in function calls.                |
+| x18      | Platform register                         | Reserved for platform-specific use.    |
+| x19–x28  | Callee-saved registers                    | Must be preserved across function calls.|
+| x29      | Frame pointer                             | Used for maintaining the call stack.   |
+| x30      | Link register                             | Holds the return address for function calls. |
+| SP       | Stack pointer                             | Points to the current top of the stack. |
+| PC       | Program counter                           | Holds the address of the next instruction. |
+| NZCV     | Flags register                            | Holds flags for arithmetic operations. |
+| v0–v31   | SIMD/Vector registers                     | 128-bit wide registers for floating-point and SIMD operations. |
+
+### Conclusion
+
+ARM64 has a rich set of registers that allow for efficient handling of both general-purpose tasks and SIMD (NEON) operations. Familiarity with these registers is crucial for effective assembly programming and debugging on the ARM64 platform.

@@ -8,40 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fad0f69f0e5b8c3f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md"
-              }
-            }
-          },
-          {
-            "id": "52cde983d0134d49",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "C-Programming/Basic-C.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "81e32a382e01c573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 KMU-F24/SCA/DPA - Differential Power Analysis.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bd8c1acaaa1e6f5",
+            "id": "dd54d96c63c27479",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -51,20 +18,17 @@
             }
           },
           {
-            "id": "4eb6684239d9277f",
+            "id": "e8cfe0d51d29f938",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +57,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md"
+                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md"
               }
             }
           },
@@ -132,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3c21b68808da7721",
@@ -168,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
+                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
+                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 409.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,19 +227,27 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4eb6684239d9277f",
+  "active": "e8cfe0d51d29f938",
   "lastOpenFiles": [
-    "100 KMU-F24/SCA/Power Models and Analysis.md",
     "100 KMU-F24/SIM/doc/ARM64.synctex(busy)",
+    "100 KMU-F24/SIM/doc/section3-load-store-branch.tex.NkrPaN",
+    "100 KMU-F24/SIM/doc/section3-load-store-branch.tex.ArwLOm",
+    "100 KMU-F24/SIM/doc/section3-load-store-branch.tex.XALhiZ",
+    "100 KMU-F24/SIM/doc/section3-load-store-branch.tex.lWoKLv",
+    "100 KMU-F24/SIM/doc/section3-load-store-branch.tex",
+    "100 KMU-F24/SIM/doc/section3-load-store-branch.tex.xWVZrz",
+    "100 KMU-F24/SIM/doc/ARM64.tex.xThiPD",
+    "100 KMU-F24/SIM/doc/ARM64.tex.dofExU",
+    "100 KMU-F24/SIM/ARM64-example-code.md",
+    "100 KMU-F24/SIM/ARM64-register.md",
+    "100 KMU-F24/SIM/ARM64-excaldraw.md",
+    "00 Attachment-Folder-Path/image_1.png",
+    "00 Attachment-Folder-Path/image_0.png",
+    "00 Attachment-Folder-Path/image.png",
+    "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
+    "100 KMU-F24/SCA/Power Models and Analysis.md",
     "100 KMU-F24/SIM/doc/section1-introduction.tex.pqUgsK",
     "100 KMU-F24/SIM/doc/section1-introduction.tex.qdFWGy",
-    "100 KMU-F24/SIM/doc/section1-introduction.tex.ZzJSeg",
-    "100 KMU-F24/SIM/doc/section1-introduction.tex.kbCQgD",
-    "100 KMU-F24/SIM/doc/section1-introduction.tex.edASlw",
-    "100 KMU-F24/SIM/doc/section1-introduction.tex.DOsGik",
-    "100 KMU-F24/SIM/doc/section1-introduction.tex.GWXjbO",
-    "100 KMU-F24/SIM/doc/section1-introduction.tex.JtjDqr",
-    "100 KMU-F24/SIM/doc/section1-introduction.tex.FAAQuB",
     "100 KMU-F24/SCA/DPA - Differential Power Analysis.md",
     "100 KMU-F24/SCA/SPA - Simple Power Analysis.md",
     "100 KMU-F24/SCA/Hamming Weight and Distance.md",
@@ -281,13 +255,11 @@
     "100 KMU-F24/SSI/CSE-AES-Drawing.excalidraw.md",
     "100 KMU-F24/SCA/SCA-DB.md",
     "100 KMU-F24/SIM/Setup Raspberry Pi.md",
-    "100 KMU-F24/SIM/ARM64-excaldraw.md",
     "C-Programming/Basic-C.excalidraw.md",
     "C-Programming/Compiler-Drawing.md",
     "C-Programming/CS-Drawing.md",
     "C-Programming/Functions-in-C-Drawing.md",
     "100 KMU-F24/SIM/ARM64-references.md",
-    "100 KMU-F24/SIM/ARM64-register.md",
     "00 Attachment-Folder-Path/aarch64_architecture_diagram.png",
     "00 Attachment-Folder-Path/aarch64-register.png",
     "00 Attachment-Folder-Path/cortex-a72-architecture.png",
@@ -295,9 +267,6 @@
     "00 Attachment-Folder-Path/Pasted Image 20240914174056_8062.png",
     "00 Attachment-Folder-Path/Pasted Image 20240914174056_806.png.png",
     "00 Attachment-Folder-Path/Pasted Image 20240929191924_010.png",
-    "00 Attachment-Folder-Path/Pasted Image 20240929191942_273.png",
-    "00 Attachment-Folder-Path/Pasted Image 20240929191742_366.png",
-    "00 Attachment-Folder-Path/Pasted Image 20240929191856_752.png",
     "100 KMU-F24/SIM/SIM-Week1.md",
     "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
     "100 KMU-F24/SSI/SSI-240905.md",
@@ -306,8 +275,6 @@
     "C-Programming/C-Big-Number/Clang options.md",
     "C-Programming/C-Big-Number/GCC options.md",
     "100 KMU-F24/Music/UM-240909.md",
-    "100 KMU-F24/Eureka/Eureka-Week2-Special-Lecture.md",
-    "100 Enjoying-Math/Algebra/Algebra-note-1.md",
     "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "100 Enjoying-Math/Algebra/Untitled.canvas",
     "99 CANVAS/Research Links.canvas",
