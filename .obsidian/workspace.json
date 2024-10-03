@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "6dd465a02653097a",
+    "id": "06fad40cd6e17871",
     "type": "split",
     "children": [
       {
-        "id": "581219fc79673bf6",
+        "id": "37e3c88e4fb78046",
         "type": "tabs",
         "children": [
           {
-            "id": "dd54d96c63c27479",
+            "id": "62b37c5d40f7666a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "e8cfe0d51d29f938",
+            "id": "bde6d41b6d86cbb6",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -34,15 +34,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8d96f021aef0e882",
+    "id": "07c90ad7055883ad",
     "type": "split",
     "children": [
       {
-        "id": "75f3881e98ab9ae4",
+        "id": "3fc9a15a4371868b",
         "type": "tabs",
         "children": [
           {
-            "id": "3f7bbade47d7105e",
+            "id": "5682cd52cd718a7d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,44 +52,26 @@
             }
           },
           {
-            "id": "8a8fc12325ca61b7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md"
-              }
-            }
-          },
-          {
-            "id": "43e13291213d8618",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "a18e4ed1fe9427a3",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "3497f7518ebc8936",
+            "id": "d780ce69c0934710",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"status\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "14be004f79905609",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -100,35 +82,23 @@
     "collapsed": true
   },
   "right": {
-    "id": "3c21b68808da7721",
+    "id": "793ff8c037291e32",
     "type": "split",
     "children": [
       {
-        "id": "bad47ba17d43d639",
+        "id": "cf64fd34d949f586",
         "type": "tabs",
         "children": [
           {
-            "id": "c06376a59e90ccb5",
+            "id": "f9f1de904c38302a",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-detexify",
+              "type": "calendar",
               "state": {}
             }
           },
           {
-            "id": "3977349fcfbda16e",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "f530d03ec3f55435",
+            "id": "78cf649406a94cd4",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -145,7 +115,7 @@
             }
           },
           {
-            "id": "6abe4712ba4352d9",
+            "id": "8a73638c0345847d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -157,15 +127,7 @@
             }
           },
           {
-            "id": "54748fbc4ad7a30d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "b0388335427cfdaf",
+            "id": "47e11b410d4fa207",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -176,15 +138,29 @@
             }
           },
           {
-            "id": "fc3ab0ff4965f9ca",
+            "id": "cf575c9a6f6f1765",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           },
           {
-            "id": "205fd2dd8797fc95",
+            "id": "3a789eef74b9ba5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md"
+              }
+            }
+          },
+          {
+            "id": "6e7a521dfd0cd853",
             "type": "leaf",
             "state": {
               "type": "oz-calendar",
@@ -192,95 +168,41 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 409.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "obsidian-custom-frames:Open Detexify": false,
-      "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false,
-      "graph:Open graph view": false,
       "3d-graph:3D Graph": false,
-      "canvas:Create new canvas": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "publish:Publish changes...": false,
-      "random-note:Open random note": false,
-      "zk-prefixer:Create new unique note": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-projects:Open projects": false,
       "callout-manager:Insert Callout": false,
+      "obsidian-custom-frames:Open Detexify": false,
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "dbfolder:Create a new database table": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-kanban:Create new board": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "e8cfe0d51d29f938",
-  "lastOpenFiles": [
-    "100 KMU-F24/SIM/doc/ARM64.synctex(busy)",
-    "100 KMU-F24/SIM/doc/section3-load-store-branch.tex.NkrPaN",
-    "100 KMU-F24/SIM/doc/section3-load-store-branch.tex.ArwLOm",
-    "100 KMU-F24/SIM/doc/section3-load-store-branch.tex.XALhiZ",
-    "100 KMU-F24/SIM/doc/section3-load-store-branch.tex.lWoKLv",
-    "100 KMU-F24/SIM/doc/section3-load-store-branch.tex",
-    "100 KMU-F24/SIM/doc/section3-load-store-branch.tex.xWVZrz",
-    "100 KMU-F24/SIM/doc/ARM64.tex.xThiPD",
-    "100 KMU-F24/SIM/doc/ARM64.tex.dofExU",
-    "100 KMU-F24/SIM/ARM64-example-code.md",
-    "100 KMU-F24/SIM/ARM64-register.md",
-    "100 KMU-F24/SIM/ARM64-excaldraw.md",
-    "00 Attachment-Folder-Path/image_1.png",
-    "00 Attachment-Folder-Path/image_0.png",
-    "00 Attachment-Folder-Path/image.png",
-    "Number Theory/Chapter 1. Preliminaries/1.1. Mathematical Induction.md",
-    "100 KMU-F24/SCA/Power Models and Analysis.md",
-    "100 KMU-F24/SIM/doc/section1-introduction.tex.pqUgsK",
-    "100 KMU-F24/SIM/doc/section1-introduction.tex.qdFWGy",
-    "100 KMU-F24/SCA/DPA - Differential Power Analysis.md",
-    "100 KMU-F24/SCA/SPA - Simple Power Analysis.md",
-    "100 KMU-F24/SCA/Hamming Weight and Distance.md",
-    "100 KMU-F24/SCA/SCA-240911.md",
-    "100 KMU-F24/SSI/CSE-AES-Drawing.excalidraw.md",
-    "100 KMU-F24/SCA/SCA-DB.md",
-    "100 KMU-F24/SIM/Setup Raspberry Pi.md",
-    "C-Programming/Basic-C.excalidraw.md",
-    "C-Programming/Compiler-Drawing.md",
-    "C-Programming/CS-Drawing.md",
-    "C-Programming/Functions-in-C-Drawing.md",
-    "100 KMU-F24/SIM/ARM64-references.md",
-    "00 Attachment-Folder-Path/aarch64_architecture_diagram.png",
-    "00 Attachment-Folder-Path/aarch64-register.png",
-    "00 Attachment-Folder-Path/cortex-a72-architecture.png",
-    "00 Attachment-Folder-Path/Pasted Image 20240914174056_806.png",
-    "00 Attachment-Folder-Path/Pasted Image 20240914174056_8062.png",
-    "00 Attachment-Folder-Path/Pasted Image 20240914174056_806.png.png",
-    "00 Attachment-Folder-Path/Pasted Image 20240929191924_010.png",
-    "100 KMU-F24/SIM/SIM-Week1.md",
-    "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
-    "100 KMU-F24/SSI/SSI-240905.md",
-    "C-Programming/C-Big-Number/Makefile.md",
-    "C-Programming/C-Big-Number/Debuging.md",
-    "C-Programming/C-Big-Number/Clang options.md",
-    "C-Programming/C-Big-Number/GCC options.md",
-    "100 KMU-F24/Music/UM-240909.md",
-    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
-    "100 Enjoying-Math/Algebra/Untitled.canvas",
-    "99 CANVAS/Research Links.canvas",
-    "Obsidian-Lecture/DIKW-Pyramid.canvas",
-    "Rust-Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
-    "Rust -Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas",
-    "0.1 Rust Programming/Rust-Core-Note/Rust-Core-CANVAS.canvas"
-  ]
+  "active": "bde6d41b6d86cbb6",
+  "lastOpenFiles": []
 }

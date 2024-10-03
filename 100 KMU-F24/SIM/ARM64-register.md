@@ -1,5 +1,85 @@
 #ARM64
 
+
+In the AArch64 architecture (the 64-bit extension of the ARM architecture), registers are broadly classified based on their purpose and type. Here's a breakdown of the various types of registers in AArch64:
+
+### 1. **General-Purpose Registers (GPRs)**
+   AArch64 has 31 general-purpose registers, named from **X0** to **X30**. These are 64-bit registers, but the lower 32 bits of each can be accessed using the **W0** to **W30** names. The GPRs are used for common operations, such as arithmetic, logical operations, and data movement.
+
+   - **X0 to X7**: These are used to pass function arguments and return values.
+   - **X8**: Also known as the "Indirect Result Register" or "Link Register" in some calling conventions.
+   - **X9 to X15**: Temporary registers used for scratch or intermediate values.
+   - **X16 (IP0) and X17 (IP1)**: Intra-procedure call temporary registers (used for indirect branching and function calls).
+   - **X18**: Platform-specific register (its use depends on the operating system or ABI).
+   - **X19 to X28**: Callee-saved registers (preserved across function calls).
+   - **X29**: The Frame Pointer (FP), typically used to maintain the stack frame in function calls.
+   - **X30**: The Link Register (LR), used to store the return address for function calls.
+   - **XZR/WZR**: The zero register, which always returns zero when read. Writing to XZR/WZR discards the value.
+
+### 2. **Stack Pointer (SP)**
+   - **SP**: The Stack Pointer register holds the current address of the top of the stack. Like other general-purpose registers, it has both 64-bit and 32-bit views. It can only be used in certain instructions that deal with memory access or stack operations.
+
+### 3. **Program Counter (PC)**
+   - **PC**: This register holds the address of the next instruction to be executed. It's not directly accessible like other general-purpose registers but is implicitly modified by control flow instructions such as branches.
+
+### 4. **Floating-Point and SIMD Registers (Vector Registers)**
+   AArch64 also includes a set of **32 floating-point/SIMD registers**, named from **V0** to **V31**. These are 128-bit registers and are used for operations involving floating-point, SIMD (Single Instruction, Multiple Data), and cryptographic instructions.
+
+   - **V0 to V31**: Each of these registers can be accessed in different widths:
+     - **128-bit**: Full register access (Vn).
+     - **64-bit**: Access the lower 64 bits (Dn).
+     - **32-bit**: Access the lower 32 bits (Sn).
+     - **16-bit**: Access the lower 16 bits (Hn).
+     - **8-bit**: Access the lower 8 bits (Bn).
+   These registers are typically used for floating-point arithmetic or SIMD operations.
+
+### 5. **Status Registers**
+   - **NZCV (Flags Register)**: Holds the condition flags:
+     - **N**: Negative flag.
+     - **Z**: Zero flag.
+     - **C**: Carry flag.
+     - **V**: Overflow flag.
+   These flags are set by comparison instructions or certain arithmetic operations to influence branching and conditional execution.
+
+   - **Current Program Status Register (CPSR)**: Contains the current processor state, including the NZCV flags and other control bits.
+
+### 6. **Special-Purpose Registers**
+   These registers are used for system control and can only be accessed by privileged software (e.g., the operating system kernel). Examples include:
+
+   - **Exception Link Register (ELR_ELn)**: Stores the return address when an exception occurs.
+   - **Saved Program Status Register (SPSR)**: Stores the program status when an exception occurs.
+   - **Stack Pointer ELx (SP_ELx)**: Separate stack pointers for different exception levels (e.g., **SP_EL0**, **SP_EL1**).
+   - **Control Registers (e.g., SCTLR_ELx)**: Used to configure system control settings (caches, memory management, etc.).
+   - **Translation Table Base Registers (TTBRx_ELx)**: Used for memory translation, pointing to the base of translation tables.
+
+### 7. **Exception Level Registers**
+   AArch64 supports multiple privilege levels, known as exception levels (EL0 to EL3). Each level has a specific set of system registers:
+
+   - **EL0**: User mode.
+   - **EL1**: Operating system kernel.
+   - **EL2**: Hypervisor.
+   - **EL3**: Secure monitor (used in TrustZone technology).
+
+   Each level has its own version of specific registers, like **SP_ELn** (stack pointer) and **SPSR_ELn** (saved program status), to manage exceptions and interrupts at that level.
+
+---
+
+### Summary Table
+
+| Register Type                        | Name/Range       | Bits | Purpose                                      |
+|--------------------------------------|------------------|------|----------------------------------------------|
+| **General-Purpose Registers (GPRs)** | X0-X30, W0-W30   | 64/32| Data movement, arithmetic, function calls.    |
+| **Stack Pointer**                    | SP               | 64   | Points to the top of the stack.              |
+| **Program Counter**                  | PC               | 64   | Holds the address of the next instruction.   |
+| **SIMD/FP Registers**                | V0-V31           | 128  | Floating-point and SIMD operations.          |
+| **Status Registers**                 | NZCV, CPSR       | N/A  | Holds condition flags (e.g., zero, carry).   |
+| **Special-Purpose Registers**        | ELR_ELx, SPSR_ELx| 64   | Used for exception handling and system control. |
+| **Exception Level Registers**        | SP_ELx, TTBRx_ELx| 64   | Privilege level-specific stack, control, etc.|
+
+AArch64 registers are highly versatile and optimized for the architecture's goals of energy efficiency and performance. This classification allows efficient handling of general computation, system control, and floating-point operations.
+
+---
+
 The ARM64 (AArch64) register file structure, which includes both general-purpose registers (X0-X30) and special-purpose registers like the program counter (PC), stack pointer (SP), and processor state (PSTATE). Here's a breakdown of the various registers, their categories, and how they're typically used:
 
 ### Table of Contents
