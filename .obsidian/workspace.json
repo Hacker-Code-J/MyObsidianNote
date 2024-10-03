@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bde6d41b6d86cbb6",
+            "id": "7c87e241cda49b94",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,17 +18,27 @@
             }
           },
           {
-            "id": "1f66953a8d46a465",
+            "id": "b19f79acd83628fd",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "100 KMU-F24/SNP/SNP-Excalidraw.md"
+                "file": "100 KMU-F24/SIM/ARM64-lecture.excaldraw.md"
+              }
+            }
+          },
+          {
+            "id": "2c3755da5c429011",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "100 KMU-F24/SIM/ARM64-code.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "793ff8c037291e32",
@@ -102,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 KMU-F24/SNP/SNP-Excalidraw.md",
+                "file": "100 KMU-F24/SIM/ARM64-code.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 KMU-F24/SNP/SNP-Excalidraw.md",
+                "file": "100 KMU-F24/SIM/ARM64-code.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 KMU-F24/SNP/SNP-Excalidraw.md"
+                "file": "100 KMU-F24/SIM/ARM64-code.excalidraw.md"
               }
             }
           },
@@ -171,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,12 +213,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1f66953a8d46a465",
+  "active": "2c3755da5c429011",
   "lastOpenFiles": [
-    "100 KMU-F24/SNP/F24-SNP-DB.md",
-    "100 KMU-F24/SNP/Net-APP-FTP.excalidraw.md",
-    "100 KMU-F24/SIM/ARM64-excaldraw.md",
+    "100 KMU-F24/SIM/ARM64-lecture.excaldraw.md",
+    "100 KMU-F24/SIM/ARM64-code.excalidraw.md",
     "100 KMU-F24/SIM/ARM64-example-code.md",
-    "100 KMU-F24/SNP/SNP-Excalidraw.md"
+    "100 KMU-F24/SIM/Setup-ZSH.md",
+    "100 KMU-F24/SIM/Setup Raspberry Pi.md",
+    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+    "100 KMU-F24/SNP/SNP-Excalidraw.md",
+    "100 KMU-F24/SNP/F24-SNP-DB.md",
+    "100 KMU-F24/SNP/Net-APP-FTP.excalidraw.md"
   ]
 }
