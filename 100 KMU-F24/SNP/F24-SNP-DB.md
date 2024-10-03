@@ -90,6 +90,9 @@ columns:
     options:
       - { label: "Terminology for Network", value: "Terminology for Network", color: "hsl(30, 95%, 90%)"}
       - { label: "Protocol", value: "Protocol", color: "hsl(209, 95%, 90%)"}
+      - { label: "Linux", value: "Linux", color: "hsl(179, 95%, 90%)"}
+      - { label: "Application-Layer", value: "Application-Layer", color: "hsl(97, 95%, 90%)"}
+      - { label: "Web and HTTP", value: "Web and HTTP", color: "hsl(160, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

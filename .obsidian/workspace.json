@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62b37c5d40f7666a",
+            "id": "bde6d41b6d86cbb6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "bde6d41b6d86cbb6",
+            "id": "1f66953a8d46a465",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md"
+                "file": "100 KMU-F24/SNP/SNP-Excalidraw.md"
               }
             }
           }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "793ff8c037291e32",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md",
+                "file": "100 KMU-F24/SNP/SNP-Excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md",
+                "file": "100 KMU-F24/SNP/SNP-Excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 KMU-F24/SIM/ARM64-excaldraw.md"
+                "file": "100 KMU-F24/SNP/SNP-Excalidraw.md"
               }
             }
           },
@@ -172,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,6 +201,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "bde6d41b6d86cbb6",
-  "lastOpenFiles": []
+  "active": "1f66953a8d46a465",
+  "lastOpenFiles": [
+    "100 KMU-F24/SNP/F24-SNP-DB.md",
+    "100 KMU-F24/SNP/Net-APP-FTP.excalidraw.md",
+    "100 KMU-F24/SIM/ARM64-excaldraw.md",
+    "100 KMU-F24/SIM/ARM64-example-code.md",
+    "100 KMU-F24/SNP/SNP-Excalidraw.md"
+  ]
 }
