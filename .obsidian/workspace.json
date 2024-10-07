@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c87e241cda49b94",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "b19f79acd83628fd",
             "type": "leaf",
             "state": {
@@ -30,15 +20,15 @@
           {
             "id": "2c3755da5c429011",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "100 KMU-F24/SIM/ARM64-code.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 KMU-F24/SIM/ARM64-code.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 KMU-F24/SIM/ARM64-code.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "100 KMU-F24/SIM/ARM64-code.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,8 +200,8 @@
   },
   "active": "2c3755da5c429011",
   "lastOpenFiles": [
-    "100 KMU-F24/SIM/ARM64-lecture.excaldraw.md",
     "100 KMU-F24/SIM/ARM64-code.excalidraw.md",
+    "100 KMU-F24/SIM/ARM64-lecture.excaldraw.md",
     "100 KMU-F24/SIM/ARM64-example-code.md",
     "100 KMU-F24/SIM/Setup-ZSH.md",
     "100 KMU-F24/SIM/Setup Raspberry Pi.md",
