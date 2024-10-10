@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2fbb4e378679251",
+            "id": "eb51f16a2fc74b50",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,17 +18,15 @@
             }
           },
           {
-            "id": "51375bedbb69cee4",
+            "id": "57063e7220e92542",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
-                "viewState": {
-                  "x": 949.4267420063445,
-                  "y": 1342.651654676193,
-                  "zoom": -1.427684282524758
-                }
+                "file": "100 KMU-F24/SIM/Setup-ZSH.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "793ff8c037291e32",
@@ -108,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+                "file": "100 KMU-F24/SIM/Setup-ZSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+                "file": "100 KMU-F24/SIM/Setup-ZSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas"
+                "file": "100 KMU-F24/SIM/Setup-ZSH.md"
               }
             }
           },
@@ -208,13 +205,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "51375bedbb69cee4",
+  "active": "57063e7220e92542",
   "lastOpenFiles": [
+    "100 KMU-F24/SNP/TLS.md",
+    "100 KMU-F24/SNP/Linux.md",
+    "Rust-Programming/Rust 101 Crash Course/2. Setup/2.1. Tool Installation.md",
     "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "100 KMU-F24/SCA/DPA - Differential Power Analysis.md",
     "100 KMU-F24/SCA/SPA and DPA.md",
     "100 KMU-F24/SCA/Power Models and Analysis.md",
-    "100 KMU-F24/SNP/TLS.md",
     "C-Programming/C-Big-Number/Makefile-NEW.md",
     "C-Programming/C-Big-Number/Makefile.md",
     "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
