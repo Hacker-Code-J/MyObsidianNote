@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a32353040c84fb2e",
+            "id": "b60e3b13322ae811",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,13 +18,13 @@
             }
           },
           {
-            "id": "b60e3b13322ae811",
+            "id": "f1bfffae3d095541",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 KMU-F24/SCA/Power Models and Analysis.md",
-                "mode": "source",
+                "file": "100 KMU-F24/SIM/Setup-ZSH.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 KMU-F24/SCA/Power Models and Analysis.md",
+                "file": "100 KMU-F24/SIM/Setup-ZSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 KMU-F24/SCA/Power Models and Analysis.md",
+                "file": "100 KMU-F24/SIM/Setup-ZSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 KMU-F24/SCA/Power Models and Analysis.md"
+                "file": "100 KMU-F24/SIM/Setup-ZSH.md"
               }
             }
           },
@@ -204,8 +204,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b60e3b13322ae811",
+  "active": "f1bfffae3d095541",
   "lastOpenFiles": [
+    "100 KMU-F24/SCA/Power Models and Analysis.md",
     "100 KMU-F24/SCA/DPA - Differential Power Analysis.md",
     "100 KMU-F24/SCA/SPA and DPA.md",
     "100 KMU-F24/SNP/SNP-240917.md",
@@ -224,7 +225,6 @@
     "100 KMU-F24/SNP/Linux.md",
     "Rust-Programming/Rust 101 Crash Course/2. Setup/2.1. Tool Installation.md",
     "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
-    "100 KMU-F24/SCA/Power Models and Analysis.md",
     "C-Programming/C-Big-Number/Makefile-NEW.md",
     "C-Programming/C-Big-Number/Makefile.md",
     "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
