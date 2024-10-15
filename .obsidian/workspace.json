@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1bfffae3d095541",
+            "id": "11891cbc5a62c17a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,22 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "11891cbc5a62c17a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 KMU-F24/SSI/SSI-240905.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 KMU-F24/SSI/SSI-240905.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 KMU-F24/SSI/SSI-240905.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "100 KMU-F24/SSI/SSI-240905.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,8 +188,8 @@
   },
   "active": "11891cbc5a62c17a",
   "lastOpenFiles": [
-    "100 KMU-F24/SSI/SSI-240905-practice.md",
     "100 KMU-F24/SSI/SSI-240905.md",
+    "100 KMU-F24/SSI/SSI-240905-practice.md",
     "100 KMU-F24/SIM/Setup-ZSH.md",
     "100 KMU-F24/SCA/Power Models and Analysis.md",
     "100 KMU-F24/SCA/DPA - Differential Power Analysis.md",
