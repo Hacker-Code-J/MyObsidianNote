@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "045f91d26c3f0877",
+        "id": "63666d862f8f13c6",
         "type": "tabs",
         "children": [
           {
-            "id": "11891cbc5a62c17a",
+            "id": "cd6612d702d8f4e0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,8 +16,22 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "b988de090cce0c60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C-Programming/C-Big-Number/Big Number Arithemetic in C.md"
+              }
             }
           },
           {
@@ -186,8 +204,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "11891cbc5a62c17a",
+  "active": "b988de090cce0c60",
   "lastOpenFiles": [
+    "100 KMU-F24/SNP/Untitled",
     "100 KMU-F24/SSI/SSI-240905.md",
     "100 KMU-F24/SSI/SSI-240905-practice.md",
     "100 KMU-F24/SIM/Setup-ZSH.md",
@@ -213,7 +232,6 @@
     "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
     "100 KMU-F24/Eureka/Eureka-Week2-Special-Lecture.md",
     "100 KMU-F24/Music/UM-240909.md",
-    "100 KMU-F24/SCA/Hamming Weight and Distance.md",
-    "100 KMU-F24/SCA/SCA-DB.md"
+    "100 KMU-F24/SCA/Hamming Weight and Distance.md"
   ]
 }
