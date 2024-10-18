@@ -11,5 +11,11 @@
   "newFileFolderPath": "00 InBox-Note",
   "attachmentFolderPath": "00 Attachment-Folder-Path",
   "showUnsupportedFiles": false,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
 }
