@@ -40,7 +40,7 @@ var require_manifest = __commonJS({
     module2.exports = {
       id: "share-note",
       name: "Share Note",
-      version: "0.8.16",
+      version: "0.8.17",
       minAppVersion: "0.15.0",
       description: "Instantly share a note, with the full theme and content exactly like you see in Reading View. Data is shared encrypted by default, and only you and the person you send it to have the key.",
       author: "Alan Grainger",
@@ -14947,7 +14947,7 @@ var Note = class {
     return this.plugin.field(key);
   }
   async share() {
-    var _a, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k, _l, _m, _n, _o;
+    var _a, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k, _l, _m, _n;
     if (!this.plugin.settings.apiKey) {
       this.plugin.authRedirect("share").then();
       return;
@@ -15029,14 +15029,22 @@ var Note = class {
         svgEl.outerHTML = `<svg width="16" height="16" data-share-note-lucide="${icon}"></svg>`;
       }
     }
-    for (const el of this.contentDom.querySelectorAll("a.internal-link")) {
+    for (const el of this.contentDom.querySelectorAll("a.internal-link, a.footnote-link")) {
       const href = el.getAttribute("href");
       const match = href ? href.match(/^([^#]+)/) : null;
       if (href == null ? void 0 : href.match(/^#/)) {
-        const selector2 = `[data-heading="${href.slice(1)}"]`;
-        if ((_e = this.contentDom.querySelectorAll(selector2)) == null ? void 0 : _e[0]) {
-          el.setAttribute("onclick", `document.querySelectorAll('${selector2}')[0].scrollIntoView(true)`);
-        }
+        const linkTypes = [
+          `[data-heading="${href.slice(1)}"]`,
+          // Links to a heading
+          `[id="${href.slice(1)}"]`
+          // Links to a footnote
+        ];
+        linkTypes.forEach((selector2) => {
+          var _a2;
+          if ((_a2 = this.contentDom.querySelectorAll(selector2)) == null ? void 0 : _a2[0]) {
+            el.setAttribute("onclick", `document.querySelectorAll('${selector2}')[0].scrollIntoView(true)`);
+          }
+        });
         el.removeAttribute("target");
         el.removeAttribute("href");
         continue;
@@ -15044,8 +15052,8 @@ var Note = class {
         const linkedFile = this.plugin.app.metadataCache.getFirstLinkpathDest(match[1], "");
         if (linkedFile instanceof import_obsidian4.TFile) {
           const linkedMeta = this.plugin.app.metadataCache.getFileCache(linkedFile);
-          if ((_f = linkedMeta == null ? void 0 : linkedMeta.frontmatter) == null ? void 0 : _f[this.field(0 /* link */)]) {
-            el.setAttribute("href", (_g = linkedMeta == null ? void 0 : linkedMeta.frontmatter) == null ? void 0 : _g[this.field(0 /* link */)]);
+          if ((_e = linkedMeta == null ? void 0 : linkedMeta.frontmatter) == null ? void 0 : _e[this.field(0 /* link */)]) {
+            el.setAttribute("href", (_f = linkedMeta == null ? void 0 : linkedMeta.frontmatter) == null ? void 0 : _f[this.field(0 /* link */)]);
             el.removeAttribute("target");
             continue;
           }
@@ -15061,8 +15069,8 @@ var Note = class {
     this.cssResult = uploadResult.css;
     await this.processCss();
     let decryptionKey = "";
-    if ((_i = (_h = this.meta) == null ? void 0 : _h.frontmatter) == null ? void 0 : _i[this.field(0 /* link */)]) {
-      const match = parseExistingShareUrl((_k = (_j = this.meta) == null ? void 0 : _j.frontmatter) == null ? void 0 : _k[this.field(0 /* link */)]);
+    if ((_h = (_g = this.meta) == null ? void 0 : _g.frontmatter) == null ? void 0 : _h[this.field(0 /* link */)]) {
+      const match = parseExistingShareUrl((_j = (_i = this.meta) == null ? void 0 : _i.frontmatter) == null ? void 0 : _j[this.field(0 /* link */)]);
       if (match) {
         this.template.filename = match.filename;
         decryptionKey = match.decryptionKey;
@@ -15072,10 +15080,10 @@ var Note = class {
     let title;
     switch (this.plugin.settings.titleSource) {
       case 1 /* First H1 */:
-        title = (_m = (_l = this.contentDom.getElementsByTagName("h1")) == null ? void 0 : _l[0]) == null ? void 0 : _m.innerText;
+        title = (_l = (_k = this.contentDom.getElementsByTagName("h1")) == null ? void 0 : _k[0]) == null ? void 0 : _l.innerText;
         break;
       case 2 /* Frontmatter property */:
-        title = (_o = (_n = this.meta) == null ? void 0 : _n.frontmatter) == null ? void 0 : _o[this.field(4 /* title */)];
+        title = (_n = (_m = this.meta) == null ? void 0 : _m.frontmatter) == null ? void 0 : _n[this.field(4 /* title */)];
         break;
     }
     if (!title) {
@@ -15629,3 +15637,5 @@ var SharePlugin = class extends import_obsidian6.Plugin {
     return [this.settings.yamlField, YamlField[key]].join("_");
   }
 };
+
+/* nosourcemap */

@@ -8,29 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b988de090cce0c60",
+            "id": "d38300fd5bb67859",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "100 KMU-F24/SNP/SNP-Excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "SNP-Excalidraw"
+            }
+          },
+          {
+            "id": "16f30e194ccf07f1",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "8e4d96840539999d",
+            "id": "e7e61ba04ef15291",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "C-Programming/C-Big-Number/Makefile.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+                "file": "100 KMU-F24/SNP/Network-Programming.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Network-Programming.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -50,7 +64,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -65,7 +81,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -73,14 +91,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "793ff8c037291e32",
@@ -95,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -104,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "100 KMU-F24/SNP/Network-Programming.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +135,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Network-Programming.excalidraw"
             }
           },
           {
@@ -120,9 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "100 KMU-F24/SNP/Network-Programming.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Network-Programming.excalidraw"
             }
           },
           {
@@ -133,7 +162,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -145,7 +176,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -153,7 +186,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "100 KMU-F24/SNP/Network-Programming.excalidraw.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Network-Programming.excalidraw"
             }
           },
           {
@@ -161,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "oz-calendar",
-              "state": {}
+              "state": {},
+              "icon": "OZCAL_ICON",
+              "title": "OZ Calendar"
             }
           }
         ],
@@ -200,8 +239,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b988de090cce0c60",
+  "active": "e7e61ba04ef15291",
   "lastOpenFiles": [
+    "100 KMU-F24/SNP/Network-Programming.excalidraw.md",
+    "Excalidraw/lib/webpage-frames.excalidrawlib",
+    "Excalidraw/lib/Unconfirmed 297202.crdownload",
+    "100 KMU-F24/SNP/SNP-Excalidraw.md",
     "C-Programming/C-Big-Number/Makefile.md",
     "C-Programming/C-Big-Number/Debuging.md",
     "C-Programming/C-Big-Number/Big Number Arithemetic in C.md",
@@ -220,15 +263,12 @@
     "100 KMU-F24/SCA/SPA and DPA.md",
     "100 KMU-F24/SNP/SNP-240917.md",
     "100 KMU-F24/SNP/SNP-240919.md",
-    "100 KMU-F24/SNP/SNP-Excalidraw.md",
     "100 KMU-F24/SNP/SNP-240924.md",
     "100 KMU-F24/SNP/SNP-240912.md",
     "100 KMU-F24/SIM/SIM-Week1.md",
     "100 KMU-F24/SNP/Electronic Mail.md",
     "100 KMU-F24/SNP/F24-SNP-DB.md",
     "100 KMU-F24/SNP/Net-APP-FTP.excalidraw.md",
-    "100 KMU-F24/SSI/F24-SSW-DB.md",
-    "100 KMU-F24/SNP/TLS.md",
     "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas"
   ]
 }
