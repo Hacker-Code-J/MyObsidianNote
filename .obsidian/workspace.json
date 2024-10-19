@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "06fad40cd6e17871",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "63666d862f8f13c6",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "d38300fd5bb67859",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "100 KMU-F24/SNP/SNP-Excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "SNP-Excalidraw"
-            }
-          },
-          {
-            "id": "16f30e194ccf07f1",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -32,7 +20,7 @@
             }
           },
           {
-            "id": "e7e61ba04ef15291",
+            "id": "30978790e448a8bf",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,7 +227,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e7e61ba04ef15291",
+  "active": "30978790e448a8bf",
   "lastOpenFiles": [
     "100 KMU-F24/SNP/Network-Programming.excalidraw.md",
     "Excalidraw/lib/webpage-frames.excalidrawlib",
