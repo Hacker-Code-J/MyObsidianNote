@@ -20,15 +20,18 @@
             }
           },
           {
-            "id": "788a69e952c5dbac",
+            "id": "4bb57022f9fdb62b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "100 KMU-F24/SNP/Network-Programming.excalidraw.md"
+                "file": "100 KMU-F24/SSI/SSI-240905.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Network-Programming.excalidraw"
+              "icon": "lucide-file",
+              "title": "SSI-240905"
             }
           }
         ],
@@ -227,7 +230,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "788a69e952c5dbac",
+  "active": "4bb57022f9fdb62b",
   "lastOpenFiles": [
     "100 KMU-F24/SNP/Network-Programming.excalidraw.md",
     "100 KMU-F24/SNP/SNP-Excalidraw.md",
