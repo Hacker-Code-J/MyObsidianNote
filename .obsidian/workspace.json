@@ -18,21 +18,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "27f8ef1dd6447c1b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "100 KMU-F24/SNP/Network-Programming.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Network-Programming.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,10 +213,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "27f8ef1dd6447c1b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "100 KMU-F24/SSI/SSI-240905.md",
     "100 KMU-F24/SNP/Network-Programming.excalidraw.md",
+    "100 KMU-F24/SSI/SSI-240905.md",
     "100 KMU-F24/SNP/SNP-Excalidraw.md",
     "00 Attachment-Folder-Path/image_5.png",
     "00 Attachment-Folder-Path/image_6.png",
