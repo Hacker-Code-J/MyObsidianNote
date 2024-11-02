@@ -18,8 +18,26 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "3a03f668bcfecab8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
+                "viewState": {
+                  "x": -758.9232541834413,
+                  "y": -48.89033990320894,
+                  "zoom": -0.627684282524758
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Algebra-CANVAS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "793ff8c037291e32",
@@ -213,7 +230,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3a03f668bcfecab8",
   "lastOpenFiles": [
     "100 KMU-F24/SNP/Network-Programming.excalidraw.md",
     "100 KMU-F24/SSI/SSI-240905.md",
