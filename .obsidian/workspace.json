@@ -20,24 +20,34 @@
             }
           },
           {
-            "id": "3a03f668bcfecab8",
+            "id": "0d18ff2467668c82",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
-                "viewState": {
-                  "x": -758.9232541834413,
-                  "y": -48.89033990320894,
-                  "zoom": -0.627684282524758
-                }
+                "file": "99 Research/4 Formal-Verification/SAT-based/Memory Layout.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Algebra-CANVAS"
+              "icon": "lucide-file",
+              "title": "Memory Layout"
+            }
+          },
+          {
+            "id": "426180c76c6c97fe",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "99 Research/4 Formal-Verification/SAT-based/Research-FV-SAT.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Research-FV-SAT.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,8 +241,21 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3a03f668bcfecab8",
+  "active": "426180c76c6c97fe",
   "lastOpenFiles": [
+    "00 Attachment-Folder-Path/image_1_0.png",
+    "100 KMU-F24/SIM/ARM64-lecture.excaldraw.md",
+    "100 KMU-F24/SIM/ARM64-code.excalidraw.md",
+    "100 KMU-F24/PQC/ML-Lattice-based-KEM.pdf",
+    "100 KMU-F24/SSI/SSI-240924.md",
+    "100 KMU-F24/SSI/F24-SSW-DB.md",
+    "100 KMU-F24/SSI/CSE-AES-Drawing.excalidraw.md",
+    "99 Research/4 Formal-Verification/SAT-based/Research-FV-SAT.excalidraw.md",
+    "99 Research/4 Formal-Verification/SAT-based/Memory Layout.md",
+    "99 Research/4 Formal-Verification/crucible.md",
+    "99 Research/4 Formal-Verification/Linux-Utility.md",
+    "99 Research/4 Formal-Verification/SAT-based/Qustions-SAT-based-FV.md",
+    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas",
     "100 KMU-F24/SNP/Network-Programming.excalidraw.md",
     "100 KMU-F24/SSI/SSI-240905.md",
     "100 KMU-F24/SNP/SNP-Excalidraw.md",
@@ -255,17 +279,6 @@
     "100 KMU-F24/SNP/Untitled",
     "100 KMU-F24/SSI/SSI-240905-practice.md",
     "100 KMU-F24/SIM/Setup-ZSH.md",
-    "100 KMU-F24/SCA/Power Models and Analysis.md",
-    "100 KMU-F24/SCA/DPA - Differential Power Analysis.md",
-    "100 KMU-F24/SCA/SPA and DPA.md",
-    "100 KMU-F24/SNP/SNP-240917.md",
-    "100 KMU-F24/SNP/SNP-240919.md",
-    "100 KMU-F24/SNP/SNP-240924.md",
-    "100 KMU-F24/SNP/SNP-240912.md",
-    "100 KMU-F24/SIM/SIM-Week1.md",
-    "100 KMU-F24/SNP/Electronic Mail.md",
-    "100 KMU-F24/SNP/F24-SNP-DB.md",
-    "100 KMU-F24/SNP/Net-APP-FTP.excalidraw.md",
-    "100 Enjoying-Math/Algebra/Algebra-CANVAS.canvas"
+    "100 KMU-F24/SCA/Power Models and Analysis.md"
   ]
 }
